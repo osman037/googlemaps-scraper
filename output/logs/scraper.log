@@ -1988,3 +1988,59 @@
 2026-09-29 22:25:00,900 INFO maps_url_scraper.engine | progress 53/300 assigned | 328 queries done | +370 places | +0 urls | 99 reqs (0.1/s) | block rate 24%
 2026-09-29 22:25:15,900 INFO maps_url_scraper.engine | progress 53/300 assigned | 328 queries done | +370 places | +0 urls | 99 reqs (0.1/s) | block rate 24%
 2026-09-29 22:25:30,901 INFO maps_url_scraper.engine | progress 53/300 assigned | 328 queries done | +370 places | +0 urls | 99 reqs (0.1/s) | block rate 24%
+2026-09-29 22:25:41,169 DEBUG maps_url_scraper.worker8 | ok page=0 attempt=1 proxy=direct q='Battery wholesaler in McMullen, AL'
+2026-09-29 22:25:41,582 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-29 22:25:43,240 DEBUG maps_url_scraper.worker1 | ok page=3 attempt=1 proxy=direct q='Auto parts store in McMullen, AL'
+2026-09-29 22:25:44,935 DEBUG maps_url_scraper.worker14 | ok page=2 attempt=1 proxy=direct q='Bartending service in McMullen, AL'
+2026-09-29 22:25:44,935 INFO maps_url_scraper.worker14 |  25 places | Bartending service in McMullen, AL
+2026-09-29 22:25:45,901 INFO maps_url_scraper.engine | progress 54/300 assigned | 329 queries done | +371 places | +0 urls | 102 reqs (0.1/s) | block rate 24%
+2026-09-29 22:25:47,067 DEBUG maps_url_scraper.worker13 | ok page=3 attempt=1 proxy=direct q='Bar stool supplier in McMullen, AL'
+2026-09-29 22:25:47,067 INFO maps_url_scraper.worker13 |  43 places | Bar stool supplier in McMullen, AL
+2026-09-29 22:26:00,901 INFO maps_url_scraper.engine | progress 55/300 assigned | 330 queries done | +371 places | +0 urls | 103 reqs (0.1/s) | block rate 23%
+2026-09-29 22:26:15,902 INFO maps_url_scraper.engine | progress 55/300 assigned | 330 queries done | +371 places | +0 urls | 103 reqs (0.1/s) | block rate 23%
+2026-09-29 22:26:30,902 INFO maps_url_scraper.engine | progress 55/300 assigned | 330 queries done | +371 places | +0 urls | 103 reqs (0.1/s) | block rate 23%
+2026-09-29 22:26:38,071 DEBUG maps_url_scraper.worker2 | ok page=0 attempt=1 proxy=direct q='Batting cage center in McMullen, AL'
+2026-09-29 22:26:39,866 DEBUG maps_url_scraper.worker7 | ok page=0 attempt=1 proxy=direct q='Bavarian restaurant in McMullen, AL'
+2026-09-29 22:26:39,866 INFO maps_url_scraper.worker7 |   0 places | Bavarian restaurant in McMullen, AL
+2026-09-29 22:26:41,696 DEBUG maps_url_scraper.worker17 | ok page=0 attempt=1 proxy=direct q='Bazar in McMullen, AL'
+2026-09-29 22:26:41,697 INFO maps_url_scraper.worker17 |   0 places | Bazar in McMullen, AL
+2026-09-29 22:26:43,081 DEBUG maps_url_scraper.worker18 | ok page=0 attempt=1 proxy=direct q='Beach cleaning service in McMullen, AL'
+2026-09-29 22:26:44,884 DEBUG maps_url_scraper.worker15 | ok page=0 attempt=1 proxy=direct q='Beach clothing store in McMullen, AL'
+2026-09-29 22:26:45,903 INFO maps_url_scraper.engine | progress 57/300 assigned | 332 queries done | +395 places | +0 urls | 108 reqs (0.1/s) | block rate 22%
+2026-09-29 22:27:00,903 INFO maps_url_scraper.engine | progress 57/300 assigned | 332 queries done | +395 places | +0 urls | 108 reqs (0.1/s) | block rate 22%
+2026-09-29 22:27:15,904 INFO maps_url_scraper.engine | progress 57/300 assigned | 332 queries done | +395 places | +0 urls | 108 reqs (0.1/s) | block rate 22%
+2026-09-29 22:27:30,904 INFO maps_url_scraper.engine | progress 57/300 assigned | 332 queries done | +395 places | +0 urls | 108 reqs (0.1/s) | block rate 22%
+2026-09-29 22:27:45,904 INFO maps_url_scraper.engine | progress 57/300 assigned | 332 queries done | +395 places | +0 urls | 108 reqs (0.1/s) | block rate 22%
+2026-09-29 22:28:00,905 INFO maps_url_scraper.engine | progress 57/300 assigned | 332 queries done | +395 places | +0 urls | 108 reqs (0.1/s) | block rate 22%
+2026-09-29 22:28:15,905 INFO maps_url_scraper.engine | progress 57/300 assigned | 332 queries done | +395 places | +0 urls | 108 reqs (0.1/s) | block rate 22%
+2026-09-29 22:28:30,906 INFO maps_url_scraper.engine | progress 57/300 assigned | 332 queries done | +395 places | +0 urls | 108 reqs (0.1/s) | block rate 22%
+2026-09-29 22:28:40,041 DEBUG maps_url_scraper.worker24 | ok page=1 attempt=1 proxy=direct q='Basketball court in McMullen, AL'
+2026-09-29 22:28:40,041 INFO maps_url_scraper.worker24 |   1 places | Basketball court in McMullen, AL
+2026-09-29 22:28:41,923 DEBUG maps_url_scraper.worker11 | ok page=0 attempt=1 proxy=direct q='Beach club in McMullen, AL'
+2026-09-29 22:28:41,923 INFO maps_url_scraper.worker11 |   0 places | Beach club in McMullen, AL
+2026-09-29 22:28:45,106 DEBUG maps_url_scraper.worker16 | ok page=0 attempt=1 proxy=direct q='Beach entertainment shop in McMullen, AL'
+2026-09-29 22:28:45,107 INFO maps_url_scraper.worker16 |   0 places | Beach entertainment shop in McMullen, AL
+2026-09-29 22:28:45,906 INFO maps_url_scraper.engine | progress 60/300 assigned | 335 queries done | +395 places | +0 urls | 111 reqs (0.1/s) | block rate 22%
+2026-09-29 22:28:46,878 DEBUG maps_url_scraper.worker22 | ok page=1 attempt=1 proxy=direct q='Basketball court contractor in McMullen, AL'
+2026-09-29 22:28:46,879 INFO maps_url_scraper.worker22 |   9 places | Basketball court contractor in McMullen, AL
+2026-09-29 22:28:47,933 DEBUG maps_url_scraper.worker21 | ok page=0 attempt=1 proxy=direct q='Beach pavillion in McMullen, AL'
+2026-09-29 22:28:49,514 DEBUG maps_url_scraper.worker12 | ok page=1 attempt=1 proxy=direct q='Bathroom remodeler in McMullen, AL'
+2026-09-29 22:28:49,514 INFO maps_url_scraper.worker12 |  20 places | Bathroom remodeler in McMullen, AL
+2026-09-29 22:28:52,682 DEBUG maps_url_scraper.worker23 | ok page=1 attempt=1 proxy=direct q='Bathroom supply store in McMullen, AL'
+2026-09-29 22:28:54,270 DEBUG maps_url_scraper.worker20 | ok page=3 attempt=1 proxy=direct q='Bariatric surgeon in McMullen, AL'
+2026-09-29 22:28:55,564 DEBUG maps_url_scraper.worker10 | ok page=1 attempt=1 proxy=direct q='Batik clothing store in McMullen, AL'
+2026-09-29 22:28:55,564 INFO maps_url_scraper.worker10 |   1 places | Batik clothing store in McMullen, AL
+2026-09-29 22:28:57,122 DEBUG maps_url_scraper.worker19 | ok page=1 attempt=1 proxy=direct q='Battery manufacturer in McMullen, AL'
+2026-09-29 22:28:57,122 INFO maps_url_scraper.worker19 |   3 places | Battery manufacturer in McMullen, AL
+2026-09-29 22:28:59,016 DEBUG maps_url_scraper.worker9 | ok page=0 attempt=1 proxy=direct q='Beach volleyball club in McMullen, AL'
+2026-09-29 22:29:00,906 INFO maps_url_scraper.engine | progress 64/300 assigned | 339 queries done | +455 places | +0 urls | 119 reqs (0.1/s) | block rate 20%
+2026-09-29 22:29:15,907 INFO maps_url_scraper.engine | progress 64/300 assigned | 339 queries done | +455 places | +0 urls | 119 reqs (0.1/s) | block rate 20%
+2026-09-29 22:29:30,907 INFO maps_url_scraper.engine | progress 64/300 assigned | 339 queries done | +455 places | +0 urls | 119 reqs (0.1/s) | block rate 20%
+2026-09-29 22:29:37,761 DEBUG maps_url_scraper.worker5 | ok page=0 attempt=1 proxy=direct q='Beach volleyball court in McMullen, AL'
+2026-09-29 22:29:40,877 DEBUG maps_url_scraper.worker6 | ok page=0 attempt=1 proxy=direct q='Bead store in McMullen, AL'
+2026-09-29 22:29:42,790 DEBUG maps_url_scraper.worker4 | ok page=1 attempt=1 proxy=direct q='Battery store in McMullen, AL'
+2026-09-29 22:29:44,107 DEBUG maps_url_scraper.worker3 | ok page=0 attempt=1 proxy=direct q='Bead wholesaler in McMullen, AL'
+2026-09-29 22:29:45,907 INFO maps_url_scraper.engine | progress 64/300 assigned | 339 queries done | +470 places | +0 urls | 123 reqs (0.1/s) | block rate 20%
+2026-09-29 22:30:00,908 INFO maps_url_scraper.engine | progress 64/300 assigned | 339 queries done | +470 places | +0 urls | 123 reqs (0.1/s) | block rate 20%
+2026-09-29 22:30:15,908 INFO maps_url_scraper.engine | progress 64/300 assigned | 339 queries done | +470 places | +0 urls | 123 reqs (0.1/s) | block rate 20%
+2026-09-29 22:30:30,909 INFO maps_url_scraper.engine | progress 64/300 assigned | 339 queries done | +470 places | +0 urls | 123 reqs (0.1/s) | block rate 20%
