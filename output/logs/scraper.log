@@ -2728,3 +2728,62 @@
 2026-09-29 23:35:31,010 INFO maps_url_scraper.engine | progress 190/300 assigned | 465 queries done | +1323 places | +0 urls | 403 reqs (0.1/s) | block rate 13%
 2026-09-29 23:35:46,010 INFO maps_url_scraper.engine | progress 190/300 assigned | 465 queries done | +1323 places | +0 urls | 403 reqs (0.1/s) | block rate 13%
 2026-09-29 23:36:01,011 INFO maps_url_scraper.engine | progress 190/300 assigned | 465 queries done | +1323 places | +0 urls | 403 reqs (0.1/s) | block rate 13%
+2026-09-29 23:36:03,707 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-29 23:36:16,011 INFO maps_url_scraper.engine | progress 190/300 assigned | 465 queries done | +1323 places | +0 urls | 403 reqs (0.1/s) | block rate 13%
+2026-09-29 23:36:31,012 INFO maps_url_scraper.engine | progress 190/300 assigned | 465 queries done | +1323 places | +0 urls | 403 reqs (0.1/s) | block rate 13%
+2026-09-29 23:36:43,611 DEBUG maps_url_scraper.worker5 | ok page=2 attempt=1 proxy=direct q='Boxing club in McMullen, AL'
+2026-09-29 23:36:43,612 INFO maps_url_scraper.worker5 |  26 places | Boxing club in McMullen, AL
+2026-09-29 23:36:45,128 DEBUG maps_url_scraper.worker1 | ok page=1 attempt=1 proxy=direct q='Brake shop in McMullen, AL'
+2026-09-29 23:36:45,128 INFO maps_url_scraper.worker1 |  16 places | Brake shop in McMullen, AL
+2026-09-29 23:36:46,012 INFO maps_url_scraper.engine | progress 192/300 assigned | 467 queries done | +1323 places | +0 urls | 405 reqs (0.1/s) | block rate 13%
+2026-09-29 23:36:46,570 DEBUG maps_url_scraper.worker8 | ok page=0 attempt=1 proxy=direct q='Bridge club in McMullen, AL'
+2026-09-29 23:36:48,091 DEBUG maps_url_scraper.worker9 | ok page=0 attempt=1 proxy=direct q='British restaurant in McMullen, AL'
+2026-09-29 23:36:48,091 INFO maps_url_scraper.worker9 |   0 places | British restaurant in McMullen, AL
+2026-09-29 23:36:50,075 DEBUG maps_url_scraper.worker16 | ok page=0 attempt=1 proxy=direct q='Brunch restaurant in McMullen, AL'
+2026-09-29 23:36:51,138 DEBUG maps_url_scraper.worker24 | ok page=0 attempt=1 proxy=direct q='Bubble tea store in McMullen, AL'
+2026-09-29 23:36:53,182 DEBUG maps_url_scraper.worker7 | ok page=1 attempt=1 proxy=direct q='Branding agency in McMullen, AL'
+2026-09-29 23:36:53,183 INFO maps_url_scraper.worker7 |   4 places | Branding agency in McMullen, AL
+2026-09-29 23:36:55,059 DEBUG maps_url_scraper.worker14 | ok page=0 attempt=1 proxy=direct q='Buddhist supplies store in McMullen, AL'
+2026-09-29 23:36:56,732 DEBUG maps_url_scraper.worker13 | ok page=0 attempt=1 proxy=direct q='Buddhist temple in McMullen, AL'
+2026-09-29 23:37:01,012 INFO maps_url_scraper.engine | progress 194/300 assigned | 469 queries done | +1351 places | +0 urls | 412 reqs (0.1/s) | block rate 13%
+2026-09-29 23:37:16,013 INFO maps_url_scraper.engine | progress 194/300 assigned | 469 queries done | +1351 places | +0 urls | 412 reqs (0.1/s) | block rate 13%
+2026-09-29 23:37:31,013 INFO maps_url_scraper.engine | progress 194/300 assigned | 469 queries done | +1351 places | +0 urls | 412 reqs (0.1/s) | block rate 13%
+2026-09-29 23:37:46,014 INFO maps_url_scraper.engine | progress 194/300 assigned | 469 queries done | +1351 places | +0 urls | 412 reqs (0.1/s) | block rate 13%
+2026-09-29 23:38:01,014 INFO maps_url_scraper.engine | progress 194/300 assigned | 469 queries done | +1351 places | +0 urls | 412 reqs (0.1/s) | block rate 13%
+2026-09-29 23:38:16,014 INFO maps_url_scraper.engine | progress 194/300 assigned | 469 queries done | +1351 places | +0 urls | 412 reqs (0.1/s) | block rate 13%
+2026-09-29 23:38:31,015 INFO maps_url_scraper.engine | progress 194/300 assigned | 469 queries done | +1351 places | +0 urls | 412 reqs (0.1/s) | block rate 13%
+2026-09-29 23:38:40,666 DEBUG maps_url_scraper.worker18 | ok page=0 attempt=1 proxy=direct q='Buffet restaurant in McMullen, AL'
+2026-09-29 23:38:43,456 DEBUG maps_url_scraper.worker12 | ok page=0 attempt=1 proxy=direct q='Bugatti dealer in McMullen, AL'
+2026-09-29 23:38:43,457 INFO maps_url_scraper.worker12 |   0 places | Bugatti dealer in McMullen, AL
+2026-09-29 23:38:45,344 DEBUG maps_url_scraper.worker22 | ok page=1 attempt=1 proxy=direct q='Boxing ring in McMullen, AL'
+2026-09-29 23:38:45,345 INFO maps_url_scraper.worker22 |   7 places | Boxing ring in McMullen, AL
+2026-09-29 23:38:46,015 INFO maps_url_scraper.engine | progress 196/300 assigned | 471 queries done | +1370 places | +0 urls | 415 reqs (0.1/s) | block rate 13%
+2026-09-29 23:39:01,016 INFO maps_url_scraper.engine | progress 196/300 assigned | 471 queries done | +1370 places | +0 urls | 415 reqs (0.1/s) | block rate 13%
+2026-09-29 23:39:16,016 INFO maps_url_scraper.engine | progress 196/300 assigned | 471 queries done | +1370 places | +0 urls | 415 reqs (0.1/s) | block rate 13%
+2026-09-29 23:39:31,016 INFO maps_url_scraper.engine | progress 196/300 assigned | 471 queries done | +1370 places | +0 urls | 415 reqs (0.1/s) | block rate 13%
+2026-09-29 23:39:46,017 INFO maps_url_scraper.engine | progress 196/300 assigned | 471 queries done | +1370 places | +0 urls | 415 reqs (0.1/s) | block rate 13%
+2026-09-29 23:39:49,812 DEBUG maps_url_scraper.worker6 | ok page=1 attempt=1 proxy=direct q='Brazilian restaurant in McMullen, AL'
+2026-09-29 23:39:49,813 INFO maps_url_scraper.worker6 |   2 places | Brazilian restaurant in McMullen, AL
+2026-09-29 23:39:51,745 DEBUG maps_url_scraper.worker15 | ok page=0 attempt=1 proxy=direct q='Buick dealer in McMullen, AL'
+2026-09-29 23:39:54,224 DEBUG maps_url_scraper.worker20 | ok page=1 attempt=1 proxy=direct q='Breakfast restaurant in McMullen, AL'
+2026-09-29 23:39:56,395 DEBUG maps_url_scraper.worker10 | ok page=1 attempt=1 proxy=direct q='Brewery in McMullen, AL'
+2026-09-29 23:39:56,395 INFO maps_url_scraper.worker10 |  19 places | Brewery in McMullen, AL
+2026-09-29 23:39:58,128 DEBUG maps_url_scraper.worker3 | ok page=1 attempt=1 proxy=direct q='Brewing supply store in McMullen, AL'
+2026-09-29 23:39:58,128 INFO maps_url_scraper.worker3 |   5 places | Brewing supply store in McMullen, AL
+2026-09-29 23:39:59,368 DEBUG maps_url_scraper.worker21 | ok page=0 attempt=1 proxy=direct q='Building consultant in McMullen, AL'
+2026-09-29 23:40:00,569 DEBUG maps_url_scraper.worker23 | ok page=1 attempt=1 proxy=direct q='Brewpub in McMullen, AL'
+2026-09-29 23:40:00,569 INFO maps_url_scraper.worker23 |   1 places | Brewpub in McMullen, AL
+2026-09-29 23:40:01,017 INFO maps_url_scraper.engine | progress 200/300 assigned | 475 queries done | +1404 places | +0 urls | 422 reqs (0.1/s) | block rate 13%
+2026-09-29 23:40:02,348 DEBUG maps_url_scraper.worker17 | ok page=1 attempt=1 proxy=direct q='Brick manufacturer in McMullen, AL'
+2026-09-29 23:40:02,348 INFO maps_url_scraper.worker17 |   6 places | Brick manufacturer in McMullen, AL
+2026-09-29 23:40:03,777 DEBUG maps_url_scraper.worker2 | ok page=1 attempt=1 proxy=direct q='Bricklayer in McMullen, AL'
+2026-09-29 23:40:03,777 INFO maps_url_scraper.worker2 |   8 places | Bricklayer in McMullen, AL
+2026-09-29 23:40:05,517 DEBUG maps_url_scraper.worker19 | ok page=1 attempt=1 proxy=direct q='Bridal shop in McMullen, AL'
+2026-09-29 23:40:05,517 INFO maps_url_scraper.worker19 |  16 places | Bridal shop in McMullen, AL
+2026-09-29 23:40:06,722 DEBUG maps_url_scraper.worker11 | ok page=1 attempt=1 proxy=direct q='Bridge in McMullen, AL'
+2026-09-29 23:40:06,723 INFO maps_url_scraper.worker11 |   3 places | Bridge in McMullen, AL
+2026-09-29 23:40:07,976 DEBUG maps_url_scraper.worker4 | ok page=0 attempt=1 proxy=direct q='Building designer in McMullen, AL'
+2026-09-29 23:40:16,018 INFO maps_url_scraper.engine | progress 204/300 assigned | 479 queries done | +1404 places | +0 urls | 427 reqs (0.1/s) | block rate 13%
+2026-09-29 23:40:31,018 INFO maps_url_scraper.engine | progress 204/300 assigned | 479 queries done | +1404 places | +0 urls | 427 reqs (0.1/s) | block rate 13%
+2026-09-29 23:40:46,018 INFO maps_url_scraper.engine | progress 204/300 assigned | 479 queries done | +1404 places | +0 urls | 427 reqs (0.1/s) | block rate 13%
+2026-09-29 23:41:01,019 INFO maps_url_scraper.engine | progress 204/300 assigned | 479 queries done | +1404 places | +0 urls | 427 reqs (0.1/s) | block rate 13%
