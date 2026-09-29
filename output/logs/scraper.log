@@ -2574,3 +2574,44 @@
 2026-09-29 23:20:15,987 INFO maps_url_scraper.engine | progress 160/300 assigned | 435 queries done | +1117 places | +0 urls | 343 reqs (0.1/s) | block rate 15%
 2026-09-29 23:20:30,988 INFO maps_url_scraper.engine | progress 160/300 assigned | 435 queries done | +1117 places | +0 urls | 343 reqs (0.1/s) | block rate 15%
 2026-09-29 23:20:45,988 INFO maps_url_scraper.engine | progress 160/300 assigned | 435 queries done | +1117 places | +0 urls | 343 reqs (0.1/s) | block rate 15%
+2026-09-29 23:20:59,219 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-29 23:21:00,988 INFO maps_url_scraper.engine | progress 160/300 assigned | 435 queries done | +1117 places | +0 urls | 343 reqs (0.1/s) | block rate 15%
+2026-09-29 23:21:15,989 INFO maps_url_scraper.engine | progress 160/300 assigned | 435 queries done | +1117 places | +0 urls | 343 reqs (0.1/s) | block rate 15%
+2026-09-29 23:21:30,989 INFO maps_url_scraper.engine | progress 160/300 assigned | 435 queries done | +1117 places | +0 urls | 343 reqs (0.1/s) | block rate 15%
+2026-09-29 23:21:39,490 DEBUG maps_url_scraper.worker5 | ok page=2 attempt=2 proxy=direct q='Boat rental service in McMullen, AL'
+2026-09-29 23:21:39,491 INFO maps_url_scraper.worker5 |  27 places | Boat rental service in McMullen, AL
+2026-09-29 23:21:42,602 DEBUG maps_url_scraper.worker9 | ok page=1 attempt=2 proxy=direct q='Boiler manufacturer in McMullen, AL'
+2026-09-29 23:21:42,602 INFO maps_url_scraper.worker9 |   4 places | Boiler manufacturer in McMullen, AL
+2026-09-29 23:21:45,383 DEBUG maps_url_scraper.worker22 | ok page=1 attempt=1 proxy=direct q='Bookkeeping service in McMullen, AL'
+2026-09-29 23:21:45,383 INFO maps_url_scraper.worker22 |  15 places | Bookkeeping service in McMullen, AL
+2026-09-29 23:21:45,989 INFO maps_url_scraper.engine | progress 163/300 assigned | 438 queries done | +1117 places | +0 urls | 346 reqs (0.1/s) | block rate 15%
+2026-09-29 23:22:00,990 INFO maps_url_scraper.engine | progress 163/300 assigned | 438 queries done | +1117 places | +0 urls | 346 reqs (0.1/s) | block rate 15%
+2026-09-29 23:22:15,990 INFO maps_url_scraper.engine | progress 163/300 assigned | 438 queries done | +1117 places | +0 urls | 346 reqs (0.1/s) | block rate 15%
+2026-09-29 23:22:30,990 INFO maps_url_scraper.engine | progress 163/300 assigned | 438 queries done | +1117 places | +0 urls | 346 reqs (0.1/s) | block rate 15%
+2026-09-29 23:22:45,991 INFO maps_url_scraper.engine | progress 163/300 assigned | 438 queries done | +1117 places | +0 urls | 346 reqs (0.1/s) | block rate 15%
+2026-09-29 23:23:00,991 INFO maps_url_scraper.engine | progress 163/300 assigned | 438 queries done | +1117 places | +0 urls | 346 reqs (0.1/s) | block rate 15%
+2026-09-29 23:23:15,991 INFO maps_url_scraper.engine | progress 163/300 assigned | 438 queries done | +1117 places | +0 urls | 346 reqs (0.1/s) | block rate 15%
+2026-09-29 23:23:30,992 INFO maps_url_scraper.engine | progress 163/300 assigned | 438 queries done | +1117 places | +0 urls | 346 reqs (0.1/s) | block rate 15%
+2026-09-29 23:23:35,524 WARNING maps_url_scraper.worker22 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Boxing ring in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Boxing+ring+in+McMullen%2C+AL&pb=%211sBoxing%2Bring%2Bin%2BMcMullen%
+2026-09-29 23:23:37,111 WARNING maps_url_scraper.worker12 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 2/4) q='Body piercing shop in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Body+piercing+shop+in+McMullen%2C+AL&pb=%211sBody%2Bpiercing%2Bshop%
+2026-09-29 23:23:38,121 DEBUG maps_url_scraper.worker18 | ok page=0 attempt=2 proxy=direct q='Boot camp in McMullen, AL'
+2026-09-29 23:23:45,992 INFO maps_url_scraper.engine | progress 163/300 assigned | 438 queries done | +1126 places | +0 urls | 349 reqs (0.1/s) | block rate 15%
+2026-09-29 23:24:00,993 INFO maps_url_scraper.engine | progress 163/300 assigned | 438 queries done | +1126 places | +0 urls | 349 reqs (0.1/s) | block rate 15%
+2026-09-29 23:24:15,993 INFO maps_url_scraper.engine | progress 163/300 assigned | 438 queries done | +1126 places | +0 urls | 349 reqs (0.1/s) | block rate 15%
+2026-09-29 23:24:30,993 INFO maps_url_scraper.engine | progress 163/300 assigned | 438 queries done | +1126 places | +0 urls | 349 reqs (0.1/s) | block rate 15%
+2026-09-29 23:24:45,497 DEBUG maps_url_scraper.worker6 | ok page=0 attempt=1 proxy=direct q='Boutique in McMullen, AL'
+2026-09-29 23:24:45,994 INFO maps_url_scraper.engine | progress 163/300 assigned | 438 queries done | +1140 places | +0 urls | 350 reqs (0.1/s) | block rate 15%
+2026-09-29 23:24:47,362 DEBUG maps_url_scraper.worker15 | ok page=0 attempt=1 proxy=direct q='Bowling alley in McMullen, AL'
+2026-09-29 23:24:48,269 DEBUG maps_url_scraper.worker10 | ok page=0 attempt=1 proxy=direct q='Bowling club in McMullen, AL'
+2026-09-29 23:24:50,176 DEBUG maps_url_scraper.worker17 | ok page=0 attempt=1 proxy=direct q='Bowling supply shop in McMullen, AL'
+2026-09-29 23:24:51,525 DEBUG maps_url_scraper.worker19 | ok page=0 attempt=1 proxy=direct q='Box lunch supplier in McMullen, AL'
+2026-09-29 23:24:52,650 DEBUG maps_url_scraper.worker2 | ok page=1 attempt=1 proxy=direct q='Boot repair shop in McMullen, AL'
+2026-09-29 23:24:52,650 INFO maps_url_scraper.worker2 |   3 places | Boot repair shop in McMullen, AL
+2026-09-29 23:24:53,978 DEBUG maps_url_scraper.worker11 | ok page=1 attempt=1 proxy=direct q='Bottled water supplier in McMullen, AL'
+2026-09-29 23:24:53,978 INFO maps_url_scraper.worker11 |  10 places | Bottled water supplier in McMullen, AL
+2026-09-29 23:24:55,336 DEBUG maps_url_scraper.worker4 | ok page=1 attempt=1 proxy=direct q='Boot store in McMullen, AL'
+2026-09-29 23:24:55,337 INFO maps_url_scraper.worker4 |  20 places | Boot store in McMullen, AL
+2026-09-29 23:25:00,994 INFO maps_url_scraper.engine | progress 166/300 assigned | 441 queries done | +1176 places | +0 urls | 357 reqs (0.1/s) | block rate 15%
+2026-09-29 23:25:15,994 INFO maps_url_scraper.engine | progress 166/300 assigned | 441 queries done | +1176 places | +0 urls | 357 reqs (0.1/s) | block rate 15%
+2026-09-29 23:25:30,995 INFO maps_url_scraper.engine | progress 166/300 assigned | 441 queries done | +1176 places | +0 urls | 357 reqs (0.1/s) | block rate 15%
+2026-09-29 23:25:45,995 INFO maps_url_scraper.engine | progress 166/300 assigned | 441 queries done | +1176 places | +0 urls | 357 reqs (0.1/s) | block rate 15%
