@@ -1796,3 +1796,35 @@
 2026-09-29 22:05:00,870 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +0 places | +0 urls | 21 reqs (0.1/s) | block rate 100%
 2026-09-29 22:05:15,870 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +0 places | +0 urls | 21 reqs (0.1/s) | block rate 100%
 2026-09-29 22:05:30,871 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +0 places | +0 urls | 21 reqs (0.1/s) | block rate 100%
+2026-09-29 22:05:35,452 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-29 22:05:45,871 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +0 places | +0 urls | 21 reqs (0.1/s) | block rate 100%
+2026-09-29 22:06:00,871 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +0 places | +0 urls | 21 reqs (0.1/s) | block rate 100%
+2026-09-29 22:06:15,872 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +0 places | +0 urls | 21 reqs (0.1/s) | block rate 100%
+2026-09-29 22:06:30,872 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +0 places | +0 urls | 21 reqs (0.1/s) | block rate 100%
+2026-09-29 22:06:33,141 WARNING maps_url_scraper.worker17 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Barber school in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Barber+school+in+McMullen%2C+AL&pb=%211sBarber%2Bschool%2Bin%2BMcMul
+2026-09-29 22:06:33,216 WARNING maps_url_scraper.worker15 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Barbecue area in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Barbecue+area+in+McMullen%2C+AL&pb=%211sBarbecue%2Barea%2Bin%2BMcMul
+2026-09-29 22:06:33,377 DEBUG maps_url_scraper.worker2 | ok page=0 attempt=2 proxy=direct q='Bangle Shop in McMullen, AL'
+2026-09-29 22:06:33,468 WARNING maps_url_scraper.breaker | CIRCUIT BREAKER OPEN: 100% of last pages blocked - pausing all workers for 180s
+2026-09-29 22:06:33,468 WARNING maps_url_scraper.worker18 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Barber shop in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Barber+shop+in+McMullen%2C+AL&pb=%211sBarber%2Bshop%2Bin%2BMcMullen%
+2026-09-29 22:06:33,698 DEBUG maps_url_scraper.worker7 | ok page=0 attempt=2 proxy=direct q='Banquet hall in McMullen, AL'
+2026-09-29 22:06:45,872 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +6 places | +0 urls | 26 reqs (0.1/s) | block rate 92%
+2026-09-29 22:07:00,873 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +6 places | +0 urls | 26 reqs (0.1/s) | block rate 92%
+2026-09-29 22:07:15,873 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +6 places | +0 urls | 26 reqs (0.1/s) | block rate 92%
+2026-09-29 22:07:30,873 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +6 places | +0 urls | 26 reqs (0.1/s) | block rate 92%
+2026-09-29 22:07:45,874 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +6 places | +0 urls | 26 reqs (0.1/s) | block rate 92%
+2026-09-29 22:08:00,874 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +6 places | +0 urls | 26 reqs (0.1/s) | block rate 92%
+2026-09-29 22:08:15,875 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +6 places | +0 urls | 26 reqs (0.1/s) | block rate 92%
+2026-09-29 22:08:30,875 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +6 places | +0 urls | 26 reqs (0.1/s) | block rate 92%
+2026-09-29 22:08:45,875 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +6 places | +0 urls | 26 reqs (0.1/s) | block rate 92%
+2026-09-29 22:09:00,876 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +6 places | +0 urls | 26 reqs (0.1/s) | block rate 92%
+2026-09-29 22:09:15,876 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +6 places | +0 urls | 26 reqs (0.0/s) | block rate 92%
+2026-09-29 22:09:30,876 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +6 places | +0 urls | 26 reqs (0.0/s) | block rate 92%
+2026-09-29 22:09:33,815 DEBUG maps_url_scraper.worker5 | ok page=0 attempt=2 proxy=direct q='Bankruptcy service in McMullen, AL'
+2026-09-29 22:09:33,992 DEBUG maps_url_scraper.worker6 | ok page=0 attempt=2 proxy=direct q='Banner store in McMullen, AL'
+2026-09-29 22:09:34,085 DEBUG maps_url_scraper.worker3 | ok page=0 attempt=2 proxy=direct q='Bank in McMullen, AL'
+2026-09-29 22:09:34,429 DEBUG maps_url_scraper.worker4 | ok page=0 attempt=2 proxy=direct q='Bankruptcy attorney in McMullen, AL'
+2026-09-29 22:09:45,877 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +33 places | +0 urls | 30 reqs (0.1/s) | block rate 80%
+2026-09-29 22:10:00,877 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +33 places | +0 urls | 30 reqs (0.1/s) | block rate 80%
+2026-09-29 22:10:15,877 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +33 places | +0 urls | 30 reqs (0.1/s) | block rate 80%
+2026-09-29 22:10:30,878 INFO maps_url_scraper.engine | progress 24/300 assigned | 299 queries done | +33 places | +0 urls | 30 reqs (0.0/s) | block rate 80%
+2026-09-29 22:10:35,088 DEBUG maps_url_scraper.worker1 | ok page=0 attempt=2 proxy=direct q='Auto parts store in McMullen, AL'
