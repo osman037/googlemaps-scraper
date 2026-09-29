@@ -126,7 +126,7 @@ ones:
 | ---------------------- | -------------- | ----------------------------------------------------- |
 | `--emit`             | `place-urls` | `place-urls` or `websites` dataset                |
 | `--workers`          | `2`          | parallel queries (match roughly to your proxy count)  |
-| `--max-pages`        | `10`         | pages per query (20 results each → up to 200 places) |
+| `--max-pages`        | `10`         | pages per query (20 results each); `0` = unlimited until the last page |
 | `--min-interval`     | `1.5`        | seconds between requests on the same proxy            |
 | `--states`           | all            | comma-separated state codes, e.g.`TX,CA`            |
 | `--limit-cities`     | `0`          | first N cities per state (testing)                    |

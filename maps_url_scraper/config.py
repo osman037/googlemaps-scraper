@@ -57,7 +57,7 @@ class Settings:
 
     # ---- concurrency & pacing
     workers: int = 2
-    max_pages: int = 10                 # pages per query (20 results each)
+    max_pages: int = 10                 # pages per query (20 results each); 0 = unlimited
     min_interval: float = 1.5           # per-proxy minimum seconds between requests
     delay_min: float = 8.0              # human-like page-to-page gap (same IP):
     delay_max: float = 16.0             # randomised band, never a fixed interval
@@ -150,8 +150,10 @@ class Settings:
             problems.append(f"categories file not found: {self.categories_path}")
         if self.workers < 1:
             problems.append(f"workers must be >= 1, got {self.workers}")
-        if self.max_pages < 1:
-            problems.append(f"max_pages must be >= 1, got {self.max_pages}")
+        if self.max_pages < 0:
+            problems.append(
+                f"max_pages must be >= 0 (0 = unlimited pagination), "
+                f"got {self.max_pages}")
         if self.min_interval < 0:
             problems.append(f"min_interval must be >= 0, got {self.min_interval}")
         if self.delay_min > self.delay_max:
