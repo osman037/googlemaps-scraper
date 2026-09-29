@@ -2787,3 +2787,41 @@
 2026-09-29 23:40:31,018 INFO maps_url_scraper.engine | progress 204/300 assigned | 479 queries done | +1404 places | +0 urls | 427 reqs (0.1/s) | block rate 13%
 2026-09-29 23:40:46,018 INFO maps_url_scraper.engine | progress 204/300 assigned | 479 queries done | +1404 places | +0 urls | 427 reqs (0.1/s) | block rate 13%
 2026-09-29 23:41:01,019 INFO maps_url_scraper.engine | progress 204/300 assigned | 479 queries done | +1404 places | +0 urls | 427 reqs (0.1/s) | block rate 13%
+2026-09-29 23:41:05,311 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-29 23:41:16,019 INFO maps_url_scraper.engine | progress 204/300 assigned | 479 queries done | +1404 places | +0 urls | 427 reqs (0.1/s) | block rate 13%
+2026-09-29 23:41:31,019 INFO maps_url_scraper.engine | progress 204/300 assigned | 479 queries done | +1404 places | +0 urls | 427 reqs (0.1/s) | block rate 13%
+2026-09-29 23:41:44,002 DEBUG maps_url_scraper.worker5 | ok page=0 attempt=1 proxy=direct q='Building equipment hire service in McMullen, AL'
+2026-09-29 23:41:45,772 DEBUG maps_url_scraper.worker1 | ok page=0 attempt=1 proxy=direct q='Building firm in McMullen, AL'
+2026-09-29 23:41:46,020 INFO maps_url_scraper.engine | progress 204/300 assigned | 479 queries done | +1406 places | +0 urls | 429 reqs (0.1/s) | block rate 13%
+2026-09-29 23:41:48,553 DEBUG maps_url_scraper.worker9 | ok page=0 attempt=1 proxy=direct q='Building inspector in McMullen, AL'
+2026-09-29 23:41:49,874 DEBUG maps_url_scraper.worker8 | ok page=1 attempt=1 proxy=direct q='Bridge club in McMullen, AL'
+2026-09-29 23:41:49,874 INFO maps_url_scraper.worker8 |   4 places | Bridge club in McMullen, AL
+2026-09-29 23:41:51,748 DEBUG maps_url_scraper.worker16 | ok page=1 attempt=1 proxy=direct q='Brunch restaurant in McMullen, AL'
+2026-09-29 23:41:51,748 INFO maps_url_scraper.worker16 |   2 places | Brunch restaurant in McMullen, AL
+2026-09-29 23:41:53,171 DEBUG maps_url_scraper.worker24 | ok page=1 attempt=1 proxy=direct q='Bubble tea store in McMullen, AL'
+2026-09-29 23:41:53,171 INFO maps_url_scraper.worker24 |   2 places | Bubble tea store in McMullen, AL
+2026-09-29 23:41:55,057 DEBUG maps_url_scraper.worker7 | ok page=0 attempt=1 proxy=direct q='Building materials market in McMullen, AL'
+2026-09-29 23:41:56,902 DEBUG maps_url_scraper.worker14 | ok page=1 attempt=1 proxy=direct q='Buddhist supplies store in McMullen, AL'
+2026-09-29 23:41:56,902 INFO maps_url_scraper.worker14 |   5 places | Buddhist supplies store in McMullen, AL
+2026-09-29 23:41:58,269 DEBUG maps_url_scraper.worker13 | ok page=1 attempt=1 proxy=direct q='Buddhist temple in McMullen, AL'
+2026-09-29 23:41:58,269 INFO maps_url_scraper.worker13 |  16 places | Buddhist temple in McMullen, AL
+2026-09-29 23:42:01,020 INFO maps_url_scraper.engine | progress 209/300 assigned | 484 queries done | +1423 places | +0 urls | 436 reqs (0.1/s) | block rate 12%
+2026-09-29 23:42:16,021 INFO maps_url_scraper.engine | progress 209/300 assigned | 484 queries done | +1423 places | +0 urls | 436 reqs (0.1/s) | block rate 12%
+2026-09-29 23:42:31,021 INFO maps_url_scraper.engine | progress 209/300 assigned | 484 queries done | +1423 places | +0 urls | 436 reqs (0.1/s) | block rate 12%
+2026-09-29 23:42:46,021 INFO maps_url_scraper.engine | progress 209/300 assigned | 484 queries done | +1423 places | +0 urls | 436 reqs (0.1/s) | block rate 12%
+2026-09-29 23:43:01,022 INFO maps_url_scraper.engine | progress 209/300 assigned | 484 queries done | +1423 places | +0 urls | 436 reqs (0.1/s) | block rate 12%
+2026-09-29 23:43:16,022 INFO maps_url_scraper.engine | progress 209/300 assigned | 484 queries done | +1423 places | +0 urls | 436 reqs (0.1/s) | block rate 12%
+2026-09-29 23:43:31,023 INFO maps_url_scraper.engine | progress 209/300 assigned | 484 queries done | +1423 places | +0 urls | 436 reqs (0.1/s) | block rate 12%
+2026-09-29 23:43:38,447 WARNING maps_url_scraper.worker3 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Bulgarian restaurant in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Bulgarian+restaurant+in+McMullen%2C+AL&pb=%211sBulgarian%2Brestauran
+2026-09-29 23:43:39,471 WARNING maps_url_scraper.breaker | CIRCUIT BREAKER OPEN: 100% of last pages blocked - pausing all workers for 180s
+2026-09-29 23:43:39,471 WARNING maps_url_scraper.worker24 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Bus depot in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Bus+depot+in+McMullen%2C+AL&pb=%211sBus%2Bdepot%2Bin%2BMcMullen%252C
+2026-09-29 23:43:46,023 INFO maps_url_scraper.engine | progress 209/300 assigned | 484 queries done | +1423 places | +0 urls | 438 reqs (0.1/s) | block rate 13%
+2026-09-29 23:44:01,023 INFO maps_url_scraper.engine | progress 209/300 assigned | 484 queries done | +1423 places | +0 urls | 438 reqs (0.1/s) | block rate 13%
+2026-09-29 23:44:16,024 INFO maps_url_scraper.engine | progress 209/300 assigned | 484 queries done | +1423 places | +0 urls | 438 reqs (0.1/s) | block rate 13%
+2026-09-29 23:44:31,024 INFO maps_url_scraper.engine | progress 209/300 assigned | 484 queries done | +1423 places | +0 urls | 438 reqs (0.1/s) | block rate 13%
+2026-09-29 23:44:46,025 INFO maps_url_scraper.engine | progress 209/300 assigned | 484 queries done | +1423 places | +0 urls | 438 reqs (0.1/s) | block rate 13%
+2026-09-29 23:45:01,025 INFO maps_url_scraper.engine | progress 209/300 assigned | 484 queries done | +1423 places | +0 urls | 438 reqs (0.1/s) | block rate 13%
+2026-09-29 23:45:16,025 INFO maps_url_scraper.engine | progress 209/300 assigned | 484 queries done | +1423 places | +0 urls | 438 reqs (0.1/s) | block rate 13%
+2026-09-29 23:45:31,026 INFO maps_url_scraper.engine | progress 209/300 assigned | 484 queries done | +1423 places | +0 urls | 438 reqs (0.1/s) | block rate 13%
+2026-09-29 23:45:46,026 INFO maps_url_scraper.engine | progress 209/300 assigned | 484 queries done | +1423 places | +0 urls | 438 reqs (0.1/s) | block rate 13%
+2026-09-29 23:46:01,027 INFO maps_url_scraper.engine | progress 209/300 assigned | 484 queries done | +1423 places | +0 urls | 438 reqs (0.1/s) | block rate 13%
