@@ -1209,3 +1209,63 @@
 2026-09-29 19:29:24,801 INFO maps_url_scraper.engine | progress 238/300 assigned | 214 queries done | +2088 places | +0 urls | 552 reqs (0.1/s) | block rate 17%
 2026-09-29 19:29:39,801 INFO maps_url_scraper.engine | progress 238/300 assigned | 214 queries done | +2088 places | +0 urls | 552 reqs (0.1/s) | block rate 17%
 2026-09-29 19:29:54,802 INFO maps_url_scraper.engine | progress 238/300 assigned | 214 queries done | +2088 places | +0 urls | 552 reqs (0.1/s) | block rate 17%
+2026-09-29 19:30:09,802 INFO maps_url_scraper.engine | progress 238/300 assigned | 214 queries done | +2088 places | +0 urls | 552 reqs (0.1/s) | block rate 17%
+2026-09-29 19:30:10,383 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-29 19:30:10,889 DEBUG maps_url_scraper.worker2 | ok page=0 attempt=1 proxy=direct q='Auditor in McMullen, AL'
+2026-09-29 19:30:10,890 INFO maps_url_scraper.worker2 |   0 places | Auditor in McMullen, AL
+2026-09-29 19:30:12,244 DEBUG maps_url_scraper.worker1 | ok page=0 attempt=1 proxy=direct q='Auditorium in McMullen, AL'
+2026-09-29 19:30:14,791 DEBUG maps_url_scraper.worker24 | ok page=1 attempt=1 proxy=direct q='ATV dealer in McMullen, AL'
+2026-09-29 19:30:14,791 INFO maps_url_scraper.worker24 |  18 places | ATV dealer in McMullen, AL
+2026-09-29 19:30:15,898 DEBUG maps_url_scraper.worker9 | ok page=1 attempt=1 proxy=direct q='Assemblies of God church in McMullen, AL'
+2026-09-29 19:30:15,899 INFO maps_url_scraper.worker9 |  15 places | Assemblies of God church in McMullen, AL
+2026-09-29 19:30:17,026 DEBUG maps_url_scraper.worker7 | ok page=0 attempt=1 proxy=direct q='Australian goods store in McMullen, AL'
+2026-09-29 19:30:17,027 INFO maps_url_scraper.worker7 |   0 places | Australian goods store in McMullen, AL
+2026-09-29 19:30:18,642 DEBUG maps_url_scraper.worker16 | ok page=0 attempt=1 proxy=direct q='Australian restaurant in McMullen, AL'
+2026-09-29 19:30:18,643 INFO maps_url_scraper.worker16 |   0 places | Australian restaurant in McMullen, AL
+2026-09-29 19:30:20,104 DEBUG maps_url_scraper.worker18 | ok page=0 attempt=1 proxy=direct q='Austrian restaurant in McMullen, AL'
+2026-09-29 19:30:23,861 DEBUG maps_url_scraper.worker8 | ok page=1 attempt=1 proxy=direct q='ATV rental service in McMullen, AL'
+2026-09-29 19:30:23,861 INFO maps_url_scraper.worker8 |   4 places | ATV rental service in McMullen, AL
+2026-09-29 19:30:24,803 INFO maps_url_scraper.engine | progress 244/300 assigned | 220 queries done | +2097 places | +0 urls | 560 reqs (0.1/s) | block rate 16%
+2026-09-29 19:30:25,819 DEBUG maps_url_scraper.worker22 | ok page=1 attempt=1 proxy=direct q='ATV repair shop in McMullen, AL'
+2026-09-29 19:30:25,819 INFO maps_url_scraper.worker22 |   9 places | ATV repair shop in McMullen, AL
+2026-09-29 19:30:27,306 DEBUG maps_url_scraper.worker23 | ok page=1 attempt=1 proxy=direct q='Auction house in McMullen, AL'
+2026-09-29 19:30:28,820 DEBUG maps_url_scraper.worker13 | ok page=1 attempt=1 proxy=direct q='Audi dealer in McMullen, AL'
+2026-09-29 19:30:28,821 INFO maps_url_scraper.worker13 |   1 places | Audi dealer in McMullen, AL
+2026-09-29 19:30:30,455 DEBUG maps_url_scraper.worker3 | ok page=1 attempt=1 proxy=direct q='Audio visual consultant in McMullen, AL'
+2026-09-29 19:30:30,456 INFO maps_url_scraper.worker3 |   5 places | Audio visual consultant in McMullen, AL
+2026-09-29 19:30:32,758 DEBUG maps_url_scraper.worker11 | ok page=4 attempt=1 proxy=direct q='Art supply store in McMullen, AL'
+2026-09-29 19:30:32,758 INFO maps_url_scraper.worker11 |  67 places | Art supply store in McMullen, AL
+2026-09-29 19:30:34,133 DEBUG maps_url_scraper.worker19 | ok page=1 attempt=1 proxy=direct q='Audio visual equipment repair service in McMullen, AL'
+2026-09-29 19:30:34,133 INFO maps_url_scraper.worker19 |   1 places | Audio visual equipment repair service in McMullen, AL
+2026-09-29 19:30:39,803 INFO maps_url_scraper.engine | progress 249/300 assigned | 225 queries done | +2103 places | +0 urls | 566 reqs (0.1/s) | block rate 16%
+2026-09-29 19:30:54,803 INFO maps_url_scraper.engine | progress 249/300 assigned | 225 queries done | +2103 places | +0 urls | 566 reqs (0.1/s) | block rate 16%
+2026-09-29 19:31:09,804 INFO maps_url_scraper.engine | progress 249/300 assigned | 225 queries done | +2103 places | +0 urls | 566 reqs (0.1/s) | block rate 16%
+2026-09-29 19:31:13,543 DEBUG maps_url_scraper.worker5 | ok page=0 attempt=1 proxy=direct q='Auto accessories wholesaler in McMullen, AL'
+2026-09-29 19:31:24,804 INFO maps_url_scraper.engine | progress 249/300 assigned | 225 queries done | +2104 places | +0 urls | 567 reqs (0.1/s) | block rate 16%
+2026-09-29 19:31:39,804 INFO maps_url_scraper.engine | progress 249/300 assigned | 225 queries done | +2104 places | +0 urls | 567 reqs (0.1/s) | block rate 16%
+2026-09-29 19:31:54,805 INFO maps_url_scraper.engine | progress 249/300 assigned | 225 queries done | +2104 places | +0 urls | 567 reqs (0.1/s) | block rate 16%
+2026-09-29 19:32:09,805 INFO maps_url_scraper.engine | progress 249/300 assigned | 225 queries done | +2104 places | +0 urls | 567 reqs (0.1/s) | block rate 16%
+2026-09-29 19:32:11,336 DEBUG maps_url_scraper.worker14 | ok page=0 attempt=1 proxy=direct q='Auto air conditioning service in McMullen, AL'
+2026-09-29 19:32:15,215 DEBUG maps_url_scraper.worker4 | ok page=1 attempt=1 proxy=direct q='Audio visual equipment supplier in McMullen, AL'
+2026-09-29 19:32:15,216 INFO maps_url_scraper.worker4 |   1 places | Audio visual equipment supplier in McMullen, AL
+2026-09-29 19:32:17,052 DEBUG maps_url_scraper.worker15 | ok page=1 attempt=1 proxy=direct q='Audiologist in McMullen, AL'
+2026-09-29 19:32:17,052 INFO maps_url_scraper.worker15 |  11 places | Audiologist in McMullen, AL
+2026-09-29 19:32:18,757 DEBUG maps_url_scraper.worker17 | ok page=0 attempt=1 proxy=direct q='Auto auction in McMullen, AL'
+2026-09-29 19:32:20,297 DEBUG maps_url_scraper.worker21 | ok page=0 attempt=1 proxy=direct q='Auto body parts supplier in McMullen, AL'
+2026-09-29 19:32:23,262 DEBUG maps_url_scraper.worker20 | ok page=2 attempt=1 proxy=direct q='ATM in McMullen, AL'
+2026-09-29 19:32:23,262 INFO maps_url_scraper.worker20 |  28 places | ATM in McMullen, AL
+2026-09-29 19:32:24,805 INFO maps_url_scraper.engine | progress 252/300 assigned | 228 queries done | +2130 places | +0 urls | 573 reqs (0.1/s) | block rate 16%
+2026-09-29 19:32:25,453 DEBUG maps_url_scraper.worker12 | ok page=0 attempt=1 proxy=direct q='Auto body shop in McMullen, AL'
+2026-09-29 19:32:39,806 INFO maps_url_scraper.engine | progress 252/300 assigned | 228 queries done | +2150 places | +0 urls | 574 reqs (0.1/s) | block rate 16%
+2026-09-29 19:32:54,806 INFO maps_url_scraper.engine | progress 252/300 assigned | 228 queries done | +2150 places | +0 urls | 574 reqs (0.1/s) | block rate 16%
+2026-09-29 19:33:09,806 INFO maps_url_scraper.engine | progress 252/300 assigned | 228 queries done | +2150 places | +0 urls | 574 reqs (0.1/s) | block rate 16%
+2026-09-29 19:33:24,807 INFO maps_url_scraper.engine | progress 252/300 assigned | 228 queries done | +2150 places | +0 urls | 574 reqs (0.1/s) | block rate 16%
+2026-09-29 19:33:39,807 INFO maps_url_scraper.engine | progress 252/300 assigned | 228 queries done | +2150 places | +0 urls | 574 reqs (0.1/s) | block rate 16%
+2026-09-29 19:33:54,808 INFO maps_url_scraper.engine | progress 252/300 assigned | 228 queries done | +2150 places | +0 urls | 574 reqs (0.1/s) | block rate 16%
+2026-09-29 19:34:09,808 INFO maps_url_scraper.engine | progress 252/300 assigned | 228 queries done | +2150 places | +0 urls | 574 reqs (0.1/s) | block rate 16%
+2026-09-29 19:34:13,838 DEBUG maps_url_scraper.worker6 | ok page=1 attempt=1 proxy=direct q='Audiovisual equipment rental service in McMullen, AL'
+2026-09-29 19:34:13,838 INFO maps_url_scraper.worker6 |   9 places | Audiovisual equipment rental service in McMullen, AL
+2026-09-29 19:34:24,808 INFO maps_url_scraper.engine | progress 253/300 assigned | 229 queries done | +2150 places | +0 urls | 575 reqs (0.1/s) | block rate 16%
+2026-09-29 19:34:39,809 INFO maps_url_scraper.engine | progress 253/300 assigned | 229 queries done | +2150 places | +0 urls | 575 reqs (0.1/s) | block rate 16%
+2026-09-29 19:34:54,809 INFO maps_url_scraper.engine | progress 253/300 assigned | 229 queries done | +2150 places | +0 urls | 575 reqs (0.1/s) | block rate 16%
+2026-09-29 19:35:09,809 INFO maps_url_scraper.engine | progress 253/300 assigned | 229 queries done | +2150 places | +0 urls | 575 reqs (0.1/s) | block rate 16%
