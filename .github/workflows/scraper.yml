@@ -50,7 +50,8 @@ jobs:
         env:
           MAX_WORKERS: "24"          # rotate mode: workers > key count is fine
           LIMIT_QUERIES: "300"      # credit budget per run (raise with credits)
-          CATEGORIES_FILE: "config/categories.txt"
+          COMMIT_INTERVAL_SECS: "300"  # push state + urls + logs every 5 min
+          CATEGORIES_FILE: "config/categories_full.txt"
         run: |
           python main.py run \
             --workers "$MAX_WORKERS" \

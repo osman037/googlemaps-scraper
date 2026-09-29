@@ -40,6 +40,14 @@ class OutputWriter:
             self._fh.flush()
         return len(lines)
 
+    def flush(self) -> None:
+        """Flush buffered writes without closing the file."""
+        with self._lock:
+            try:
+                self._fh.flush()
+            except Exception:  # pragma: no cover - best effort
+                pass
+
     def close(self) -> None:
         """Flush and close the file handle."""
         with self._lock:

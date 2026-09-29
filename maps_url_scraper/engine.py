@@ -16,6 +16,8 @@ stopped.
 from __future__ import annotations
 
 import logging
+import os
+import subprocess
 import threading
 import time
 from dataclasses import dataclass, field
@@ -73,6 +75,100 @@ class EngineContext:
         with self._flock:
             self._fails[query] = self._fails.get(query, 0) + 1
             return self._fails[query]
+
+
+class StateCommitter(threading.Thread):
+    """Periodically git-commits the state DB, URL files and logs mid-run.
+
+    Why: on CI every run is a fresh container, and the state was previously
+    committed only at the very END of a run - so cancelling or timing out a
+    run lost everything done since it started. This thread force-adds the
+    durable files, commits and pushes every ``interval_secs`` seconds, so an
+    interruption loses at most one interval of work. The next run checks out
+    this state and resumes exactly where it stopped.
+
+    Requires push credentials: on GitHub Actions the ``actions/checkout``
+    step provides them automatically. Outside a git repository (plain local
+    runs) it is a no-op.
+    """
+
+    def __init__(self, ctx: EngineContext, interval_secs: int) -> None:
+        super().__init__(daemon=True, name="committer")
+        self.ctx = ctx
+        self.interval = max(60, interval_secs)
+        self.repo = ctx.settings.out_dir.parent
+        self.branch = os.environ.get("GITHUB_REF_NAME") or None
+        self.paths = [
+            ctx.settings.db_path,
+            ctx.settings.out_dir / "place_urls.txt",
+            ctx.settings.out_dir / "website_urls.txt",
+            ctx.settings.log_dir / "scraper.log",
+        ]
+
+    def _git(self, *args: str) -> int:
+        return subprocess.run(["git", *args], cwd=self.repo,
+                              capture_output=True, text=True).returncode
+
+    def _current_branch(self) -> str | None:
+        result = subprocess.run(
+            ["git", "rev-parse", "--abbrev-ref", "HEAD"],
+            cwd=self.repo, capture_output=True, text=True)
+        if result.returncode == 0:
+            branch = result.stdout.strip()
+            if branch and branch != "HEAD":
+                return branch
+        return self.branch
+
+    def commit_once(self) -> bool:
+        """Flush + checkpoint + force-add + commit + push. True on success."""
+        if not (self.repo / ".git").exists():
+            return False  # plain local run, not a git checkout
+        try:
+            self.ctx.writer.flush()
+            # checkpoint the WAL so the .sqlite3 file on disk is complete
+            with self.ctx.db.lock:
+                self.ctx.db.con.execute("PRAGMA wal_checkpoint(TRUNCATE)")
+        except Exception:
+            log.debug("flush/checkpoint failed", exc_info=True)
+
+        branch = self._current_branch()
+        if not branch:
+            log.debug("no git branch detected - periodic commit skipped")
+            return False
+
+        added = False
+        for path in self.paths:
+            if path.exists() and self._git("add", "-f", str(path)) == 0:
+                added = True
+        if not added or self._git("diff", "--cached", "--quiet") == 0:
+            return False  # nothing new since the last checkpoint
+
+        if self._git("-c", "user.name=scraper-bot",
+                     "-c", "user.email=actions@github.com",
+                     "commit", "-m",
+                     "periodic: state + urls checkpoint [skip ci]") != 0:
+            log.warning("periodic commit failed - retrying next interval")
+            return False
+        if self._git("pull", "--rebase", "origin", branch) != 0:
+            self._git("rebase", "--abort")  # never leave the repo mid-rebase
+            log.warning("periodic rebase failed - retrying next interval")
+            return False
+        if self._git("push", "origin", f"HEAD:{branch}") != 0:
+            log.warning("periodic push failed - retrying next interval")
+            return False
+        log.info("periodic commit pushed: state + urls + logs (resumable)")
+        return True
+
+    def run(self) -> None:
+        while not self.ctx.stop.wait(self.interval):
+            try:
+                self.commit_once()
+            except Exception:
+                log.exception("periodic commit crashed")
+        try:  # final checkpoint on shutdown
+            self.commit_once()
+        except Exception:
+            log.debug("final periodic commit failed", exc_info=True)
 
 
 def run(settings: Settings) -> int:
@@ -150,6 +246,14 @@ def _run_inner(settings: Settings, db: Database) -> int:
     workers = [Worker(i + 1, ctx) for i in range(settings.workers)]
 
     started = time.monotonic()
+    # periodic git checkpoints (CI): every N seconds push state + urls + logs
+    commit_interval = int(os.environ.get("COMMIT_INTERVAL_SECS", "300") or 0)
+    committer = None
+    if commit_interval > 0:
+        committer = StateCommitter(ctx, commit_interval)
+        log.info("periodic git commits every %ds (state + urls + logs)",
+                 committer.interval)
+        committer.start()
     try:
         for worker in workers:
             worker.start()
@@ -167,9 +271,14 @@ def _run_inner(settings: Settings, db: Database) -> int:
         log.info("Ctrl+C - stopping gracefully (finishing current pages)...")
         ctx.stop.set()
     finally:
+        ctx.stop.set()
+        for _ in workers:
+            ctx.task_queue.put(None)
         for worker in workers:
             worker.join(timeout=60)
         ctx.writer.close()
+        if committer is not None:
+            committer.join(timeout=90)  # final periodic commit before exit
 
     _final_summary(settings, db, ctx, started)
     return 0
