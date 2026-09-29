@@ -2671,3 +2671,60 @@
 2026-09-29 23:30:16,002 INFO maps_url_scraper.engine | progress 179/300 assigned | 454 queries done | +1235 places | +0 urls | 379 reqs (0.1/s) | block rate 14%
 2026-09-29 23:30:31,002 INFO maps_url_scraper.engine | progress 179/300 assigned | 454 queries done | +1235 places | +0 urls | 379 reqs (0.1/s) | block rate 14%
 2026-09-29 23:30:46,002 INFO maps_url_scraper.engine | progress 179/300 assigned | 454 queries done | +1235 places | +0 urls | 379 reqs (0.1/s) | block rate 14%
+2026-09-29 23:31:01,003 INFO maps_url_scraper.engine | progress 179/300 assigned | 454 queries done | +1235 places | +0 urls | 379 reqs (0.1/s) | block rate 14%
+2026-09-29 23:31:02,238 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-29 23:31:16,003 INFO maps_url_scraper.engine | progress 179/300 assigned | 454 queries done | +1235 places | +0 urls | 379 reqs (0.1/s) | block rate 14%
+2026-09-29 23:31:31,004 INFO maps_url_scraper.engine | progress 179/300 assigned | 454 queries done | +1235 places | +0 urls | 379 reqs (0.1/s) | block rate 14%
+2026-09-29 23:31:41,499 DEBUG maps_url_scraper.worker5 | ok page=1 attempt=1 proxy=direct q='Boxing club in McMullen, AL'
+2026-09-29 23:31:42,892 DEBUG maps_url_scraper.worker1 | ok page=0 attempt=1 proxy=direct q='Brake shop in McMullen, AL'
+2026-09-29 23:31:44,742 DEBUG maps_url_scraper.worker8 | ok page=1 attempt=1 proxy=direct q='Botanical garden in McMullen, AL'
+2026-09-29 23:31:44,742 INFO maps_url_scraper.worker8 |  16 places | Botanical garden in McMullen, AL
+2026-09-29 23:31:46,004 INFO maps_url_scraper.engine | progress 180/300 assigned | 455 queries done | +1246 places | +0 urls | 382 reqs (0.1/s) | block rate 14%
+2026-09-29 23:31:46,745 DEBUG maps_url_scraper.worker9 | ok page=1 attempt=1 proxy=direct q='Boxing gym in McMullen, AL'
+2026-09-29 23:31:46,745 INFO maps_url_scraper.worker9 |  19 places | Boxing gym in McMullen, AL
+2026-09-29 23:31:48,299 DEBUG maps_url_scraper.worker16 | ok page=1 attempt=1 proxy=direct q='Botanica in McMullen, AL'
+2026-09-29 23:31:48,299 INFO maps_url_scraper.worker16 |   3 places | Botanica in McMullen, AL
+2026-09-29 23:31:49,870 DEBUG maps_url_scraper.worker24 | ok page=1 attempt=1 proxy=direct q='Books wholesaler in McMullen, AL'
+2026-09-29 23:31:49,870 INFO maps_url_scraper.worker24 |   4 places | Books wholesaler in McMullen, AL
+2026-09-29 23:31:51,535 DEBUG maps_url_scraper.worker7 | ok page=0 attempt=1 proxy=direct q='Branding agency in McMullen, AL'
+2026-09-29 23:31:53,144 DEBUG maps_url_scraper.worker14 | ok page=1 attempt=1 proxy=direct q='Bouncy castle hire in McMullen, AL'
+2026-09-29 23:31:53,144 INFO maps_url_scraper.worker14 |  20 places | Bouncy castle hire in McMullen, AL
+2026-09-29 23:31:54,724 DEBUG maps_url_scraper.worker13 | ok page=0 attempt=1 proxy=direct q='Brasserie in McMullen, AL'
+2026-09-29 23:31:54,725 INFO maps_url_scraper.worker13 |   0 places | Brasserie in McMullen, AL
+2026-09-29 23:32:01,004 INFO maps_url_scraper.engine | progress 185/300 assigned | 460 queries done | +1246 places | +0 urls | 388 reqs (0.1/s) | block rate 14%
+2026-09-29 23:32:16,005 INFO maps_url_scraper.engine | progress 185/300 assigned | 460 queries done | +1246 places | +0 urls | 388 reqs (0.1/s) | block rate 14%
+2026-09-29 23:32:31,005 INFO maps_url_scraper.engine | progress 185/300 assigned | 460 queries done | +1246 places | +0 urls | 388 reqs (0.1/s) | block rate 14%
+2026-09-29 23:32:46,006 INFO maps_url_scraper.engine | progress 185/300 assigned | 460 queries done | +1246 places | +0 urls | 388 reqs (0.1/s) | block rate 14%
+2026-09-29 23:33:01,006 INFO maps_url_scraper.engine | progress 185/300 assigned | 460 queries done | +1246 places | +0 urls | 388 reqs (0.1/s) | block rate 14%
+2026-09-29 23:33:16,007 INFO maps_url_scraper.engine | progress 185/300 assigned | 460 queries done | +1246 places | +0 urls | 388 reqs (0.1/s) | block rate 14%
+2026-09-29 23:33:31,007 INFO maps_url_scraper.engine | progress 185/300 assigned | 460 queries done | +1246 places | +0 urls | 388 reqs (0.1/s) | block rate 14%
+2026-09-29 23:33:40,159 DEBUG maps_url_scraper.worker18 | ok page=0 attempt=1 proxy=direct q='Brazilian pastelaria in McMullen, AL'
+2026-09-29 23:33:40,159 INFO maps_url_scraper.worker18 |   0 places | Brazilian pastelaria in McMullen, AL
+2026-09-29 23:33:41,754 DEBUG maps_url_scraper.worker22 | ok page=0 attempt=2 proxy=direct q='Boxing ring in McMullen, AL'
+2026-09-29 23:33:43,239 DEBUG maps_url_scraper.worker12 | ok page=1 attempt=3 proxy=direct q='Body piercing shop in McMullen, AL'
+2026-09-29 23:33:43,240 INFO maps_url_scraper.worker12 |   1 places | Body piercing shop in McMullen, AL
+2026-09-29 23:33:46,007 INFO maps_url_scraper.engine | progress 187/300 assigned | 462 queries done | +1247 places | +0 urls | 391 reqs (0.1/s) | block rate 14%
+2026-09-29 23:34:01,008 INFO maps_url_scraper.engine | progress 187/300 assigned | 462 queries done | +1247 places | +0 urls | 391 reqs (0.1/s) | block rate 14%
+2026-09-29 23:34:16,008 INFO maps_url_scraper.engine | progress 187/300 assigned | 462 queries done | +1247 places | +0 urls | 391 reqs (0.1/s) | block rate 14%
+2026-09-29 23:34:31,008 INFO maps_url_scraper.engine | progress 187/300 assigned | 462 queries done | +1247 places | +0 urls | 391 reqs (0.1/s) | block rate 14%
+2026-09-29 23:34:46,009 INFO maps_url_scraper.engine | progress 187/300 assigned | 462 queries done | +1247 places | +0 urls | 391 reqs (0.1/s) | block rate 14%
+2026-09-29 23:34:47,452 DEBUG maps_url_scraper.worker6 | ok page=0 attempt=1 proxy=direct q='Brazilian restaurant in McMullen, AL'
+2026-09-29 23:34:51,052 DEBUG maps_url_scraper.worker15 | ok page=2 attempt=1 proxy=direct q='Bowling alley in McMullen, AL'
+2026-09-29 23:34:51,052 INFO maps_url_scraper.worker15 |  21 places | Bowling alley in McMullen, AL
+2026-09-29 23:34:52,639 DEBUG maps_url_scraper.worker20 | ok page=0 attempt=1 proxy=direct q='Breakfast restaurant in McMullen, AL'
+2026-09-29 23:34:54,477 DEBUG maps_url_scraper.worker10 | ok page=0 attempt=1 proxy=direct q='Brewery in McMullen, AL'
+2026-09-29 23:34:55,813 DEBUG maps_url_scraper.worker3 | ok page=0 attempt=1 proxy=direct q='Brewing supply store in McMullen, AL'
+2026-09-29 23:34:56,977 DEBUG maps_url_scraper.worker23 | ok page=0 attempt=1 proxy=direct q='Brewpub in McMullen, AL'
+2026-09-29 23:34:58,230 DEBUG maps_url_scraper.worker21 | ok page=1 attempt=1 proxy=direct q='Bottle & can redemption center in McMullen, AL'
+2026-09-29 23:34:58,231 INFO maps_url_scraper.worker21 |   1 places | Bottle & can redemption center in McMullen, AL
+2026-09-29 23:35:00,207 DEBUG maps_url_scraper.worker17 | ok page=0 attempt=1 proxy=direct q='Brick manufacturer in McMullen, AL'
+2026-09-29 23:35:01,009 INFO maps_url_scraper.engine | progress 189/300 assigned | 464 queries done | +1296 places | +0 urls | 399 reqs (0.1/s) | block rate 14%
+2026-09-29 23:35:01,711 DEBUG maps_url_scraper.worker2 | ok page=0 attempt=1 proxy=direct q='Bricklayer in McMullen, AL'
+2026-09-29 23:35:02,986 DEBUG maps_url_scraper.worker19 | ok page=0 attempt=1 proxy=direct q='Bridal shop in McMullen, AL'
+2026-09-29 23:35:04,363 DEBUG maps_url_scraper.worker11 | ok page=0 attempt=1 proxy=direct q='Bridge in McMullen, AL'
+2026-09-29 23:35:06,353 DEBUG maps_url_scraper.worker4 | ok page=1 attempt=1 proxy=direct q='BPO placement agency in McMullen, AL'
+2026-09-29 23:35:06,353 INFO maps_url_scraper.worker4 |   1 places | BPO placement agency in McMullen, AL
+2026-09-29 23:35:16,010 INFO maps_url_scraper.engine | progress 190/300 assigned | 465 queries done | +1323 places | +0 urls | 403 reqs (0.1/s) | block rate 13%
+2026-09-29 23:35:31,010 INFO maps_url_scraper.engine | progress 190/300 assigned | 465 queries done | +1323 places | +0 urls | 403 reqs (0.1/s) | block rate 13%
+2026-09-29 23:35:46,010 INFO maps_url_scraper.engine | progress 190/300 assigned | 465 queries done | +1323 places | +0 urls | 403 reqs (0.1/s) | block rate 13%
+2026-09-29 23:36:01,011 INFO maps_url_scraper.engine | progress 190/300 assigned | 465 queries done | +1323 places | +0 urls | 403 reqs (0.1/s) | block rate 13%
