@@ -2526,3 +2526,51 @@
 2026-09-29 23:15:15,980 INFO maps_url_scraper.engine | progress 155/300 assigned | 430 queries done | +1076 places | +0 urls | 322 reqs (0.1/s) | block rate 12%
 2026-09-29 23:15:30,980 INFO maps_url_scraper.engine | progress 155/300 assigned | 430 queries done | +1076 places | +0 urls | 322 reqs (0.1/s) | block rate 12%
 2026-09-29 23:15:45,981 INFO maps_url_scraper.engine | progress 155/300 assigned | 430 queries done | +1076 places | +0 urls | 322 reqs (0.1/s) | block rate 12%
+2026-09-29 23:15:57,696 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-29 23:16:00,981 INFO maps_url_scraper.engine | progress 155/300 assigned | 430 queries done | +1076 places | +0 urls | 322 reqs (0.1/s) | block rate 12%
+2026-09-29 23:16:15,981 INFO maps_url_scraper.engine | progress 155/300 assigned | 430 queries done | +1076 places | +0 urls | 322 reqs (0.1/s) | block rate 12%
+2026-09-29 23:16:30,982 INFO maps_url_scraper.engine | progress 155/300 assigned | 430 queries done | +1076 places | +0 urls | 322 reqs (0.1/s) | block rate 12%
+2026-09-29 23:16:37,086 WARNING maps_url_scraper.worker16 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Botanica in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Botanica+in+McMullen%2C+AL&pb=%211sBotanica%2Bin%2BMcMullen%252C%2BA
+2026-09-29 23:16:37,124 WARNING maps_url_scraper.worker8 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Botanical garden in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Botanical+garden+in+McMullen%2C+AL&pb=%211sBotanical%2Bgarden%2Bin%2
+2026-09-29 23:16:37,996 WARNING maps_url_scraper.worker1 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Book store in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Book+store+in+McMullen%2C+AL&pb=%211sBook%2Bstore%2Bin%2BMcMullen%25
+2026-09-29 23:16:39,276 WARNING maps_url_scraper.worker24 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Books wholesaler in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Books+wholesaler+in+McMullen%2C+AL&pb=%211sBooks%2Bwholesaler%2Bin%2
+2026-09-29 23:16:40,966 WARNING maps_url_scraper.worker7 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Boat repair shop in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Boat+repair+shop+in+McMullen%2C+AL&pb=%211sBoat%2Brepair%2Bshop%2Bin
+2026-09-29 23:16:41,496 WARNING maps_url_scraper.worker14 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Bouncy castle hire in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Bouncy+castle+hire+in+McMullen%2C+AL&pb=%211sBouncy%2Bcastle%2Bhire%
+2026-09-29 23:16:43,106 WARNING maps_url_scraper.worker13 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Bonsai plant supplier in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Bonsai+plant+supplier+in+McMullen%2C+AL&pb=%211sBonsai%2Bplant%2Bsup
+2026-09-29 23:16:43,486 DEBUG maps_url_scraper.worker22 | ok page=0 attempt=1 proxy=direct q='Bookkeeping service in McMullen, AL'
+2026-09-29 23:16:44,779 WARNING maps_url_scraper.breaker | CIRCUIT BREAKER OPEN: 100% of last pages blocked - pausing all workers for 180s
+2026-09-29 23:16:44,779 WARNING maps_url_scraper.worker12 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Body piercing shop in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Body+piercing+shop+in+McMullen%2C+AL&pb=%211sBody%2Bpiercing%2Bshop%
+2026-09-29 23:16:45,982 INFO maps_url_scraper.engine | progress 155/300 assigned | 430 queries done | +1085 places | +0 urls | 331 reqs (0.1/s) | block rate 15%
+2026-09-29 23:17:00,983 INFO maps_url_scraper.engine | progress 155/300 assigned | 430 queries done | +1085 places | +0 urls | 331 reqs (0.1/s) | block rate 15%
+2026-09-29 23:17:15,983 INFO maps_url_scraper.engine | progress 155/300 assigned | 430 queries done | +1085 places | +0 urls | 331 reqs (0.1/s) | block rate 15%
+2026-09-29 23:17:30,983 INFO maps_url_scraper.engine | progress 155/300 assigned | 430 queries done | +1085 places | +0 urls | 331 reqs (0.1/s) | block rate 15%
+2026-09-29 23:17:45,984 INFO maps_url_scraper.engine | progress 155/300 assigned | 430 queries done | +1085 places | +0 urls | 331 reqs (0.1/s) | block rate 15%
+2026-09-29 23:18:00,984 INFO maps_url_scraper.engine | progress 155/300 assigned | 430 queries done | +1085 places | +0 urls | 331 reqs (0.1/s) | block rate 15%
+2026-09-29 23:18:15,984 INFO maps_url_scraper.engine | progress 155/300 assigned | 430 queries done | +1085 places | +0 urls | 331 reqs (0.1/s) | block rate 15%
+2026-09-29 23:18:30,985 INFO maps_url_scraper.engine | progress 155/300 assigned | 430 queries done | +1085 places | +0 urls | 331 reqs (0.1/s) | block rate 15%
+2026-09-29 23:18:45,985 INFO maps_url_scraper.engine | progress 155/300 assigned | 430 queries done | +1085 places | +0 urls | 331 reqs (0.1/s) | block rate 15%
+2026-09-29 23:19:00,986 INFO maps_url_scraper.engine | progress 155/300 assigned | 430 queries done | +1085 places | +0 urls | 331 reqs (0.1/s) | block rate 15%
+2026-09-29 23:19:15,986 INFO maps_url_scraper.engine | progress 155/300 assigned | 430 queries done | +1085 places | +0 urls | 331 reqs (0.1/s) | block rate 15%
+2026-09-29 23:19:30,986 INFO maps_url_scraper.engine | progress 155/300 assigned | 430 queries done | +1085 places | +0 urls | 331 reqs (0.1/s) | block rate 15%
+2026-09-29 23:19:45,111 DEBUG maps_url_scraper.worker6 | ok page=2 attempt=1 proxy=direct q='Boat storage facility in McMullen, AL'
+2026-09-29 23:19:45,112 INFO maps_url_scraper.worker6 |  34 places | Boat storage facility in McMullen, AL
+2026-09-29 23:19:45,536 WARNING maps_url_scraper.worker3 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Boiler supplier in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Boiler+supplier+in+McMullen%2C+AL&pb=%211sBoiler%2Bsupplier%2Bin%2BM
+2026-09-29 23:19:45,536 WARNING maps_url_scraper.worker20 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Border guard in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Border+guard+in+McMullen%2C+AL&pb=%211sBorder%2Bguard%2Bin%2BMcMulle
+2026-09-29 23:19:45,541 WARNING maps_url_scraper.worker23 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Border crossing station in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Border+crossing+station+in+McMullen%2C+AL&pb=%211sBorder%2Bcrossing%
+2026-09-29 23:19:45,566 DEBUG maps_url_scraper.worker2 | ok page=0 attempt=1 proxy=direct q='Boot repair shop in McMullen, AL'
+2026-09-29 23:19:45,577 DEBUG maps_url_scraper.worker11 | ok page=0 attempt=1 proxy=direct q='Bottled water supplier in McMullen, AL'
+2026-09-29 23:19:45,747 DEBUG maps_url_scraper.worker4 | ok page=0 attempt=1 proxy=direct q='Boot store in McMullen, AL'
+2026-09-29 23:19:45,749 DEBUG maps_url_scraper.worker15 | ok page=1 attempt=1 proxy=direct q='Body shaping class in McMullen, AL'
+2026-09-29 23:19:45,749 INFO maps_url_scraper.worker15 |   9 places | Body shaping class in McMullen, AL
+2026-09-29 23:19:45,787 DEBUG maps_url_scraper.worker10 | ok page=2 attempt=1 proxy=direct q='Boat ramp in McMullen, AL'
+2026-09-29 23:19:45,788 INFO maps_url_scraper.worker10 |  29 places | Boat ramp in McMullen, AL
+2026-09-29 23:19:45,838 DEBUG maps_url_scraper.worker17 | ok page=1 attempt=1 proxy=direct q='Bookbinder in McMullen, AL'
+2026-09-29 23:19:45,838 INFO maps_url_scraper.worker17 |   6 places | Bookbinder in McMullen, AL
+2026-09-29 23:19:45,900 DEBUG maps_url_scraper.worker19 | ok page=1 attempt=1 proxy=direct q='Book publisher in McMullen, AL'
+2026-09-29 23:19:45,900 INFO maps_url_scraper.worker19 |   9 places | Book publisher in McMullen, AL
+2026-09-29 23:19:45,985 WARNING maps_url_scraper.worker21 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Bottle & can redemption center in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Bottle+%26+can+redemption+center+in+McMullen%2C+AL&pb=%211sBottle%2B
+2026-09-29 23:19:45,987 INFO maps_url_scraper.engine | progress 160/300 assigned | 435 queries done | +1117 places | +0 urls | 343 reqs (0.1/s) | block rate 15%
+2026-09-29 23:20:00,987 INFO maps_url_scraper.engine | progress 160/300 assigned | 435 queries done | +1117 places | +0 urls | 343 reqs (0.1/s) | block rate 15%
+2026-09-29 23:20:15,987 INFO maps_url_scraper.engine | progress 160/300 assigned | 435 queries done | +1117 places | +0 urls | 343 reqs (0.1/s) | block rate 15%
+2026-09-29 23:20:30,988 INFO maps_url_scraper.engine | progress 160/300 assigned | 435 queries done | +1117 places | +0 urls | 343 reqs (0.1/s) | block rate 15%
+2026-09-29 23:20:45,988 INFO maps_url_scraper.engine | progress 160/300 assigned | 435 queries done | +1117 places | +0 urls | 343 reqs (0.1/s) | block rate 15%
