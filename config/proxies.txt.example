@@ -1,0 +1,14 @@
+# Copy this file to config/proxies.txt and add your proxies, one per line.
+# Format: protocol://user:pass@host:port
+#   http://user:pass@1.2.3.4:8080
+#   socks5://user:pass@1.2.3.4:1080
+#
+# Recommendations:
+# - US residential/ISP proxies work best for USA business searches
+#   (results are localized by IP; US proxy = consistent US results).
+# - Datacenter IPs get blocked by Google much faster.
+# - More proxies = more workers (--workers) = faster scraping.
+# - A proxy that gets blocked is cooled down for 10 minutes automatically.
+#
+# If config/proxies.txt does not exist, the scraper runs through your direct
+# connection (fine for small tests, risky at scale).

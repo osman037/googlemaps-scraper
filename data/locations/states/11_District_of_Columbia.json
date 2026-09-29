@@ -1,0 +1,37 @@
+{
+  "state": {
+    "name": "District of Columbia",
+    "code": "DC",
+    "fips": "11"
+  },
+  "cities": {
+    "1150000": {
+      "name": "Washington city",
+      "geoid": "1150000",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+38.9047586",
+      "longitude": "-077.0162860"
+    }
+  },
+  "progress": {
+    "incorporated": {
+      "completed_ids": [
+        32241
+      ],
+      "expected_count": 1
+    },
+    "cdp": {
+      "completed_ids": [],
+      "expected_count": 0
+    },
+    "consolidated": {
+      "completed_ids": [],
+      "expected_count": 0
+    }
+  },
+  "complete": true,
+  "total_places": 1,
+  "updated_at": "2026-09-28T05:59:31.945625+00:00"
+}

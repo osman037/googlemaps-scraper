@@ -1,0 +1,2508 @@
+{
+  "state": {
+    "name": "Massachusetts",
+    "code": "MA",
+    "fips": "25"
+  },
+  "cities": {
+    "2581005": {
+      "name": "Winthrop Town city",
+      "geoid": "2581005",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.3794264",
+      "longitude": "-070.9657255"
+    },
+    "2513205": {
+      "name": "Chelsea city",
+      "geoid": "2513205",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.3959075",
+      "longitude": "-071.0325111"
+    },
+    "2521990": {
+      "name": "Everett city",
+      "geoid": "2521990",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.4064375",
+      "longitude": "-071.0544769"
+    },
+    "2573405": {
+      "name": "Watertown city",
+      "geoid": "2573405",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.3699690",
+      "longitude": "-071.1774317"
+    },
+    "2562535": {
+      "name": "Somerville city",
+      "geoid": "2562535",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.3907209",
+      "longitude": "-071.1013293"
+    },
+    "2540115": {
+      "name": "Melrose city",
+      "geoid": "2540115",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.4556158",
+      "longitude": "-071.0590092"
+    },
+    "2537875": {
+      "name": "Malden city",
+      "geoid": "2537875",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.4304715",
+      "longitude": "-071.0576131"
+    },
+    "2556585": {
+      "name": "Revere city",
+      "geoid": "2556585",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.4187089",
+      "longitude": "-070.9914543"
+    },
+    "2511000": {
+      "name": "Cambridge city",
+      "geoid": "2511000",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.3758513",
+      "longitude": "-071.1185017"
+    },
+    "2534550": {
+      "name": "Lawrence city",
+      "geoid": "2534550",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.7002445",
+      "longitude": "-071.1626183"
+    },
+    "2545245": {
+      "name": "Newburyport city",
+      "geoid": "2545245",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.8123953",
+      "longitude": "-070.8874377"
+    },
+    "2539835": {
+      "name": "Medford city",
+      "geoid": "2539835",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.4234169",
+      "longitude": "-071.1086757"
+    },
+    "2559105": {
+      "name": "Salem city",
+      "geoid": "2559105",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.5157445",
+      "longitude": "-070.8544427"
+    },
+    "2556000": {
+      "name": "Randolph Town city",
+      "geoid": "2556000",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.1778452",
+      "longitude": "-071.0539543"
+    },
+    "2537490": {
+      "name": "Lynn city",
+      "geoid": "2537490",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.4744835",
+      "longitude": "-070.9607011"
+    },
+    "2519365": {
+      "name": "Easthampton city",
+      "geoid": "2519365",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.2651349",
+      "longitude": "-072.6720514"
+    },
+    "2507740": {
+      "name": "Braintree Town city",
+      "geoid": "2507740",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.2038424",
+      "longitude": "-071.0022171"
+    },
+    "2537000": {
+      "name": "Lowell city",
+      "geoid": "2537000",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.6388716",
+      "longitude": "-071.3217119"
+    },
+    "2581035": {
+      "name": "Woburn city",
+      "geoid": "2581035",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.4868748",
+      "longitude": "-071.1542727"
+    },
+    "2572600": {
+      "name": "Waltham city",
+      "geoid": "2572600",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.3889144",
+      "longitude": "-071.2423123"
+    },
+    "2501185": {
+      "name": "Amesbury city",
+      "geoid": "2501185",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.8529466",
+      "longitude": "-070.9446339"
+    },
+    "2552490": {
+      "name": "Peabody city",
+      "geoid": "2552490",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.5335283",
+      "longitude": "-070.9724586"
+    },
+    "2577890": {
+      "name": "West Springfield Town city",
+      "geoid": "2577890",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.1253196",
+      "longitude": "-072.6502339"
+    },
+    "2578972": {
+      "name": "Weymouth Town city",
+      "geoid": "2578972",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.2068799",
+      "longitude": "-070.9444383"
+    },
+    "2555745": {
+      "name": "Quincy city",
+      "geoid": "2555745",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.2621530",
+      "longitude": "-071.0072344"
+    },
+    "2505595": {
+      "name": "Beverly city",
+      "geoid": "2505595",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.5582783",
+      "longitude": "-070.8434425"
+    },
+    "2513660": {
+      "name": "Chicopee city",
+      "geoid": "2513660",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.1763809",
+      "longitude": "-072.5718626"
+    },
+    "2538715": {
+      "name": "Marlborough city",
+      "geoid": "2538715",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.3494018",
+      "longitude": "-071.5468267"
+    },
+    "2525485": {
+      "name": "Gardner city",
+      "geoid": "2525485",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.5845142",
+      "longitude": "-071.9867551"
+    },
+    "2530840": {
+      "name": "Holyoke city",
+      "geoid": "2530840",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.2125059",
+      "longitude": "-072.6411206"
+    },
+    "2540675": {
+      "name": "Methuen city",
+      "geoid": "2540675",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.7339814",
+      "longitude": "-071.1888453"
+    },
+    "2509000": {
+      "name": "Brockton city",
+      "geoid": "2509000",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.0820573",
+      "longitude": "-071.0241918"
+    },
+    "2500840": {
+      "name": "Agawam Town city",
+      "geoid": "2500840",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.0657284",
+      "longitude": "-072.6525524"
+    },
+    "2527060": {
+      "name": "Greenfield city",
+      "geoid": "2527060",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.6140204",
+      "longitude": "-072.5985709"
+    },
+    "2563345": {
+      "name": "Southbridge Town city",
+      "geoid": "2563345",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.0604296",
+      "longitude": "-072.0337710"
+    },
+    "2546225": {
+      "name": "North Adams city",
+      "geoid": "2546225",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.6844016",
+      "longitude": "-073.1166018"
+    },
+    "2546598": {
+      "name": "North Attleborough Town city",
+      "geoid": "2546598",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+41.9699110",
+      "longitude": "-071.3344834"
+    },
+    "2545000": {
+      "name": "New Bedford city",
+      "geoid": "2545000",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+41.6614695",
+      "longitude": "-070.9381793"
+    },
+    "2545560": {
+      "name": "Newton city",
+      "geoid": "2545560",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.3316010",
+      "longitude": "-071.2084227"
+    },
+    "2529405": {
+      "name": "Haverhill city",
+      "geoid": "2529405",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.7838786",
+      "longitude": "-071.0871579"
+    },
+    "2523000": {
+      "name": "Fall River city",
+      "geoid": "2523000",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+41.7136687",
+      "longitude": "-071.1014139"
+    },
+    "2552144": {
+      "name": "Palmer Town city",
+      "geoid": "2552144",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.1887891",
+      "longitude": "-072.3111721"
+    },
+    "2567000": {
+      "name": "Springfield city",
+      "geoid": "2567000",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.1155016",
+      "longitude": "-072.5395244"
+    },
+    "2582000": {
+      "name": "Worcester city",
+      "geoid": "2582000",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.2705347",
+      "longitude": "-071.8079384"
+    },
+    "2546330": {
+      "name": "Northampton city",
+      "geoid": "2546330",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.3266340",
+      "longitude": "-072.6745316"
+    },
+    "2523875": {
+      "name": "Fitchburg city",
+      "geoid": "2523875",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.5912330",
+      "longitude": "-071.8156015"
+    },
+    "2525172": {
+      "name": "Franklin Town city",
+      "geoid": "2525172",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.0862040",
+      "longitude": "-071.4112833"
+    },
+    "2502690": {
+      "name": "Attleboro city",
+      "geoid": "2502690",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+41.9311110",
+      "longitude": "-071.2949017"
+    },
+    "2524960": {
+      "name": "Framingham city",
+      "geoid": "2524960",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.3085360",
+      "longitude": "-071.4367533"
+    },
+    "2535075": {
+      "name": "Leominster city",
+      "geoid": "2535075",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.5208768",
+      "longitude": "-071.7716710"
+    },
+    "2508130": {
+      "name": "Bridgewater Town city",
+      "geoid": "2508130",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+41.9728240",
+      "longitude": "-070.9748919"
+    },
+    "2526150": {
+      "name": "Gloucester city",
+      "geoid": "2526150",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.6306029",
+      "longitude": "-070.6835960"
+    },
+    "2501370": {
+      "name": "Amherst Town city",
+      "geoid": "2501370",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.3644540",
+      "longitude": "-072.5068594"
+    },
+    "2503690": {
+      "name": "Barnstable Town city",
+      "geoid": "2503690",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+41.6679425",
+      "longitude": "-070.3573426"
+    },
+    "2576030": {
+      "name": "Westfield city",
+      "geoid": "2576030",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.1381856",
+      "longitude": "-072.7561075"
+    },
+    "2569170": {
+      "name": "Taunton city",
+      "geoid": "2569170",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+41.9035781",
+      "longitude": "-071.0942629"
+    },
+    "2507000": {
+      "name": "Boston city",
+      "geoid": "2507000",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.3322591",
+      "longitude": "-071.0164764"
+    },
+    "2553960": {
+      "name": "Pittsfield city",
+      "geoid": "2553960",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.4517049",
+      "longitude": "-073.2605205"
+    },
+    "2555090": {
+      "name": "Popponesset Island CDP",
+      "geoid": "2555090",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.5853347",
+      "longitude": "-070.4590730"
+    },
+    "2560627": {
+      "name": "Seconsett Island CDP",
+      "geoid": "2560627",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.5660968",
+      "longitude": "-070.5123138"
+    },
+    "2541960": {
+      "name": "Monomoscoy Island CDP",
+      "geoid": "2541960",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.5710326",
+      "longitude": "-070.5027165"
+    },
+    "2560505": {
+      "name": "Seabrook CDP",
+      "geoid": "2560505",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.5831142",
+      "longitude": "-070.4991757"
+    },
+    "2555070": {
+      "name": "Popponesset CDP",
+      "geoid": "2555070",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.5739423",
+      "longitude": "-070.4633755"
+    },
+    "2527130": {
+      "name": "Green Harbor CDP",
+      "geoid": "2527130",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.0696179",
+      "longitude": "-070.6488042"
+    },
+    "2513310": {
+      "name": "Cheshire CDP",
+      "geoid": "2513310",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.5611388",
+      "longitude": "-073.1623437"
+    },
+    "2535040": {
+      "name": "Lenox Dale CDP",
+      "geoid": "2535040",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.3338753",
+      "longitude": "-073.2495920"
+    },
+    "2550880": {
+      "name": "Ocean Grove CDP",
+      "geoid": "2550880",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7281644",
+      "longitude": "-071.2097828"
+    },
+    "2541410": {
+      "name": "Millers Falls CDP",
+      "geoid": "2541410",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.5792284",
+      "longitude": "-072.4925452"
+    },
+    "2531295": {
+      "name": "Housatonic CDP",
+      "geoid": "2531295",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2487874",
+      "longitude": "-073.3626547"
+    },
+    "2528425": {
+      "name": "Hanscom AFB CDP",
+      "geoid": "2528425",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.4582326",
+      "longitude": "-071.2793218"
+    },
+    "2569205": {
+      "name": "Teaticket CDP",
+      "geoid": "2569205",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.5623940",
+      "longitude": "-070.5857305"
+    },
+    "2538575": {
+      "name": "Marion Center CDP",
+      "geoid": "2538575",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7042403",
+      "longitude": "-070.7628635"
+    },
+    "2543615": {
+      "name": "Nahant CDP",
+      "geoid": "2543615",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.4145882",
+      "longitude": "-070.9142213"
+    },
+    "2551160": {
+      "name": "Onset CDP",
+      "geoid": "2551160",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7481263",
+      "longitude": "-070.6669898"
+    },
+    "2521115": {
+      "name": "Edgartown CDP",
+      "geoid": "2521115",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.3902482",
+      "longitude": "-070.5193417"
+    },
+    "2509070": {
+      "name": "Brookfield CDP",
+      "geoid": "2509070",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2150001",
+      "longitude": "-072.1027363"
+    },
+    "2579390": {
+      "name": "White Island Shores CDP",
+      "geoid": "2579390",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7932101",
+      "longitude": "-070.6389382"
+    },
+    "2506050": {
+      "name": "Blandford CDP",
+      "geoid": "2506050",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1780673",
+      "longitude": "-072.9241327"
+    },
+    "2573055": {
+      "name": "Warren CDP",
+      "geoid": "2573055",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2154412",
+      "longitude": "-072.1887099"
+    },
+    "2539152": {
+      "name": "Mashpee Neck CDP",
+      "geoid": "2539152",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6118681",
+      "longitude": "-070.4666442"
+    },
+    "2578445": {
+      "name": "West Warren CDP",
+      "geoid": "2578445",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2167803",
+      "longitude": "-072.2366829"
+    },
+    "2578850": {
+      "name": "Weweantic CDP",
+      "geoid": "2578850",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7381506",
+      "longitude": "-070.7332372"
+    },
+    "2575365": {
+      "name": "West Brookfield CDP",
+      "geoid": "2575365",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2388039",
+      "longitude": "-072.1455062"
+    },
+    "2553085": {
+      "name": "Petersham CDP",
+      "geoid": "2553085",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.4910422",
+      "longitude": "-072.1872489"
+    },
+    "2548780": {
+      "name": "North Plymouth CDP",
+      "geoid": "2548780",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.9792848",
+      "longitude": "-070.6777100"
+    },
+    "2571970": {
+      "name": "Vineyard Haven CDP",
+      "geoid": "2571970",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.4571092",
+      "longitude": "-070.6069725"
+    },
+    "2561555": {
+      "name": "Shirley CDP",
+      "geoid": "2561555",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.5398030",
+      "longitude": "-071.6585548"
+    },
+    "2534620": {
+      "name": "Lee CDP",
+      "geoid": "2534620",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.3068500",
+      "longitude": "-073.2503982"
+    },
+    "2503040": {
+      "name": "Ayer CDP",
+      "geoid": "2503040",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.5613787",
+      "longitude": "-071.5847909"
+    },
+    "2564460": {
+      "name": "South Lancaster CDP",
+      "geoid": "2564460",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.4373035",
+      "longitude": "-071.6919848"
+    },
+    "2526780": {
+      "name": "Great Barrington CDP",
+      "geoid": "2526780",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1937831",
+      "longitude": "-073.3617055"
+    },
+    "2511945": {
+      "name": "Cedar Crest CDP",
+      "geoid": "2511945",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.0764235",
+      "longitude": "-070.6612432"
+    },
+    "2513450": {
+      "name": "Chester CDP",
+      "geoid": "2513450",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2827633",
+      "longitude": "-072.9809578"
+    },
+    "2549200": {
+      "name": "North Seekonk CDP",
+      "geoid": "2549200",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.8882453",
+      "longitude": "-071.3297341"
+    },
+    "2500530": {
+      "name": "Acushnet Center CDP",
+      "geoid": "2500530",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6850108",
+      "longitude": "-070.9064825"
+    },
+    "2520310": {
+      "name": "East Pepperell CDP",
+      "geoid": "2520310",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.6653250",
+      "longitude": "-071.5634114"
+    },
+    "2531050": {
+      "name": "Hopkinton CDP",
+      "geoid": "2531050",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2235763",
+      "longitude": "-071.5228234"
+    },
+    "2514430": {
+      "name": "Clinton CDP",
+      "geoid": "2514430",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.4182170",
+      "longitude": "-071.6855350"
+    },
+    "2547100": {
+      "name": "North Brookfield CDP",
+      "geoid": "2547100",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2711681",
+      "longitude": "-072.0842109"
+    },
+    "2573020": {
+      "name": "Wareham Center CDP",
+      "geoid": "2573020",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7494567",
+      "longitude": "-070.7207101"
+    },
+    "2532275": {
+      "name": "Ipswich CDP",
+      "geoid": "2532275",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.6792248",
+      "longitude": "-070.8307290"
+    },
+    "2518595": {
+      "name": "East Brookfield CDP",
+      "geoid": "2518595",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2304065",
+      "longitude": "-072.0476788"
+    },
+    "2503705": {
+      "name": "Barre CDP",
+      "geoid": "2503705",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.4230072",
+      "longitude": "-072.1063796"
+    },
+    "2558370": {
+      "name": "Rowley CDP",
+      "geoid": "2558370",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.7186322",
+      "longitude": "-070.8749746"
+    },
+    "2507140": {
+      "name": "Bourne CDP",
+      "geoid": "2507140",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7314302",
+      "longitude": "-070.6161414"
+    },
+    "2570325": {
+      "name": "Townsend CDP",
+      "geoid": "2570325",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.6716796",
+      "longitude": "-071.7040536"
+    },
+    "2550005": {
+      "name": "Norton Center CDP",
+      "geoid": "2550005",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.9725386",
+      "longitude": "-071.1853556"
+    },
+    "2527445": {
+      "name": "Groton CDP",
+      "geoid": "2527445",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.6083618",
+      "longitude": "-071.5706534"
+    },
+    "2528460": {
+      "name": "Hanson CDP",
+      "geoid": "2528460",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.0649055",
+      "longitude": "-070.8521274"
+    },
+    "2555535": {
+      "name": "Provincetown CDP",
+      "geoid": "2555535",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.0490509",
+      "longitude": "-070.1753329"
+    },
+    "2515340": {
+      "name": "Cordaville CDP",
+      "geoid": "2515340",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2726806",
+      "longitude": "-071.5221445"
+    },
+    "2516635": {
+      "name": "Deerfield CDP",
+      "geoid": "2516635",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.5463424",
+      "longitude": "-072.6024016"
+    },
+    "2550425": {
+      "name": "Oak Bluffs CDP",
+      "geoid": "2550425",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.4551801",
+      "longitude": "-070.5655244"
+    },
+    "2530980": {
+      "name": "Hopedale CDP",
+      "geoid": "2530980",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1280412",
+      "longitude": "-071.5411287"
+    },
+    "2510015": {
+      "name": "Buzzards Bay CDP",
+      "geoid": "2510015",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7549626",
+      "longitude": "-070.6127806"
+    },
+    "2575050": {
+      "name": "Westborough CDP",
+      "geoid": "2575050",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2671759",
+      "longitude": "-071.6168463"
+    },
+    "2570815": {
+      "name": "Turners Falls CDP",
+      "geoid": "2570815",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.5975302",
+      "longitude": "-072.5572631"
+    },
+    "2506170": {
+      "name": "Bliss Corner CDP",
+      "geoid": "2506170",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6054549",
+      "longitude": "-070.9421090"
+    },
+    "2534935": {
+      "name": "Lenox CDP",
+      "geoid": "2534935",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.3596087",
+      "longitude": "-073.2854034"
+    },
+    "2537735": {
+      "name": "Madaket CDP",
+      "geoid": "2537735",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.2817686",
+      "longitude": "-070.1864561"
+    },
+    "2561940": {
+      "name": "Siasconset CDP",
+      "geoid": "2561940",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.2640686",
+      "longitude": "-069.9710530"
+    },
+    "2581245": {
+      "name": "Woods Hole CDP",
+      "geoid": "2581245",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.5290976",
+      "longitude": "-070.6664429"
+    },
+    "2566070": {
+      "name": "Spencer CDP",
+      "geoid": "2566070",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2450878",
+      "longitude": "-071.9924754"
+    },
+    "2523070": {
+      "name": "Falmouth CDP",
+      "geoid": "2523070",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.5516984",
+      "longitude": "-070.6088881"
+    },
+    "2521815": {
+      "name": "Essex CDP",
+      "geoid": "2521815",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.6332954",
+      "longitude": "-070.7743124"
+    },
+    "2552770": {
+      "name": "Pepperell CDP",
+      "geoid": "2552770",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.6694124",
+      "longitude": "-071.5903873"
+    },
+    "2529055": {
+      "name": "Harwich Center CDP",
+      "geoid": "2529055",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6923610",
+      "longitude": "-070.0693918"
+    },
+    "2517860": {
+      "name": "Duxbury CDP",
+      "geoid": "2517860",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.0427565",
+      "longitude": "-070.6748703"
+    },
+    "2554275": {
+      "name": "Plymouth CDP",
+      "geoid": "2554275",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.9578751",
+      "longitude": "-070.6635815"
+    },
+    "2550862": {
+      "name": "Ocean Bluff-Brant Rock CDP",
+      "geoid": "2550862",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1023523",
+      "longitude": "-070.6573721"
+    },
+    "2558615": {
+      "name": "Russell CDP",
+      "geoid": "2558615",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1965445",
+      "longitude": "-072.8639806"
+    },
+    "2551405": {
+      "name": "Orleans CDP",
+      "geoid": "2551405",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7901127",
+      "longitude": "-070.0015454"
+    },
+    "2580370": {
+      "name": "Winchendon CDP",
+      "geoid": "2580370",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.6809301",
+      "longitude": "-072.0436295"
+    },
+    "2529230": {
+      "name": "Hatfield CDP",
+      "geoid": "2529230",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.3714536",
+      "longitude": "-072.6070778"
+    },
+    "2500590": {
+      "name": "Adams CDP",
+      "geoid": "2500590",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.6285296",
+      "longitude": "-073.1185343"
+    },
+    "2571445": {
+      "name": "Upton CDP",
+      "geoid": "2571445",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1764249",
+      "longitude": "-071.6140321"
+    },
+    "2545500": {
+      "name": "New Seabury CDP",
+      "geoid": "2545500",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.5688586",
+      "longitude": "-070.4810492"
+    },
+    "2561205": {
+      "name": "Shelburne Falls CDP",
+      "geoid": "2561205",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.6063085",
+      "longitude": "-072.7436120"
+    },
+    "2529090": {
+      "name": "Harwich Port CDP",
+      "geoid": "2529090",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6719379",
+      "longitude": "-070.0640113"
+    },
+    "2512960": {
+      "name": "Chatham CDP",
+      "geoid": "2512960",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6763318",
+      "longitude": "-069.9632105"
+    },
+    "2503355": {
+      "name": "Baldwinville CDP",
+      "geoid": "2503355",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.6048203",
+      "longitude": "-072.0771385"
+    },
+    "2542670": {
+      "name": "Monument Beach CDP",
+      "geoid": "2542670",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7187167",
+      "longitude": "-070.6071062"
+    },
+    "2538230": {
+      "name": "Mansfield Center CDP",
+      "geoid": "2538230",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.0224908",
+      "longitude": "-071.2180555"
+    },
+    "2530630": {
+      "name": "Holland CDP",
+      "geoid": "2530630",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.0544945",
+      "longitude": "-072.1530550"
+    },
+    "2570115": {
+      "name": "Topsfield CDP",
+      "geoid": "2570115",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.6393133",
+      "longitude": "-070.9551368"
+    },
+    "2531680": {
+      "name": "Hull CDP",
+      "geoid": "2531680",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.3084824",
+      "longitude": "-070.8792380"
+    },
+    "2563690": {
+      "name": "South Duxbury CDP",
+      "geoid": "2563690",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.0167560",
+      "longitude": "-070.6891623"
+    },
+    "2524855": {
+      "name": "Foxborough CDP",
+      "geoid": "2524855",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.0644226",
+      "longitude": "-071.2482658"
+    },
+    "2575505": {
+      "name": "West Chatham CDP",
+      "geoid": "2575505",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6803538",
+      "longitude": "-069.9917326"
+    },
+    "2572460": {
+      "name": "Walpole CDP",
+      "geoid": "2572460",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1370825",
+      "longitude": "-071.2438198"
+    },
+    "2575960": {
+      "name": "West Falmouth CDP",
+      "geoid": "2575960",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6014187",
+      "longitude": "-070.6388616"
+    },
+    "2530175": {
+      "name": "Hingham CDP",
+      "geoid": "2530175",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2365139",
+      "longitude": "-070.8879792"
+    },
+    "2516810": {
+      "name": "Dennis Port CDP",
+      "geoid": "2516810",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6677779",
+      "longitude": "-070.1359490"
+    },
+    "2560820": {
+      "name": "Sharon CDP",
+      "geoid": "2560820",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1173978",
+      "longitude": "-071.1835147"
+    },
+    "2568680": {
+      "name": "Swampscott CDP",
+      "geoid": "2568680",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.4679878",
+      "longitude": "-070.8923814"
+    },
+    "2558790": {
+      "name": "Rutland CDP",
+      "geoid": "2558790",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.3644831",
+      "longitude": "-071.9562917"
+    },
+    "2562780": {
+      "name": "South Ashburnham CDP",
+      "geoid": "2562780",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.6138048",
+      "longitude": "-071.9383871"
+    },
+    "2573930": {
+      "name": "Webster CDP",
+      "geoid": "2573930",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.0446385",
+      "longitude": "-071.8747952"
+    },
+    "2563620": {
+      "name": "South Deerfield CDP",
+      "geoid": "2563620",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.4795380",
+      "longitude": "-072.5947449"
+    },
+    "2523840": {
+      "name": "Fiskdale CDP",
+      "geoid": "2523840",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1228822",
+      "longitude": "-072.1088660"
+    },
+    "2541532": {
+      "name": "Millis-Clicquot CDP",
+      "geoid": "2541532",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1648308",
+      "longitude": "-071.3544107"
+    },
+    "2575680": {
+      "name": "West Concord CDP",
+      "geoid": "2575680",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.4517614",
+      "longitude": "-071.4035425"
+    },
+    "2542180": {
+      "name": "Monson Center CDP",
+      "geoid": "2542180",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.0989837",
+      "longitude": "-072.3048095"
+    },
+    "2518875": {
+      "name": "East Douglas CDP",
+      "geoid": "2518875",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.0779269",
+      "longitude": "-071.7120745"
+    },
+    "2579950": {
+      "name": "Williamstown CDP",
+      "geoid": "2579950",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.7087098",
+      "longitude": "-073.2012120"
+    },
+    "2546785": {
+      "name": "Northborough CDP",
+      "geoid": "2546785",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.3110302",
+      "longitude": "-071.6450251"
+    },
+    "2575820": {
+      "name": "West Dennis CDP",
+      "geoid": "2575820",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6656194",
+      "longitude": "-070.1660570"
+    },
+    "2558965": {
+      "name": "Sagamore CDP",
+      "geoid": "2558965",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7841491",
+      "longitude": "-070.5332034"
+    },
+    "2536020": {
+      "name": "Littleton Common CDP",
+      "geoid": "2536020",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.5352519",
+      "longitude": "-071.4727474"
+    },
+    "2526500": {
+      "name": "Granby CDP",
+      "geoid": "2526500",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2632432",
+      "longitude": "-072.5243803"
+    },
+    "2547590": {
+      "name": "North Eastham CDP",
+      "geoid": "2547590",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.8463696",
+      "longitude": "-070.0153112"
+    },
+    "2551790": {
+      "name": "Oxford CDP",
+      "geoid": "2551790",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1160447",
+      "longitude": "-071.8704804"
+    },
+    "2514570": {
+      "name": "Cochituate CDP",
+      "geoid": "2514570",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.3289990",
+      "longitude": "-071.3576623"
+    },
+    "2553680": {
+      "name": "Pinehurst CDP",
+      "geoid": "2553680",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.5333545",
+      "longitude": "-071.2339549"
+    },
+    "2578410": {
+      "name": "West Wareham CDP",
+      "geoid": "2578410",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7899912",
+      "longitude": "-070.7549646"
+    },
+    "2549165": {
+      "name": "North Scituate CDP",
+      "geoid": "2549165",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2121280",
+      "longitude": "-070.7651209"
+    },
+    "2537385": {
+      "name": "Lunenburg CDP",
+      "geoid": "2537385",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.5934205",
+      "longitude": "-071.7269679"
+    },
+    "2579495": {
+      "name": "Whitinsville CDP",
+      "geoid": "2579495",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1145312",
+      "longitude": "-071.6688641"
+    },
+    "2501430": {
+      "name": "Andover CDP",
+      "geoid": "2501430",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.6553893",
+      "longitude": "-071.1418338"
+    },
+    "2559700": {
+      "name": "Sandwich CDP",
+      "geoid": "2559700",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7573042",
+      "longitude": "-070.4996525"
+    },
+    "2554450": {
+      "name": "Pocasset CDP",
+      "geoid": "2554450",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6885601",
+      "longitude": "-070.6380675"
+    },
+    "2557845": {
+      "name": "Rockport CDP",
+      "geoid": "2557845",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.6451013",
+      "longitude": "-070.6158204"
+    },
+    "2540885": {
+      "name": "Middleborough Center CDP",
+      "geoid": "2540885",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.8945415",
+      "longitude": "-070.9260632"
+    },
+    "2524190": {
+      "name": "Forestdale CDP",
+      "geoid": "2524190",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6845514",
+      "longitude": "-070.5081814"
+    },
+    "2547730": {
+      "name": "North Falmouth CDP",
+      "geoid": "2547730",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6410885",
+      "longitude": "-070.6336763"
+    },
+    "2507945": {
+      "name": "Brewster CDP",
+      "geoid": "2507945",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7618051",
+      "longitude": "-070.0812699"
+    },
+    "2517370": {
+      "name": "Dover CDP",
+      "geoid": "2517370",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2474379",
+      "longitude": "-071.2741654"
+    },
+    "2556095": {
+      "name": "Raynham Center CDP",
+      "geoid": "2556095",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.9327090",
+      "longitude": "-071.0430873"
+    },
+    "2569585": {
+      "name": "The Pinehills CDP",
+      "geoid": "2569585",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.8945755",
+      "longitude": "-070.5966002"
+    },
+    "2560295": {
+      "name": "Scituate CDP",
+      "geoid": "2560295",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1864182",
+      "longitude": "-070.7341084"
+    },
+    "2538435": {
+      "name": "Marblehead CDP",
+      "geoid": "2538435",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.4928075",
+      "longitude": "-070.8348839"
+    },
+    "2547800": {
+      "name": "Northfield CDP",
+      "geoid": "2547800",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.7067238",
+      "longitude": "-072.4356704"
+    },
+    "2548710": {
+      "name": "North Pembroke CDP",
+      "geoid": "2548710",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.0988995",
+      "longitude": "-070.7822759"
+    },
+    "2562300": {
+      "name": "Smith Mills CDP",
+      "geoid": "2562300",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6431753",
+      "longitude": "-070.9920794"
+    },
+    "2505105": {
+      "name": "Belmont CDP",
+      "geoid": "2505105",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.3959859",
+      "longitude": "-071.1795044"
+    },
+    "2531750": {
+      "name": "Huntington CDP",
+      "geoid": "2531750",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2408080",
+      "longitude": "-072.8822060"
+    },
+    "2563655": {
+      "name": "South Dennis CDP",
+      "geoid": "2563655",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7051464",
+      "longitude": "-070.1537082"
+    },
+    "2538960": {
+      "name": "Marshfield Hills CDP",
+      "geoid": "2538960",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1486155",
+      "longitude": "-070.7314806"
+    },
+    "2538820": {
+      "name": "Marshfield CDP",
+      "geoid": "2538820",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.0939568",
+      "longitude": "-070.7048085"
+    },
+    "2539730": {
+      "name": "Medfield CDP",
+      "geoid": "2539730",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1870166",
+      "longitude": "-071.3031916"
+    },
+    "2504790": {
+      "name": "Belchertown CDP",
+      "geoid": "2504790",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2740690",
+      "longitude": "-072.4051078"
+    },
+    "2548220": {
+      "name": "North Lakeville CDP",
+      "geoid": "2548220",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.8620068",
+      "longitude": "-070.9410832"
+    },
+    "2516740": {
+      "name": "Dennis CDP",
+      "geoid": "2516740",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7330086",
+      "longitude": "-070.1994617"
+    },
+    "2518840": {
+      "name": "East Dennis CDP",
+      "geoid": "2518840",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7396070",
+      "longitude": "-070.1577104"
+    },
+    "2533185": {
+      "name": "Kingston CDP",
+      "geoid": "2533185",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.9965437",
+      "longitude": "-070.7224811"
+    },
+    "2539485": {
+      "name": "Mattapoisett Center CDP",
+      "geoid": "2539485",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6665378",
+      "longitude": "-070.8054384"
+    },
+    "2504965": {
+      "name": "Bellingham CDP",
+      "geoid": "2504965",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.0939781",
+      "longitude": "-071.4760895"
+    },
+    "2568120": {
+      "name": "Sturbridge CDP",
+      "geoid": "2568120",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1001134",
+      "longitude": "-072.0634800"
+    },
+    "2507385": {
+      "name": "Boxford CDP",
+      "geoid": "2507385",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.6694115",
+      "longitude": "-070.9831142"
+    },
+    "2501640": {
+      "name": "Arlington CDP",
+      "geoid": "2501640",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.4186579",
+      "longitude": "-071.1638992"
+    },
+    "2549710": {
+      "name": "North Westport CDP",
+      "geoid": "2549710",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6539729",
+      "longitude": "-071.0927280"
+    },
+    "2539660": {
+      "name": "Maynard CDP",
+      "geoid": "2539660",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.4263876",
+      "longitude": "-071.4561076"
+    },
+    "2531575": {
+      "name": "Hudson CDP",
+      "geoid": "2531575",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.3918276",
+      "longitude": "-071.5644883"
+    },
+    "2579705": {
+      "name": "Wilbraham CDP",
+      "geoid": "2579705",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1340829",
+      "longitude": "-072.4345051"
+    },
+    "2518980": {
+      "name": "East Falmouth CDP",
+      "geoid": "2518980",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.5707736",
+      "longitude": "-070.5555498"
+    },
+    "2580545": {
+      "name": "Winchester CDP",
+      "geoid": "2580545",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.4517876",
+      "longitude": "-071.1463115"
+    },
+    "2567700": {
+      "name": "Stoneham CDP",
+      "geoid": "2567700",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.4740819",
+      "longitude": "-071.0971641"
+    },
+    "2582595": {
+      "name": "Yarmouth Port CDP",
+      "geoid": "2582595",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7100799",
+      "longitude": "-070.2259285"
+    },
+    "2551230": {
+      "name": "Orange CDP",
+      "geoid": "2551230",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.5972220",
+      "longitude": "-072.3032008"
+    },
+    "2559210": {
+      "name": "Salisbury CDP",
+      "geoid": "2559210",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.8344287",
+      "longitude": "-070.8392431"
+    },
+    "2543755": {
+      "name": "Nantucket CDP",
+      "geoid": "2543755",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.2726892",
+      "longitude": "-070.0962985"
+    },
+    "2578795": {
+      "name": "West Yarmouth CDP",
+      "geoid": "2578795",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6474101",
+      "longitude": "-070.2493593"
+    },
+    "2572845": {
+      "name": "Ware CDP",
+      "geoid": "2572845",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2549661",
+      "longitude": "-072.2459066"
+    },
+    "2530420": {
+      "name": "Holbrook CDP",
+      "geoid": "2530420",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1470487",
+      "longitude": "-071.0056847"
+    },
+    "2566035": {
+      "name": "South Yarmouth CDP",
+      "geoid": "2566035",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6686146",
+      "longitude": "-070.2005024"
+    },
+    "2509210": {
+      "name": "Brookline CDP",
+      "geoid": "2509210",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.3242763",
+      "longitude": "-071.1407879"
+    },
+    "2516840": {
+      "name": "Devens CDP",
+      "geoid": "2516840",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.5439320",
+      "longitude": "-071.6146309"
+    },
+    "2519400": {
+      "name": "East Harwich CDP",
+      "geoid": "2519400",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7081048",
+      "longitude": "-070.0339561"
+    },
+    "2549700": {
+      "name": "Northwest Harwich CDP",
+      "geoid": "2549700",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6915921",
+      "longitude": "-070.1026090"
+    },
+    "2562465": {
+      "name": "Somerset CDP",
+      "geoid": "2562465",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7404342",
+      "longitude": "-071.1612123"
+    },
+    "2520380": {
+      "name": "East Sandwich CDP",
+      "geoid": "2520380",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7365369",
+      "longitude": "-070.4340489"
+    },
+    "2572250": {
+      "name": "Wakefield CDP",
+      "geoid": "2572250",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.5035071",
+      "longitude": "-071.0655911"
+    },
+    "2502515": {
+      "name": "Athol CDP",
+      "geoid": "2502515",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.5936410",
+      "longitude": "-072.2302362"
+    },
+    "2537595": {
+      "name": "Lynnfield CDP",
+      "geoid": "2537595",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.5356311",
+      "longitude": "-071.0381508"
+    },
+    "2574210": {
+      "name": "Wellesley CDP",
+      "geoid": "2574210",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.3043035",
+      "longitude": "-071.2854478"
+    },
+    "2500135": {
+      "name": "Abington CDP",
+      "geoid": "2500135",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1180436",
+      "longitude": "-070.9590355"
+    },
+    "2556165": {
+      "name": "Reading CDP",
+      "geoid": "2556165",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.5350523",
+      "longitude": "-071.1055753"
+    },
+    "2536335": {
+      "name": "Longmeadow CDP",
+      "geoid": "2536335",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.0475578",
+      "longitude": "-072.5719109"
+    },
+    "2560050": {
+      "name": "Saugus CDP",
+      "geoid": "2560050",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.4680533",
+      "longitude": "-071.0144283"
+    },
+    "2550285": {
+      "name": "Norwood CDP",
+      "geoid": "2550285",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1860458",
+      "longitude": "-071.1948213"
+    },
+    "2516530": {
+      "name": "Dedham CDP",
+      "geoid": "2516530",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2466255",
+      "longitude": "-071.1776461"
+    },
+    "2541200": {
+      "name": "Milford CDP",
+      "geoid": "2541200",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.1477101",
+      "longitude": "-071.5167027"
+    },
+    "2541725": {
+      "name": "Milton CDP",
+      "geoid": "2541725",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2412653",
+      "longitude": "-071.0843168"
+    },
+    "2516285": {
+      "name": "Danvers CDP",
+      "geoid": "2516285",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.5740577",
+      "longitude": "-070.9494543"
+    },
+    "2544140": {
+      "name": "Needham CDP",
+      "geoid": "2544140",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.2813692",
+      "longitude": "-071.2410826"
+    },
+    "2509875": {
+      "name": "Burlington CDP",
+      "geoid": "2509875",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.5021504",
+      "longitude": "-071.2026839"
+    },
+    "2535250": {
+      "name": "Lexington CDP",
+      "geoid": "2535250",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.4456292",
+      "longitude": "-071.2307018"
+    },
+    "2580195": {
+      "name": "Wilmington CDP",
+      "geoid": "2580195",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+42.5609095",
+      "longitude": "-071.1654088"
+    }
+  },
+  "progress": {
+    "incorporated": {
+      "completed_ids": [
+        17664,
+        18470,
+        21946,
+        23069,
+        23682,
+        24320,
+        24771,
+        25552,
+        26515,
+        27112,
+        27991,
+        28113,
+        28154,
+        28373,
+        29198,
+        29271,
+        29304,
+        29350,
+        29425,
+        29494,
+        29605,
+        29886,
+        29909,
+        29927,
+        30075,
+        30256,
+        30483,
+        30493,
+        30552,
+        30595,
+        30615,
+        30630,
+        30642,
+        30655,
+        30882,
+        30921,
+        31089,
+        31100,
+        31151,
+        31223,
+        31225,
+        31281,
+        31323,
+        31368,
+        31517,
+        31613,
+        31713,
+        31762,
+        31820,
+        31841,
+        31889,
+        31930,
+        31934,
+        32210,
+        32263,
+        32303,
+        32396,
+        32435
+      ],
+      "expected_count": 58
+    },
+    "cdp": {
+      "completed_ids": [
+        275,
+        560,
+        1426,
+        3818,
+        3953,
+        3970,
+        5080,
+        6186,
+        8477,
+        9984,
+        10472,
+        10493,
+        11537,
+        11861,
+        12426,
+        12471,
+        12658,
+        12993,
+        13167,
+        13204,
+        13226,
+        13256,
+        13296,
+        13351,
+        13441,
+        13695,
+        13740,
+        14101,
+        14144,
+        14215,
+        14249,
+        14251,
+        14376,
+        14584,
+        14669,
+        14778,
+        14854,
+        14869,
+        15126,
+        15166,
+        15269,
+        15503,
+        15537,
+        15562,
+        15701,
+        15967,
+        16004,
+        16063,
+        16105,
+        16295,
+        16429,
+        16443,
+        16480,
+        16506,
+        16621,
+        16877,
+        16941,
+        17057,
+        17091,
+        17398,
+        17683,
+        17737,
+        17946,
+        17948,
+        18009,
+        18076,
+        18274,
+        18292,
+        18421,
+        18469,
+        18506,
+        18720,
+        19045,
+        19060,
+        19078,
+        19360,
+        19361,
+        19410,
+        19586,
+        19676,
+        19701,
+        19751,
+        19869,
+        20024,
+        20211,
+        20350,
+        20456,
+        20541,
+        20580,
+        20581,
+        20657,
+        20703,
+        20997,
+        21000,
+        21031,
+        21188,
+        21208,
+        21239,
+        21285,
+        21348,
+        21623,
+        21644,
+        21647,
+        21789,
+        21798,
+        21862,
+        21958,
+        22003,
+        22149,
+        22178,
+        22393,
+        22479,
+        22480,
+        22560,
+        22615,
+        22699,
+        22709,
+        22711,
+        22741,
+        22773,
+        22787,
+        22825,
+        22862,
+        23128,
+        23148,
+        23251,
+        23310,
+        23346,
+        23402,
+        23439,
+        23644,
+        23791,
+        23822,
+        23852,
+        23983,
+        24261,
+        24335,
+        24414,
+        24510,
+        24551,
+        24660,
+        24676,
+        24696,
+        24772,
+        24821,
+        24896,
+        24907,
+        24939,
+        25021,
+        25129,
+        25141,
+        25205,
+        25206,
+        25318,
+        25555,
+        25559,
+        25720,
+        25862,
+        26012,
+        26028,
+        26101,
+        26115,
+        26217,
+        26327,
+        26564,
+        26892,
+        26972,
+        27083,
+        27144,
+        27255,
+        27301,
+        27391,
+        27534,
+        27613,
+        28147,
+        28178,
+        28260,
+        28392,
+        28426,
+        28653,
+        29012,
+        29084,
+        29120,
+        29180,
+        29478,
+        29499,
+        29622,
+        29796,
+        29989,
+        30100
+      ],
+      "expected_count": 190
+    },
+    "consolidated": {
+      "completed_ids": [],
+      "expected_count": 0
+    }
+  },
+  "complete": true,
+  "total_places": 248,
+  "updated_at": "2026-09-28T06:01:02.160412+00:00"
+}

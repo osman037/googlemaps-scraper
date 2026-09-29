@@ -1,0 +1,1657 @@
+{
+  "state": {
+    "name": "Hawaii",
+    "code": "HI",
+    "fips": "15"
+  },
+  "cities": {
+    "1561700": {
+      "name": "Paukaa CDP",
+      "geoid": "1561700",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.7623132",
+      "longitude": "-155.0921916"
+    },
+    "1513970": {
+      "name": "Helemano CDP",
+      "geoid": "1513970",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.5361123",
+      "longitude": "-158.0194801"
+    },
+    "1517450": {
+      "name": "Honomu CDP",
+      "geoid": "1517450",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.8696929",
+      "longitude": "-155.1121540"
+    },
+    "1502832": {
+      "name": "Black Sands CDP",
+      "geoid": "1502832",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.4135600",
+      "longitude": "-154.9588029"
+    },
+    "1532700": {
+      "name": "Kawela Bay CDP",
+      "geoid": "1532700",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.7016792",
+      "longitude": "-158.0065806"
+    },
+    "1511500": {
+      "name": "Hanalei CDP",
+      "geoid": "1511500",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+22.2039279",
+      "longitude": "-159.4976241"
+    },
+    "1569238": {
+      "name": "Seaview CDP",
+      "geoid": "1569238",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.4067182",
+      "longitude": "-154.9214480"
+    },
+    "1559750": {
+      "name": "Pahala CDP",
+      "geoid": "1559750",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.1991899",
+      "longitude": "-155.4772794"
+    },
+    "1580470": {
+      "name": "West Loch Estate CDP",
+      "geoid": "1580470",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3616680",
+      "longitude": "-158.0245823"
+    },
+    "1507000": {
+      "name": "Eleele CDP",
+      "geoid": "1507000",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.9054323",
+      "longitude": "-159.5819472"
+    },
+    "1550150": {
+      "name": "Maunaloa CDP",
+      "geoid": "1550150",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.1333828",
+      "longitude": "-157.2122167"
+    },
+    "1519100": {
+      "name": "Iroquois Point CDP",
+      "geoid": "1519100",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3210488",
+      "longitude": "-157.9792067"
+    },
+    "1519550": {
+      "name": "Kaaawa CDP",
+      "geoid": "1519550",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.5511576",
+      "longitude": "-157.8520566"
+    },
+    "1511800": {
+      "name": "Hanapepe CDP",
+      "geoid": "1511800",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.9134222",
+      "longitude": "-159.5878603"
+    },
+    "1572468": {
+      "name": "Volcano Golf Course CDP",
+      "geoid": "1572468",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.4423754",
+      "longitude": "-155.2788330"
+    },
+    "1580900": {
+      "name": "Whitmore Village CDP",
+      "geoid": "1580900",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.5119177",
+      "longitude": "-158.0273307"
+    },
+    "1565750": {
+      "name": "Puhi CDP",
+      "geoid": "1565750",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.9620828",
+      "longitude": "-159.3917950"
+    },
+    "1580000": {
+      "name": "Waipio Acres CDP",
+      "geoid": "1580000",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.4687701",
+      "longitude": "-158.0172840"
+    },
+    "1522250": {
+      "name": "Kahuku CDP",
+      "geoid": "1522250",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.6814490",
+      "longitude": "-157.9408928"
+    },
+    "1535600": {
+      "name": "Kekaha CDP",
+      "geoid": "1535600",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.9673946",
+      "longitude": "-159.7138628"
+    },
+    "1530650": {
+      "name": "Kaumakani CDP",
+      "geoid": "1530650",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.9183904",
+      "longitude": "-159.6250705"
+    },
+    "1507485": {
+      "name": "Ewa Villages CDP",
+      "geoid": "1507485",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3417340",
+      "longitude": "-158.0389289"
+    },
+    "1563650": {
+      "name": "Pepeekeo CDP",
+      "geoid": "1563650",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.8325100",
+      "longitude": "-155.1056350"
+    },
+    "1576250": {
+      "name": "Waikele CDP",
+      "geoid": "1576250",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.4025541",
+      "longitude": "-158.0058323"
+    },
+    "1539400": {
+      "name": "Ko Olina CDP",
+      "geoid": "1539400",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3377727",
+      "longitude": "-158.1186183"
+    },
+    "1507450": {
+      "name": "Ewa Beach CDP",
+      "geoid": "1507450",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3154432",
+      "longitude": "-158.0063761"
+    },
+    "1559300": {
+      "name": "Paauilo CDP",
+      "geoid": "1559300",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.0398019",
+      "longitude": "-155.3708596"
+    },
+    "1512400": {
+      "name": "Hauula CDP",
+      "geoid": "1512400",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.6112327",
+      "longitude": "-157.9091767"
+    },
+    "1557800": {
+      "name": "Omao CDP",
+      "geoid": "1557800",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.9234404",
+      "longitude": "-159.4812537"
+    },
+    "1511650": {
+      "name": "Hanamaulu CDP",
+      "geoid": "1511650",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.9954675",
+      "longitude": "-159.3483723"
+    },
+    "1539200": {
+      "name": "Koloa CDP",
+      "geoid": "1539200",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.9029710",
+      "longitude": "-159.4610670"
+    },
+    "1579860": {
+      "name": "Waipio CDP",
+      "geoid": "1579860",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.4143928",
+      "longitude": "-157.9965828"
+    },
+    "1549425": {
+      "name": "Manele CDP",
+      "geoid": "1549425",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.7419747",
+      "longitude": "-156.9011691"
+    },
+    "1579550": {
+      "name": "Waiohinu CDP",
+      "geoid": "1579550",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.0713626",
+      "longitude": "-155.6144359"
+    },
+    "1543250": {
+      "name": "Laie CDP",
+      "geoid": "1543250",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.6453767",
+      "longitude": "-157.9237605"
+    },
+    "1578950": {
+      "name": "Wainaku CDP",
+      "geoid": "1578950",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.7447448",
+      "longitude": "-155.0976026"
+    },
+    "1508950": {
+      "name": "Haena CDP",
+      "geoid": "1508950",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+22.2185034",
+      "longitude": "-159.5610904"
+    },
+    "1561550": {
+      "name": "Papaikou CDP",
+      "geoid": "1561550",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.7925778",
+      "longitude": "-155.0928855"
+    },
+    "1577000": {
+      "name": "Wailua CDP",
+      "geoid": "1577000",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+22.0546122",
+      "longitude": "-159.3379616"
+    },
+    "1525700": {
+      "name": "Kalapana CDP",
+      "geoid": "1525700",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.3565593",
+      "longitude": "-154.9751866"
+    },
+    "1566500": {
+      "name": "Punaluu CDP",
+      "geoid": "1566500",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.5831959",
+      "longitude": "-157.8900453"
+    },
+    "1541000": {
+      "name": "Kukuihaele CDP",
+      "geoid": "1541000",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.1213190",
+      "longitude": "-155.5656573"
+    },
+    "1570280": {
+      "name": "Tiki Gardens CDP",
+      "geoid": "1570280",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.5286991",
+      "longitude": "-155.0030870"
+    },
+    "1547300": {
+      "name": "Maili CDP",
+      "geoid": "1547300",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.4143005",
+      "longitude": "-158.1750788"
+    },
+    "1500550": {
+      "name": "Aiea CDP",
+      "geoid": "1500550",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3864664",
+      "longitude": "-157.9231842"
+    },
+    "1550375": {
+      "name": "Mauna Loa Estates CDP",
+      "geoid": "1550375",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.4274250",
+      "longitude": "-155.2213242"
+    },
+    "1550750": {
+      "name": "Maunawili CDP",
+      "geoid": "1550750",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3667428",
+      "longitude": "-157.7713146"
+    },
+    "1577750": {
+      "name": "Waimalu CDP",
+      "geoid": "1577750",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3912978",
+      "longitude": "-157.9344421"
+    },
+    "1578800": {
+      "name": "Waimea CDP",
+      "geoid": "1578800",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.9638709",
+      "longitude": "-159.6691691"
+    },
+    "1556685": {
+      "name": "Ocean Pointe CDP",
+      "geoid": "1556685",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3137468",
+      "longitude": "-158.0292984"
+    },
+    "1501085": {
+      "name": "Ainaloa CDP",
+      "geoid": "1501085",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.5214768",
+      "longitude": "-154.9943779"
+    },
+    "1578200": {
+      "name": "Waimanalo Beach CDP",
+      "geoid": "1578200",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3296414",
+      "longitude": "-157.6930258"
+    },
+    "1516450": {
+      "name": "Honokaa CDP",
+      "geoid": "1516450",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.0775750",
+      "longitude": "-155.4643891"
+    },
+    "1507470": {
+      "name": "Ewa Gentry CDP",
+      "geoid": "1507470",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3344200",
+      "longitude": "-158.0262124"
+    },
+    "1553600": {
+      "name": "Naalehu CDP",
+      "geoid": "1553600",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.0698161",
+      "longitude": "-155.5751265"
+    },
+    "1574000": {
+      "name": "Waialua CDP",
+      "geoid": "1574000",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.5672574",
+      "longitude": "-158.1204377"
+    },
+    "1559900": {
+      "name": "Pahoa CDP",
+      "geoid": "1559900",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.4959665",
+      "longitude": "-154.9453498"
+    },
+    "1580600": {
+      "name": "Wheeler AFB CDP",
+      "geoid": "1580600",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.4755447",
+      "longitude": "-158.0351744"
+    },
+    "1572650": {
+      "name": "Wahiawa CDP",
+      "geoid": "1572650",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.5011573",
+      "longitude": "-158.0178616"
+    },
+    "1579250": {
+      "name": "Wainiha CDP",
+      "geoid": "1579250",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+22.1984506",
+      "longitude": "-159.5458165"
+    },
+    "1510000": {
+      "name": "Halawa CDP",
+      "geoid": "1510000",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3753179",
+      "longitude": "-157.9184907"
+    },
+    "1560350": {
+      "name": "Pakala Village CDP",
+      "geoid": "1560350",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.9438233",
+      "longitude": "-159.6448619"
+    },
+    "1565075": {
+      "name": "Princeville CDP",
+      "geoid": "1565075",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+22.2178634",
+      "longitude": "-159.4799609"
+    },
+    "1564550": {
+      "name": "Poipu CDP",
+      "geoid": "1564550",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.8822381",
+      "longitude": "-159.4600997"
+    },
+    "1526750": {
+      "name": "Kalihiwai CDP",
+      "geoid": "1526750",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+22.2164919",
+      "longitude": "-159.4404229"
+    },
+    "1554100": {
+      "name": "Napili-Honokowai CDP",
+      "geoid": "1554100",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.9761411",
+      "longitude": "-156.6710103"
+    },
+    "1553975": {
+      "name": "Nanawale Estates CDP",
+      "geoid": "1553975",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.5035599",
+      "longitude": "-154.9103969"
+    },
+    "1569050": {
+      "name": "Schofield Barracks CDP",
+      "geoid": "1569050",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.4936008",
+      "longitude": "-158.0617551"
+    },
+    "1579700": {
+      "name": "Waipahu CDP",
+      "geoid": "1579700",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3858824",
+      "longitude": "-158.0100960"
+    },
+    "1500400": {
+      "name": "Ahuimanu CDP",
+      "geoid": "1500400",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.4378905",
+      "longitude": "-157.8403300"
+    },
+    "1547450": {
+      "name": "Makaha CDP",
+      "geoid": "1547450",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.4683278",
+      "longitude": "-158.2160737"
+    },
+    "1552550": {
+      "name": "Mokuleia CDP",
+      "geoid": "1552550",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.5790441",
+      "longitude": "-158.1685030"
+    },
+    "1568807": {
+      "name": "Royal Hawaiian Estates CDP",
+      "geoid": "1568807",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.4412235",
+      "longitude": "-155.1840281"
+    },
+    "1510750": {
+      "name": "Haleiwa CDP",
+      "geoid": "1510750",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.6042122",
+      "longitude": "-158.0969444"
+    },
+    "1557650": {
+      "name": "Olowalu CDP",
+      "geoid": "1557650",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.8222133",
+      "longitude": "-156.6167566"
+    },
+    "1553900": {
+      "name": "Nanakuli CDP",
+      "geoid": "1553900",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3863445",
+      "longitude": "-158.1541929"
+    },
+    "1568815": {
+      "name": "Royal Kunia CDP",
+      "geoid": "1568815",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.4052796",
+      "longitude": "-158.0318108"
+    },
+    "1513900": {
+      "name": "Heeia CDP",
+      "geoid": "1513900",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.4208805",
+      "longitude": "-157.8195324"
+    },
+    "1544150": {
+      "name": "Laupahoehoe CDP",
+      "geoid": "1544150",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.9734499",
+      "longitude": "-155.2343809"
+    },
+    "1565150": {
+      "name": "Puako CDP",
+      "geoid": "1565150",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.9652295",
+      "longitude": "-155.8451151"
+    },
+    "1570700": {
+      "name": "Ualapue CDP",
+      "geoid": "1570700",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.0687045",
+      "longitude": "-156.8354767"
+    },
+    "1548050": {
+      "name": "Makawao CDP",
+      "geoid": "1548050",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.8480451",
+      "longitude": "-156.3190285"
+    },
+    "1505900": {
+      "name": "Discovery Harbour CDP",
+      "geoid": "1505900",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.0415042",
+      "longitude": "-155.6254122"
+    },
+    "1566800": {
+      "name": "Pupukea CDP",
+      "geoid": "1566800",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.6578389",
+      "longitude": "-158.0477456"
+    },
+    "1524950": {
+      "name": "Kalaheo CDP",
+      "geoid": "1524950",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.9159146",
+      "longitude": "-159.5236214"
+    },
+    "1510900": {
+      "name": "Haliimaile CDP",
+      "geoid": "1510900",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.8670530",
+      "longitude": "-156.3380702"
+    },
+    "1521200": {
+      "name": "Kahaluu CDP",
+      "geoid": "1521200",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.4580952",
+      "longitude": "-157.8416966"
+    },
+    "1565900": {
+      "name": "Pukalani CDP",
+      "geoid": "1565900",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.8329126",
+      "longitude": "-156.3415090"
+    },
+    "1547560": {
+      "name": "Makaha Valley CDP",
+      "geoid": "1547560",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.4843728",
+      "longitude": "-158.1842821"
+    },
+    "1502200": {
+      "name": "Anahola CDP",
+      "geoid": "1502200",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+22.1458669",
+      "longitude": "-159.3144382"
+    },
+    "1506300": {
+      "name": "East Kapolei CDP",
+      "geoid": "1506300",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3632835",
+      "longitude": "-158.0409485"
+    },
+    "1551000": {
+      "name": "Mililani Mauka CDP",
+      "geoid": "1551000",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.4756283",
+      "longitude": "-157.9948313"
+    },
+    "1551050": {
+      "name": "Mililani Town CDP",
+      "geoid": "1551050",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.4465061",
+      "longitude": "-158.0146437"
+    },
+    "1547600": {
+      "name": "Makakilo CDP",
+      "geoid": "1547600",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3590173",
+      "longitude": "-158.0812102"
+    },
+    "1544562": {
+      "name": "Leilani Estates CDP",
+      "geoid": "1544562",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.4658470",
+      "longitude": "-154.9157444"
+    },
+    "1544450": {
+      "name": "Lawai CDP",
+      "geoid": "1544450",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.9203836",
+      "longitude": "-159.5006702"
+    },
+    "1528287": {
+      "name": "Kaneohe Base CDP",
+      "geoid": "1528287",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.4453115",
+      "longitude": "-157.7513236"
+    },
+    "1530300": {
+      "name": "Kapolei CDP",
+      "geoid": "1530300",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3399253",
+      "longitude": "-158.0678270"
+    },
+    "1509700": {
+      "name": "Halaula CDP",
+      "geoid": "1509700",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.2241994",
+      "longitude": "-155.7736132"
+    },
+    "1578050": {
+      "name": "Waimanalo CDP",
+      "geoid": "1578050",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3420696",
+      "longitude": "-157.7302383"
+    },
+    "1575510": {
+      "name": "Waihee-Waiehu CDP",
+      "geoid": "1575510",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.9217309",
+      "longitude": "-156.5052433"
+    },
+    "1514200": {
+      "name": "Hickam Housing CDP",
+      "geoid": "1514200",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3306304",
+      "longitude": "-157.9479872"
+    },
+    "1536650": {
+      "name": "Kilauea CDP",
+      "geoid": "1536650",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+22.2109450",
+      "longitude": "-159.3959902"
+    },
+    "1520000": {
+      "name": "Kaanapali CDP",
+      "geoid": "1520000",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.9290049",
+      "longitude": "-156.6832458"
+    },
+    "1529725": {
+      "name": "Kapalua CDP",
+      "geoid": "1529725",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.9978237",
+      "longitude": "-156.6455984"
+    },
+    "1577450": {
+      "name": "Wailuku CDP",
+      "geoid": "1577450",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.8854606",
+      "longitude": "-156.5044339"
+    },
+    "1544075": {
+      "name": "Launiupoko CDP",
+      "geoid": "1544075",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.8542134",
+      "longitude": "-156.6422898"
+    },
+    "1546400": {
+      "name": "Maalaea CDP",
+      "geoid": "1546400",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.7992990",
+      "longitude": "-156.4919689"
+    },
+    "1574450": {
+      "name": "Waianae CDP",
+      "geoid": "1574450",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.4528018",
+      "longitude": "-158.1810110"
+    },
+    "1529000": {
+      "name": "Kapaau CDP",
+      "geoid": "1529000",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.2339448",
+      "longitude": "-155.8029861"
+    },
+    "1560200": {
+      "name": "Paia CDP",
+      "geoid": "1560200",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.9094178",
+      "longitude": "-156.3697406"
+    },
+    "1524850": {
+      "name": "Kalaeloa CDP",
+      "geoid": "1524850",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3135076",
+      "longitude": "-158.0650297"
+    },
+    "1528250": {
+      "name": "Kaneohe CDP",
+      "geoid": "1528250",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.4087327",
+      "longitude": "-157.7888324"
+    },
+    "1547050": {
+      "name": "Mahinahina CDP",
+      "geoid": "1547050",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.9540214",
+      "longitude": "-156.6564057"
+    },
+    "1506325": {
+      "name": "Eden Roc CDP",
+      "geoid": "1506325",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.4917490",
+      "longitude": "-155.0957842"
+    },
+    "1532900": {
+      "name": "Keaau CDP",
+      "geoid": "1532900",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.6234836",
+      "longitude": "-155.0481605"
+    },
+    "1576584": {
+      "name": "Waikoloa Beach Resort CDP",
+      "geoid": "1576584",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.9302687",
+      "longitude": "-155.8780079"
+    },
+    "1577225": {
+      "name": "Wailua Homesteads CDP",
+      "geoid": "1577225",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+22.0649513",
+      "longitude": "-159.3770515"
+    },
+    "1542800": {
+      "name": "Kurtistown CDP",
+      "geoid": "1542800",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.5860131",
+      "longitude": "-155.0712781"
+    },
+    "1527350": {
+      "name": "Kamaili CDP",
+      "geoid": "1527350",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.4391132",
+      "longitude": "-154.9188475"
+    },
+    "1507542": {
+      "name": "Fern Acres CDP",
+      "geoid": "1507542",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.5082232",
+      "longitude": "-155.0785436"
+    },
+    "1572957": {
+      "name": "Waiahole-Waikane CDP",
+      "geoid": "1572957",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.4921727",
+      "longitude": "-157.8708956"
+    },
+    "1543700": {
+      "name": "Lanai City CDP",
+      "geoid": "1543700",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.8279322",
+      "longitude": "-156.9147028"
+    },
+    "1523150": {
+      "name": "Kailua CDP",
+      "geoid": "1523150",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3955151",
+      "longitude": "-157.7365892"
+    },
+    "1542950": {
+      "name": "Lahaina CDP",
+      "geoid": "1542950",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.8854207",
+      "longitude": "-156.6653189"
+    },
+    "1521230": {
+      "name": "Kahaluu-Keauhou CDP",
+      "geoid": "1521230",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.5665498",
+      "longitude": "-155.9564734"
+    },
+    "1557350": {
+      "name": "Olinda CDP",
+      "geoid": "1557350",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.8260550",
+      "longitude": "-156.2916517"
+    },
+    "1576925": {
+      "name": "Wailea CDP",
+      "geoid": "1576925",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.6822003",
+      "longitude": "-156.4350728"
+    },
+    "1545200": {
+      "name": "Lihue CDP",
+      "geoid": "1545200",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.9716913",
+      "longitude": "-159.3551173"
+    },
+    "1513600": {
+      "name": "Hawi CDP",
+      "geoid": "1513600",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.2262004",
+      "longitude": "-155.8389283"
+    },
+    "1533950": {
+      "name": "Kealakekua CDP",
+      "geoid": "1533950",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.5286652",
+      "longitude": "-155.9111076"
+    },
+    "1528850": {
+      "name": "Kapaa CDP",
+      "geoid": "1528850",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+22.0905583",
+      "longitude": "-159.3509998"
+    },
+    "1548350": {
+      "name": "Makena CDP",
+      "geoid": "1548350",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.6282523",
+      "longitude": "-156.4283539"
+    },
+    "1558775": {
+      "name": "Orchidlands Estates CDP",
+      "geoid": "1558775",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.5570015",
+      "longitude": "-155.0142383"
+    },
+    "1562600": {
+      "name": "Pearl City CDP",
+      "geoid": "1562600",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.4030634",
+      "longitude": "-157.9566075"
+    },
+    "1536500": {
+      "name": "Kihei CDP",
+      "geoid": "1536500",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.7638724",
+      "longitude": "-156.4490704"
+    },
+    "1575950": {
+      "name": "Waikapu CDP",
+      "geoid": "1575950",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.8391094",
+      "longitude": "-156.5220809"
+    },
+    "1511350": {
+      "name": "Hana CDP",
+      "geoid": "1511350",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.7716072",
+      "longitude": "-156.0084748"
+    },
+    "1531100": {
+      "name": "Kaunakakai CDP",
+      "geoid": "1531100",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.0881432",
+      "longitude": "-157.0002481"
+    },
+    "1503850": {
+      "name": "Captain Cook CDP",
+      "geoid": "1503850",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.4995451",
+      "longitude": "-155.8936799"
+    },
+    "1526867": {
+      "name": "Kaloko CDP",
+      "geoid": "1526867",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.7215776",
+      "longitude": "-155.9505066"
+    },
+    "1507675": {
+      "name": "Fern Forest CDP",
+      "geoid": "1507675",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.4647187",
+      "longitude": "-155.1323804"
+    },
+    "1509260": {
+      "name": "Haiku-Pauwela CDP",
+      "geoid": "1509260",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.9205038",
+      "longitude": "-156.3026293"
+    },
+    "1576600": {
+      "name": "Waikoloa Village CDP",
+      "geoid": "1576600",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.9442485",
+      "longitude": "-155.8052710"
+    },
+    "1523000": {
+      "name": "Kailua CDP",
+      "geoid": "1523000",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.6442561",
+      "longitude": "-155.9953330"
+    },
+    "1512500": {
+      "name": "Hawaiian Beaches CDP",
+      "geoid": "1512500",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.5446484",
+      "longitude": "-154.9289340"
+    },
+    "1512600": {
+      "name": "Hawaiian Paradise Park CDP",
+      "geoid": "1512600",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.5832049",
+      "longitude": "-154.9688629"
+    },
+    "1522700": {
+      "name": "Kahului CDP",
+      "geoid": "1522700",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.8737028",
+      "longitude": "-156.4605006"
+    },
+    "1506290": {
+      "name": "East Honolulu CDP",
+      "geoid": "1506290",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.2887158",
+      "longitude": "-157.7182135"
+    },
+    "1536050": {
+      "name": "Keokea CDP",
+      "geoid": "1536050",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.7210339",
+      "longitude": "-156.3624445"
+    },
+    "1512450": {
+      "name": "Hawaiian Acres CDP",
+      "geoid": "1512450",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.5324583",
+      "longitude": "-155.0497058"
+    },
+    "1541600": {
+      "name": "Kula CDP",
+      "geoid": "1541600",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.7705671",
+      "longitude": "-156.3284129"
+    },
+    "1516160": {
+      "name": "Honaunau-Napoopoo CDP",
+      "geoid": "1516160",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.4531952",
+      "longitude": "-155.8649167"
+    },
+    "1515700": {
+      "name": "Holualoa CDP",
+      "geoid": "1515700",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.6548050",
+      "longitude": "-155.9206633"
+    },
+    "1523675": {
+      "name": "Kaiminani CDP",
+      "geoid": "1523675",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.7319463",
+      "longitude": "-156.0157627"
+    },
+    "1512530": {
+      "name": "Hawaiian Ocean View CDP",
+      "geoid": "1512530",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.0959082",
+      "longitude": "-155.7749612"
+    },
+    "1572350": {
+      "name": "Volcano CDP",
+      "geoid": "1572350",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.4864107",
+      "longitude": "-155.2774144"
+    },
+    "1516000": {
+      "name": "Honalo CDP",
+      "geoid": "1516000",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.5810191",
+      "longitude": "-155.8984432"
+    },
+    "1539500": {
+      "name": "Kualapuu CDP",
+      "geoid": "1539500",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.1563872",
+      "longitude": "-157.0591386"
+    },
+    "1553300": {
+      "name": "Mountain View CDP",
+      "geoid": "1553300",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.5366263",
+      "longitude": "-155.1590642"
+    },
+    "1571550": {
+      "name": "Urban Honolulu CDP",
+      "geoid": "1571550",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+21.3257028",
+      "longitude": "-157.8453437"
+    },
+    "1578500": {
+      "name": "Waimea CDP",
+      "geoid": "1578500",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+20.0124482",
+      "longitude": "-155.6380811"
+    },
+    "1514650": {
+      "name": "Hilo CDP",
+      "geoid": "1514650",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+19.6928371",
+      "longitude": "-155.0827182"
+    }
+  },
+  "progress": {
+    "incorporated": {
+      "completed_ids": [],
+      "expected_count": 0
+    },
+    "cdp": {
+      "completed_ids": [
+        4258,
+        5999,
+        6097,
+        6648,
+        7589,
+        8059,
+        8263,
+        8332,
+        8353,
+        8696,
+        9152,
+        9616,
+        9841,
+        9980,
+        10133,
+        10216,
+        10364,
+        10640,
+        10990,
+        11225,
+        11242,
+        12181,
+        12208,
+        12232,
+        12510,
+        12807,
+        12841,
+        13150,
+        13315,
+        13446,
+        13604,
+        13756,
+        13777,
+        14006,
+        14089,
+        14145,
+        14394,
+        14429,
+        14937,
+        15013,
+        15447,
+        15948,
+        16083,
+        16096,
+        16345,
+        16520,
+        16532,
+        16598,
+        17318,
+        17577,
+        17643,
+        17812,
+        17953,
+        18017,
+        18596,
+        18650,
+        18769,
+        19062,
+        19076,
+        19324,
+        19506,
+        19614,
+        19694,
+        19765,
+        19816,
+        19855,
+        20074,
+        20201,
+        20310,
+        20327,
+        20461,
+        20466,
+        20606,
+        20954,
+        21247,
+        21351,
+        21358,
+        21385,
+        21393,
+        21456,
+        21588,
+        22252,
+        22376,
+        22437,
+        22474,
+        22533,
+        22563,
+        22693,
+        22758,
+        22784,
+        22879,
+        23043,
+        23161,
+        23318,
+        23728,
+        23749,
+        23811,
+        23960,
+        24000,
+        24019,
+        24106,
+        24466,
+        24628,
+        24757,
+        24960,
+        25025,
+        25127,
+        25262,
+        25665,
+        25844,
+        25888,
+        25957,
+        26410,
+        26415,
+        26513,
+        26531,
+        26722,
+        26816,
+        26907,
+        26940,
+        26989,
+        27001,
+        27096,
+        27304,
+        27317,
+        27382,
+        27467,
+        27573,
+        27619,
+        28114,
+        28184,
+        28278,
+        28342,
+        28387,
+        28457,
+        28610,
+        28843,
+        28997,
+        29262,
+        29307,
+        29490,
+        29805,
+        29854,
+        30143,
+        30228,
+        30332,
+        30425,
+        30428,
+        30512,
+        30836,
+        30875,
+        31209,
+        31262,
+        31338,
+        31345,
+        31541,
+        31717,
+        31836,
+        31924,
+        32120,
+        32236,
+        32271,
+        32626
+      ],
+      "expected_count": 163
+    },
+    "consolidated": {
+      "completed_ids": [],
+      "expected_count": 0
+    }
+  },
+  "complete": true,
+  "total_places": 163,
+  "updated_at": "2026-09-28T05:59:52.837013+00:00"
+}

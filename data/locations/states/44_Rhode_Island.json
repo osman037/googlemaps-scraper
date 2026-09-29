@@ -1,0 +1,388 @@
+{
+  "state": {
+    "name": "Rhode Island",
+    "code": "RI",
+    "fips": "44"
+  },
+  "cities": {
+    "4414140": {
+      "name": "Central Falls city",
+      "geoid": "4414140",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+41.8900095",
+      "longitude": "-071.3935212"
+    },
+    "4480780": {
+      "name": "Woonsocket city",
+      "geoid": "4480780",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+42.0010307",
+      "longitude": "-071.4993032"
+    },
+    "4449960": {
+      "name": "Newport city",
+      "geoid": "4449960",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+41.4819360",
+      "longitude": "-071.3229453"
+    },
+    "4454640": {
+      "name": "Pawtucket city",
+      "geoid": "4454640",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+41.8744115",
+      "longitude": "-071.3743157"
+    },
+    "4422960": {
+      "name": "East Providence city",
+      "geoid": "4422960",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+41.8004900",
+      "longitude": "-071.3582129"
+    },
+    "4459000": {
+      "name": "Providence city",
+      "geoid": "4459000",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+41.8230063",
+      "longitude": "-071.4187152"
+    },
+    "4474300": {
+      "name": "Warwick city",
+      "geoid": "4474300",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+41.7020956",
+      "longitude": "-071.4202254"
+    },
+    "4419180": {
+      "name": "Cranston city",
+      "geoid": "4419180",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+41.7660028",
+      "longitude": "-071.4823598"
+    },
+    "4433400": {
+      "name": "Harrisville CDP",
+      "geoid": "4433400",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.9686904",
+      "longitude": "-071.6767650"
+    },
+    "4475200": {
+      "name": "Watch Hill CDP",
+      "geoid": "4475200",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.3157455",
+      "longitude": "-071.8487076"
+    },
+    "4480960": {
+      "name": "Wyoming CDP",
+      "geoid": "4480960",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.5143254",
+      "longitude": "-071.6903350"
+    },
+    "4475920": {
+      "name": "Weekapaug CDP",
+      "geoid": "4475920",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.3359185",
+      "longitude": "-071.7634489"
+    },
+    "4446000": {
+      "name": "Misquamicut CDP",
+      "geoid": "4446000",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.3237974",
+      "longitude": "-071.8219475"
+    },
+    "4460260": {
+      "name": "Quonochontaug CDP",
+      "geoid": "4460260",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.3436320",
+      "longitude": "-071.7056769"
+    },
+    "4438980": {
+      "name": "Kingston CDP",
+      "geoid": "4438980",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.4737349",
+      "longitude": "-071.5235624"
+    },
+    "4415940": {
+      "name": "Clayville CDP",
+      "geoid": "4415940",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7733826",
+      "longitude": "-071.6853358"
+    },
+    "4408020": {
+      "name": "Bradford CDP",
+      "geoid": "4408020",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.3944640",
+      "longitude": "-071.7540510"
+    },
+    "4445010": {
+      "name": "Melville CDP",
+      "geoid": "4445010",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.5607135",
+      "longitude": "-071.3005455"
+    },
+    "4414320": {
+      "name": "Charlestown CDP",
+      "geoid": "4414320",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.3782780",
+      "longitude": "-071.6284693"
+    },
+    "4427640": {
+      "name": "Foster Center CDP",
+      "geoid": "4427640",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.7898488",
+      "longitude": "-071.7327298"
+    },
+    "4403520": {
+      "name": "Ashaway CDP",
+      "geoid": "4403520",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.4259538",
+      "longitude": "-071.7852387"
+    },
+    "4412340": {
+      "name": "Carolina CDP",
+      "geoid": "4412340",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.4625519",
+      "longitude": "-071.6585138"
+    },
+    "4433040": {
+      "name": "Harmony CDP",
+      "geoid": "4433040",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.8963708",
+      "longitude": "-071.6051342"
+    },
+    "4420260": {
+      "name": "Cumberland Hill CDP",
+      "geoid": "4420260",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.9736097",
+      "longitude": "-071.4604735"
+    },
+    "4434660": {
+      "name": "Hope Valley CDP",
+      "geoid": "4434660",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.5150645",
+      "longitude": "-071.7200620"
+    },
+    "4435200": {
+      "name": "Hopkinton CDP",
+      "geoid": "4435200",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.4621730",
+      "longitude": "-071.7782505"
+    },
+    "4448700": {
+      "name": "Narragansett Pier CDP",
+      "geoid": "4448700",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.4281951",
+      "longitude": "-071.4663229"
+    },
+    "4472500": {
+      "name": "Valley Falls CDP",
+      "geoid": "4472500",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.9232302",
+      "longitude": "-071.3922214"
+    },
+    "4470700": {
+      "name": "Tiverton CDP",
+      "geoid": "4470700",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6541096",
+      "longitude": "-071.2011413"
+    },
+    "4473132": {
+      "name": "Wakefield-Peace Dale CDP",
+      "geoid": "4473132",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.4460346",
+      "longitude": "-071.5001651"
+    },
+    "4454460": {
+      "name": "Pascoag CDP",
+      "geoid": "4454460",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.9519716",
+      "longitude": "-071.7042303"
+    },
+    "4450140": {
+      "name": "Newport East CDP",
+      "geoid": "4450140",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.5159152",
+      "longitude": "-071.2878076"
+    },
+    "4414860": {
+      "name": "Chepachet CDP",
+      "geoid": "4414860",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.9104187",
+      "longitude": "-071.6653560"
+    },
+    "4431600": {
+      "name": "Greenville CDP",
+      "geoid": "4431600",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.8820100",
+      "longitude": "-071.5549102"
+    },
+    "4431240": {
+      "name": "Greene CDP",
+      "geoid": "4431240",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.6987460",
+      "longitude": "-071.7338694"
+    },
+    "4476820": {
+      "name": "Westerly CDP",
+      "geoid": "4476820",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+41.3722675",
+      "longitude": "-071.8069344"
+    }
+  },
+  "progress": {
+    "incorporated": {
+      "completed_ids": [
+        12890,
+        27221,
+        27614,
+        27735,
+        29503,
+        30863,
+        31336,
+        31665
+      ],
+      "expected_count": 8
+    },
+    "cdp": {
+      "completed_ids": [
+        9591,
+        9670,
+        10377,
+        12970,
+        13019,
+        13957,
+        15862,
+        15936,
+        16541,
+        18053,
+        18347,
+        18595,
+        18915,
+        19266,
+        21246,
+        21384,
+        22054,
+        22124,
+        22255,
+        22279,
+        23545,
+        24776,
+        25245,
+        25570,
+        25610,
+        25796,
+        25835,
+        29881
+      ],
+      "expected_count": 28
+    },
+    "consolidated": {
+      "completed_ids": [],
+      "expected_count": 0
+    }
+  },
+  "complete": true,
+  "total_places": 36,
+  "updated_at": "2026-09-28T06:03:15.998221+00:00"
+}

@@ -1,0 +1,41 @@
+# One category per line. Search = "{category} in {city}, {ST}".
+# Lines starting with # are ignored.
+# NOTE: each page = 20 results; --max-pages controls depth per query.
+# Use narrow categories - broad ones like "businesses" give poor results.
+
+Dentist
+Dental clinic
+Orthodontist
+Cosmetic dentist
+Pediatric dentist
+Emergency dental service
+Oral surgeon
+Medical clinic
+Hospital
+Pharmacy
+Chiropractor
+Physical therapist
+Optometrist
+Veterinarian
+Gym
+Beauty salon
+Barber shop
+Restaurant
+Cafe
+Bakery
+Bar
+Hotel
+Grocery store
+Auto repair shop
+Plumber
+Electrician
+HVAC contractor
+Roofing contractor
+Real estate agency
+Law firm
+Accounting firm
+Insurance agency
+Preschool
+Day care center
+Moving company
+Landscaper

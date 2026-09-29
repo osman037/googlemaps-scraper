@@ -1,0 +1,14 @@
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# user credentials - proxies.txt.example is committed, proxies.txt is not
+config/proxies.txt
+
+# runtime outputs and logs
+output/
+*.log
+*.sqlite3-wal
+*.sqlite3-shm

@@ -1,0 +1,4868 @@
+{
+  "state": {
+    "name": "Louisiana",
+    "code": "LA",
+    "fips": "22"
+  },
+  "cities": {
+    "2253370": {
+      "name": "Napoleonville village",
+      "geoid": "2253370",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+29.9382667",
+      "longitude": "-091.0263611"
+    },
+    "2222850": {
+      "name": "Edgefield village",
+      "geoid": "2222850",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.0500811",
+      "longitude": "-093.3359618"
+    },
+    "2222465": {
+      "name": "East Hodge village",
+      "geoid": "2222465",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.2775499",
+      "longitude": "-092.7140300"
+    },
+    "2245670": {
+      "name": "Loreauville village",
+      "geoid": "2245670",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.0604198",
+      "longitude": "-091.7376956"
+    },
+    "2218295": {
+      "name": "Creola village",
+      "geoid": "2218295",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.4300053",
+      "longitude": "-092.4828517"
+    },
+    "2264765": {
+      "name": "Ridgecrest town",
+      "geoid": "2264765",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.6018052",
+      "longitude": "-091.5304211"
+    },
+    "2225335": {
+      "name": "Fenton village",
+      "geoid": "2225335",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.3643340",
+      "longitude": "-092.9169652"
+    },
+    "2221135": {
+      "name": "Dixie Inn village",
+      "geoid": "2221135",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.5966917",
+      "longitude": "-093.3318369"
+    },
+    "2209165": {
+      "name": "Boyce town",
+      "geoid": "2209165",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.3906203",
+      "longitude": "-092.6699275"
+    },
+    "2262245": {
+      "name": "Powhatan village",
+      "geoid": "2262245",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.8737752",
+      "longitude": "-093.2032388"
+    },
+    "2252565": {
+      "name": "Mound village",
+      "geoid": "2252565",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.3330038",
+      "longitude": "-091.0243885"
+    },
+    "2214450": {
+      "name": "Chataignier village",
+      "geoid": "2214450",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.5695699",
+      "longitude": "-092.3168315"
+    },
+    "2225615": {
+      "name": "Fisher village",
+      "geoid": "2225615",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.4932726",
+      "longitude": "-093.4597384"
+    },
+    "2270245": {
+      "name": "Sicily Island village",
+      "geoid": "2270245",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.8493965",
+      "longitude": "-091.6597820"
+    },
+    "2271820": {
+      "name": "South Mansfield village",
+      "geoid": "2271820",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.0180547",
+      "longitude": "-093.7236872"
+    },
+    "2203110": {
+      "name": "Arnaudville town",
+      "geoid": "2203110",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4021920",
+      "longitude": "-091.9319932"
+    },
+    "2279940": {
+      "name": "Waterproof town",
+      "geoid": "2279940",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.8071593",
+      "longitude": "-091.3861463"
+    },
+    "2255910": {
+      "name": "North Hodge village",
+      "geoid": "2255910",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.2845242",
+      "longitude": "-092.7172129"
+    },
+    "2216830": {
+      "name": "Columbia town",
+      "geoid": "2216830",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.1025106",
+      "longitude": "-092.0769200"
+    },
+    "2253930": {
+      "name": "Newellton town",
+      "geoid": "2253930",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.0723512",
+      "longitude": "-091.2391289"
+    },
+    "2281375": {
+      "name": "White Castle town",
+      "geoid": "2281375",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.1610222",
+      "longitude": "-091.1495427"
+    },
+    "2221450": {
+      "name": "Downsville village",
+      "geoid": "2221450",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.6264371",
+      "longitude": "-092.4129202"
+    },
+    "2248610": {
+      "name": "Maringouin town",
+      "geoid": "2248610",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4907764",
+      "longitude": "-091.5185623"
+    },
+    "2234015": {
+      "name": "Hessmer village",
+      "geoid": "2234015",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.0533734",
+      "longitude": "-092.1214874"
+    },
+    "2279870": {
+      "name": "Washington town",
+      "geoid": "2279870",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.6150438",
+      "longitude": "-092.0594883"
+    },
+    "2277910": {
+      "name": "Varnado village",
+      "geoid": "2277910",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.8953014",
+      "longitude": "-089.8318654"
+    },
+    "2259165": {
+      "name": "Parks village",
+      "geoid": "2259165",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.2172281",
+      "longitude": "-091.8272633"
+    },
+    "2282565": {
+      "name": "Wisner town",
+      "geoid": "2282565",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.9804278",
+      "longitude": "-091.6550899"
+    },
+    "2263120": {
+      "name": "Quitman village",
+      "geoid": "2263120",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.3507068",
+      "longitude": "-092.7235901"
+    },
+    "2232055": {
+      "name": "Gueydan town",
+      "geoid": "2232055",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.0290166",
+      "longitude": "-092.5069846"
+    },
+    "2258780": {
+      "name": "Palmetto village",
+      "geoid": "2258780",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.7177200",
+      "longitude": "-091.9081634"
+    },
+    "2267495": {
+      "name": "St. Joseph town",
+      "geoid": "2267495",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.9202838",
+      "longitude": "-091.2400400"
+    },
+    "2257205": {
+      "name": "Oak Ridge village",
+      "geoid": "2257205",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.6243531",
+      "longitude": "-091.7731248"
+    },
+    "2214485": {
+      "name": "Chatham town",
+      "geoid": "2214485",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.3093705",
+      "longitude": "-092.4520372"
+    },
+    "2224215": {
+      "name": "Eros town",
+      "geoid": "2224215",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.3925577",
+      "longitude": "-092.4239334"
+    },
+    "2224145": {
+      "name": "Epps village",
+      "geoid": "2224145",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.6038237",
+      "longitude": "-091.4814117"
+    },
+    "2235100": {
+      "name": "Hodge village",
+      "geoid": "2235100",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.2719338",
+      "longitude": "-092.7303888"
+    },
+    "2233210": {
+      "name": "Harrisonburg village",
+      "geoid": "2233210",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.7680126",
+      "longitude": "-091.8250880"
+    },
+    "2215780": {
+      "name": "Clarks village",
+      "geoid": "2215780",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.0288171",
+      "longitude": "-092.1408391"
+    },
+    "2253510": {
+      "name": "Natchez village",
+      "geoid": "2253510",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.6743339",
+      "longitude": "-093.0456034"
+    },
+    "2228940": {
+      "name": "Gilbert village",
+      "geoid": "2228940",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.0506964",
+      "longitude": "-091.6567693"
+    },
+    "2212280": {
+      "name": "Campti town",
+      "geoid": "2212280",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.8981580",
+      "longitude": "-093.1157610"
+    },
+    "2255420": {
+      "name": "Noble village",
+      "geoid": "2255420",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.6899025",
+      "longitude": "-093.6832085"
+    },
+    "2224775": {
+      "name": "Evergreen town",
+      "geoid": "2224775",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.9527587",
+      "longitude": "-092.1051682"
+    },
+    "2214660": {
+      "name": "Cheneyville town",
+      "geoid": "2214660",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.0109951",
+      "longitude": "-092.2901117"
+    },
+    "2274760": {
+      "name": "Tangipahoa village",
+      "geoid": "2274760",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.8757807",
+      "longitude": "-090.5138400"
+    },
+    "2230690": {
+      "name": "Grand Cane village",
+      "geoid": "2230690",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.0836312",
+      "longitude": "-093.8088010"
+    },
+    "2244900": {
+      "name": "Lockport town",
+      "geoid": "2244900",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+29.6442655",
+      "longitude": "-090.5324277"
+    },
+    "2216655": {
+      "name": "Collinston village",
+      "geoid": "2216655",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.6892831",
+      "longitude": "-091.8718130"
+    },
+    "2248260": {
+      "name": "Mangham town",
+      "geoid": "2248260",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.3092760",
+      "longitude": "-091.7794346"
+    },
+    "2260565": {
+      "name": "Pioneer village",
+      "geoid": "2260565",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.7380993",
+      "longitude": "-091.4381286"
+    },
+    "2261825": {
+      "name": "Port Barre town",
+      "geoid": "2261825",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.5565864",
+      "longitude": "-091.9564845"
+    },
+    "2242800": {
+      "name": "Lecompte town",
+      "geoid": "2242800",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.0881557",
+      "longitude": "-092.3998700"
+    },
+    "2203390": {
+      "name": "Atlanta village",
+      "geoid": "2203390",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.8064021",
+      "longitude": "-092.7383342"
+    },
+    "2265710": {
+      "name": "Rodessa village",
+      "geoid": "2265710",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.9735344",
+      "longitude": "-093.9966073"
+    },
+    "2252075": {
+      "name": "Morganza village",
+      "geoid": "2252075",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.7383313",
+      "longitude": "-091.5919541"
+    },
+    "2267880": {
+      "name": "Saline village",
+      "geoid": "2267880",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.1631237",
+      "longitude": "-092.9767777"
+    },
+    "2265325": {
+      "name": "Robeline village",
+      "geoid": "2265325",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.6898249",
+      "longitude": "-093.3039366"
+    },
+    "2213260": {
+      "name": "Castor village",
+      "geoid": "2213260",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.2548778",
+      "longitude": "-093.1659630"
+    },
+    "2220155": {
+      "name": "Delcambre town",
+      "geoid": "2220155",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+29.9513503",
+      "longitude": "-091.9915821"
+    },
+    "2236045": {
+      "name": "Hornbeck town",
+      "geoid": "2236045",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.3265499",
+      "longitude": "-093.3959723"
+    },
+    "2204580": {
+      "name": "Basile town",
+      "geoid": "2204580",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4855111",
+      "longitude": "-092.6010198"
+    },
+    "2249905": {
+      "name": "Mer Rouge village",
+      "geoid": "2249905",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.7767257",
+      "longitude": "-091.7948539"
+    },
+    "2218790": {
+      "name": "Cullen town",
+      "geoid": "2218790",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.9698309",
+      "longitude": "-093.4464257"
+    },
+    "2251830": {
+      "name": "Mooringsport village",
+      "geoid": "2251830",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.6823440",
+      "longitude": "-093.9604713"
+    },
+    "2237410": {
+      "name": "Iota town",
+      "geoid": "2237410",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.3260536",
+      "longitude": "-092.4956125"
+    },
+    "2249730": {
+      "name": "Melville town",
+      "geoid": "2249730",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.6917070",
+      "longitude": "-091.7484365"
+    },
+    "2231250": {
+      "name": "Grayson village",
+      "geoid": "2231250",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.0491734",
+      "longitude": "-092.1115705"
+    },
+    "2238985": {
+      "name": "Junction City village",
+      "geoid": "2238985",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+33.0072726",
+      "longitude": "-092.7224156"
+    },
+    "2208535": {
+      "name": "Bonita village",
+      "geoid": "2208535",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.9205104",
+      "longitude": "-091.6750660"
+    },
+    "2200835": {
+      "name": "Albany town",
+      "geoid": "2200835",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4991933",
+      "longitude": "-090.5838166"
+    },
+    "2277490": {
+      "name": "Urania town",
+      "geoid": "2277490",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.8638926",
+      "longitude": "-092.2912227"
+    },
+    "2228660": {
+      "name": "Georgetown village",
+      "geoid": "2228660",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.7597207",
+      "longitude": "-092.3820332"
+    },
+    "2204615": {
+      "name": "Baskin village",
+      "geoid": "2204615",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.2590684",
+      "longitude": "-091.7473302"
+    },
+    "2272415": {
+      "name": "Springfield town",
+      "geoid": "2272415",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4255517",
+      "longitude": "-090.5444144"
+    },
+    "2236885": {
+      "name": "Ida village",
+      "geoid": "2236885",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.9989015",
+      "longitude": "-093.8963790"
+    },
+    "2248085": {
+      "name": "Mamou town",
+      "geoid": "2248085",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.6348706",
+      "longitude": "-092.4179180"
+    },
+    "2252320": {
+      "name": "Morse village",
+      "geoid": "2252320",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.1220970",
+      "longitude": "-092.4984352"
+    },
+    "2239650": {
+      "name": "Kilbourne village",
+      "geoid": "2239650",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.9971842",
+      "longitude": "-091.3139055"
+    },
+    "2221765": {
+      "name": "Dry Prong village",
+      "geoid": "2221765",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.5806458",
+      "longitude": "-092.5304998"
+    },
+    "2260985": {
+      "name": "Plaucheville village",
+      "geoid": "2260985",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.9646924",
+      "longitude": "-091.9836545"
+    },
+    "2202165": {
+      "name": "Angie village",
+      "geoid": "2202165",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.9632514",
+      "longitude": "-089.8177544"
+    },
+    "2232020": {
+      "name": "Grosse Tete village",
+      "geoid": "2232020",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4148077",
+      "longitude": "-091.4394874"
+    },
+    "2216375": {
+      "name": "Colfax town",
+      "geoid": "2216375",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.5208005",
+      "longitude": "-092.7001513"
+    },
+    "2260495": {
+      "name": "Pine Prairie village",
+      "geoid": "2260495",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.7817904",
+      "longitude": "-092.4223575"
+    },
+    "2275670": {
+      "name": "Tickfaw village",
+      "geoid": "2275670",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.5769011",
+      "longitude": "-090.4871138"
+    },
+    "2261055": {
+      "name": "Pleasant Hill village",
+      "geoid": "2261055",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.8153626",
+      "longitude": "-093.5163997"
+    },
+    "2225440": {
+      "name": "Ferriday town",
+      "geoid": "2225440",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.6341799",
+      "longitude": "-091.5561694"
+    },
+    "2268125": {
+      "name": "Sarepta town",
+      "geoid": "2268125",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.8963103",
+      "longitude": "-093.4517033"
+    },
+    "2215850": {
+      "name": "Clayton town",
+      "geoid": "2215850",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.7226285",
+      "longitude": "-091.5372844"
+    },
+    "2276615": {
+      "name": "Tullos town",
+      "geoid": "2276615",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.8188078",
+      "longitude": "-092.3292529"
+    },
+    "2270385": {
+      "name": "Sikes village",
+      "geoid": "2270385",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.0789812",
+      "longitude": "-092.4862699"
+    },
+    "2215745": {
+      "name": "Clarence village",
+      "geoid": "2215745",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.8198027",
+      "longitude": "-093.0290793"
+    },
+    "2205945": {
+      "name": "Belcher village",
+      "geoid": "2205945",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.7521700",
+      "longitude": "-093.8372134"
+    },
+    "2260670": {
+      "name": "Plain Dealing town",
+      "geoid": "2260670",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.9074228",
+      "longitude": "-093.6990728"
+    },
+    "2262105": {
+      "name": "Port Vincent village",
+      "geoid": "2262105",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.3383645",
+      "longitude": "-090.8422177"
+    },
+    "2256820": {
+      "name": "Oak Grove town",
+      "geoid": "2256820",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.8619538",
+      "longitude": "-091.3910526"
+    },
+    "2229220": {
+      "name": "Glenmora town",
+      "geoid": "2229220",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.9733147",
+      "longitude": "-092.5823824"
+    },
+    "2226350": {
+      "name": "Forest village",
+      "geoid": "2226350",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.7923657",
+      "longitude": "-091.4125555"
+    },
+    "2232650": {
+      "name": "Hall Summit village",
+      "geoid": "2232650",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.1767706",
+      "longitude": "-093.3055107"
+    },
+    "2264590": {
+      "name": "Richmond village",
+      "geoid": "2264590",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.3883721",
+      "longitude": "-091.1804093"
+    },
+    "2223620": {
+      "name": "Elton town",
+      "geoid": "2223620",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4812528",
+      "longitude": "-092.6976090"
+    },
+    "2223235": {
+      "name": "Elizabeth village",
+      "geoid": "2223235",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.8669667",
+      "longitude": "-092.7986219"
+    },
+    "2240280": {
+      "name": "Krotz Springs town",
+      "geoid": "2240280",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.5323163",
+      "longitude": "-091.7518077"
+    },
+    "2267215": {
+      "name": "St. Francisville town",
+      "geoid": "2267215",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.7851853",
+      "longitude": "-091.3787128"
+    },
+    "2221800": {
+      "name": "Dubach town",
+      "geoid": "2221800",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.7019450",
+      "longitude": "-092.6574578"
+    },
+    "2224180": {
+      "name": "Erath town",
+      "geoid": "2224180",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+29.9587866",
+      "longitude": "-092.0374243"
+    },
+    "2237935": {
+      "name": "Jamestown village",
+      "geoid": "2237935",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.3396701",
+      "longitude": "-093.2064274"
+    },
+    "2243920": {
+      "name": "Lillie village",
+      "geoid": "2243920",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.9220458",
+      "longitude": "-092.6613377"
+    },
+    "2244690": {
+      "name": "Livonia town",
+      "geoid": "2244690",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.5622482",
+      "longitude": "-091.5501123"
+    },
+    "2241050": {
+      "name": "Lake Arthur town",
+      "geoid": "2241050",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.0797383",
+      "longitude": "-092.6772373"
+    },
+    "2233735": {
+      "name": "Heflin village",
+      "geoid": "2233735",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.4565132",
+      "longitude": "-093.2682435"
+    },
+    "2238775": {
+      "name": "Jonesville town",
+      "geoid": "2238775",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.6238542",
+      "longitude": "-091.8299182"
+    },
+    "2251690": {
+      "name": "Montpelier village",
+      "geoid": "2251690",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.6822422",
+      "longitude": "-090.6545238"
+    },
+    "2247315": {
+      "name": "McNary village",
+      "geoid": "2247315",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.9894819",
+      "longitude": "-092.5794543"
+    },
+    "2257590": {
+      "name": "Oil City town",
+      "geoid": "2257590",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.7455709",
+      "longitude": "-093.9757549"
+    },
+    "2224460": {
+      "name": "Estherwood village",
+      "geoid": "2224460",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.1816136",
+      "longitude": "-092.4633153"
+    },
+    "2230550": {
+      "name": "Gramercy town",
+      "geoid": "2230550",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.0610550",
+      "longitude": "-090.6928834"
+    },
+    "2232930": {
+      "name": "Harahan city",
+      "geoid": "2232930",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+29.9374805",
+      "longitude": "-090.2030558"
+    },
+    "2212420": {
+      "name": "Cankton village",
+      "geoid": "2212420",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.3455331",
+      "longitude": "-092.1130838"
+    },
+    "2217880": {
+      "name": "Cottonport town",
+      "geoid": "2217880",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.9891743",
+      "longitude": "-092.0509522"
+    },
+    "2226140": {
+      "name": "Folsom village",
+      "geoid": "2226140",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.6306394",
+      "longitude": "-090.1942203"
+    },
+    "2266165": {
+      "name": "Roseland town",
+      "geoid": "2266165",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.7643886",
+      "longitude": "-090.5116142"
+    },
+    "2249870": {
+      "name": "Mermentau village",
+      "geoid": "2249870",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.1874147",
+      "longitude": "-092.5839676"
+    },
+    "2245460": {
+      "name": "Longstreet village",
+      "geoid": "2245460",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.0976125",
+      "longitude": "-093.9505221"
+    },
+    "2251620": {
+      "name": "Montgomery town",
+      "geoid": "2251620",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.6676101",
+      "longitude": "-092.8876042"
+    },
+    "2210600": {
+      "name": "Brusly town",
+      "geoid": "2210600",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.3942495",
+      "longitude": "-091.2516082"
+    },
+    "2225860": {
+      "name": "Florien village",
+      "geoid": "2225860",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.4480020",
+      "longitude": "-093.4583694"
+    },
+    "2217215": {
+      "name": "Converse village",
+      "geoid": "2217215",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.7795379",
+      "longitude": "-093.7001303"
+    },
+    "2272800": {
+      "name": "Stanley village",
+      "geoid": "2272800",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.9608510",
+      "longitude": "-093.8995190"
+    },
+    "2270525": {
+      "name": "Simmesport town",
+      "geoid": "2270525",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.9805499",
+      "longitude": "-091.8142682"
+    },
+    "2229010": {
+      "name": "Gilliam village",
+      "geoid": "2229010",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.8282382",
+      "longitude": "-093.8417883"
+    },
+    "2272170": {
+      "name": "Spearsville village",
+      "geoid": "2272170",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.9320101",
+      "longitude": "-092.6001134"
+    },
+    "2239055": {
+      "name": "Kaplan city",
+      "geoid": "2239055",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.0059592",
+      "longitude": "-092.2838755"
+    },
+    "2210705": {
+      "name": "Bryceland village",
+      "geoid": "2210705",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.4485371",
+      "longitude": "-092.9923983"
+    },
+    "2264905": {
+      "name": "Ringgold town",
+      "geoid": "2264905",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.3260334",
+      "longitude": "-093.2836948"
+    },
+    "2238075": {
+      "name": "Jeanerette city",
+      "geoid": "2238075",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+29.9157528",
+      "longitude": "-091.6757870"
+    },
+    "2211930": {
+      "name": "Calvin village",
+      "geoid": "2211930",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.9616916",
+      "longitude": "-092.7758061"
+    },
+    "2263680": {
+      "name": "Rayville town",
+      "geoid": "2263680",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.4707029",
+      "longitude": "-091.7575689"
+    },
+    "2262770": {
+      "name": "Provencal village",
+      "geoid": "2262770",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.6546951",
+      "longitude": "-093.1998832"
+    },
+    "2221170": {
+      "name": "Dodson village",
+      "geoid": "2221170",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.0791181",
+      "longitude": "-092.6586236"
+    },
+    "2231565": {
+      "name": "Greensburg town",
+      "geoid": "2231565",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.8300034",
+      "longitude": "-090.6697594"
+    },
+    "2276685": {
+      "name": "Turkey Creek village",
+      "geoid": "2276685",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.8732381",
+      "longitude": "-092.4169823"
+    },
+    "2206925": {
+      "name": "Benton town",
+      "geoid": "2206925",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.6883349",
+      "longitude": "-093.7405748"
+    },
+    "2266200": {
+      "name": "Rosepine town",
+      "geoid": "2266200",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.9207627",
+      "longitude": "-093.2857081"
+    },
+    "2229640": {
+      "name": "Golden Meadow town",
+      "geoid": "2229640",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+29.3876455",
+      "longitude": "-090.2739115"
+    },
+    "2226280": {
+      "name": "Fordoche town",
+      "geoid": "2226280",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.5940284",
+      "longitude": "-091.6179239"
+    },
+    "2264100": {
+      "name": "Reeves village",
+      "geoid": "2264100",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.5215453",
+      "longitude": "-093.0428122"
+    },
+    "2237025": {
+      "name": "Independence town",
+      "geoid": "2237025",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.6361156",
+      "longitude": "-090.5056387"
+    },
+    "2230760": {
+      "name": "Grand Coteau town",
+      "geoid": "2230760",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4202372",
+      "longitude": "-092.0437898"
+    },
+    "2217915": {
+      "name": "Cotton Valley town",
+      "geoid": "2217915",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.8134721",
+      "longitude": "-093.4227831"
+    },
+    "2228835": {
+      "name": "Gibsland town",
+      "geoid": "2228835",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.5394477",
+      "longitude": "-093.0540320"
+    },
+    "2278470": {
+      "name": "Vidalia town",
+      "geoid": "2278470",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.5667509",
+      "longitude": "-091.4404440"
+    },
+    "2259340": {
+      "name": "Patterson city",
+      "geoid": "2259340",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+29.6908907",
+      "longitude": "-091.3095330"
+    },
+    "2247560": {
+      "name": "Madisonville town",
+      "geoid": "2247560",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4003384",
+      "longitude": "-090.1652881"
+    },
+    "2264660": {
+      "name": "Richwood town",
+      "geoid": "2264660",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.4487734",
+      "longitude": "-092.0773475"
+    },
+    "2243395": {
+      "name": "Leonville town",
+      "geoid": "2243395",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4660545",
+      "longitude": "-091.9810941"
+    },
+    "2227435": {
+      "name": "French Settlement village",
+      "geoid": "2227435",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.3156534",
+      "longitude": "-090.8031045"
+    },
+    "2274690": {
+      "name": "Tallulah city",
+      "geoid": "2274690",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.4066963",
+      "longitude": "-091.1917002"
+    },
+    "2215990": {
+      "name": "Clinton town",
+      "geoid": "2215990",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.8613531",
+      "longitude": "-091.0149824"
+    },
+    "2282215": {
+      "name": "Wilson village",
+      "geoid": "2282215",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.9236413",
+      "longitude": "-091.1089956"
+    },
+    "2254175": {
+      "name": "New Llano town",
+      "geoid": "2254175",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.0970227",
+      "longitude": "-093.2767113"
+    },
+    "2236150": {
+      "name": "Hosston village",
+      "geoid": "2236150",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.8850276",
+      "longitude": "-093.8813791"
+    },
+    "2249240": {
+      "name": "Maurice town",
+      "geoid": "2249240",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.1041945",
+      "longitude": "-092.1202356"
+    },
+    "2260880": {
+      "name": "Plaquemine city",
+      "geoid": "2260880",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.2833902",
+      "longitude": "-091.2429944"
+    },
+    "2220190": {
+      "name": "Delhi town",
+      "geoid": "2220190",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.4529140",
+      "longitude": "-091.4899979"
+    },
+    "2273255": {
+      "name": "Sterlington town",
+      "geoid": "2273255",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.6888875",
+      "longitude": "-092.0603389"
+    },
+    "2261790": {
+      "name": "Port Allen city",
+      "geoid": "2261790",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4455034",
+      "longitude": "-091.2097789"
+    },
+    "2248400": {
+      "name": "Mansura town",
+      "geoid": "2248400",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.0673245",
+      "longitude": "-092.0528249"
+    },
+    "2201920": {
+      "name": "Anacoco village",
+      "geoid": "2201920",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.2544591",
+      "longitude": "-093.3440082"
+    },
+    "2251970": {
+      "name": "Moreauville village",
+      "geoid": "2251970",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.0341752",
+      "longitude": "-091.9817139"
+    },
+    "2210950": {
+      "name": "Bunkie city",
+      "geoid": "2210950",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.9539587",
+      "longitude": "-092.1884073"
+    },
+    "2233875": {
+      "name": "Henderson town",
+      "geoid": "2233875",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.3183392",
+      "longitude": "-091.8065050"
+    },
+    "2222255": {
+      "name": "Duson town",
+      "geoid": "2222255",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.2364142",
+      "longitude": "-092.1929161"
+    },
+    "2207030": {
+      "name": "Bernice town",
+      "geoid": "2207030",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.8276609",
+      "longitude": "-092.6584649"
+    },
+    "2244655": {
+      "name": "Livingston town",
+      "geoid": "2244655",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4952890",
+      "longitude": "-090.7466979"
+    },
+    "2248645": {
+      "name": "Marion town",
+      "geoid": "2248645",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.8997732",
+      "longitude": "-092.2404898"
+    },
+    "2267600": {
+      "name": "St. Martinville city",
+      "geoid": "2267600",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.1268878",
+      "longitude": "-091.8317370"
+    },
+    "2220575": {
+      "name": "DeQuincy city",
+      "geoid": "2220575",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4489604",
+      "longitude": "-093.4456598"
+    },
+    "2274060": {
+      "name": "Sunset town",
+      "geoid": "2274060",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4083475",
+      "longitude": "-092.0644811"
+    },
+    "2204020": {
+      "name": "Baldwin town",
+      "geoid": "2204020",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+29.8388652",
+      "longitude": "-091.5521651"
+    },
+    "2281165": {
+      "name": "Westwego city",
+      "geoid": "2281165",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+29.9057978",
+      "longitude": "-090.1434152"
+    },
+    "2248470": {
+      "name": "Many town",
+      "geoid": "2248470",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.5660738",
+      "longitude": "-093.4772337"
+    },
+    "2246720": {
+      "name": "Lutcher town",
+      "geoid": "2246720",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.0646083",
+      "longitude": "-090.7123811"
+    },
+    "2237445": {
+      "name": "Iowa town",
+      "geoid": "2237445",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.2402454",
+      "longitude": "-093.0123821"
+    },
+    "2245040": {
+      "name": "Logansport town",
+      "geoid": "2245040",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.9761993",
+      "longitude": "-093.9932839"
+    },
+    "2218055": {
+      "name": "Coushatta town",
+      "geoid": "2218055",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.0256878",
+      "longitude": "-093.3405742"
+    },
+    "2221590": {
+      "name": "Doyline village",
+      "geoid": "2221590",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.5249793",
+      "longitude": "-093.4118010"
+    },
+    "2241400": {
+      "name": "Lake Providence town",
+      "geoid": "2241400",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.8132286",
+      "longitude": "-091.1824699"
+    },
+    "2207730": {
+      "name": "Blanchard town",
+      "geoid": "2207730",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.6026957",
+      "longitude": "-093.8831182"
+    },
+    "2278540": {
+      "name": "Vienna town",
+      "geoid": "2278540",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.6091768",
+      "longitude": "-092.6480599"
+    },
+    "2203320": {
+      "name": "Athens village",
+      "geoid": "2203320",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.6579775",
+      "longitude": "-093.0277022"
+    },
+    "2270630": {
+      "name": "Simsboro village",
+      "geoid": "2270630",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.5323246",
+      "longitude": "-092.7839130"
+    },
+    "2215465": {
+      "name": "Church Point town",
+      "geoid": "2215465",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4075283",
+      "longitude": "-092.2136380"
+    },
+    "2226420": {
+      "name": "Forest Hill village",
+      "geoid": "2226420",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.0470286",
+      "longitude": "-092.5258437"
+    },
+    "2221240": {
+      "name": "Donaldsonville city",
+      "geoid": "2221240",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.0953893",
+      "longitude": "-090.9924951"
+    },
+    "2202655": {
+      "name": "Arcadia town",
+      "geoid": "2202655",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.5505783",
+      "longitude": "-092.9218055"
+    },
+    "2271225": {
+      "name": "Sorrento town",
+      "geoid": "2271225",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.1828459",
+      "longitude": "-090.8673657"
+    },
+    "2248365": {
+      "name": "Mansfield city",
+      "geoid": "2248365",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.0354764",
+      "longitude": "-093.7003982"
+    },
+    "2282460": {
+      "name": "Winnfield city",
+      "geoid": "2282460",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.9239690",
+      "longitude": "-092.6424754"
+    },
+    "2257905": {
+      "name": "Olla town",
+      "geoid": "2257905",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.8980750",
+      "longitude": "-092.2404057"
+    },
+    "2221835": {
+      "name": "Dubberly village",
+      "geoid": "2221835",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.5412564",
+      "longitude": "-093.2374043"
+    },
+    "2278715": {
+      "name": "Ville Platte city",
+      "geoid": "2278715",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.6901774",
+      "longitude": "-092.2747384"
+    },
+    "2282495": {
+      "name": "Winnsboro city",
+      "geoid": "2282495",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.1650358",
+      "longitude": "-091.7210187"
+    },
+    "2201885": {
+      "name": "Amite City town",
+      "geoid": "2201885",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.7323629",
+      "longitude": "-090.5132462"
+    },
+    "2270175": {
+      "name": "Sibley town",
+      "geoid": "2270175",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.5422727",
+      "longitude": "-093.2946812"
+    },
+    "2280815": {
+      "name": "Westlake city",
+      "geoid": "2280815",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.2609938",
+      "longitude": "-093.2634957"
+    },
+    "2263645": {
+      "name": "Rayne city",
+      "geoid": "2263645",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.2400673",
+      "longitude": "-092.2669239"
+    },
+    "2215290": {
+      "name": "Choudrant village",
+      "geoid": "2215290",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.5502710",
+      "longitude": "-092.5121122"
+    },
+    "2200415": {
+      "name": "Addis town",
+      "geoid": "2200415",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.3651970",
+      "longitude": "-091.2658693"
+    },
+    "2259445": {
+      "name": "Pearl River town",
+      "geoid": "2259445",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.3671202",
+      "longitude": "-089.7474599"
+    },
+    "2256295": {
+      "name": "Norwood village",
+      "geoid": "2256295",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.9681867",
+      "longitude": "-091.1125362"
+    },
+    "2252740": {
+      "name": "Mount Lebanon town",
+      "geoid": "2252740",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.5052477",
+      "longitude": "-093.0499228"
+    },
+    "2231915": {
+      "name": "Gretna city",
+      "geoid": "2231915",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+29.9101161",
+      "longitude": "-090.0515073"
+    },
+    "2257450": {
+      "name": "Oberlin town",
+      "geoid": "2257450",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.6068841",
+      "longitude": "-092.7724351"
+    },
+    "2237830": {
+      "name": "Jackson town",
+      "geoid": "2237830",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.8346545",
+      "longitude": "-091.2080099"
+    },
+    "2220330": {
+      "name": "Delta village",
+      "geoid": "2220330",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.3219801",
+      "longitude": "-090.9413409"
+    },
+    "2227190": {
+      "name": "Franklinton town",
+      "geoid": "2227190",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.8479509",
+      "longitude": "-090.1458822"
+    },
+    "2273955": {
+      "name": "Sun village",
+      "geoid": "2273955",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.6489241",
+      "longitude": "-089.9070346"
+    },
+    "2261615": {
+      "name": "Ponchatoula city",
+      "geoid": "2261615",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4403796",
+      "longitude": "-090.4426717"
+    },
+    "2235870": {
+      "name": "Homer town",
+      "geoid": "2235870",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.7929894",
+      "longitude": "-093.0582044"
+    },
+    "2283685": {
+      "name": "Zwolle town",
+      "geoid": "2283685",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.6398139",
+      "longitude": "-093.6412664"
+    },
+    "2200240": {
+      "name": "Abita Springs town",
+      "geoid": "2200240",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4760921",
+      "longitude": "-090.0292958"
+    },
+    "2255105": {
+      "name": "New Roads city",
+      "geoid": "2255105",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.6959208",
+      "longitude": "-091.4537943"
+    },
+    "2239085": {
+      "name": "Keachi town",
+      "geoid": "2239085",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.1707806",
+      "longitude": "-093.9159912"
+    },
+    "2233525": {
+      "name": "Haynesville town",
+      "geoid": "2233525",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.9667135",
+      "longitude": "-093.1375651"
+    },
+    "2248750": {
+      "name": "Marksville city",
+      "geoid": "2248750",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.1246620",
+      "longitude": "-092.0652431"
+    },
+    "2238670": {
+      "name": "Jonesboro town",
+      "geoid": "2238670",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.2347394",
+      "longitude": "-092.7097806"
+    },
+    "2224565": {
+      "name": "Eunice city",
+      "geoid": "2224565",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4904292",
+      "longitude": "-092.4190638"
+    },
+    "2256540": {
+      "name": "Oakdale city",
+      "geoid": "2256540",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.8157328",
+      "longitude": "-092.6541624"
+    },
+    "2278820": {
+      "name": "Vinton town",
+      "geoid": "2278820",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.1957912",
+      "longitude": "-093.5817964"
+    },
+    "2233420": {
+      "name": "Haughton town",
+      "geoid": "2233420",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.5276089",
+      "longitude": "-093.5041721"
+    },
+    "2225160": {
+      "name": "Farmerville town",
+      "geoid": "2225160",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.7751738",
+      "longitude": "-092.4013050"
+    },
+    "2278890": {
+      "name": "Vivian town",
+      "geoid": "2278890",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.8710719",
+      "longitude": "-093.9862494"
+    },
+    "2239755": {
+      "name": "Kinder town",
+      "geoid": "2239755",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4835459",
+      "longitude": "-092.8507665"
+    },
+    "2270770": {
+      "name": "Slaughter town",
+      "geoid": "2270770",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.7219144",
+      "longitude": "-091.1392872"
+    },
+    "2238285": {
+      "name": "Jena town",
+      "geoid": "2238285",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.6913974",
+      "longitude": "-092.1298140"
+    },
+    "2200100": {
+      "name": "Abbeville city",
+      "geoid": "2200100",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+29.9750240",
+      "longitude": "-092.1263709"
+    },
+    "2252040": {
+      "name": "Morgan City city",
+      "geoid": "2252040",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+29.7040750",
+      "longitude": "-091.1920514"
+    },
+    "2230515": {
+      "name": "Grambling city",
+      "geoid": "2230515",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.5273717",
+      "longitude": "-092.7122243"
+    },
+    "2238092": {
+      "name": "Jean Lafitte town",
+      "geoid": "2238092",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+29.7495434",
+      "longitude": "-090.1036514"
+    },
+    "2218650": {
+      "name": "Crowley city",
+      "geoid": "2218650",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.2175528",
+      "longitude": "-092.3752449"
+    },
+    "2207100": {
+      "name": "Berwick town",
+      "geoid": "2207100",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+29.7012608",
+      "longitude": "-091.2377211"
+    },
+    "2279240": {
+      "name": "Walker city",
+      "geoid": "2279240",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4850858",
+      "longitude": "-090.8654666"
+    },
+    "2230830": {
+      "name": "Grand Isle town",
+      "geoid": "2230830",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+29.2133190",
+      "longitude": "-090.0297187"
+    },
+    "2272485": {
+      "name": "Springhill city",
+      "geoid": "2272485",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+33.0020075",
+      "longitude": "-093.4613278"
+    },
+    "2280430": {
+      "name": "Welsh town",
+      "geoid": "2280430",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.2355156",
+      "longitude": "-092.8134818"
+    },
+    "2239545": {
+      "name": "Kentwood town",
+      "geoid": "2239545",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.9339404",
+      "longitude": "-090.5152529"
+    },
+    "2275425": {
+      "name": "Thibodaux city",
+      "geoid": "2275425",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+29.7948740",
+      "longitude": "-090.8145779"
+    },
+    "2218125": {
+      "name": "Covington city",
+      "geoid": "2218125",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4809291",
+      "longitude": "-090.1119821"
+    },
+    "2261580": {
+      "name": "Pollock town",
+      "geoid": "2261580",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.4984554",
+      "longitude": "-092.4432137"
+    },
+    "2204055": {
+      "name": "Ball town",
+      "geoid": "2204055",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.4187489",
+      "longitude": "-092.4083983"
+    },
+    "2280955": {
+      "name": "West Monroe city",
+      "geoid": "2280955",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.5120548",
+      "longitude": "-092.1515389"
+    },
+    "2212665": {
+      "name": "Carencro city",
+      "geoid": "2212665",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.3125611",
+      "longitude": "-092.0387060"
+    },
+    "2266060": {
+      "name": "Rosedale village",
+      "geoid": "2266060",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4428999",
+      "longitude": "-091.4601136"
+    },
+    "2209340": {
+      "name": "Breaux Bridge city",
+      "geoid": "2209340",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.2829011",
+      "longitude": "-091.9043490"
+    },
+    "2269455": {
+      "name": "Shongaloo village",
+      "geoid": "2269455",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.9415543",
+      "longitude": "-093.2955010"
+    },
+    "2220435": {
+      "name": "Denham Springs city",
+      "geoid": "2220435",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4743923",
+      "longitude": "-090.9592649"
+    },
+    "2283125": {
+      "name": "Woodworth town",
+      "geoid": "2283125",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.1655280",
+      "longitude": "-092.5095684"
+    },
+    "2204685": {
+      "name": "Bastrop city",
+      "geoid": "2204685",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.7748576",
+      "longitude": "-091.9077564"
+    },
+    "2243010": {
+      "name": "Leesville city",
+      "geoid": "2243010",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.1224151",
+      "longitude": "-093.2646165"
+    },
+    "2273395": {
+      "name": "Stonewall town",
+      "geoid": "2273395",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.2711610",
+      "longitude": "-093.8100901"
+    },
+    "2203985": {
+      "name": "Baker city",
+      "geoid": "2203985",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.5831965",
+      "longitude": "-091.1581795"
+    },
+    "2246370": {
+      "name": "Lucky village",
+      "geoid": "2246370",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.2443555",
+      "longitude": "-093.0158142"
+    },
+    "2270595": {
+      "name": "Simpson village",
+      "geoid": "2270595",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.2640593",
+      "longitude": "-093.0193290"
+    },
+    "2250010": {
+      "name": "Merryville town",
+      "geoid": "2250010",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.7570844",
+      "longitude": "-093.5245661"
+    },
+    "2258045": {
+      "name": "Opelousas city",
+      "geoid": "2258045",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.5252058",
+      "longitude": "-092.0816068"
+    },
+    "2208150": {
+      "name": "Bogalusa city",
+      "geoid": "2208150",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.7811703",
+      "longitude": "-089.8632544"
+    },
+    "2227155": {
+      "name": "Franklin city",
+      "geoid": "2227155",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+29.7850553",
+      "longitude": "-091.5097742"
+    },
+    "2248225": {
+      "name": "Mandeville city",
+      "geoid": "2248225",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.3768653",
+      "longitude": "-090.1009928"
+    },
+    "2220610": {
+      "name": "DeRidder city",
+      "geoid": "2220610",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.8467726",
+      "longitude": "-093.2930996"
+    },
+    "2229850": {
+      "name": "Gonzales city",
+      "geoid": "2229850",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.2131798",
+      "longitude": "-090.9233520"
+    },
+    "2231705": {
+      "name": "Greenwood town",
+      "geoid": "2231705",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.4359327",
+      "longitude": "-093.9642907"
+    },
+    "2254035": {
+      "name": "New Iberia city",
+      "geoid": "2254035",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.0049040",
+      "longitude": "-091.8202711"
+    },
+    "2248925": {
+      "name": "Martin village",
+      "geoid": "2248925",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.0982352",
+      "longitude": "-093.2193005"
+    },
+    "2207205": {
+      "name": "Bienville village",
+      "geoid": "2207205",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.3617040",
+      "longitude": "-092.9787885"
+    },
+    "2273640": {
+      "name": "Sulphur city",
+      "geoid": "2273640",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.2285887",
+      "longitude": "-093.3565520"
+    },
+    "2239685": {
+      "name": "Killian town",
+      "geoid": "2239685",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.3530258",
+      "longitude": "-090.5795476"
+    },
+    "2238355": {
+      "name": "Jennings city",
+      "geoid": "2238355",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.2236071",
+      "longitude": "-092.6581698"
+    },
+    "2244235": {
+      "name": "Lisbon village",
+      "geoid": "2244235",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.7893667",
+      "longitude": "-092.8672056"
+    },
+    "2229745": {
+      "name": "Goldonna village",
+      "geoid": "2229745",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.0155132",
+      "longitude": "-092.9203170"
+    },
+    "2283335": {
+      "name": "Youngsville city",
+      "geoid": "2283335",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.0957310",
+      "longitude": "-091.9964981"
+    },
+    "2260530": {
+      "name": "Pineville city",
+      "geoid": "2260530",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.3413066",
+      "longitude": "-092.4095511"
+    },
+    "2268475": {
+      "name": "Scott city",
+      "geoid": "2268475",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.2398195",
+      "longitude": "-092.0948260"
+    },
+    "2236255": {
+      "name": "Houma city",
+      "geoid": "2236255",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+29.5799734",
+      "longitude": "-090.7059161"
+    },
+    "2250885": {
+      "name": "Minden city",
+      "geoid": "2250885",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.6186827",
+      "longitude": "-093.2762144"
+    },
+    "2270805": {
+      "name": "Slidell city",
+      "geoid": "2270805",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.2889666",
+      "longitude": "-089.7829552"
+    },
+    "2232755": {
+      "name": "Hammond city",
+      "geoid": "2232755",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.5062493",
+      "longitude": "-090.4551638"
+    },
+    "2239475": {
+      "name": "Kenner city",
+      "geoid": "2239475",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.0109022",
+      "longitude": "-090.2549336"
+    },
+    "2253545": {
+      "name": "Natchitoches city",
+      "geoid": "2253545",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.7322505",
+      "longitude": "-093.0978588"
+    },
+    "2266655": {
+      "name": "Ruston city",
+      "geoid": "2266655",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.5328501",
+      "longitude": "-092.6363609"
+    },
+    "2210075": {
+      "name": "Broussard city",
+      "geoid": "2210075",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.1393501",
+      "longitude": "-091.9540155"
+    },
+    "2267250": {
+      "name": "St. Gabriel city",
+      "geoid": "2267250",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.2535973",
+      "longitude": "-091.1013346"
+    },
+    "2251410": {
+      "name": "Monroe city",
+      "geoid": "2251410",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.5188786",
+      "longitude": "-092.0768318"
+    },
+    "2200975": {
+      "name": "Alexandria city",
+      "geoid": "2200975",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+31.2923012",
+      "longitude": "-092.4702533"
+    },
+    "2283405": {
+      "name": "Zachary city",
+      "geoid": "2283405",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.6642715",
+      "longitude": "-091.1639196"
+    },
+    "2203145": {
+      "name": "Ashland village",
+      "geoid": "2203145",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.1163942",
+      "longitude": "-093.1171739"
+    },
+    "2255000": {
+      "name": "New Orleans city",
+      "geoid": "2255000",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.0686521",
+      "longitude": "-089.9282102"
+    },
+    "2205000": {
+      "name": "Baton Rouge city",
+      "geoid": "2205000",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.4415958",
+      "longitude": "-091.1305067"
+    },
+    "2267303": {
+      "name": "St. George city",
+      "geoid": "2267303",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.3654560",
+      "longitude": "-091.0280639"
+    },
+    "2240735": {
+      "name": "Lafayette city",
+      "geoid": "2240735",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.2079161",
+      "longitude": "-092.0326322"
+    },
+    "2270000": {
+      "name": "Shreveport city",
+      "geoid": "2270000",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.4654391",
+      "longitude": "-093.7953386"
+    },
+    "2213960": {
+      "name": "Central city",
+      "geoid": "2213960",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.5592895",
+      "longitude": "-091.0368957"
+    },
+    "2241155": {
+      "name": "Lake Charles city",
+      "geoid": "2241155",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+30.1993929",
+      "longitude": "-093.2108975"
+    },
+    "2208920": {
+      "name": "Bossier City city",
+      "geoid": "2208920",
+      "types": [
+        "incorporated"
+      ],
+      "latitude": "+32.5232917",
+      "longitude": "-093.6670473"
+    },
+    "2276475": {
+      "name": "Trout CDP",
+      "geoid": "2276475",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.6967244",
+      "longitude": "-092.1797094"
+    },
+    "2221388": {
+      "name": "Dorseyville CDP",
+      "geoid": "2221388",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.1773613",
+      "longitude": "-091.1613915"
+    },
+    "2219490": {
+      "name": "Darrow CDP",
+      "geoid": "2219490",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.1212192",
+      "longitude": "-090.9843434"
+    },
+    "2220050": {
+      "name": "Delacroix CDP",
+      "geoid": "2220050",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.7650253",
+      "longitude": "-089.7874663"
+    },
+    "2250325": {
+      "name": "Midland CDP",
+      "geoid": "2250325",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.1804554",
+      "longitude": "-092.5014738"
+    },
+    "2205255": {
+      "name": "Bayou Corne CDP",
+      "geoid": "2205255",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.0159149",
+      "longitude": "-091.1527844"
+    },
+    "2251800": {
+      "name": "Moonshine CDP",
+      "geoid": "2251800",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9699805",
+      "longitude": "-090.8131288"
+    },
+    "2265290": {
+      "name": "Roanoke CDP",
+      "geoid": "2265290",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.2355261",
+      "longitude": "-092.7481410"
+    },
+    "2227540": {
+      "name": "Frierson CDP",
+      "geoid": "2227540",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+32.2485772",
+      "longitude": "-093.6894282"
+    },
+    "2243640": {
+      "name": "Lewisburg CDP",
+      "geoid": "2243640",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.3658974",
+      "longitude": "-090.1051897"
+    },
+    "2229150": {
+      "name": "Glencoe CDP",
+      "geoid": "2229150",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8112263",
+      "longitude": "-091.6703767"
+    },
+    "2262510": {
+      "name": "Presquille CDP",
+      "geoid": "2262510",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.5586215",
+      "longitude": "-090.6385685"
+    },
+    "2205260": {
+      "name": "Bayou Country Club CDP",
+      "geoid": "2205260",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.7795505",
+      "longitude": "-090.7892511"
+    },
+    "2229990": {
+      "name": "Good Pine CDP",
+      "geoid": "2229990",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.6932689",
+      "longitude": "-092.1636192"
+    },
+    "2241470": {
+      "name": "Lakeshore CDP",
+      "geoid": "2241470",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+32.5350429",
+      "longitude": "-092.0329964"
+    },
+    "2241645": {
+      "name": "Lakeview CDP",
+      "geoid": "2241645",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+32.5238467",
+      "longitude": "-093.8297551"
+    },
+    "2239720": {
+      "name": "Killona CDP",
+      "geoid": "2239720",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9985464",
+      "longitude": "-090.4850668"
+    },
+    "2270675": {
+      "name": "Siracusaville CDP",
+      "geoid": "2270675",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.6886494",
+      "longitude": "-091.1523199"
+    },
+    "2261473": {
+      "name": "Point Place CDP",
+      "geoid": "2261473",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.6881346",
+      "longitude": "-093.0245367"
+    },
+    "2280010": {
+      "name": "Watson CDP",
+      "geoid": "2280010",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.5749005",
+      "longitude": "-090.9507974"
+    },
+    "2213925": {
+      "name": "Centerville CDP",
+      "geoid": "2213925",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.7557919",
+      "longitude": "-091.4280574"
+    },
+    "2243255": {
+      "name": "Lemannville CDP",
+      "geoid": "2243255",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.1028578",
+      "longitude": "-090.9239163"
+    },
+    "2278015": {
+      "name": "Venice CDP",
+      "geoid": "2278015",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.2874684",
+      "longitude": "-089.3636929"
+    },
+    "2264975": {
+      "name": "Rio CDP",
+      "geoid": "2264975",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.6913874",
+      "longitude": "-089.8896413"
+    },
+    "2248890": {
+      "name": "Marthaville CDP",
+      "geoid": "2248890",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.7379835",
+      "longitude": "-093.3899643"
+    },
+    "2252250": {
+      "name": "Morrow CDP",
+      "geoid": "2252250",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.8293933",
+      "longitude": "-092.0827074"
+    },
+    "2229395": {
+      "name": "Gloster CDP",
+      "geoid": "2229395",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+32.1920358",
+      "longitude": "-093.8113429"
+    },
+    "2255140": {
+      "name": "New Sarpy CDP",
+      "geoid": "2255140",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9791672",
+      "longitude": "-090.3839297"
+    },
+    "2244970": {
+      "name": "Lockport Heights CDP",
+      "geoid": "2244970",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.6564503",
+      "longitude": "-090.5486317"
+    },
+    "2262733": {
+      "name": "Prospect CDP",
+      "geoid": "2262733",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.4488121",
+      "longitude": "-092.4968852"
+    },
+    "2275740": {
+      "name": "Timberlane CDP",
+      "geoid": "2275740",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8780681",
+      "longitude": "-090.0302574"
+    },
+    "2222640": {
+      "name": "Echo CDP",
+      "geoid": "2222640",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.1084993",
+      "longitude": "-092.2405935"
+    },
+    "2258745": {
+      "name": "Paincourtville CDP",
+      "geoid": "2258745",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9885835",
+      "longitude": "-091.0554358"
+    },
+    "2246755": {
+      "name": "Lydia CDP",
+      "geoid": "2246755",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9262858",
+      "longitude": "-091.7812582"
+    },
+    "2218335": {
+      "name": "Crescent CDP",
+      "geoid": "2218335",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.2406022",
+      "longitude": "-091.2863492"
+    },
+    "2229045": {
+      "name": "Gillis CDP",
+      "geoid": "2229045",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.3768849",
+      "longitude": "-093.1998450"
+    },
+    "2205525": {
+      "name": "Bayou Vista CDP",
+      "geoid": "2205525",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.6911875",
+      "longitude": "-091.2671560"
+    },
+    "2261440": {
+      "name": "Pointe a la Hache CDP",
+      "geoid": "2261440",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.5737564",
+      "longitude": "-089.7808475"
+    },
+    "2259795": {
+      "name": "Perry CDP",
+      "geoid": "2259795",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9520667",
+      "longitude": "-092.1539587"
+    },
+    "2202550": {
+      "name": "Arabi CDP",
+      "geoid": "2202550",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9561091",
+      "longitude": "-089.9985786"
+    },
+    "2240595": {
+      "name": "Lacassine CDP",
+      "geoid": "2240595",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.2331288",
+      "longitude": "-092.9208311"
+    },
+    "2278050": {
+      "name": "Ventress CDP",
+      "geoid": "2278050",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.6824591",
+      "longitude": "-091.4247788"
+    },
+    "2273570": {
+      "name": "Sugartown CDP",
+      "geoid": "2273570",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.8401043",
+      "longitude": "-093.0124216"
+    },
+    "2271190": {
+      "name": "Sorrel CDP",
+      "geoid": "2271190",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8879444",
+      "longitude": "-091.6225594"
+    },
+    "2213575": {
+      "name": "Cecilia CDP",
+      "geoid": "2213575",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.3368138",
+      "longitude": "-091.8475976"
+    },
+    "2258150": {
+      "name": "Oretta CDP",
+      "geoid": "2258150",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.5289338",
+      "longitude": "-093.4390923"
+    },
+    "2278545": {
+      "name": "Vienna Bend CDP",
+      "geoid": "2278545",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.7371881",
+      "longitude": "-093.0342934"
+    },
+    "2208710": {
+      "name": "Boothville CDP",
+      "geoid": "2208710",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.3329609",
+      "longitude": "-089.4052175"
+    },
+    "2211825": {
+      "name": "Calhoun CDP",
+      "geoid": "2211825",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+32.5153095",
+      "longitude": "-092.3539260"
+    },
+    "2272310": {
+      "name": "Spokane CDP",
+      "geoid": "2272310",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.7129652",
+      "longitude": "-091.4453402"
+    },
+    "2210985": {
+      "name": "Buras CDP",
+      "geoid": "2210985",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.3528240",
+      "longitude": "-089.5247544"
+    },
+    "2201815": {
+      "name": "Amelia CDP",
+      "geoid": "2201815",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.6644754",
+      "longitude": "-091.1072264"
+    },
+    "2205350": {
+      "name": "Bayou Goula CDP",
+      "geoid": "2205350",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.2105026",
+      "longitude": "-091.1766023"
+    },
+    "2251645": {
+      "name": "Monticello CDP",
+      "geoid": "2251645",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.4880972",
+      "longitude": "-091.0447337"
+    },
+    "2276440": {
+      "name": "Triumph CDP",
+      "geoid": "2276440",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.3442645",
+      "longitude": "-089.4683256"
+    },
+    "2251795": {
+      "name": "Montz CDP",
+      "geoid": "2251795",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.0191784",
+      "longitude": "-090.4605090"
+    },
+    "2233490": {
+      "name": "Hayes CDP",
+      "geoid": "2233490",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.1112020",
+      "longitude": "-092.9235626"
+    },
+    "2205378": {
+      "name": "Bayou L'Ourse CDP",
+      "geoid": "2205378",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.7174115",
+      "longitude": "-091.0606104"
+    },
+    "2238145": {
+      "name": "Jefferson CDP",
+      "geoid": "2238145",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9609309",
+      "longitude": "-090.1553641"
+    },
+    "2238880": {
+      "name": "Joyce CDP",
+      "geoid": "2238880",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.9346996",
+      "longitude": "-092.5850727"
+    },
+    "2265150": {
+      "name": "River Ridge CDP",
+      "geoid": "2265150",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9593158",
+      "longitude": "-090.2202254"
+    },
+    "2251585": {
+      "name": "Monterey CDP",
+      "geoid": "2251585",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.4435874",
+      "longitude": "-091.7190610"
+    },
+    "2250395": {
+      "name": "Midway CDP",
+      "geoid": "2250395",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.6787364",
+      "longitude": "-092.1493679"
+    },
+    "2213330": {
+      "name": "Catahoula CDP",
+      "geoid": "2213330",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.2125160",
+      "longitude": "-091.7126629"
+    },
+    "2222722": {
+      "name": "Eden Isle CDP",
+      "geoid": "2222722",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.2267782",
+      "longitude": "-089.8042739"
+    },
+    "2260075": {
+      "name": "Pierre Part CDP",
+      "geoid": "2260075",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9555153",
+      "longitude": "-091.2073479"
+    },
+    "2265850": {
+      "name": "Romeville CDP",
+      "geoid": "2265850",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.0676642",
+      "longitude": "-090.8341452"
+    },
+    "2205105": {
+      "name": "Bawcomville CDP",
+      "geoid": "2205105",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+32.4702410",
+      "longitude": "-092.1735687"
+    },
+    "2204230": {
+      "name": "Banks Springs CDP",
+      "geoid": "2204230",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+32.0764227",
+      "longitude": "-092.0850627"
+    },
+    "2274235": {
+      "name": "Supreme CDP",
+      "geoid": "2274235",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8604329",
+      "longitude": "-090.9955172"
+    },
+    "2272975": {
+      "name": "Starks CDP",
+      "geoid": "2272975",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.3104620",
+      "longitude": "-093.6666979"
+    },
+    "2258360": {
+      "name": "Ossun CDP",
+      "geoid": "2258360",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.2833944",
+      "longitude": "-092.1070269"
+    },
+    "2228275": {
+      "name": "Gardere CDP",
+      "geoid": "2228275",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.3582169",
+      "longitude": "-091.1344410"
+    },
+    "2273010": {
+      "name": "Start CDP",
+      "geoid": "2273010",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+32.4902028",
+      "longitude": "-091.8650176"
+    },
+    "2210225": {
+      "name": "Brownsville CDP",
+      "geoid": "2210225",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+32.4882654",
+      "longitude": "-092.1618443"
+    },
+    "2201780": {
+      "name": "Ama CDP",
+      "geoid": "2201780",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9440285",
+      "longitude": "-090.2966567"
+    },
+    "2234085": {
+      "name": "Hester CDP",
+      "geoid": "2234085",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.0276537",
+      "longitude": "-090.7710384"
+    },
+    "2255525": {
+      "name": "Norco CDP",
+      "geoid": "2255525",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9986377",
+      "longitude": "-090.4036278"
+    },
+    "2263890": {
+      "name": "Reddell CDP",
+      "geoid": "2263890",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.6687474",
+      "longitude": "-092.4268251"
+    },
+    "2223567": {
+      "name": "Elmwood CDP",
+      "geoid": "2223567",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9554640",
+      "longitude": "-090.1879229"
+    },
+    "2275180": {
+      "name": "Terrytown CDP",
+      "geoid": "2275180",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9014116",
+      "longitude": "-090.0279325"
+    },
+    "2283002": {
+      "name": "Woodmere CDP",
+      "geoid": "2283002",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8493101",
+      "longitude": "-090.0750776"
+    },
+    "2242695": {
+      "name": "Lebeau CDP",
+      "geoid": "2242695",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.7322368",
+      "longitude": "-091.9757733"
+    },
+    "2278855": {
+      "name": "Violet CDP",
+      "geoid": "2278855",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8962523",
+      "longitude": "-089.8919811"
+    },
+    "2249170": {
+      "name": "Mathews CDP",
+      "geoid": "2249170",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.6821543",
+      "longitude": "-090.5559001"
+    },
+    "2262280": {
+      "name": "Poydras CDP",
+      "geoid": "2262280",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8625424",
+      "longitude": "-089.8877279"
+    },
+    "2265535": {
+      "name": "Rock Hill CDP",
+      "geoid": "2265535",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.4426656",
+      "longitude": "-092.5694797"
+    },
+    "2217180": {
+      "name": "Convent CDP",
+      "geoid": "2217180",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.0132204",
+      "longitude": "-090.8231783"
+    },
+    "2240420": {
+      "name": "Labadieville CDP",
+      "geoid": "2240420",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8246156",
+      "longitude": "-090.9525543"
+    },
+    "2251550": {
+      "name": "Montegut CDP",
+      "geoid": "2251550",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.4656041",
+      "longitude": "-090.5617407"
+    },
+    "2240878": {
+      "name": "Lafourche Crossing CDP",
+      "geoid": "2240878",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.7674577",
+      "longitude": "-090.7696856"
+    },
+    "2249940": {
+      "name": "Merrydale CDP",
+      "geoid": "2249940",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.4998072",
+      "longitude": "-091.1081293"
+    },
+    "2261160": {
+      "name": "Pleasure Bend CDP",
+      "geoid": "2261160",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9204600",
+      "longitude": "-090.6459736"
+    },
+    "2210145": {
+      "name": "Brownfields CDP",
+      "geoid": "2210145",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.5466999",
+      "longitude": "-091.1224471"
+    },
+    "2242520": {
+      "name": "Lawtell CDP",
+      "geoid": "2242520",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.5126443",
+      "longitude": "-092.1832074"
+    },
+    "2209480": {
+      "name": "Bridge City CDP",
+      "geoid": "2209480",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9320971",
+      "longitude": "-090.1594342"
+    },
+    "2249800": {
+      "name": "Meraux CDP",
+      "geoid": "2249800",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9283854",
+      "longitude": "-089.9179353"
+    },
+    "2250990": {
+      "name": "Minorca CDP",
+      "geoid": "2250990",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.5724660",
+      "longitude": "-091.4884504"
+    },
+    "2253475": {
+      "name": "Natalbany CDP",
+      "geoid": "2253475",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.5485216",
+      "longitude": "-090.4847807"
+    },
+    "2208745": {
+      "name": "Bordelonville CDP",
+      "geoid": "2208745",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.1011644",
+      "longitude": "-091.9004705"
+    },
+    "2226665": {
+      "name": "Fort Jesup CDP",
+      "geoid": "2226665",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.6117323",
+      "longitude": "-093.4076946"
+    },
+    "2204300": {
+      "name": "Barataria CDP",
+      "geoid": "2204300",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.7091561",
+      "longitude": "-090.1217251"
+    },
+    "2230900": {
+      "name": "Grand Point CDP",
+      "geoid": "2230900",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.0450460",
+      "longitude": "-090.7487943"
+    },
+    "2224390": {
+      "name": "Estelle CDP",
+      "geoid": "2224390",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8446904",
+      "longitude": "-090.1020927"
+    },
+    "2213855": {
+      "name": "Center Point CDP",
+      "geoid": "2213855",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.2523792",
+      "longitude": "-092.2099574"
+    },
+    "2214520": {
+      "name": "Chauvin CDP",
+      "geoid": "2214520",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.4455050",
+      "longitude": "-090.5939645"
+    },
+    "2280360": {
+      "name": "Welcome CDP",
+      "geoid": "2280360",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.0473430",
+      "longitude": "-090.8823494"
+    },
+    "2259375": {
+      "name": "Paulina CDP",
+      "geoid": "2259375",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.0351117",
+      "longitude": "-090.7225913"
+    },
+    "2250815": {
+      "name": "Milton CDP",
+      "geoid": "2250815",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.1121235",
+      "longitude": "-092.0711073"
+    },
+    "2214310": {
+      "name": "Charenton CDP",
+      "geoid": "2214310",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8684985",
+      "longitude": "-091.5387917"
+    },
+    "2274550": {
+      "name": "Taft CDP",
+      "geoid": "2274550",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9853658",
+      "longitude": "-090.4532816"
+    },
+    "2240840": {
+      "name": "Lafitte CDP",
+      "geoid": "2240840",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.6957021",
+      "longitude": "-090.0995100"
+    },
+    "2223025": {
+      "name": "Egan CDP",
+      "geoid": "2223025",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.2460100",
+      "longitude": "-092.5134815"
+    },
+    "2262647": {
+      "name": "Prien CDP",
+      "geoid": "2262647",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.1597225",
+      "longitude": "-093.2609944"
+    },
+    "2240210": {
+      "name": "Kraemer CDP",
+      "geoid": "2240210",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8606096",
+      "longitude": "-090.6336668"
+    },
+    "2206260": {
+      "name": "Belle Rose CDP",
+      "geoid": "2206260",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.0422049",
+      "longitude": "-091.0497210"
+    },
+    "2255074": {
+      "name": "New Orleans Station CDP",
+      "geoid": "2255074",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8313799",
+      "longitude": "-090.0210232"
+    },
+    "2225545": {
+      "name": "Fifth Ward CDP",
+      "geoid": "2225545",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.1206974",
+      "longitude": "-092.1583884"
+    },
+    "2272092": {
+      "name": "South Vacherie CDP",
+      "geoid": "2272092",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9406019",
+      "longitude": "-090.6892923"
+    },
+    "2223725": {
+      "name": "Empire CDP",
+      "geoid": "2223725",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.4132622",
+      "longitude": "-089.6051414"
+    },
+    "2256170": {
+      "name": "North Vacherie CDP",
+      "geoid": "2256170",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.0047580",
+      "longitude": "-090.7109428"
+    },
+    "2279100": {
+      "name": "Waggaman CDP",
+      "geoid": "2279100",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9372801",
+      "longitude": "-090.2354027"
+    },
+    "2220820": {
+      "name": "Destrehan CDP",
+      "geoid": "2220820",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9622510",
+      "longitude": "-090.3667348"
+    },
+    "2209095": {
+      "name": "Bourg CDP",
+      "geoid": "2209095",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.5569190",
+      "longitude": "-090.6063931"
+    },
+    "2245530": {
+      "name": "Longville CDP",
+      "geoid": "2245530",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.6089405",
+      "longitude": "-093.2283342"
+    },
+    "2262070": {
+      "name": "Port Sulphur CDP",
+      "geoid": "2262070",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.5046168",
+      "longitude": "-089.7205420"
+    },
+    "2203810": {
+      "name": "Avondale CDP",
+      "geoid": "2203810",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9071788",
+      "longitude": "-090.1933490"
+    },
+    "2232510": {
+      "name": "Hahnville CDP",
+      "geoid": "2232510",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9641047",
+      "longitude": "-090.4140647"
+    },
+    "2226676": {
+      "name": "Fort Johnson South CDP",
+      "geoid": "2226676",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.0511837",
+      "longitude": "-093.2158329"
+    },
+    "2238845": {
+      "name": "Jordan Hill CDP",
+      "geoid": "2238845",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.8591049",
+      "longitude": "-092.5156237"
+    },
+    "2211580": {
+      "name": "Cade CDP",
+      "geoid": "2211580",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.0925678",
+      "longitude": "-091.8996331"
+    },
+    "2267635": {
+      "name": "St. Maurice CDP",
+      "geoid": "2267635",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.7612741",
+      "longitude": "-092.9389066"
+    },
+    "2233245": {
+      "name": "Harvey CDP",
+      "geoid": "2233245",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8876065",
+      "longitude": "-090.0665820"
+    },
+    "2267740": {
+      "name": "St. Rose CDP",
+      "geoid": "2267740",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9656437",
+      "longitude": "-090.3079216"
+    },
+    "2279275": {
+      "name": "Wallace CDP",
+      "geoid": "2279275",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.0302416",
+      "longitude": "-090.6569295"
+    },
+    "2222610": {
+      "name": "Eastwood CDP",
+      "geoid": "2222610",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+32.5607032",
+      "longitude": "-093.5624896"
+    },
+    "2260600": {
+      "name": "Pitkin CDP",
+      "geoid": "2260600",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.9344159",
+      "longitude": "-092.9267469"
+    },
+    "2258920": {
+      "name": "Paradis CDP",
+      "geoid": "2258920",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8680251",
+      "longitude": "-090.4397395"
+    },
+    "2215150": {
+      "name": "Choctaw CDP",
+      "geoid": "2215150",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8456824",
+      "longitude": "-090.7238397"
+    },
+    "2248785": {
+      "name": "Marrero CDP",
+      "geoid": "2248785",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8871363",
+      "longitude": "-090.1126330"
+    },
+    "2279310": {
+      "name": "Wallace Ridge CDP",
+      "geoid": "2279310",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.6848753",
+      "longitude": "-091.8320677"
+    },
+    "2214135": {
+      "name": "Chalmette CDP",
+      "geoid": "2214135",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9437429",
+      "longitude": "-089.9659087"
+    },
+    "2270665": {
+      "name": "Singer CDP",
+      "geoid": "2270665",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.6511992",
+      "longitude": "-093.4117200"
+    },
+    "2205210": {
+      "name": "Bayou Cane CDP",
+      "geoid": "2205210",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.6243530",
+      "longitude": "-090.7510357"
+    },
+    "2209235": {
+      "name": "Branch CDP",
+      "geoid": "2209235",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.3479618",
+      "longitude": "-092.2770829"
+    },
+    "2274340": {
+      "name": "Swartz CDP",
+      "geoid": "2274340",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+32.5808708",
+      "longitude": "-091.9868886"
+    },
+    "2226674": {
+      "name": "Fort Johnson North CDP",
+      "geoid": "2226674",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.1030781",
+      "longitude": "-093.1792895"
+    },
+    "2206120": {
+      "name": "Belle Chasse CDP",
+      "geoid": "2206120",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8557326",
+      "longitude": "-090.0045027"
+    },
+    "2267355": {
+      "name": "St. James CDP",
+      "geoid": "2267355",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.0184691",
+      "longitude": "-090.8512561"
+    },
+    "2277035": {
+      "name": "Union CDP",
+      "geoid": "2277035",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.0918229",
+      "longitude": "-090.8843954"
+    },
+    "2206750": {
+      "name": "Belmont CDP",
+      "geoid": "2206750",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.7181816",
+      "longitude": "-093.5081779"
+    },
+    "2220680": {
+      "name": "Des Allemands CDP",
+      "geoid": "2220680",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8161101",
+      "longitude": "-090.4746417"
+    },
+    "2215605": {
+      "name": "Claiborne CDP",
+      "geoid": "2215605",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+32.5378549",
+      "longitude": "-092.1980212"
+    },
+    "2224250": {
+      "name": "Erwinville CDP",
+      "geoid": "2224250",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.5410067",
+      "longitude": "-091.3884796"
+    },
+    "2263855": {
+      "name": "Red Chute CDP",
+      "geoid": "2263855",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+32.5731441",
+      "longitude": "-093.6059695"
+    },
+    "2231180": {
+      "name": "Gray CDP",
+      "geoid": "2231180",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.6780026",
+      "longitude": "-090.7831378"
+    },
+    "2228065": {
+      "name": "Galliano CDP",
+      "geoid": "2228065",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.4470764",
+      "longitude": "-090.3095924"
+    },
+    "2222815": {
+      "name": "Edgard CDP",
+      "geoid": "2222815",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.0361870",
+      "longitude": "-090.5460545"
+    },
+    "2212840": {
+      "name": "Carlyss CDP",
+      "geoid": "2212840",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.1760108",
+      "longitude": "-093.3704409"
+    },
+    "2242135": {
+      "name": "Larose CDP",
+      "geoid": "2242135",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.5669265",
+      "longitude": "-090.3751428"
+    },
+    "2212000": {
+      "name": "Cameron CDP",
+      "geoid": "2212000",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.7869618",
+      "longitude": "-093.2926063"
+    },
+    "2205315": {
+      "name": "Bayou Gauche CDP",
+      "geoid": "2205315",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8081166",
+      "longitude": "-090.4209847"
+    },
+    "2209130": {
+      "name": "Boutte CDP",
+      "geoid": "2209130",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8825578",
+      "longitude": "-090.3935733"
+    },
+    "2220890": {
+      "name": "Deville CDP",
+      "geoid": "2220890",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+31.3398625",
+      "longitude": "-092.1388884"
+    },
+    "2221940": {
+      "name": "Dulac CDP",
+      "geoid": "2221940",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.3863024",
+      "longitude": "-090.7080982"
+    },
+    "2264310": {
+      "name": "Reserve CDP",
+      "geoid": "2264310",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.0741128",
+      "longitude": "-090.5556503"
+    },
+    "2218930": {
+      "name": "Cut Off CDP",
+      "geoid": "2218930",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.5164000",
+      "longitude": "-090.3290859"
+    },
+    "2252425": {
+      "name": "Moss Bluff CDP",
+      "geoid": "2252425",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.3038908",
+      "longitude": "-093.2050827"
+    },
+    "2268300": {
+      "name": "Schriever CDP",
+      "geoid": "2268300",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.7332902",
+      "longitude": "-090.8309864"
+    },
+    "2228345": {
+      "name": "Garyville CDP",
+      "geoid": "2228345",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.0688041",
+      "longitude": "-090.6284409"
+    },
+    "2242030": {
+      "name": "Laplace CDP",
+      "geoid": "2242030",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.0730631",
+      "longitude": "-090.4757781"
+    },
+    "2262385": {
+      "name": "Prairieville CDP",
+      "geoid": "2262385",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.3150793",
+      "longitude": "-090.9571517"
+    },
+    "2250115": {
+      "name": "Metairie CDP",
+      "geoid": "2250115",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9976848",
+      "longitude": "-090.1779676"
+    },
+    "2205175": {
+      "name": "Bayou Blue CDP",
+      "geoid": "2205175",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.6340759",
+      "longitude": "-090.6731261"
+    },
+    "2246615": {
+      "name": "Luling CDP",
+      "geoid": "2246615",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9007818",
+      "longitude": "-090.3523149"
+    },
+    "2263155": {
+      "name": "Raceland CDP",
+      "geoid": "2263155",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.7282109",
+      "longitude": "-090.6362087"
+    },
+    "2214100": {
+      "name": "Chackbay CDP",
+      "geoid": "2214100",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.8808975",
+      "longitude": "-090.7749781"
+    },
+    "2232405": {
+      "name": "Hackberry CDP",
+      "geoid": "2232405",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+29.9717026",
+      "longitude": "-093.3947840"
+    },
+    "2240665": {
+      "name": "Lacombe CDP",
+      "geoid": "2240665",
+      "types": [
+        "cdp"
+      ],
+      "latitude": "+30.3147122",
+      "longitude": "-089.9309145"
+    }
+  },
+  "progress": {
+    "incorporated": {
+      "completed_ids": [
+        2252,
+        2985,
+        3031,
+        4415,
+        4664,
+        4732,
+        5303,
+        5328,
+        5345,
+        6571,
+        6734,
+        7109,
+        7266,
+        7462,
+        7777,
+        7921,
+        8066,
+        8100,
+        8537,
+        8662,
+        8978,
+        9010,
+        9205,
+        9226,
+        9249,
+        9279,
+        9513,
+        9796,
+        10062,
+        10215,
+        10274,
+        10410,
+        10679,
+        10708,
+        10810,
+        11076,
+        11123,
+        11195,
+        11271,
+        11546,
+        11553,
+        11571,
+        11586,
+        11671,
+        11873,
+        11896,
+        12037,
+        12060,
+        12125,
+        12175,
+        12386,
+        12470,
+        12494,
+        12609,
+        12663,
+        12730,
+        12754,
+        12770,
+        12786,
+        12945,
+        12958,
+        12963,
+        12991,
+        13010,
+        13342,
+        13392,
+        13455,
+        13497,
+        13571,
+        13825,
+        13841,
+        13891,
+        14092,
+        14132,
+        14658,
+        14666,
+        14767,
+        14830,
+        14883,
+        14900,
+        14932,
+        15110,
+        15242,
+        15382,
+        15437,
+        15439,
+        15515,
+        15597,
+        15633,
+        15697,
+        15747,
+        15801,
+        15807,
+        15876,
+        15926,
+        15961,
+        16054,
+        16057,
+        16294,
+        16311,
+        16328,
+        16331,
+        16335,
+        16367,
+        16487,
+        16513,
+        16666,
+        16765,
+        16934,
+        16957,
+        17018,
+        17110,
+        17140,
+        17162,
+        17232,
+        17332,
+        17339,
+        17418,
+        17463,
+        17485,
+        17488,
+        17804,
+        17985,
+        18066,
+        18072,
+        18164,
+        18354,
+        18447,
+        18552,
+        18672,
+        18705,
+        18802,
+        18820,
+        18963,
+        18996,
+        19018,
+        19144,
+        19153,
+        19160,
+        19232,
+        19244,
+        19274,
+        19310,
+        19333,
+        19469,
+        19484,
+        19523,
+        19568,
+        19641,
+        19657,
+        19702,
+        19712,
+        19807,
+        19938,
+        19992,
+        20045,
+        20083,
+        20097,
+        20134,
+        20251,
+        20321,
+        20458,
+        20478,
+        20617,
+        20631,
+        20698,
+        20831,
+        20872,
+        20889,
+        21024,
+        21107,
+        21209,
+        21349,
+        21369,
+        21379,
+        21429,
+        21487,
+        21495,
+        21522,
+        21542,
+        21575,
+        21742,
+        21861,
+        21942,
+        21945,
+        21957,
+        22067,
+        22132,
+        22307,
+        22399,
+        22412,
+        22495,
+        22564,
+        22649,
+        22712,
+        22736,
+        22867,
+        22899,
+        22903,
+        22975,
+        22982,
+        23006,
+        23058,
+        23092,
+        23212,
+        23270,
+        23333,
+        23342,
+        23536,
+        23550,
+        23578,
+        23676,
+        23689,
+        23739,
+        23846,
+        23920,
+        23942,
+        23975,
+        24141,
+        24254,
+        24372,
+        24403,
+        24531,
+        24550,
+        24709,
+        24833,
+        24929,
+        24962,
+        25192,
+        25197,
+        25386,
+        25448,
+        25467,
+        25614,
+        25629,
+        25663,
+        25813,
+        25953,
+        26097,
+        26145,
+        26174,
+        26176,
+        26193,
+        26396,
+        26500,
+        26544,
+        26686,
+        26723,
+        27157,
+        27235,
+        27245,
+        27249,
+        27256,
+        27297,
+        27331,
+        27360,
+        27390,
+        27470,
+        27669,
+        27732,
+        27762,
+        27804,
+        27944,
+        28100,
+        28159,
+        28254,
+        28316,
+        28378,
+        28406,
+        28464,
+        28466,
+        28535,
+        28607,
+        28718,
+        28829,
+        28846,
+        28914,
+        28944,
+        28999,
+        29309,
+        29542,
+        29575,
+        29648,
+        29765,
+        30186,
+        30191,
+        30319,
+        30386,
+        30452,
+        30555,
+        30596,
+        31085,
+        31646,
+        31674,
+        31726,
+        31773,
+        31808,
+        32055,
+        32105,
+        32173,
+        32201,
+        32248,
+        32319,
+        32366,
+        32554
+      ],
+      "expected_count": 305
+    },
+    "cdp": {
+      "completed_ids": [
+        409,
+        1153,
+        1527,
+        1711,
+        1722,
+        3421,
+        3566,
+        4574,
+        6427,
+        6661,
+        8476,
+        8496,
+        8700,
+        8737,
+        9406,
+        9481,
+        9843,
+        9892,
+        10823,
+        11247,
+        11317,
+        11681,
+        11775,
+        12064,
+        12204,
+        12617,
+        13346,
+        13811,
+        14140,
+        15283,
+        15394,
+        15986,
+        16028,
+        16158,
+        16184,
+        16201,
+        16445,
+        16781,
+        16816,
+        16884,
+        16909,
+        17469,
+        17808,
+        17986,
+        18035,
+        18559,
+        18685,
+        18743,
+        18775,
+        18859,
+        19023,
+        19279,
+        19444,
+        19548,
+        20137,
+        20160,
+        20288,
+        20290,
+        20465,
+        20667,
+        20800,
+        20845,
+        20930,
+        21022,
+        21096,
+        21135,
+        21462,
+        21612,
+        21615,
+        21860,
+        21867,
+        21932,
+        22056,
+        22432,
+        22468,
+        22497,
+        22513,
+        22524,
+        22656,
+        22704,
+        22792,
+        22892,
+        22950,
+        23134,
+        23141,
+        23218,
+        23262,
+        23272,
+        23288,
+        23387,
+        23400,
+        23455,
+        23494,
+        23501,
+        23539,
+        23547,
+        23555,
+        23931,
+        23992,
+        24099,
+        24118,
+        24122,
+        24171,
+        24294,
+        24376,
+        24377,
+        24383,
+        24572,
+        24585,
+        24616,
+        24692,
+        24933,
+        24994,
+        25106,
+        25113,
+        25142,
+        25237,
+        25246,
+        25309,
+        25372,
+        25452,
+        25504,
+        25541,
+        25547,
+        25566,
+        25742,
+        25782,
+        25783,
+        25946,
+        26297,
+        26317,
+        26438,
+        26443,
+        26475,
+        26487,
+        26578,
+        26588,
+        26604,
+        26654,
+        26745,
+        26938,
+        26948,
+        26957,
+        27493,
+        27535,
+        28006,
+        28068,
+        28086,
+        28094,
+        28169,
+        28277,
+        28339,
+        28374,
+        28410,
+        28622,
+        28725,
+        28737,
+        28852,
+        28876,
+        28892,
+        28903,
+        29287,
+        29324,
+        29336,
+        30005,
+        30245,
+        30280,
+        30333,
+        30359,
+        30385,
+        30523,
+        30525,
+        30553,
+        30585,
+        30605,
+        30691,
+        31585,
+        31618,
+        31648
+      ],
+      "expected_count": 179
+    },
+    "consolidated": {
+      "completed_ids": [],
+      "expected_count": 0
+    }
+  },
+  "complete": true,
+  "total_places": 484,
+  "updated_at": "2026-09-28T06:00:50.283631+00:00"
+}
