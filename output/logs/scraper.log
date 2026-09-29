@@ -1728,3 +1728,24 @@
 2026-09-29 20:30:19,886 DEBUG maps_url_scraper.worker20 | ok page=9 attempt=1 proxy=direct q='Auto parts market in McMullen, AL'
 2026-09-29 20:30:19,886 INFO maps_url_scraper.worker20 | 156 places | Auto parts market in McMullen, AL
 2026-09-29 20:30:24,892 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
+2026-09-29 20:30:30,010 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-29 20:30:39,893 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
+2026-09-29 20:30:54,893 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
+2026-09-29 20:31:09,894 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
+2026-09-29 20:31:24,894 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
+2026-09-29 20:31:39,894 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
+2026-09-29 20:31:54,895 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
+2026-09-29 20:32:09,895 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
+2026-09-29 20:32:24,895 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
+2026-09-29 20:32:39,896 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
+2026-09-29 20:32:54,896 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
+2026-09-29 20:33:09,897 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
+2026-09-29 20:33:24,897 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
+2026-09-29 20:33:39,897 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
+2026-09-29 20:33:54,898 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
+2026-09-29 20:34:09,898 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
+2026-09-29 20:34:24,899 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
+2026-09-29 20:34:39,899 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
+2026-09-29 20:34:54,899 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
+2026-09-29 20:35:09,900 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
+2026-09-29 20:35:24,900 INFO maps_url_scraper.engine | progress 300/300 assigned | 299 queries done | +2808 places | +0 urls | 731 reqs (0.1/s) | block rate 14%
