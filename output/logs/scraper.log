@@ -423,3 +423,50 @@
 2026-09-29 18:14:09,686 INFO maps_url_scraper.engine | progress 93/300 assigned | 69 queries done | +850 places | +0 urls | 230 reqs (0.2/s) | block rate 30%
 2026-09-29 18:14:24,686 INFO maps_url_scraper.engine | progress 93/300 assigned | 69 queries done | +850 places | +0 urls | 230 reqs (0.2/s) | block rate 30%
 2026-09-29 18:14:39,686 INFO maps_url_scraper.engine | progress 93/300 assigned | 69 queries done | +850 places | +0 urls | 230 reqs (0.2/s) | block rate 30%
+2026-09-29 18:14:46,981 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-29 18:14:54,687 INFO maps_url_scraper.engine | progress 93/300 assigned | 69 queries done | +850 places | +0 urls | 230 reqs (0.2/s) | block rate 30%
+2026-09-29 18:15:05,698 DEBUG maps_url_scraper.worker16 | ok page=0 attempt=1 proxy=direct q='Algerian Restaurant in McMullen, AL'
+2026-09-29 18:15:05,699 INFO maps_url_scraper.worker16 |   0 places | Algerian Restaurant in McMullen, AL
+2026-09-29 18:15:05,878 DEBUG maps_url_scraper.worker5 | ok page=0 attempt=4 proxy=direct q='Air force base in McMullen, AL'
+2026-09-29 18:15:05,933 DEBUG maps_url_scraper.worker8 | ok page=0 attempt=4 proxy=direct q='Aircraft manufacturer in McMullen, AL'
+2026-09-29 18:15:06,065 DEBUG maps_url_scraper.worker24 | ok page=1 attempt=2 proxy=direct q='Airstrip in McMullen, AL'
+2026-09-29 18:15:06,065 INFO maps_url_scraper.worker24 |  20 places | Airstrip in McMullen, AL
+2026-09-29 18:15:06,072 DEBUG maps_url_scraper.worker23 | ok page=0 attempt=1 proxy=direct q='Alfa Romeo dealer in McMullen, AL'
+2026-09-29 18:15:06,222 DEBUG maps_url_scraper.worker7 | ok page=1 attempt=3 proxy=direct q='Aikido club in McMullen, AL'
+2026-09-29 18:15:06,222 INFO maps_url_scraper.worker7 |   3 places | Aikido club in McMullen, AL
+2026-09-29 18:15:06,269 DEBUG maps_url_scraper.worker9 | ok page=1 attempt=2 proxy=direct q='Airplane in McMullen, AL'
+2026-09-29 18:15:06,269 INFO maps_url_scraper.worker9 |   1 places | Airplane in McMullen, AL
+2026-09-29 18:15:06,373 DEBUG maps_url_scraper.worker12 | ok page=1 attempt=1 proxy=direct q='Air duct cleaning service in McMullen, AL'
+2026-09-29 18:15:06,373 INFO maps_url_scraper.worker12 |  12 places | Air duct cleaning service in McMullen, AL
+2026-09-29 18:15:06,550 DEBUG maps_url_scraper.worker15 | ok page=1 attempt=2 proxy=direct q='Agricultural service in McMullen, AL'
+2026-09-29 18:15:06,550 INFO maps_url_scraper.worker15 |   1 places | Agricultural service in McMullen, AL
+2026-09-29 18:15:06,593 DEBUG maps_url_scraper.worker14 | ok page=1 attempt=1 proxy=direct q='Airline ticket agency in McMullen, AL'
+2026-09-29 18:15:06,593 INFO maps_url_scraper.worker14 |  10 places | Airline ticket agency in McMullen, AL
+2026-09-29 18:15:06,755 DEBUG maps_url_scraper.worker11 | ok page=1 attempt=1 proxy=direct q='Alcoholism treatment program in McMullen, AL'
+2026-09-29 18:15:06,856 DEBUG maps_url_scraper.worker20 | ok page=1 attempt=1 proxy=direct q='Airsoft supply store in McMullen, AL'
+2026-09-29 18:15:06,856 INFO maps_url_scraper.worker20 |  14 places | Airsoft supply store in McMullen, AL
+2026-09-29 18:15:09,687 INFO maps_url_scraper.engine | progress 101/300 assigned | 77 queries done | +869 places | +0 urls | 242 reqs (0.2/s) | block rate 29%
+2026-09-29 18:15:24,687 INFO maps_url_scraper.engine | progress 101/300 assigned | 77 queries done | +869 places | +0 urls | 242 reqs (0.2/s) | block rate 29%
+2026-09-29 18:15:39,688 INFO maps_url_scraper.engine | progress 101/300 assigned | 77 queries done | +869 places | +0 urls | 242 reqs (0.2/s) | block rate 29%
+2026-09-29 18:15:54,688 INFO maps_url_scraper.engine | progress 101/300 assigned | 77 queries done | +869 places | +0 urls | 242 reqs (0.2/s) | block rate 29%
+2026-09-29 18:16:09,688 INFO maps_url_scraper.engine | progress 101/300 assigned | 77 queries done | +869 places | +0 urls | 242 reqs (0.2/s) | block rate 29%
+2026-09-29 18:16:24,689 INFO maps_url_scraper.engine | progress 101/300 assigned | 77 queries done | +869 places | +0 urls | 242 reqs (0.2/s) | block rate 29%
+2026-09-29 18:16:39,689 INFO maps_url_scraper.engine | progress 101/300 assigned | 77 queries done | +869 places | +0 urls | 242 reqs (0.1/s) | block rate 29%
+2026-09-29 18:16:54,689 INFO maps_url_scraper.engine | progress 101/300 assigned | 77 queries done | +869 places | +0 urls | 242 reqs (0.1/s) | block rate 29%
+2026-09-29 18:17:09,110 DEBUG maps_url_scraper.worker6 | ok page=0 attempt=3 proxy=direct q='Airline in McMullen, AL'
+2026-09-29 18:17:09,690 INFO maps_url_scraper.engine | progress 101/300 assigned | 77 queries done | +870 places | +0 urls | 243 reqs (0.1/s) | block rate 29%
+2026-09-29 18:17:11,377 DEBUG maps_url_scraper.worker18 | ok page=1 attempt=3 proxy=direct q='Aircraft maintenance company in McMullen, AL'
+2026-09-29 18:17:11,378 INFO maps_url_scraper.worker18 |  18 places | Aircraft maintenance company in McMullen, AL
+2026-09-29 18:17:24,690 INFO maps_url_scraper.engine | progress 102/300 assigned | 78 queries done | +870 places | +0 urls | 244 reqs (0.1/s) | block rate 29%
+2026-09-29 18:17:39,691 INFO maps_url_scraper.engine | progress 102/300 assigned | 78 queries done | +870 places | +0 urls | 244 reqs (0.1/s) | block rate 29%
+2026-09-29 18:17:54,691 INFO maps_url_scraper.engine | progress 102/300 assigned | 78 queries done | +870 places | +0 urls | 244 reqs (0.1/s) | block rate 29%
+2026-09-29 18:18:09,691 INFO maps_url_scraper.engine | progress 102/300 assigned | 78 queries done | +870 places | +0 urls | 244 reqs (0.1/s) | block rate 29%
+2026-09-29 18:18:24,692 INFO maps_url_scraper.engine | progress 102/300 assigned | 78 queries done | +870 places | +0 urls | 244 reqs (0.1/s) | block rate 29%
+2026-09-29 18:18:39,692 INFO maps_url_scraper.engine | progress 102/300 assigned | 78 queries done | +870 places | +0 urls | 244 reqs (0.1/s) | block rate 29%
+2026-09-29 18:18:54,692 INFO maps_url_scraper.engine | progress 102/300 assigned | 78 queries done | +870 places | +0 urls | 244 reqs (0.1/s) | block rate 29%
+2026-09-29 18:19:09,693 INFO maps_url_scraper.engine | progress 102/300 assigned | 78 queries done | +870 places | +0 urls | 244 reqs (0.1/s) | block rate 29%
+2026-09-29 18:19:24,693 INFO maps_url_scraper.engine | progress 102/300 assigned | 78 queries done | +870 places | +0 urls | 244 reqs (0.1/s) | block rate 29%
+2026-09-29 18:19:39,694 INFO maps_url_scraper.engine | progress 102/300 assigned | 78 queries done | +870 places | +0 urls | 244 reqs (0.1/s) | block rate 29%
+2026-09-29 18:19:43,824 WARNING maps_url_scraper.worker11 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Alcoholism treatment program in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Alcoholism+treatment+program+in+McMullen%2C+AL&pb=%211sAlcoholism%2B
+2026-09-29 18:19:44,464 WARNING maps_url_scraper.breaker | CIRCUIT BREAKER OPEN: 100% of last pages blocked - pausing all workers for 180s
+2026-09-29 18:19:44,465 WARNING maps_url_scraper.worker22 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 3/4) q='Air conditioning system supplier in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Air+conditioning+system+supplier+in+McMullen%2C+AL&pb=%211sAir%2Bcon
