@@ -1630,3 +1630,30 @@
 2026-09-29 20:09:39,861 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2793 places | +0 urls | 721 reqs (0.1/s) | block rate 13%
 2026-09-29 20:09:54,862 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2793 places | +0 urls | 721 reqs (0.1/s) | block rate 13%
 2026-09-29 20:10:09,862 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2793 places | +0 urls | 721 reqs (0.1/s) | block rate 13%
+2026-09-29 20:10:23,844 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-29 20:10:24,862 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2793 places | +0 urls | 721 reqs (0.1/s) | block rate 13%
+2026-09-29 20:10:39,863 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2793 places | +0 urls | 721 reqs (0.1/s) | block rate 13%
+2026-09-29 20:10:54,863 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2793 places | +0 urls | 721 reqs (0.1/s) | block rate 13%
+2026-09-29 20:11:09,864 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2793 places | +0 urls | 721 reqs (0.1/s) | block rate 13%
+2026-09-29 20:11:24,864 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2793 places | +0 urls | 721 reqs (0.1/s) | block rate 13%
+2026-09-29 20:11:39,864 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2793 places | +0 urls | 721 reqs (0.1/s) | block rate 13%
+2026-09-29 20:11:54,865 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2793 places | +0 urls | 721 reqs (0.1/s) | block rate 13%
+2026-09-29 20:12:06,920 DEBUG maps_url_scraper.worker11 | ok page=1 attempt=2 proxy=direct q='Bail bonds service in McMullen, AL'
+2026-09-29 20:12:06,921 INFO maps_url_scraper.worker11 |   1 places | Bail bonds service in McMullen, AL
+2026-09-29 20:12:07,387 DEBUG maps_url_scraper.worker6 | ok page=6 attempt=1 proxy=direct q='Auto parts store in McMullen, AL'
+2026-09-29 20:12:09,170 WARNING maps_url_scraper.worker6 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Auto parts store in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Auto+parts+store+in+McMullen%2C+AL&pb=%211sAuto%2Bparts%2Bstore%2Bin
+2026-09-29 20:12:09,865 INFO maps_url_scraper.engine | progress 300/300 assigned | 297 queries done | +2801 places | +0 urls | 724 reqs (0.1/s) | block rate 13%
+2026-09-29 20:12:24,865 INFO maps_url_scraper.engine | progress 300/300 assigned | 297 queries done | +2801 places | +0 urls | 724 reqs (0.1/s) | block rate 13%
+2026-09-29 20:12:39,866 INFO maps_url_scraper.engine | progress 300/300 assigned | 297 queries done | +2801 places | +0 urls | 724 reqs (0.1/s) | block rate 13%
+2026-09-29 20:12:43,221 DEBUG maps_url_scraper.worker20 | ok page=7 attempt=1 proxy=direct q='Auto parts market in McMullen, AL'
+2026-09-29 20:12:54,866 INFO maps_url_scraper.engine | progress 300/300 assigned | 297 queries done | +2804 places | +0 urls | 725 reqs (0.1/s) | block rate 13%
+2026-09-29 20:13:09,866 INFO maps_url_scraper.engine | progress 300/300 assigned | 297 queries done | +2804 places | +0 urls | 725 reqs (0.1/s) | block rate 13%
+2026-09-29 20:13:24,867 INFO maps_url_scraper.engine | progress 300/300 assigned | 297 queries done | +2804 places | +0 urls | 725 reqs (0.1/s) | block rate 13%
+2026-09-29 20:13:39,867 INFO maps_url_scraper.engine | progress 300/300 assigned | 297 queries done | +2804 places | +0 urls | 725 reqs (0.1/s) | block rate 13%
+2026-09-29 20:13:54,868 INFO maps_url_scraper.engine | progress 300/300 assigned | 297 queries done | +2804 places | +0 urls | 725 reqs (0.1/s) | block rate 13%
+2026-09-29 20:14:09,868 INFO maps_url_scraper.engine | progress 300/300 assigned | 297 queries done | +2804 places | +0 urls | 725 reqs (0.1/s) | block rate 13%
+2026-09-29 20:14:24,868 INFO maps_url_scraper.engine | progress 300/300 assigned | 297 queries done | +2804 places | +0 urls | 725 reqs (0.1/s) | block rate 13%
+2026-09-29 20:14:39,869 INFO maps_url_scraper.engine | progress 300/300 assigned | 297 queries done | +2804 places | +0 urls | 725 reqs (0.1/s) | block rate 13%
+2026-09-29 20:14:54,869 INFO maps_url_scraper.engine | progress 300/300 assigned | 297 queries done | +2804 places | +0 urls | 725 reqs (0.1/s) | block rate 13%
+2026-09-29 20:15:09,869 INFO maps_url_scraper.engine | progress 300/300 assigned | 297 queries done | +2804 places | +0 urls | 725 reqs (0.1/s) | block rate 13%
+2026-09-29 20:15:10,403 WARNING maps_url_scraper.worker20 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Auto parts market in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Auto+parts+market+in+McMullen%2C+AL&pb=%211sAuto%2Bparts%2Bmarket%2B
