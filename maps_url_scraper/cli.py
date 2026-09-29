@@ -72,6 +72,10 @@ def build_parser() -> argparse.ArgumentParser:
             p.add_argument("--collect-websites", action="store_true",
                            help="also store business websites in "
                                 "place-urls mode (bonus dataset)")
+            p.add_argument("--rotate-per-request", action="store_true",
+                           help="acquire a fresh proxy for EVERY request "
+                                "(fast mode for gateways that rotate "
+                                "residential IPs themselves)")
             p.add_argument("--fresh", action="store_true",
                            help="wipe state and start over")
             p.add_argument("--research", action="store_true",

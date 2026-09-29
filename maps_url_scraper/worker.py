@@ -65,14 +65,20 @@ class Worker(threading.Thread):
     def _process(self, query: str) -> None:
         """Crawl one query through all its pages, then checkpoint it.
 
-        The proxy is leased once and kept for the whole query (IP reuse);
-        it is only replaced when Google blocks or rate-limits it.
+        Two proxy strategies:
+
+        * default (sticky) - one proxy is LEASED for the whole query, every
+          page from the same IP with human-like gaps (IP-reuse mode)
+        * ``rotate_per_request`` - a FRESH proxy identity for every single
+          request (fast mode for gateways that rotate residential IPs
+          themselves, e.g. ScraperAPI)
         ``max_pages <= 0`` means UNLIMITED pagination: the query runs until
         the last page (no new places / empty page) before moving on.
         """
         seen: set[str] = set()
         status = "done"
-        proxy = self._pick_proxy()
+        rotate = self.settings.rotate_per_request
+        proxy = None if rotate else self._pick_proxy()
         capped = self.settings.max_pages > 0
         page = 0
         while not capped or page < self.settings.max_pages:
@@ -94,15 +100,21 @@ class Worker(threading.Thread):
     def _fetch_page(
         self, query: str, page: int, proxy: str | None
     ) -> tuple[str | None, str | None]:
-        """Fetch one page on the leased proxy; rotate it only on blocks.
+        """Fetch one page under the full policy; rotate it only on blocks.
+
+        In ``rotate_per_request`` mode every attempt picks a fresh identity
+        instead of keeping the leased one.
 
         Returns:
             ``(page_text, proxy)`` - the proxy may differ from the input one
             when a block forced a rotation. ``None`` text = page gave up.
         """
+        rotate = self.settings.rotate_per_request
         for attempt in range(1, self.settings.page_attempts + 1):
             if self.ctx.stop.is_set():
                 return None, proxy
+            if rotate:
+                proxy = self._pick_proxy()  # fresh identity, every request
             self.ctx.limiter.acquire(proxy or "direct")
             self.ctx.breaker.wait_if_open(self.ctx.stop)
 

@@ -38,6 +38,9 @@ class Settings:
     # ---- dataset selection
     emit: str = "place-urls"            # "place-urls" | "websites"
     collect_websites: bool = False      # also store websites in place-urls mode
+    rotate_per_request: bool = False    # fresh proxy identity for EVERY request
+                                        # (fast mode - gateways like ScraperAPI
+                                        # rotate residential IPs themselves)
 
     # ---- what to scrape
     query: str | None = None            # single-query mode (bypasses locations)
@@ -86,6 +89,7 @@ class Settings:
         settings = cls(
             emit=ns.emit,
             collect_websites=getattr(ns, "collect_websites", False),
+            rotate_per_request=getattr(ns, "rotate_per_request", False),
             # run/validate-only flags are absent on report/export namespaces
             query=getattr(ns, "query", None),
             states=getattr(ns, "states", None),
@@ -95,8 +99,8 @@ class Settings:
             workers=getattr(ns, "workers", 2),
             max_pages=getattr(ns, "max_pages", 10),
             min_interval=getattr(ns, "min_interval", 1.5),
-            delay_min=getattr(ns, "delay_min", 0.8),
-            delay_max=getattr(ns, "delay_max", 2.2),
+            delay_min=getattr(ns, "delay_min", 8.0),
+            delay_max=getattr(ns, "delay_max", 16.0),
             request_timeout=getattr(ns, "request_timeout", 45.0),
             fresh=getattr(ns, "fresh", False),
             verbose=getattr(ns, "verbose", False),
