@@ -1596,3 +1596,37 @@
 2026-09-29 20:04:54,854 INFO maps_url_scraper.engine | progress 300/300 assigned | 291 queries done | +2776 places | +0 urls | 713 reqs (0.1/s) | block rate 13%
 2026-09-29 20:05:09,855 INFO maps_url_scraper.engine | progress 300/300 assigned | 291 queries done | +2776 places | +0 urls | 713 reqs (0.1/s) | block rate 13%
 2026-09-29 20:05:19,970 DEBUG maps_url_scraper.worker1 | ok page=1 attempt=1 proxy=direct q='Balloon artist in McMullen, AL'
+2026-09-29 20:05:21,386 DEBUG maps_url_scraper.worker2 | ok page=1 attempt=1 proxy=direct q='Balloon ride tour agency in McMullen, AL'
+2026-09-29 20:05:21,387 INFO maps_url_scraper.worker2 |   3 places | Balloon ride tour agency in McMullen, AL
+2026-09-29 20:05:22,370 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-29 20:05:24,855 INFO maps_url_scraper.engine | progress 300/300 assigned | 292 queries done | +2779 places | +0 urls | 715 reqs (0.1/s) | block rate 13%
+2026-09-29 20:05:29,236 DEBUG maps_url_scraper.worker16 | ok page=1 attempt=1 proxy=direct q='Balloon store in McMullen, AL'
+2026-09-29 20:05:29,236 INFO maps_url_scraper.worker16 |   3 places | Balloon store in McMullen, AL
+2026-09-29 20:05:34,631 DEBUG maps_url_scraper.worker9 | ok page=1 attempt=1 proxy=direct q='Ballroom dance instructor in McMullen, AL'
+2026-09-29 20:05:34,631 INFO maps_url_scraper.worker9 |   7 places | Ballroom dance instructor in McMullen, AL
+2026-09-29 20:05:36,653 DEBUG maps_url_scraper.worker18 | ok page=3 attempt=1 proxy=direct q='Baby clothing store in McMullen, AL'
+2026-09-29 20:05:36,654 INFO maps_url_scraper.worker18 |  59 places | Baby clothing store in McMullen, AL
+2026-09-29 20:05:38,651 DEBUG maps_url_scraper.worker23 | ok page=1 attempt=1 proxy=direct q='Band in McMullen, AL'
+2026-09-29 20:05:38,651 INFO maps_url_scraper.worker23 |   1 places | Band in McMullen, AL
+2026-09-29 20:05:39,856 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2779 places | +0 urls | 719 reqs (0.1/s) | block rate 13%
+2026-09-29 20:05:54,856 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2779 places | +0 urls | 719 reqs (0.1/s) | block rate 13%
+2026-09-29 20:06:09,856 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2779 places | +0 urls | 719 reqs (0.1/s) | block rate 13%
+2026-09-29 20:06:24,857 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2779 places | +0 urls | 719 reqs (0.1/s) | block rate 13%
+2026-09-29 20:06:39,857 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2779 places | +0 urls | 719 reqs (0.1/s) | block rate 13%
+2026-09-29 20:06:54,857 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2779 places | +0 urls | 719 reqs (0.1/s) | block rate 13%
+2026-09-29 20:07:09,858 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2779 places | +0 urls | 719 reqs (0.1/s) | block rate 13%
+2026-09-29 20:07:24,858 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2779 places | +0 urls | 719 reqs (0.1/s) | block rate 13%
+2026-09-29 20:07:39,859 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2779 places | +0 urls | 719 reqs (0.1/s) | block rate 13%
+2026-09-29 20:07:40,863 DEBUG maps_url_scraper.worker20 | ok page=6 attempt=1 proxy=direct q='Auto parts market in McMullen, AL'
+2026-09-29 20:07:54,859 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2793 places | +0 urls | 720 reqs (0.1/s) | block rate 13%
+2026-09-29 20:08:09,859 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2793 places | +0 urls | 720 reqs (0.1/s) | block rate 13%
+2026-09-29 20:08:24,860 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2793 places | +0 urls | 720 reqs (0.1/s) | block rate 13%
+2026-09-29 20:08:39,860 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2793 places | +0 urls | 720 reqs (0.1/s) | block rate 13%
+2026-09-29 20:08:54,860 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2793 places | +0 urls | 720 reqs (0.1/s) | block rate 13%
+2026-09-29 20:09:06,200 WARNING maps_url_scraper.breaker | CIRCUIT BREAKER OPEN: 100% of last pages blocked - pausing all workers for 180s
+2026-09-29 20:09:06,200 WARNING maps_url_scraper.worker1 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Balloon artist in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Balloon+artist+in+McMullen%2C+AL&pb=%211sBalloon%2Bartist%2Bin%2BMcM
+2026-09-29 20:09:09,861 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2793 places | +0 urls | 721 reqs (0.1/s) | block rate 13%
+2026-09-29 20:09:24,861 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2793 places | +0 urls | 721 reqs (0.1/s) | block rate 13%
+2026-09-29 20:09:39,861 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2793 places | +0 urls | 721 reqs (0.1/s) | block rate 13%
+2026-09-29 20:09:54,862 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2793 places | +0 urls | 721 reqs (0.1/s) | block rate 13%
+2026-09-29 20:10:09,862 INFO maps_url_scraper.engine | progress 300/300 assigned | 296 queries done | +2793 places | +0 urls | 721 reqs (0.1/s) | block rate 13%
