@@ -60,7 +60,7 @@ def build_parser() -> argparse.ArgumentParser:
             p.add_argument("--workers", type=int, default=2,
                            help="parallel worker threads (default: 2)")
             p.add_argument("--max-pages", type=int, default=10,
-                           help="pages per query, 20 results each (default: 10)")
+                           help="pages per query, 20 results each; 0 = unlimited (default: 10)")
             p.add_argument("--min-interval", type=float, default=1.5,
                            help="per-proxy minimum seconds between requests")
             p.add_argument("--delay-min", type=float, default=8.0,

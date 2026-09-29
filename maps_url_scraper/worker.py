@@ -67,11 +67,15 @@ class Worker(threading.Thread):
 
         The proxy is leased once and kept for the whole query (IP reuse);
         it is only replaced when Google blocks or rate-limits it.
+        ``max_pages <= 0`` means UNLIMITED pagination: the query runs until
+        the last page (no new places / empty page) before moving on.
         """
         seen: set[str] = set()
         status = "done"
         proxy = self._pick_proxy()
-        for page in range(self.settings.max_pages):
+        capped = self.settings.max_pages > 0
+        page = 0
+        while not capped or page < self.settings.max_pages:
             text, proxy = self._fetch_page(query, page, proxy)
             if text is None:
                 status = "failed"
@@ -79,11 +83,12 @@ class Worker(threading.Thread):
             new_ftids, page_ftids = self._ingest(query, text, seen)
             seen |= page_ftids
             if not page_ftids or (page > 0 and not new_ftids):
-                break  # empty page or exhausted result set
-            if page < self.settings.max_pages - 1:
-                # human-like gap on the SAME ip before the next page
+                break  # empty page or exhausted result set - last page reached
+            # human-like gap on the SAME ip before the next page
+            if not capped or page < self.settings.max_pages - 1:
                 time.sleep(random.uniform(
                     self.settings.delay_min, self.settings.delay_max))
+            page += 1
         self._finish(query, len(seen), status)
 
     def _fetch_page(

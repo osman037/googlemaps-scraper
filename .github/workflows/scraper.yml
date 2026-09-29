@@ -48,15 +48,16 @@ jobs:
 
       - name: Run scraper
         env:
-          MAX_WORKERS: "8"
-          SESSION_POOL_SIZE: "16"
-          LIMIT_QUERIES: "150"   # per-run budget: keeps the job inside 6h
+          MAX_WORKERS: "7"           # = proxy key count (sticky IP per query)
+          LIMIT_QUERIES: "1000"      # per-run budget: keeps the job inside 6h
+          CATEGORIES_FILE: "config/categories.txt"
         run: |
           python main.py run \
             --workers "$MAX_WORKERS" \
+            --categories "$CATEGORIES_FILE" \
+            --max-pages 0 \
             --delay-min 8 --delay-max 16 \
-            --limit-queries "$LIMIT_QUERIES" \
-            --max-pages 10
+            --limit-queries "$LIMIT_QUERIES"
 
       - name: Commit state and collected URLs
         run: |
