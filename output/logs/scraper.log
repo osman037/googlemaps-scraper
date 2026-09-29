@@ -968,3 +968,58 @@
 2026-09-29 19:04:39,763 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1709 places | +0 urls | 456 reqs (0.1/s) | block rate 17%
 2026-09-29 19:04:54,764 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1709 places | +0 urls | 456 reqs (0.1/s) | block rate 17%
 2026-09-29 19:04:56,278 DEBUG maps_url_scraper.worker22 | ok page=0 attempt=1 proxy=direct q='Art school in McMullen, AL'
+2026-09-29 19:05:02,135 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-29 19:05:09,764 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1715 places | +0 urls | 457 reqs (0.1/s) | block rate 17%
+2026-09-29 19:05:24,764 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1715 places | +0 urls | 457 reqs (0.1/s) | block rate 17%
+2026-09-29 19:05:39,765 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1715 places | +0 urls | 457 reqs (0.1/s) | block rate 17%
+2026-09-29 19:05:54,765 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1715 places | +0 urls | 457 reqs (0.1/s) | block rate 17%
+2026-09-29 19:06:04,915 WARNING maps_url_scraper.breaker | CIRCUIT BREAKER OPEN: 100% of last pages blocked - pausing all workers for 180s
+2026-09-29 19:06:04,915 WARNING maps_url_scraper.worker5 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Art studio in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Art+studio+in+McMullen%2C+AL&pb=%211sArt%2Bstudio%2Bin%2BMcMullen%25
+2026-09-29 19:06:09,765 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1715 places | +0 urls | 458 reqs (0.1/s) | block rate 17%
+2026-09-29 19:06:24,766 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1715 places | +0 urls | 458 reqs (0.1/s) | block rate 17%
+2026-09-29 19:06:39,766 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1715 places | +0 urls | 458 reqs (0.1/s) | block rate 17%
+2026-09-29 19:06:54,767 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1715 places | +0 urls | 458 reqs (0.1/s) | block rate 17%
+2026-09-29 19:07:09,767 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1715 places | +0 urls | 458 reqs (0.1/s) | block rate 17%
+2026-09-29 19:07:24,767 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1715 places | +0 urls | 458 reqs (0.1/s) | block rate 17%
+2026-09-29 19:07:39,768 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1715 places | +0 urls | 458 reqs (0.1/s) | block rate 17%
+2026-09-29 19:07:54,768 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1715 places | +0 urls | 458 reqs (0.1/s) | block rate 17%
+2026-09-29 19:08:09,769 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1715 places | +0 urls | 458 reqs (0.1/s) | block rate 17%
+2026-09-29 19:08:24,769 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1715 places | +0 urls | 458 reqs (0.1/s) | block rate 17%
+2026-09-29 19:08:39,769 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1715 places | +0 urls | 458 reqs (0.1/s) | block rate 17%
+2026-09-29 19:08:54,770 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1715 places | +0 urls | 458 reqs (0.1/s) | block rate 17%
+2026-09-29 19:09:05,288 WARNING maps_url_scraper.worker6 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Asbestos testing service in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Asbestos+testing+service+in+McMullen%2C+AL&pb=%211sAsbestos%2Btestin
+2026-09-29 19:09:05,305 DEBUG maps_url_scraper.worker3 | ok page=1 attempt=1 proxy=direct q='Aromatherapy class in McMullen, AL'
+2026-09-29 19:09:05,305 INFO maps_url_scraper.worker3 |   2 places | Aromatherapy class in McMullen, AL
+2026-09-29 19:09:05,520 WARNING maps_url_scraper.worker14 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Art dealer in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Art+dealer+in+McMullen%2C+AL&pb=%211sArt%2Bdealer%2Bin%2BMcMullen%25
+2026-09-29 19:09:05,539 DEBUG maps_url_scraper.worker10 | ok page=0 attempt=1 proxy=direct q='Arts organization in McMullen, AL'
+2026-09-29 19:09:05,582 DEBUG maps_url_scraper.worker24 | ok page=1 attempt=1 proxy=direct q='Art museum in McMullen, AL'
+2026-09-29 19:09:05,597 DEBUG maps_url_scraper.worker2 | ok page=0 attempt=1 proxy=direct q='Artist in McMullen, AL'
+2026-09-29 19:09:05,598 DEBUG maps_url_scraper.worker17 | ok page=1 attempt=1 proxy=direct q='Aromatherapy supply store in McMullen, AL'
+2026-09-29 19:09:05,598 INFO maps_url_scraper.worker17 |   1 places | Aromatherapy supply store in McMullen, AL
+2026-09-29 19:09:05,620 DEBUG maps_url_scraper.worker12 | ok page=1 attempt=1 proxy=direct q='Art restoration service in McMullen, AL'
+2026-09-29 19:09:05,620 INFO maps_url_scraper.worker12 |   1 places | Art restoration service in McMullen, AL
+2026-09-29 19:09:05,647 DEBUG maps_url_scraper.worker7 | ok page=1 attempt=1 proxy=direct q='Army museum in McMullen, AL'
+2026-09-29 19:09:05,648 INFO maps_url_scraper.worker7 |   2 places | Army museum in McMullen, AL
+2026-09-29 19:09:05,690 DEBUG maps_url_scraper.worker9 | ok page=0 attempt=1 proxy=direct q='Ashram in McMullen, AL'
+2026-09-29 19:09:05,690 INFO maps_url_scraper.worker9 |   0 places | Ashram in McMullen, AL
+2026-09-29 19:09:05,770 DEBUG maps_url_scraper.worker8 | ok page=0 attempt=1 proxy=direct q='Artificial plant supplier in McMullen, AL'
+2026-09-29 19:09:05,776 DEBUG maps_url_scraper.worker16 | ok page=1 attempt=1 proxy=direct q='Art center in McMullen, AL'
+2026-09-29 19:09:05,777 INFO maps_url_scraper.worker16 |  15 places | Art center in McMullen, AL
+2026-09-29 19:09:05,781 DEBUG maps_url_scraper.worker21 | ok page=0 attempt=1 proxy=direct q='Asian grocery store in McMullen, AL'
+2026-09-29 19:09:05,813 WARNING maps_url_scraper.worker15 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 2/4) q='Army barracks in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Army+barracks+in+McMullen%2C+AL&pb=%211sArmy%2Bbarracks%2Bin%2BMcMul
+2026-09-29 19:09:05,821 DEBUG maps_url_scraper.worker13 | ok page=0 attempt=1 proxy=direct q='Asian household goods store in McMullen, AL'
+2026-09-29 19:09:05,911 DEBUG maps_url_scraper.worker11 | ok page=0 attempt=1 proxy=direct q='Art supply store in McMullen, AL'
+2026-09-29 19:09:06,055 DEBUG maps_url_scraper.worker1 | ok page=0 attempt=1 proxy=direct q='Asian fusion restaurant in McMullen, AL'
+2026-09-29 19:09:06,171 DEBUG maps_url_scraper.worker23 | ok page=1 attempt=1 proxy=direct q='Aromatherapy service in McMullen, AL'
+2026-09-29 19:09:06,172 INFO maps_url_scraper.worker23 |  11 places | Aromatherapy service in McMullen, AL
+2026-09-29 19:09:06,366 DEBUG maps_url_scraper.worker18 | ok page=3 attempt=1 proxy=direct q='Architectural and engineering model maker in McMullen, AL'
+2026-09-29 19:09:06,367 INFO maps_url_scraper.worker18 |  41 places | Architectural and engineering model maker in McMullen, AL
+2026-09-29 19:09:06,683 DEBUG maps_url_scraper.worker19 | ok page=6 attempt=1 proxy=direct q='Animal feed store in McMullen, AL'
+2026-09-29 19:09:09,770 INFO maps_url_scraper.engine | progress 207/300 assigned | 183 queries done | +1807 places | +0 urls | 478 reqs (0.1/s) | block rate 17%
+2026-09-29 19:09:24,770 INFO maps_url_scraper.engine | progress 207/300 assigned | 183 queries done | +1807 places | +0 urls | 478 reqs (0.1/s) | block rate 17%
+2026-09-29 19:09:39,771 INFO maps_url_scraper.engine | progress 207/300 assigned | 183 queries done | +1807 places | +0 urls | 478 reqs (0.1/s) | block rate 17%
+2026-09-29 19:09:48,919 DEBUG maps_url_scraper.worker20 | ok page=0 attempt=2 proxy=direct q='Art gallery in McMullen, AL'
+2026-09-29 19:09:50,295 DEBUG maps_url_scraper.worker4 | ok page=0 attempt=2 proxy=direct q='Army facility in McMullen, AL'
+2026-09-29 19:09:54,771 INFO maps_url_scraper.engine | progress 207/300 assigned | 183 queries done | +1809 places | +0 urls | 480 reqs (0.1/s) | block rate 17%
+2026-09-29 19:09:58,285 DEBUG maps_url_scraper.worker22 | ok page=1 attempt=1 proxy=direct q='Art school in McMullen, AL'
+2026-09-29 19:09:58,285 INFO maps_url_scraper.worker22 |   8 places | Art school in McMullen, AL
