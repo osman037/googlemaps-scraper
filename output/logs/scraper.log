@@ -916,3 +916,55 @@
 2026-09-29 18:59:54,756 INFO maps_url_scraper.engine | progress 188/300 assigned | 164 queries done | +1630 places | +0 urls | 435 reqs (0.1/s) | block rate 18%
 2026-09-29 18:59:55,943 DEBUG maps_url_scraper.worker22 | ok page=1 attempt=1 proxy=direct q='Architectural salvage store in McMullen, AL'
 2026-09-29 18:59:55,943 INFO maps_url_scraper.worker22 |   3 places | Architectural salvage store in McMullen, AL
+2026-09-29 19:00:00,718 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-29 19:00:09,756 INFO maps_url_scraper.engine | progress 189/300 assigned | 165 queries done | +1630 places | +0 urls | 436 reqs (0.1/s) | block rate 18%
+2026-09-29 19:00:24,756 INFO maps_url_scraper.engine | progress 189/300 assigned | 165 queries done | +1630 places | +0 urls | 436 reqs (0.1/s) | block rate 18%
+2026-09-29 19:00:39,757 INFO maps_url_scraper.engine | progress 189/300 assigned | 165 queries done | +1630 places | +0 urls | 436 reqs (0.1/s) | block rate 18%
+2026-09-29 19:00:54,757 INFO maps_url_scraper.engine | progress 189/300 assigned | 165 queries done | +1630 places | +0 urls | 436 reqs (0.1/s) | block rate 18%
+2026-09-29 19:01:09,758 INFO maps_url_scraper.engine | progress 189/300 assigned | 165 queries done | +1630 places | +0 urls | 436 reqs (0.1/s) | block rate 18%
+2026-09-29 19:01:24,758 INFO maps_url_scraper.engine | progress 189/300 assigned | 165 queries done | +1630 places | +0 urls | 436 reqs (0.1/s) | block rate 18%
+2026-09-29 19:01:39,758 INFO maps_url_scraper.engine | progress 189/300 assigned | 165 queries done | +1630 places | +0 urls | 436 reqs (0.1/s) | block rate 18%
+2026-09-29 19:01:54,759 INFO maps_url_scraper.engine | progress 189/300 assigned | 165 queries done | +1630 places | +0 urls | 436 reqs (0.1/s) | block rate 18%
+2026-09-29 19:02:09,759 INFO maps_url_scraper.engine | progress 189/300 assigned | 165 queries done | +1630 places | +0 urls | 436 reqs (0.1/s) | block rate 18%
+2026-09-29 19:02:14,505 DEBUG maps_url_scraper.worker5 | ok page=1 attempt=1 proxy=direct q='Architecture firm in McMullen, AL'
+2026-09-29 19:02:14,506 INFO maps_url_scraper.worker5 |  10 places | Architecture firm in McMullen, AL
+2026-09-29 19:02:19,219 DEBUG maps_url_scraper.worker11 | ok page=3 attempt=1 proxy=direct q='Applied behavior analysis therapist in McMullen, AL'
+2026-09-29 19:02:19,219 INFO maps_url_scraper.worker11 |  48 places | Applied behavior analysis therapist in McMullen, AL
+2026-09-29 19:02:24,760 INFO maps_url_scraper.engine | progress 191/300 assigned | 167 queries done | +1630 places | +0 urls | 438 reqs (0.1/s) | block rate 18%
+2026-09-29 19:02:39,760 INFO maps_url_scraper.engine | progress 191/300 assigned | 167 queries done | +1630 places | +0 urls | 438 reqs (0.1/s) | block rate 18%
+2026-09-29 19:02:53,294 DEBUG maps_url_scraper.worker8 | ok page=1 attempt=1 proxy=direct q='Architecture school in McMullen, AL'
+2026-09-29 19:02:53,294 INFO maps_url_scraper.worker8 |   8 places | Architecture school in McMullen, AL
+2026-09-29 19:02:54,761 INFO maps_url_scraper.engine | progress 192/300 assigned | 168 queries done | +1630 places | +0 urls | 439 reqs (0.1/s) | block rate 18%
+2026-09-29 19:02:58,262 DEBUG maps_url_scraper.worker2 | ok page=1 attempt=1 proxy=direct q='Archive in McMullen, AL'
+2026-09-29 19:02:58,262 INFO maps_url_scraper.worker2 |   1 places | Archive in McMullen, AL
+2026-09-29 19:03:01,725 DEBUG maps_url_scraper.worker19 | ok page=5 attempt=1 proxy=direct q='Animal feed store in McMullen, AL'
+2026-09-29 19:03:02,176 DEBUG maps_url_scraper.worker10 | ok page=1 attempt=1 proxy=direct q='Arena in McMullen, AL'
+2026-09-29 19:03:02,176 INFO maps_url_scraper.worker10 |   1 places | Arena in McMullen, AL
+2026-09-29 19:03:04,548 DEBUG maps_url_scraper.worker6 | ok page=2 attempt=1 proxy=direct q='Arborist service in McMullen, AL'
+2026-09-29 19:03:04,549 INFO maps_url_scraper.worker6 |  26 places | Arborist service in McMullen, AL
+2026-09-29 19:03:06,201 DEBUG maps_url_scraper.worker7 | ok page=0 attempt=1 proxy=direct q='Army museum in McMullen, AL'
+2026-09-29 19:03:07,747 DEBUG maps_url_scraper.worker3 | ok page=0 attempt=1 proxy=direct q='Aromatherapy class in McMullen, AL'
+2026-09-29 19:03:09,351 DEBUG maps_url_scraper.worker23 | ok page=0 attempt=1 proxy=direct q='Aromatherapy service in McMullen, AL'
+2026-09-29 19:03:09,761 INFO maps_url_scraper.engine | progress 195/300 assigned | 171 queries done | +1665 places | +0 urls | 446 reqs (0.1/s) | block rate 18%
+2026-09-29 19:03:11,097 DEBUG maps_url_scraper.worker17 | ok page=0 attempt=1 proxy=direct q='Aromatherapy supply store in McMullen, AL'
+2026-09-29 19:03:12,515 DEBUG maps_url_scraper.worker9 | ok page=0 attempt=1 proxy=direct q='Art cafe in McMullen, AL'
+2026-09-29 19:03:12,516 INFO maps_url_scraper.worker9 |   0 places | Art cafe in McMullen, AL
+2026-09-29 19:03:14,535 DEBUG maps_url_scraper.worker16 | ok page=0 attempt=1 proxy=direct q='Art center in McMullen, AL'
+2026-09-29 19:03:16,585 DEBUG maps_url_scraper.worker1 | ok page=4 attempt=1 proxy=direct q='Apartment complex in McMullen, AL'
+2026-09-29 19:03:16,586 INFO maps_url_scraper.worker1 |  79 places | Apartment complex in McMullen, AL
+2026-09-29 19:03:18,451 DEBUG maps_url_scraper.worker14 | ok page=0 attempt=1 proxy=direct q='Art dealer in McMullen, AL'
+2026-09-29 19:03:20,201 DEBUG maps_url_scraper.worker21 | ok page=1 attempt=1 proxy=direct q='Armed forces association in McMullen, AL'
+2026-09-29 19:03:20,201 INFO maps_url_scraper.worker21 |   1 places | Armed forces association in McMullen, AL
+2026-09-29 19:03:22,346 DEBUG maps_url_scraper.worker24 | ok page=0 attempt=1 proxy=direct q='Art museum in McMullen, AL'
+2026-09-29 19:03:24,761 INFO maps_url_scraper.engine | progress 198/300 assigned | 174 queries done | +1707 places | +0 urls | 453 reqs (0.1/s) | block rate 17%
+2026-09-29 19:03:26,978 DEBUG maps_url_scraper.worker13 | ok page=1 attempt=1 proxy=direct q='Army & navy surplus shop in McMullen, AL'
+2026-09-29 19:03:26,978 INFO maps_url_scraper.worker13 |   2 places | Army & navy surplus shop in McMullen, AL
+2026-09-29 19:03:28,280 DEBUG maps_url_scraper.worker12 | ok page=0 attempt=1 proxy=direct q='Art restoration service in McMullen, AL'
+2026-09-29 19:03:30,308 DEBUG maps_url_scraper.worker18 | ok page=2 attempt=1 proxy=direct q='Architectural and engineering model maker in McMullen, AL'
+2026-09-29 19:03:39,762 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1709 places | +0 urls | 456 reqs (0.1/s) | block rate 17%
+2026-09-29 19:03:54,762 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1709 places | +0 urls | 456 reqs (0.1/s) | block rate 17%
+2026-09-29 19:04:09,762 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1709 places | +0 urls | 456 reqs (0.1/s) | block rate 17%
+2026-09-29 19:04:24,763 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1709 places | +0 urls | 456 reqs (0.1/s) | block rate 17%
+2026-09-29 19:04:39,763 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1709 places | +0 urls | 456 reqs (0.1/s) | block rate 17%
+2026-09-29 19:04:54,764 INFO maps_url_scraper.engine | progress 199/300 assigned | 175 queries done | +1709 places | +0 urls | 456 reqs (0.1/s) | block rate 17%
+2026-09-29 19:04:56,278 DEBUG maps_url_scraper.worker22 | ok page=0 attempt=1 proxy=direct q='Art school in McMullen, AL'
