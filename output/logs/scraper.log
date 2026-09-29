@@ -746,3 +746,59 @@
 2026-09-29 18:44:24,732 INFO maps_url_scraper.engine | progress 157/300 assigned | 133 queries done | +1255 places | +0 urls | 361 reqs (0.1/s) | block rate 21%
 2026-09-29 18:44:39,732 INFO maps_url_scraper.engine | progress 157/300 assigned | 133 queries done | +1255 places | +0 urls | 361 reqs (0.1/s) | block rate 21%
 2026-09-29 18:44:51,169 DEBUG maps_url_scraper.worker22 | ok page=0 attempt=1 proxy=direct q='Appliance repair service in McMullen, AL'
+2026-09-29 18:44:54,733 INFO maps_url_scraper.engine | progress 157/300 assigned | 133 queries done | +1266 places | +0 urls | 362 reqs (0.1/s) | block rate 21%
+2026-09-29 18:44:55,851 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-29 18:45:09,733 INFO maps_url_scraper.engine | progress 157/300 assigned | 133 queries done | +1266 places | +0 urls | 362 reqs (0.1/s) | block rate 21%
+2026-09-29 18:45:24,734 INFO maps_url_scraper.engine | progress 157/300 assigned | 133 queries done | +1266 places | +0 urls | 362 reqs (0.1/s) | block rate 21%
+2026-09-29 18:45:39,734 INFO maps_url_scraper.engine | progress 157/300 assigned | 133 queries done | +1266 places | +0 urls | 362 reqs (0.1/s) | block rate 21%
+2026-09-29 18:45:54,734 INFO maps_url_scraper.engine | progress 157/300 assigned | 133 queries done | +1266 places | +0 urls | 362 reqs (0.1/s) | block rate 21%
+2026-09-29 18:46:09,735 INFO maps_url_scraper.engine | progress 157/300 assigned | 133 queries done | +1266 places | +0 urls | 362 reqs (0.1/s) | block rate 21%
+2026-09-29 18:46:24,735 INFO maps_url_scraper.engine | progress 157/300 assigned | 133 queries done | +1266 places | +0 urls | 362 reqs (0.1/s) | block rate 21%
+2026-09-29 18:46:39,736 INFO maps_url_scraper.engine | progress 157/300 assigned | 133 queries done | +1266 places | +0 urls | 362 reqs (0.1/s) | block rate 21%
+2026-09-29 18:46:54,736 INFO maps_url_scraper.engine | progress 157/300 assigned | 133 queries done | +1266 places | +0 urls | 362 reqs (0.1/s) | block rate 21%
+2026-09-29 18:47:00,965 WARNING maps_url_scraper.worker15 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Apostolic church in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Apostolic+church+in+McMullen%2C+AL&pb=%211sApostolic%2Bchurch%2Bin%2
+2026-09-29 18:47:08,933 DEBUG maps_url_scraper.worker4 | ok page=0 attempt=1 proxy=direct q='Appliance store in McMullen, AL'
+2026-09-29 18:47:09,707 DEBUG maps_url_scraper.worker5 | ok page=0 attempt=1 proxy=direct q='Appliances customer service in McMullen, AL'
+2026-09-29 18:47:09,736 INFO maps_url_scraper.engine | progress 157/300 assigned | 133 queries done | +1286 places | +0 urls | 365 reqs (0.1/s) | block rate 21%
+2026-09-29 18:47:12,878 DEBUG maps_url_scraper.worker11 | ok page=0 attempt=1 proxy=direct q='Applied behavior analysis therapist in McMullen, AL'
+2026-09-29 18:47:24,737 INFO maps_url_scraper.engine | progress 157/300 assigned | 133 queries done | +1306 places | +0 urls | 366 reqs (0.1/s) | block rate 21%
+2026-09-29 18:47:39,737 INFO maps_url_scraper.engine | progress 157/300 assigned | 133 queries done | +1306 places | +0 urls | 366 reqs (0.1/s) | block rate 21%
+2026-09-29 18:47:49,504 DEBUG maps_url_scraper.worker8 | ok page=0 attempt=1 proxy=direct q='Appraiser in McMullen, AL'
+2026-09-29 18:47:53,687 DEBUG maps_url_scraper.worker19 | ok page=2 attempt=1 proxy=direct q='Animal feed store in McMullen, AL'
+2026-09-29 18:47:54,737 INFO maps_url_scraper.engine | progress 157/300 assigned | 133 queries done | +1340 places | +0 urls | 368 reqs (0.1/s) | block rate 21%
+2026-09-29 18:47:54,835 DEBUG maps_url_scraper.worker2 | ok page=0 attempt=1 proxy=direct q='Apprenticeship center in McMullen, AL'
+2026-09-29 18:47:57,278 DEBUG maps_url_scraper.worker10 | ok page=0 attempt=1 proxy=direct q='Aquaculture farm in McMullen, AL'
+2026-09-29 18:47:58,791 DEBUG maps_url_scraper.worker6 | ok page=2 attempt=1 proxy=direct q='Animal hospital in McMullen, AL'
+2026-09-29 18:47:58,791 INFO maps_url_scraper.worker6 |  32 places | Animal hospital in McMullen, AL
+2026-09-29 18:48:00,737 DEBUG maps_url_scraper.worker7 | ok page=2 attempt=1 proxy=direct q='Animal rescue service in McMullen, AL'
+2026-09-29 18:48:00,737 INFO maps_url_scraper.worker7 |  26 places | Animal rescue service in McMullen, AL
+2026-09-29 18:48:02,095 DEBUG maps_url_scraper.worker3 | ok page=0 attempt=1 proxy=direct q='Aquarium in McMullen, AL'
+2026-09-29 18:48:03,992 DEBUG maps_url_scraper.worker23 | ok page=2 attempt=1 proxy=direct q='Animal shelter in McMullen, AL'
+2026-09-29 18:48:03,992 INFO maps_url_scraper.worker23 |  38 places | Animal shelter in McMullen, AL
+2026-09-29 18:48:05,525 DEBUG maps_url_scraper.worker17 | ok page=1 attempt=1 proxy=direct q='Antique furniture store in McMullen, AL'
+2026-09-29 18:48:05,525 INFO maps_url_scraper.worker17 |   5 places | Antique furniture store in McMullen, AL
+2026-09-29 18:48:07,534 DEBUG maps_url_scraper.worker9 | ok page=1 attempt=1 proxy=direct q='Antique store in McMullen, AL'
+2026-09-29 18:48:07,535 INFO maps_url_scraper.worker9 |   8 places | Antique store in McMullen, AL
+2026-09-29 18:48:09,257 DEBUG maps_url_scraper.worker16 | ok page=1 attempt=1 proxy=direct q='Apartment building in McMullen, AL'
+2026-09-29 18:48:09,257 INFO maps_url_scraper.worker16 |   2 places | Apartment building in McMullen, AL
+2026-09-29 18:48:09,738 INFO maps_url_scraper.engine | progress 163/300 assigned | 139 queries done | +1352 places | +0 urls | 377 reqs (0.1/s) | block rate 20%
+2026-09-29 18:48:11,144 DEBUG maps_url_scraper.worker1 | ok page=1 attempt=1 proxy=direct q='Apartment complex in McMullen, AL'
+2026-09-29 18:48:12,477 DEBUG maps_url_scraper.worker14 | ok page=1 attempt=1 proxy=direct q='Apartment rental agency in McMullen, AL'
+2026-09-29 18:48:12,477 INFO maps_url_scraper.worker14 |   2 places | Apartment rental agency in McMullen, AL
+2026-09-29 18:48:13,686 DEBUG maps_url_scraper.worker21 | ok page=0 attempt=1 proxy=direct q='Aquarium shop in McMullen, AL'
+2026-09-29 18:48:16,683 DEBUG maps_url_scraper.worker20 | ok page=0 attempt=1 proxy=direct q='Aquatic center in McMullen, AL'
+2026-09-29 18:48:19,594 DEBUG maps_url_scraper.worker24 | ok page=0 attempt=1 proxy=direct q='Arab restaurant in McMullen, AL'
+2026-09-29 18:48:21,241 DEBUG maps_url_scraper.worker18 | ok page=1 attempt=1 proxy=direct q='Appliance parts supplier in McMullen, AL'
+2026-09-29 18:48:21,241 INFO maps_url_scraper.worker18 |   1 places | Appliance parts supplier in McMullen, AL
+2026-09-29 18:48:22,863 DEBUG maps_url_scraper.worker13 | ok page=0 attempt=1 proxy=direct q='Arboretum in McMullen, AL'
+2026-09-29 18:48:24,604 DEBUG maps_url_scraper.worker12 | ok page=1 attempt=1 proxy=direct q='Appliance rental service in McMullen, AL'
+2026-09-29 18:48:24,605 INFO maps_url_scraper.worker12 |  12 places | Appliance rental service in McMullen, AL
+2026-09-29 18:48:24,738 INFO maps_url_scraper.engine | progress 166/300 assigned | 142 queries done | +1402 places | +0 urls | 385 reqs (0.1/s) | block rate 20%
+2026-09-29 18:48:39,739 INFO maps_url_scraper.engine | progress 166/300 assigned | 142 queries done | +1402 places | +0 urls | 385 reqs (0.1/s) | block rate 20%
+2026-09-29 18:48:54,739 INFO maps_url_scraper.engine | progress 166/300 assigned | 142 queries done | +1402 places | +0 urls | 385 reqs (0.1/s) | block rate 20%
+2026-09-29 18:49:09,739 INFO maps_url_scraper.engine | progress 166/300 assigned | 142 queries done | +1402 places | +0 urls | 385 reqs (0.1/s) | block rate 20%
+2026-09-29 18:49:24,740 INFO maps_url_scraper.engine | progress 166/300 assigned | 142 queries done | +1402 places | +0 urls | 385 reqs (0.1/s) | block rate 20%
+2026-09-29 18:49:39,740 INFO maps_url_scraper.engine | progress 166/300 assigned | 142 queries done | +1402 places | +0 urls | 385 reqs (0.1/s) | block rate 20%
+2026-09-29 18:49:53,192 DEBUG maps_url_scraper.worker22 | ok page=1 attempt=1 proxy=direct q='Appliance repair service in McMullen, AL'
+2026-09-29 18:49:53,192 INFO maps_url_scraper.worker22 |  11 places | Appliance repair service in McMullen, AL
+2026-09-29 18:49:54,741 INFO maps_url_scraper.engine | progress 167/300 assigned | 143 queries done | +1402 places | +0 urls | 386 reqs (0.1/s) | block rate 20%
