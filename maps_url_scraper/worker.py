@@ -1,15 +1,15 @@
 """Crawl worker: query loop plus all per-request crawl policy.
 
-Each worker is one thread with its own :class:`MapsClient`. For every page
-it executes the full defensive sequence:
+Each worker is one thread with its own :class:`MapsClient`. The proxy (IP)
+strategy is **reuse-first**, mirroring how a human browses:
 
-1. pick a healthy proxy from the pool (rotate on failure)
-2. per-proxy rate limiting (pacing) + circuit-breaker pause
-3. fetch via the HTTP client (transport retries happen inside it)
-4. classify + act:
-   - ``OK``        -> parse, persist (batched), append new URLs to output
-   - ``BLOCK/RATE``-> cool the proxy down, rotate, backoff, retry the page
-   - ``BAD``/``NET``-> backoff and retry through a (possibly new) proxy
+1. one healthy proxy is LEASED for an entire query - every page of that
+   query comes from the same IP (consistent identity)
+2. pages are spaced with human-like randomised gaps
+   (``--delay-min`` .. ``--delay-max`` seconds)
+3. on a block/rate-limit the burnt proxy is cooled down and the query
+   continues on a fresh identity; transient failures retry on the same IP
+4. ``OK``        -> parse, persist (batched), append new URLs to output
 5. pagination until exhausted (no new places), empty, or ``max_pages``
 
 A page that still fails after ``page_attempts`` fails its query; the query
@@ -63,11 +63,16 @@ class Worker(threading.Thread):
 
     # ----------------------------------------------------------- pipeline
     def _process(self, query: str) -> None:
-        """Crawl one query through all its pages, then checkpoint it."""
+        """Crawl one query through all its pages, then checkpoint it.
+
+        The proxy is leased once and kept for the whole query (IP reuse);
+        it is only replaced when Google blocks or rate-limits it.
+        """
         seen: set[str] = set()
         status = "done"
+        proxy = self._pick_proxy()
         for page in range(self.settings.max_pages):
-            text = self._fetch_page(query, page)
+            text, proxy = self._fetch_page(query, page, proxy)
             if text is None:
                 status = "failed"
                 break
@@ -76,16 +81,23 @@ class Worker(threading.Thread):
             if not page_ftids or (page > 0 and not new_ftids):
                 break  # empty page or exhausted result set
             if page < self.settings.max_pages - 1:
+                # human-like gap on the SAME ip before the next page
                 time.sleep(random.uniform(
                     self.settings.delay_min, self.settings.delay_max))
         self._finish(query, len(seen), status)
 
-    def _fetch_page(self, query: str, page: int) -> str | None:
-        """Fetch one page under the full policy; ``None`` = give up page."""
+    def _fetch_page(
+        self, query: str, page: int, proxy: str | None
+    ) -> tuple[str | None, str | None]:
+        """Fetch one page on the leased proxy; rotate it only on blocks.
+
+        Returns:
+            ``(page_text, proxy)`` - the proxy may differ from the input one
+            when a block forced a rotation. ``None`` text = page gave up.
+        """
         for attempt in range(1, self.settings.page_attempts + 1):
             if self.ctx.stop.is_set():
-                return None
-            proxy = self._pick_proxy()
+                return None, proxy
             self.ctx.limiter.acquire(proxy or "direct")
             self.ctx.breaker.wait_if_open(self.ctx.stop)
 
@@ -99,7 +111,7 @@ class Worker(threading.Thread):
                 self.log.debug(
                     "ok page=%d attempt=%d proxy=%s q=%r",
                     page, attempt, mask_proxy(proxy), query)
-                return result.text
+                return result.text, proxy
 
             if result.verdict.is_blockish:
                 if proxy:
@@ -112,8 +124,9 @@ class Worker(threading.Thread):
                     result.verdict.value, mask_proxy(proxy), attempt,
                     self.settings.page_attempts, query,
                     (result.url or "")[:120])
+                proxy = self._pick_proxy()  # fresh identity, same query
                 time.sleep(random.uniform(3.0, 6.0))
-            else:  # BAD / NET
+            else:  # BAD / NET - transient, retry on the same proxy
                 if proxy:
                     self.ctx.pool.report_failure(proxy)
                 self.log.debug(
@@ -122,7 +135,7 @@ class Worker(threading.Thread):
                     self.settings.page_attempts, mask_proxy(proxy),
                     query, result.error)
                 time.sleep(random.uniform(2.0, 4.0))
-        return None
+        return None, proxy
 
     def _ingest(
         self, query: str, text: str, seen: set[str]

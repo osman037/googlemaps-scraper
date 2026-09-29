@@ -63,9 +63,9 @@ def build_parser() -> argparse.ArgumentParser:
                            help="pages per query, 20 results each (default: 10)")
             p.add_argument("--min-interval", type=float, default=1.5,
                            help="per-proxy minimum seconds between requests")
-            p.add_argument("--delay-min", type=float, default=0.8,
+            p.add_argument("--delay-min", type=float, default=8.0,
                            help="worker page-to-page delay lower bound")
-            p.add_argument("--delay-max", type=float, default=2.2,
+            p.add_argument("--delay-max", type=float, default=16.0,
                            help="worker page-to-page delay upper bound")
             p.add_argument("--request-timeout", type=float, default=45.0,
                            help="per-request timeout in seconds")

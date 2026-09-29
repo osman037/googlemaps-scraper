@@ -20,6 +20,7 @@ that request mechanics and crawl policy stay independently testable.
 from __future__ import annotations
 
 import logging
+import os
 import random
 import time
 
@@ -34,6 +35,12 @@ from .constants import (
 from .models import PageResult, Verdict
 
 log = logging.getLogger("maps_url_scraper.http")
+
+# Many residential proxy gateways intercept TLS and serve THEIR certificate
+# instead of the target's, so certificate verification must be disabled for
+# them (this is the provider's documented usage pattern). Set TLS_VERIFY=true
+# in the environment when your proxies do NOT intercept TLS.
+TLS_VERIFY = os.environ.get("TLS_VERIFY", "false").lower() == "true"
 
 
 class MapsClient:
@@ -84,6 +91,7 @@ class MapsClient:
                     headers=DEFAULT_HEADERS,
                     proxies=proxies,
                     timeout=self.request_timeout,
+                    verify=TLS_VERIFY,
                 )
             except Exception as exc:  # transport failure - retry same proxy
                 last_error = f"{type(exc).__name__}: {exc}"

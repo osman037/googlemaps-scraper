@@ -59,8 +59,8 @@ class Settings:
     workers: int = 2
     max_pages: int = 10                 # pages per query (20 results each)
     min_interval: float = 1.5           # per-proxy minimum seconds between requests
-    delay_min: float = 0.8              # extra page-to-page delay, per worker
-    delay_max: float = 2.2
+    delay_min: float = 8.0              # human-like page-to-page gap (same IP):
+    delay_max: float = 16.0             # randomised band, never a fixed interval
 
     # ---- resilience
     request_timeout: float = 45.0

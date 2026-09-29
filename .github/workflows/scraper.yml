@@ -1,0 +1,76 @@
+name: scraper
+
+# Scheduled production scraping. Every run is a fresh container: the workflow
+# checks out the repo (which carries the committed state), writes the proxy
+# list from an encrypted secret, runs the scraper with a per-run query budget,
+# and commits the updated state + collected URLs back so the next run resumes
+# exactly where this one stopped.
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"       # every 6 hours (tune freely)
+  workflow_dispatch:             # manual "Run workflow" button
+    inputs:
+      max_requests:
+        description: "Not used by the scraper; kept for manual notes"
+        default: ""
+
+permissions:
+  contents: write                # needed to commit state back
+
+concurrency:
+  group: scraper                 # never overlap two runs
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350         # stay well under the 6h job limit
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Write proxy list from secret
+        env:
+          PROXIES: ${{ secrets.PROXIES }}
+        run: |
+          if [ -z "$PROXIES" ]; then
+            echo "::warning::PROXIES secret is empty - running without proxies"
+          else
+            printf '%s\n' "$PROXIES" > config/proxies.txt
+          fi
+
+      - name: Run scraper
+        env:
+          MAX_WORKERS: "8"
+          SESSION_POOL_SIZE: "16"
+          LIMIT_QUERIES: "150"   # per-run budget: keeps the job inside 6h
+        run: |
+          python main.py run \
+            --workers "$MAX_WORKERS" \
+            --delay-min 8 --delay-max 16 \
+            --limit-queries "$LIMIT_QUERIES" \
+            --max-pages 10
+
+      - name: Commit state and collected URLs
+        run: |
+          git config user.name "scraper-bot"
+          git config user.email "actions@github.com"
+          # force-add: output/ is gitignored, but these two files are the
+          # durable state that must survive into the next run
+          for f in output/state.sqlite3 output/place_urls.txt output/website_urls.txt; do
+            [ -f "$f" ] && git add -f "$f"
+          done
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit"
+          else
+            git commit -m "scrape: update state and urls [skip ci]"
+            git pull --rebase origin ${{ github.ref_name }}
+            git push origin HEAD:${{ github.ref_name }}
+          fi
