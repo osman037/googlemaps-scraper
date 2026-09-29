@@ -636,3 +636,57 @@
 2026-09-29 18:34:24,717 INFO maps_url_scraper.engine | progress 137/300 assigned | 113 queries done | +1047 places | +0 urls | 313 reqs (0.1/s) | block rate 24%
 2026-09-29 18:34:39,717 INFO maps_url_scraper.engine | progress 137/300 assigned | 113 queries done | +1047 places | +0 urls | 313 reqs (0.1/s) | block rate 24%
 2026-09-29 18:34:49,546 DEBUG maps_url_scraper.worker22 | ok page=0 attempt=1 proxy=direct q='Animal cafe in McMullen, AL'
+2026-09-29 18:34:52,838 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-29 18:34:54,718 INFO maps_url_scraper.engine | progress 137/300 assigned | 113 queries done | +1048 places | +0 urls | 314 reqs (0.1/s) | block rate 24%
+2026-09-29 18:35:09,718 INFO maps_url_scraper.engine | progress 137/300 assigned | 113 queries done | +1048 places | +0 urls | 314 reqs (0.1/s) | block rate 24%
+2026-09-29 18:35:24,718 INFO maps_url_scraper.engine | progress 137/300 assigned | 113 queries done | +1048 places | +0 urls | 314 reqs (0.1/s) | block rate 24%
+2026-09-29 18:35:39,719 INFO maps_url_scraper.engine | progress 137/300 assigned | 113 queries done | +1048 places | +0 urls | 314 reqs (0.1/s) | block rate 24%
+2026-09-29 18:35:54,719 INFO maps_url_scraper.engine | progress 137/300 assigned | 113 queries done | +1048 places | +0 urls | 314 reqs (0.1/s) | block rate 24%
+2026-09-29 18:36:09,720 INFO maps_url_scraper.engine | progress 137/300 assigned | 113 queries done | +1048 places | +0 urls | 314 reqs (0.1/s) | block rate 24%
+2026-09-29 18:36:24,720 INFO maps_url_scraper.engine | progress 137/300 assigned | 113 queries done | +1048 places | +0 urls | 314 reqs (0.1/s) | block rate 24%
+2026-09-29 18:36:39,720 INFO maps_url_scraper.engine | progress 137/300 assigned | 113 queries done | +1048 places | +0 urls | 314 reqs (0.1/s) | block rate 24%
+2026-09-29 18:36:54,721 INFO maps_url_scraper.engine | progress 137/300 assigned | 113 queries done | +1048 places | +0 urls | 314 reqs (0.1/s) | block rate 24%
+2026-09-29 18:37:06,863 DEBUG maps_url_scraper.worker4 | ok page=0 attempt=2 proxy=direct q='Amusement center in McMullen, AL'
+2026-09-29 18:37:08,049 DEBUG maps_url_scraper.worker5 | ok page=0 attempt=2 proxy=direct q='Amphitheater in McMullen, AL'
+2026-09-29 18:37:09,721 INFO maps_url_scraper.engine | progress 137/300 assigned | 113 queries done | +1054 places | +0 urls | 316 reqs (0.1/s) | block rate 24%
+2026-09-29 18:37:09,896 DEBUG maps_url_scraper.worker11 | ok page=3 attempt=2 proxy=direct q='Alcoholism treatment program in McMullen, AL'
+2026-09-29 18:37:24,721 INFO maps_url_scraper.engine | progress 137/300 assigned | 113 queries done | +1063 places | +0 urls | 317 reqs (0.1/s) | block rate 24%
+2026-09-29 18:37:39,722 INFO maps_url_scraper.engine | progress 137/300 assigned | 113 queries done | +1063 places | +0 urls | 317 reqs (0.1/s) | block rate 24%
+2026-09-29 18:37:47,032 DEBUG maps_url_scraper.worker8 | ok page=0 attempt=1 proxy=direct q='Animal control service in McMullen, AL'
+2026-09-29 18:37:49,408 DEBUG maps_url_scraper.worker19 | ok page=0 attempt=1 proxy=direct q='Animal feed store in McMullen, AL'
+2026-09-29 18:37:52,266 DEBUG maps_url_scraper.worker2 | ok page=2 attempt=1 proxy=direct q='Ambulance service in McMullen, AL'
+2026-09-29 18:37:53,478 DEBUG maps_url_scraper.worker6 | ok page=0 attempt=1 proxy=direct q='Animal hospital in McMullen, AL'
+2026-09-29 18:37:54,600 DEBUG maps_url_scraper.worker10 | ok page=0 attempt=1 proxy=direct q='Animal protection organization in McMullen, AL'
+2026-09-29 18:37:54,722 INFO maps_url_scraper.engine | progress 137/300 assigned | 113 queries done | +1117 places | +0 urls | 322 reqs (0.1/s) | block rate 23%
+2026-09-29 18:37:56,572 DEBUG maps_url_scraper.worker7 | ok page=0 attempt=1 proxy=direct q='Animal rescue service in McMullen, AL'
+2026-09-29 18:37:57,719 DEBUG maps_url_scraper.worker23 | ok page=0 attempt=1 proxy=direct q='Animal shelter in McMullen, AL'
+2026-09-29 18:37:59,190 DEBUG maps_url_scraper.worker3 | ok page=0 attempt=1 proxy=direct q='Animal watering hole in McMullen, AL'
+2026-09-29 18:38:02,600 DEBUG maps_url_scraper.worker17 | ok page=1 attempt=1 proxy=direct q='Amusement machine supplier in McMullen, AL'
+2026-09-29 18:38:02,600 INFO maps_url_scraper.worker17 |  10 places | Amusement machine supplier in McMullen, AL
+2026-09-29 18:38:04,220 DEBUG maps_url_scraper.worker9 | ok page=1 attempt=1 proxy=direct q='Amusement park in McMullen, AL'
+2026-09-29 18:38:04,220 INFO maps_url_scraper.worker9 |   8 places | Amusement park in McMullen, AL
+2026-09-29 18:38:05,894 DEBUG maps_url_scraper.worker16 | ok page=1 attempt=1 proxy=direct q='Amusement park ride in McMullen, AL'
+2026-09-29 18:38:05,894 INFO maps_url_scraper.worker16 |   1 places | Amusement park ride in McMullen, AL
+2026-09-29 18:38:07,357 DEBUG maps_url_scraper.worker1 | ok page=1 attempt=1 proxy=direct q='Amusement ride supplier in McMullen, AL'
+2026-09-29 18:38:07,357 INFO maps_url_scraper.worker1 |   2 places | Amusement ride supplier in McMullen, AL
+2026-09-29 18:38:09,133 DEBUG maps_url_scraper.worker21 | ok page=0 attempt=1 proxy=direct q='Animation studio in McMullen, AL'
+2026-09-29 18:38:09,723 INFO maps_url_scraper.engine | progress 141/300 assigned | 117 queries done | +1146 places | +0 urls | 330 reqs (0.1/s) | block rate 23%
+2026-09-29 18:38:10,522 DEBUG maps_url_scraper.worker14 | ok page=0 attempt=1 proxy=direct q='Anime club in McMullen, AL'
+2026-09-29 18:38:10,522 INFO maps_url_scraper.worker14 |   0 places | Anime club in McMullen, AL
+2026-09-29 18:38:12,387 DEBUG maps_url_scraper.worker15 | ok page=1 attempt=1 proxy=direct q='Andhra restaurant in McMullen, AL'
+2026-09-29 18:38:12,388 INFO maps_url_scraper.worker15 |   1 places | Andhra restaurant in McMullen, AL
+2026-09-29 18:38:13,565 DEBUG maps_url_scraper.worker20 | ok page=0 attempt=1 proxy=direct q='Anodizing service in McMullen, AL'
+2026-09-29 18:38:14,708 DEBUG maps_url_scraper.worker18 | ok page=1 attempt=1 proxy=direct q='Anesthesiologist in McMullen, AL'
+2026-09-29 18:38:14,708 INFO maps_url_scraper.worker18 |   3 places | Anesthesiologist in McMullen, AL
+2026-09-29 18:38:16,092 DEBUG maps_url_scraper.worker24 | ok page=0 attempt=1 proxy=direct q='Antenna service in McMullen, AL'
+2026-09-29 18:38:17,850 DEBUG maps_url_scraper.worker12 | ok page=1 attempt=1 proxy=direct q='Anglican church in McMullen, AL'
+2026-09-29 18:38:17,850 INFO maps_url_scraper.worker12 |   1 places | Anglican church in McMullen, AL
+2026-09-29 18:38:19,409 DEBUG maps_url_scraper.worker13 | ok page=0 attempt=1 proxy=direct q='Antique furniture restoration service in McMullen, AL'
+2026-09-29 18:38:24,723 INFO maps_url_scraper.engine | progress 145/300 assigned | 121 queries done | +1165 places | +0 urls | 337 reqs (0.1/s) | block rate 22%
+2026-09-29 18:38:39,723 INFO maps_url_scraper.engine | progress 145/300 assigned | 121 queries done | +1165 places | +0 urls | 337 reqs (0.1/s) | block rate 22%
+2026-09-29 18:38:54,724 INFO maps_url_scraper.engine | progress 145/300 assigned | 121 queries done | +1165 places | +0 urls | 337 reqs (0.1/s) | block rate 22%
+2026-09-29 18:39:09,724 INFO maps_url_scraper.engine | progress 145/300 assigned | 121 queries done | +1165 places | +0 urls | 337 reqs (0.1/s) | block rate 22%
+2026-09-29 18:39:24,725 INFO maps_url_scraper.engine | progress 145/300 assigned | 121 queries done | +1165 places | +0 urls | 337 reqs (0.1/s) | block rate 22%
+2026-09-29 18:39:39,725 INFO maps_url_scraper.engine | progress 145/300 assigned | 121 queries done | +1165 places | +0 urls | 337 reqs (0.1/s) | block rate 22%
+2026-09-29 18:39:50,806 DEBUG maps_url_scraper.worker22 | ok page=1 attempt=1 proxy=direct q='Animal cafe in McMullen, AL'
+2026-09-29 18:39:50,806 INFO maps_url_scraper.worker22 |   1 places | Animal cafe in McMullen, AL
