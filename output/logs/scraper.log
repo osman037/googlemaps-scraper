@@ -1320,3 +1320,60 @@
 2026-09-29 19:39:39,817 INFO maps_url_scraper.engine | progress 259/300 assigned | 235 queries done | +2317 places | +0 urls | 599 reqs (0.1/s) | block rate 15%
 2026-09-29 19:39:54,817 INFO maps_url_scraper.engine | progress 259/300 assigned | 235 queries done | +2317 places | +0 urls | 599 reqs (0.1/s) | block rate 15%
 2026-09-29 19:40:09,817 INFO maps_url_scraper.engine | progress 259/300 assigned | 235 queries done | +2317 places | +0 urls | 599 reqs (0.1/s) | block rate 15%
+2026-09-29 19:40:13,090 DEBUG maps_url_scraper.worker2 | ok page=1 attempt=1 proxy=direct q='Auto bodywork mechanic in McMullen, AL'
+2026-09-29 19:40:13,324 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-29 19:40:14,462 DEBUG maps_url_scraper.worker1 | ok page=0 attempt=1 proxy=direct q='Auto radiator repair service in McMullen, AL'
+2026-09-29 19:40:17,426 DEBUG maps_url_scraper.worker24 | ok page=1 attempt=1 proxy=direct q='Auto broker in McMullen, AL'
+2026-09-29 19:40:17,426 INFO maps_url_scraper.worker24 |   2 places | Auto broker in McMullen, AL
+2026-09-29 19:40:20,327 DEBUG maps_url_scraper.worker9 | ok page=1 attempt=1 proxy=direct q='Auto care products store in McMullen, AL'
+2026-09-29 19:40:20,924 DEBUG maps_url_scraper.worker7 | ok page=1 attempt=1 proxy=direct q='Auto chemistry shop in McMullen, AL'
+2026-09-29 19:40:20,925 INFO maps_url_scraper.worker7 |   1 places | Auto chemistry shop in McMullen, AL
+2026-09-29 19:40:22,881 DEBUG maps_url_scraper.worker16 | ok page=1 attempt=1 proxy=direct q='Auto dent removal service in McMullen, AL'
+2026-09-29 19:40:24,811 DEBUG maps_url_scraper.worker18 | ok page=0 attempt=1 proxy=direct q='Auto repair shop in McMullen, AL'
+2026-09-29 19:40:24,818 INFO maps_url_scraper.engine | progress 261/300 assigned | 237 queries done | +2365 places | +0 urls | 606 reqs (0.1/s) | block rate 15%
+2026-09-29 19:40:26,174 DEBUG maps_url_scraper.worker8 | ok page=1 attempt=1 proxy=direct q='Auto electrical service in McMullen, AL'
+2026-09-29 19:40:26,174 INFO maps_url_scraper.worker8 |   1 places | Auto electrical service in McMullen, AL
+2026-09-29 19:40:28,754 DEBUG maps_url_scraper.worker22 | ok page=1 attempt=1 proxy=direct q='Auto glass repair service in McMullen, AL'
+2026-09-29 19:40:28,754 INFO maps_url_scraper.worker22 |   4 places | Auto glass repair service in McMullen, AL
+2026-09-29 19:40:30,579 DEBUG maps_url_scraper.worker13 | ok page=1 attempt=1 proxy=direct q='Auto glass shop in McMullen, AL'
+2026-09-29 19:40:30,580 INFO maps_url_scraper.worker13 |  11 places | Auto glass shop in McMullen, AL
+2026-09-29 19:40:31,845 DEBUG maps_url_scraper.worker23 | ok page=0 attempt=1 proxy=direct q='Auto restoration service in McMullen, AL'
+2026-09-29 19:40:34,526 DEBUG maps_url_scraper.worker3 | ok page=1 attempt=1 proxy=direct q='Auto insurance agency in McMullen, AL'
+2026-09-29 19:40:35,897 DEBUG maps_url_scraper.worker11 | ok page=1 attempt=1 proxy=direct q='Auto machine shop in McMullen, AL'
+2026-09-29 19:40:35,898 INFO maps_url_scraper.worker11 |  15 places | Auto machine shop in McMullen, AL
+2026-09-29 19:40:37,525 DEBUG maps_url_scraper.worker19 | ok page=1 attempt=1 proxy=direct q='Auto market in McMullen, AL'
+2026-09-29 19:40:37,525 INFO maps_url_scraper.worker19 |   2 places | Auto market in McMullen, AL
+2026-09-29 19:40:39,818 INFO maps_url_scraper.engine | progress 266/300 assigned | 242 queries done | +2378 places | +0 urls | 613 reqs (0.1/s) | block rate 15%
+2026-09-29 19:40:54,818 INFO maps_url_scraper.engine | progress 266/300 assigned | 242 queries done | +2378 places | +0 urls | 613 reqs (0.1/s) | block rate 15%
+2026-09-29 19:41:09,819 INFO maps_url_scraper.engine | progress 266/300 assigned | 242 queries done | +2378 places | +0 urls | 613 reqs (0.1/s) | block rate 15%
+2026-09-29 19:41:15,926 DEBUG maps_url_scraper.worker5 | ok page=0 attempt=1 proxy=direct q='Auto rickshaw stand in McMullen, AL'
+2026-09-29 19:41:15,926 INFO maps_url_scraper.worker5 |   0 places | Auto rickshaw stand in McMullen, AL
+2026-09-29 19:41:24,819 INFO maps_url_scraper.engine | progress 267/300 assigned | 243 queries done | +2378 places | +0 urls | 614 reqs (0.1/s) | block rate 15%
+2026-09-29 19:41:39,820 INFO maps_url_scraper.engine | progress 267/300 assigned | 243 queries done | +2378 places | +0 urls | 614 reqs (0.1/s) | block rate 15%
+2026-09-29 19:41:54,820 INFO maps_url_scraper.engine | progress 267/300 assigned | 243 queries done | +2378 places | +0 urls | 614 reqs (0.1/s) | block rate 15%
+2026-09-29 19:42:09,820 INFO maps_url_scraper.engine | progress 267/300 assigned | 243 queries done | +2378 places | +0 urls | 614 reqs (0.1/s) | block rate 15%
+2026-09-29 19:42:10,752 DEBUG maps_url_scraper.worker10 | ok page=1 attempt=1 proxy=direct q='Authentic Japanese restaurant in McMullen, AL'
+2026-09-29 19:42:10,753 INFO maps_url_scraper.worker10 |  15 places | Authentic Japanese restaurant in McMullen, AL
+2026-09-29 19:42:13,835 DEBUG maps_url_scraper.worker14 | ok page=0 attempt=1 proxy=direct q='Auto spring shop in McMullen, AL'
+2026-09-29 19:42:17,711 DEBUG maps_url_scraper.worker4 | ok page=1 attempt=1 proxy=direct q='Auto painting in McMullen, AL'
+2026-09-29 19:42:19,467 DEBUG maps_url_scraper.worker15 | ok page=1 attempt=1 proxy=direct q='Auto parts manufacturer in McMullen, AL'
+2026-09-29 19:42:19,467 INFO maps_url_scraper.worker15 |   3 places | Auto parts manufacturer in McMullen, AL
+2026-09-29 19:42:22,587 DEBUG maps_url_scraper.worker21 | ok page=0 attempt=1 proxy=direct q='Auto sunroof shop in McMullen, AL'
+2026-09-29 19:42:24,098 DEBUG maps_url_scraper.worker17 | ok page=2 attempt=1 proxy=direct q='Auto auction in McMullen, AL'
+2026-09-29 19:42:24,098 INFO maps_url_scraper.worker17 |  23 places | Auto auction in McMullen, AL
+2026-09-29 19:42:24,821 INFO maps_url_scraper.engine | progress 270/300 assigned | 246 queries done | +2394 places | +0 urls | 620 reqs (0.1/s) | block rate 15%
+2026-09-29 19:42:26,537 DEBUG maps_url_scraper.worker20 | ok page=1 attempt=1 proxy=direct q='Auto parts market in McMullen, AL'
+2026-09-29 19:42:29,135 DEBUG maps_url_scraper.worker12 | ok page=2 attempt=1 proxy=direct q='Auto body shop in McMullen, AL'
+2026-09-29 19:42:29,135 INFO maps_url_scraper.worker12 |  34 places | Auto body shop in McMullen, AL
+2026-09-29 19:42:39,821 INFO maps_url_scraper.engine | progress 271/300 assigned | 247 queries done | +2405 places | +0 urls | 622 reqs (0.1/s) | block rate 15%
+2026-09-29 19:42:54,821 INFO maps_url_scraper.engine | progress 271/300 assigned | 247 queries done | +2405 places | +0 urls | 622 reqs (0.1/s) | block rate 15%
+2026-09-29 19:43:09,822 INFO maps_url_scraper.engine | progress 271/300 assigned | 247 queries done | +2405 places | +0 urls | 622 reqs (0.1/s) | block rate 15%
+2026-09-29 19:43:24,822 INFO maps_url_scraper.engine | progress 271/300 assigned | 247 queries done | +2405 places | +0 urls | 622 reqs (0.1/s) | block rate 15%
+2026-09-29 19:43:39,823 INFO maps_url_scraper.engine | progress 271/300 assigned | 247 queries done | +2405 places | +0 urls | 622 reqs (0.1/s) | block rate 15%
+2026-09-29 19:43:54,823 INFO maps_url_scraper.engine | progress 271/300 assigned | 247 queries done | +2405 places | +0 urls | 622 reqs (0.1/s) | block rate 15%
+2026-09-29 19:44:09,823 INFO maps_url_scraper.engine | progress 271/300 assigned | 247 queries done | +2405 places | +0 urls | 622 reqs (0.1/s) | block rate 15%
+2026-09-29 19:44:16,193 DEBUG maps_url_scraper.worker6 | ok page=1 attempt=1 proxy=direct q='Auto parts store in McMullen, AL'
+2026-09-29 19:44:24,824 INFO maps_url_scraper.engine | progress 271/300 assigned | 247 queries done | +2420 places | +0 urls | 623 reqs (0.1/s) | block rate 15%
+2026-09-29 19:44:39,824 INFO maps_url_scraper.engine | progress 271/300 assigned | 247 queries done | +2420 places | +0 urls | 623 reqs (0.1/s) | block rate 15%
+2026-09-29 19:44:54,825 INFO maps_url_scraper.engine | progress 271/300 assigned | 247 queries done | +2420 places | +0 urls | 623 reqs (0.1/s) | block rate 15%
+2026-09-29 19:45:09,825 INFO maps_url_scraper.engine | progress 271/300 assigned | 247 queries done | +2420 places | +0 urls | 623 reqs (0.1/s) | block rate 15%
