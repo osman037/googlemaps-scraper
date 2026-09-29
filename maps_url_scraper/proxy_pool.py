@@ -20,18 +20,20 @@ import time
 from pathlib import Path
 
 _ALLOWED_SCHEMES = ("http://", "https://", "socks5://", "socks5h://")
-_MASK_RE = re.compile(r"(://[^:/@\s]+:)[^@\s]+(@)")
+# keep the last 4 chars of the secret visible so logs can tell keys apart
+_MASK_RE = re.compile(r"(://[^:/@\s]+:)([^@\s]+)(@)")
 
 
 def mask_proxy(proxy_url: str | None) -> str:
-    """Mask the password of a proxy URL for safe logging.
+    """Mask most of a proxy URL's secret for safe logging.
 
-    >>> mask_proxy("http://user:secretpw@1.2.3.4:8080")
-    'http://user:***@1.2.3.4:8080'
+    >>> mask_proxy("http://scraperapi:secretpw1234@1.2.3.4:8080")
+    'http://scraperapi:***1234@1.2.3.4:8080'
     """
     if not proxy_url:
         return "direct"
-    return _MASK_RE.sub(r"\1***\2", proxy_url)
+    return _MASK_RE.sub(
+        lambda m: f"{m.group(1)}***{m.group(2)[-4:]}{m.group(3)}", proxy_url)
 
 
 def load_proxies(path: str | Path) -> list[str]:

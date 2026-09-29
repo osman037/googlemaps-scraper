@@ -146,6 +146,10 @@ def classify_response(resp) -> Verdict:
         return Verdict.NET
     if code in (429, 503):
         return Verdict.RATE
+    if code in (401, 403):
+        # forbidden/unauthorised: a dead proxy key or an IP Google refuses -
+        # either way the identity must be rotated immediately, not retried
+        return Verdict.BLOCK
     if "/sorry/" in final_url or "consent.google" in final_url:
         return Verdict.BLOCK
     if text.startswith(")]}'"):
