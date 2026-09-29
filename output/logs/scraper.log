@@ -1681,3 +1681,26 @@
 2026-09-29 20:19:54,877 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2804 places | +0 urls | 727 reqs (0.1/s) | block rate 13%
 2026-09-29 20:20:09,877 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2804 places | +0 urls | 727 reqs (0.1/s) | block rate 13%
 2026-09-29 20:20:24,877 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2804 places | +0 urls | 727 reqs (0.1/s) | block rate 13%
+2026-09-29 20:20:27,000 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-29 20:20:39,878 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2804 places | +0 urls | 727 reqs (0.1/s) | block rate 13%
+2026-09-29 20:20:54,878 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2804 places | +0 urls | 727 reqs (0.1/s) | block rate 13%
+2026-09-29 20:21:09,878 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2804 places | +0 urls | 727 reqs (0.1/s) | block rate 13%
+2026-09-29 20:21:24,879 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2804 places | +0 urls | 727 reqs (0.1/s) | block rate 13%
+2026-09-29 20:21:39,879 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2804 places | +0 urls | 727 reqs (0.1/s) | block rate 13%
+2026-09-29 20:21:54,879 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2804 places | +0 urls | 727 reqs (0.1/s) | block rate 13%
+2026-09-29 20:22:09,880 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2804 places | +0 urls | 727 reqs (0.1/s) | block rate 13%
+2026-09-29 20:22:14,120 DEBUG maps_url_scraper.worker6 | ok page=7 attempt=2 proxy=direct q='Auto parts store in McMullen, AL'
+2026-09-29 20:22:24,880 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2805 places | +0 urls | 728 reqs (0.1/s) | block rate 13%
+2026-09-29 20:22:39,881 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2805 places | +0 urls | 728 reqs (0.1/s) | block rate 13%
+2026-09-29 20:22:54,881 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2805 places | +0 urls | 728 reqs (0.1/s) | block rate 13%
+2026-09-29 20:23:09,881 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2805 places | +0 urls | 728 reqs (0.1/s) | block rate 13%
+2026-09-29 20:23:24,882 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2805 places | +0 urls | 728 reqs (0.1/s) | block rate 13%
+2026-09-29 20:23:39,882 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2805 places | +0 urls | 728 reqs (0.1/s) | block rate 13%
+2026-09-29 20:23:54,882 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2805 places | +0 urls | 728 reqs (0.1/s) | block rate 13%
+2026-09-29 20:24:09,883 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2805 places | +0 urls | 728 reqs (0.1/s) | block rate 13%
+2026-09-29 20:24:24,883 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2805 places | +0 urls | 728 reqs (0.1/s) | block rate 13%
+2026-09-29 20:24:39,884 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2805 places | +0 urls | 728 reqs (0.1/s) | block rate 13%
+2026-09-29 20:24:54,884 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2805 places | +0 urls | 728 reqs (0.1/s) | block rate 13%
+2026-09-29 20:25:09,884 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2805 places | +0 urls | 728 reqs (0.1/s) | block rate 13%
+2026-09-29 20:25:17,568 DEBUG maps_url_scraper.worker20 | ok page=8 attempt=2 proxy=direct q='Auto parts market in McMullen, AL'
+2026-09-29 20:25:24,885 INFO maps_url_scraper.engine | progress 300/300 assigned | 298 queries done | +2808 places | +0 urls | 729 reqs (0.1/s) | block rate 13%
