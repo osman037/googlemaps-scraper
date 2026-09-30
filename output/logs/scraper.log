@@ -4527,3 +4527,39 @@
 2026-09-30 06:19:11,572 DEBUG maps_url_scraper.worker15 | ok page=0 attempt=3 proxy=direct q='Clothing alteration service in McMullen, AL'
 2026-09-30 06:19:16,413 INFO maps_url_scraper.engine | progress 196/300 assigned | 770 queries done | +962 places | +0 urls | 436 reqs (0.1/s) | block rate 21%
 2026-09-30 06:19:31,414 INFO maps_url_scraper.engine | progress 196/300 assigned | 770 queries done | +962 places | +0 urls | 436 reqs (0.1/s) | block rate 21%
+2026-09-30 06:19:40,448 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-30 06:19:46,414 INFO maps_url_scraper.engine | progress 196/300 assigned | 770 queries done | +962 places | +0 urls | 436 reqs (0.1/s) | block rate 21%
+2026-09-30 06:20:01,414 INFO maps_url_scraper.engine | progress 196/300 assigned | 770 queries done | +962 places | +0 urls | 436 reqs (0.1/s) | block rate 21%
+2026-09-30 06:20:16,415 INFO maps_url_scraper.engine | progress 196/300 assigned | 770 queries done | +962 places | +0 urls | 436 reqs (0.1/s) | block rate 21%
+2026-09-30 06:20:31,415 INFO maps_url_scraper.engine | progress 196/300 assigned | 770 queries done | +962 places | +0 urls | 436 reqs (0.1/s) | block rate 21%
+2026-09-30 06:20:46,416 INFO maps_url_scraper.engine | progress 196/300 assigned | 770 queries done | +962 places | +0 urls | 436 reqs (0.1/s) | block rate 21%
+2026-09-30 06:21:01,416 INFO maps_url_scraper.engine | progress 196/300 assigned | 770 queries done | +962 places | +0 urls | 436 reqs (0.1/s) | block rate 21%
+2026-09-30 06:21:16,417 INFO maps_url_scraper.engine | progress 196/300 assigned | 770 queries done | +962 places | +0 urls | 436 reqs (0.1/s) | block rate 21%
+2026-09-30 06:21:31,417 INFO maps_url_scraper.engine | progress 196/300 assigned | 770 queries done | +962 places | +0 urls | 436 reqs (0.1/s) | block rate 21%
+2026-09-30 06:21:46,417 INFO maps_url_scraper.engine | progress 196/300 assigned | 770 queries done | +962 places | +0 urls | 436 reqs (0.1/s) | block rate 21%
+2026-09-30 06:22:01,418 INFO maps_url_scraper.engine | progress 196/300 assigned | 770 queries done | +962 places | +0 urls | 436 reqs (0.1/s) | block rate 21%
+2026-09-30 06:22:11,778 DEBUG maps_url_scraper.worker13 | ok page=0 attempt=2 proxy=direct q='Coffee vending machine in McMullen, AL'
+2026-09-30 06:22:11,829 DEBUG maps_url_scraper.worker12 | ok page=1 attempt=2 proxy=direct q='Co-ed school in McMullen, AL'
+2026-09-30 06:22:11,829 INFO maps_url_scraper.worker12 |   1 places | Co-ed school in McMullen, AL
+2026-09-30 06:22:11,923 DEBUG maps_url_scraper.worker5 | ok page=1 attempt=2 proxy=direct q='Club in McMullen, AL'
+2026-09-30 06:22:11,923 INFO maps_url_scraper.worker5 |   5 places | Club in McMullen, AL
+2026-09-30 06:22:11,975 DEBUG maps_url_scraper.worker14 | ok page=0 attempt=3 proxy=direct q='Coffee wholesaler in McMullen, AL'
+2026-09-30 06:22:12,005 WARNING maps_url_scraper.worker23 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Collectibles store in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Collectibles+store+in+McMullen%2C+AL&pb=%211sCollectibles%2Bstore%2B
+2026-09-30 06:22:12,123 WARNING maps_url_scraper.worker12 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='College in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=College+in+McMullen%2C+AL&pb=%211sCollege%2Bin%2BMcMullen%252C%2BAL%
+2026-09-30 06:22:12,151 WARNING maps_url_scraper.worker8 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Coffin supplier in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Coffin+supplier+in+McMullen%2C+AL&pb=%211sCoffin%2Bsupplier%2Bin%2BM
+2026-09-30 06:22:12,199 WARNING maps_url_scraper.worker4 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Cold storage facility in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Cold+storage+facility+in+McMullen%2C+AL&pb=%211sCold%2Bstorage%2Bfac
+2026-09-30 06:22:12,274 DEBUG maps_url_scraper.worker24 | ok page=0 attempt=3 proxy=direct q='Coffee shop in McMullen, AL'
+2026-09-30 06:22:12,435 WARNING maps_url_scraper.worker22 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Cold noodle restaurant in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Cold+noodle+restaurant+in+McMullen%2C+AL&pb=%211sCold%2Bnoodle%2Bres
+2026-09-30 06:22:12,586 WARNING maps_url_scraper.worker11 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Coffee machine supplier in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Coffee+machine+supplier+in+McMullen%2C+AL&pb=%211sCoffee%2Bmachine%2
+2026-09-30 06:22:12,589 WARNING maps_url_scraper.breaker | CIRCUIT BREAKER OPEN: 100% of last pages blocked - pausing all workers for 180s
+2026-09-30 06:22:12,589 WARNING maps_url_scraper.worker15 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Clothing alteration service in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Clothing+alteration+service+in+McMullen%2C+AL&pb=%211sClothing%2Balt
+2026-09-30 06:22:16,418 INFO maps_url_scraper.engine | progress 198/300 assigned | 772 queries done | +982 places | +0 urls | 448 reqs (0.1/s) | block rate 22%
+2026-09-30 06:22:31,419 INFO maps_url_scraper.engine | progress 198/300 assigned | 772 queries done | +982 places | +0 urls | 448 reqs (0.1/s) | block rate 22%
+2026-09-30 06:22:46,419 INFO maps_url_scraper.engine | progress 198/300 assigned | 772 queries done | +982 places | +0 urls | 448 reqs (0.1/s) | block rate 22%
+2026-09-30 06:23:01,419 INFO maps_url_scraper.engine | progress 198/300 assigned | 772 queries done | +982 places | +0 urls | 448 reqs (0.1/s) | block rate 22%
+2026-09-30 06:23:16,420 INFO maps_url_scraper.engine | progress 198/300 assigned | 772 queries done | +982 places | +0 urls | 448 reqs (0.1/s) | block rate 22%
+2026-09-30 06:23:31,420 INFO maps_url_scraper.engine | progress 198/300 assigned | 772 queries done | +982 places | +0 urls | 448 reqs (0.1/s) | block rate 22%
+2026-09-30 06:23:46,421 INFO maps_url_scraper.engine | progress 198/300 assigned | 772 queries done | +982 places | +0 urls | 448 reqs (0.1/s) | block rate 22%
+2026-09-30 06:24:01,421 INFO maps_url_scraper.engine | progress 198/300 assigned | 772 queries done | +982 places | +0 urls | 448 reqs (0.1/s) | block rate 22%
+2026-09-30 06:24:16,421 INFO maps_url_scraper.engine | progress 198/300 assigned | 772 queries done | +982 places | +0 urls | 448 reqs (0.1/s) | block rate 22%
+2026-09-30 06:24:31,422 INFO maps_url_scraper.engine | progress 198/300 assigned | 772 queries done | +982 places | +0 urls | 448 reqs (0.1/s) | block rate 22%
