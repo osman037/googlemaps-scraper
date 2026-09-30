@@ -4171,3 +4171,64 @@
 2026-09-30 05:43:46,355 INFO maps_url_scraper.engine | progress 137/300 assigned | 711 queries done | +771 places | +0 urls | 292 reqs (0.1/s) | block rate 17%
 2026-09-30 05:44:01,356 INFO maps_url_scraper.engine | progress 137/300 assigned | 711 queries done | +771 places | +0 urls | 292 reqs (0.1/s) | block rate 17%
 2026-09-30 05:44:16,356 INFO maps_url_scraper.engine | progress 137/300 assigned | 711 queries done | +771 places | +0 urls | 292 reqs (0.1/s) | block rate 17%
+2026-09-30 05:44:26,656 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-30 05:44:31,356 INFO maps_url_scraper.engine | progress 137/300 assigned | 711 queries done | +771 places | +0 urls | 292 reqs (0.1/s) | block rate 17%
+2026-09-30 05:44:46,357 INFO maps_url_scraper.engine | progress 137/300 assigned | 711 queries done | +771 places | +0 urls | 292 reqs (0.1/s) | block rate 17%
+2026-09-30 05:45:01,357 INFO maps_url_scraper.engine | progress 137/300 assigned | 711 queries done | +771 places | +0 urls | 292 reqs (0.1/s) | block rate 17%
+2026-09-30 05:45:14,025 DEBUG maps_url_scraper.worker6 | ok page=0 attempt=1 proxy=direct q='Church council office in McMullen, AL'
+2026-09-30 05:45:14,026 INFO maps_url_scraper.worker6 |   0 places | Church council office in McMullen, AL
+2026-09-30 05:45:15,470 DEBUG maps_url_scraper.worker17 | ok page=1 attempt=1 proxy=direct q='Chocolate factory in McMullen, AL'
+2026-09-30 05:45:15,470 INFO maps_url_scraper.worker17 |   6 places | Chocolate factory in McMullen, AL
+2026-09-30 05:45:16,358 INFO maps_url_scraper.engine | progress 139/300 assigned | 713 queries done | +771 places | +0 urls | 294 reqs (0.1/s) | block rate 17%
+2026-09-30 05:45:18,326 DEBUG maps_url_scraper.worker2 | ok page=1 attempt=1 proxy=direct q='Chocolate shop in McMullen, AL'
+2026-09-30 05:45:18,326 INFO maps_url_scraper.worker2 |   8 places | Chocolate shop in McMullen, AL
+2026-09-30 05:45:19,888 DEBUG maps_url_scraper.worker15 | ok page=0 attempt=1 proxy=direct q='Church of Christ in McMullen, AL'
+2026-09-30 05:45:21,498 DEBUG maps_url_scraper.worker1 | ok page=0 attempt=1 proxy=direct q='Church of Jesus Christ of Latter-day Saints in McMullen, AL'
+2026-09-30 05:45:31,358 INFO maps_url_scraper.engine | progress 140/300 assigned | 714 queries done | +810 places | +0 urls | 297 reqs (0.1/s) | block rate 17%
+2026-09-30 05:45:46,359 INFO maps_url_scraper.engine | progress 140/300 assigned | 714 queries done | +810 places | +0 urls | 297 reqs (0.1/s) | block rate 17%
+2026-09-30 05:46:01,359 INFO maps_url_scraper.engine | progress 140/300 assigned | 714 queries done | +810 places | +0 urls | 297 reqs (0.1/s) | block rate 17%
+2026-09-30 05:46:16,359 INFO maps_url_scraper.engine | progress 140/300 assigned | 714 queries done | +810 places | +0 urls | 297 reqs (0.1/s) | block rate 17%
+2026-09-30 05:46:31,360 INFO maps_url_scraper.engine | progress 140/300 assigned | 714 queries done | +810 places | +0 urls | 297 reqs (0.1/s) | block rate 17%
+2026-09-30 05:46:46,360 INFO maps_url_scraper.engine | progress 140/300 assigned | 714 queries done | +810 places | +0 urls | 297 reqs (0.1/s) | block rate 17%
+2026-09-30 05:47:01,361 INFO maps_url_scraper.engine | progress 140/300 assigned | 714 queries done | +810 places | +0 urls | 297 reqs (0.1/s) | block rate 17%
+2026-09-30 05:47:16,361 INFO maps_url_scraper.engine | progress 140/300 assigned | 714 queries done | +810 places | +0 urls | 297 reqs (0.1/s) | block rate 17%
+2026-09-30 05:47:31,361 INFO maps_url_scraper.engine | progress 140/300 assigned | 714 queries done | +810 places | +0 urls | 297 reqs (0.1/s) | block rate 17%
+2026-09-30 05:47:46,362 INFO maps_url_scraper.engine | progress 140/300 assigned | 714 queries done | +810 places | +0 urls | 297 reqs (0.1/s) | block rate 17%
+2026-09-30 05:48:01,362 INFO maps_url_scraper.engine | progress 140/300 assigned | 714 queries done | +810 places | +0 urls | 297 reqs (0.1/s) | block rate 17%
+2026-09-30 05:48:11,184 DEBUG maps_url_scraper.worker16 | ok page=0 attempt=1 proxy=direct q='Church of the Nazarene in McMullen, AL'
+2026-09-30 05:48:14,194 DEBUG maps_url_scraper.worker20 | ok page=1 attempt=1 proxy=direct q='Choir in McMullen, AL'
+2026-09-30 05:48:14,194 INFO maps_url_scraper.worker20 |   1 places | Choir in McMullen, AL
+2026-09-30 05:48:15,894 DEBUG maps_url_scraper.worker10 | ok page=1 attempt=1 proxy=direct q='Chop bar in McMullen, AL'
+2026-09-30 05:48:15,894 INFO maps_url_scraper.worker10 |   2 places | Chop bar in McMullen, AL
+2026-09-30 05:48:16,363 INFO maps_url_scraper.engine | progress 142/300 assigned | 716 queries done | +825 places | +0 urls | 300 reqs (0.1/s) | block rate 17%
+2026-09-30 05:48:17,959 DEBUG maps_url_scraper.worker11 | ok page=0 attempt=1 proxy=direct q='Church supply store in McMullen, AL'
+2026-09-30 05:48:20,607 DEBUG maps_url_scraper.worker3 | ok page=0 attempt=1 proxy=direct q='Churreria in McMullen, AL'
+2026-09-30 05:48:20,607 INFO maps_url_scraper.worker3 |   0 places | Churreria in McMullen, AL
+2026-09-30 05:48:21,769 DEBUG maps_url_scraper.worker19 | ok page=1 attempt=1 proxy=direct q='Chophouse restaurant in McMullen, AL'
+2026-09-30 05:48:21,769 INFO maps_url_scraper.worker19 |   1 places | Chophouse restaurant in McMullen, AL
+2026-09-30 05:48:23,872 DEBUG maps_url_scraper.worker24 | ok page=0 attempt=1 proxy=direct q='Cider bar in McMullen, AL'
+2026-09-30 05:48:23,872 INFO maps_url_scraper.worker24 |   0 places | Cider bar in McMullen, AL
+2026-09-30 05:48:26,148 DEBUG maps_url_scraper.worker4 | ok page=1 attempt=1 proxy=direct q='Christian book store in McMullen, AL'
+2026-09-30 05:48:27,796 DEBUG maps_url_scraper.worker18 | ok page=0 attempt=1 proxy=direct q='Cider mill in McMullen, AL'
+2026-09-30 05:48:29,369 DEBUG maps_url_scraper.worker21 | ok page=1 attempt=1 proxy=direct q='Christian church in McMullen, AL'
+2026-09-30 05:48:29,370 INFO maps_url_scraper.worker21 |   4 places | Christian church in McMullen, AL
+2026-09-30 05:48:31,363 INFO maps_url_scraper.engine | progress 146/300 assigned | 720 queries done | +839 places | +0 urls | 307 reqs (0.1/s) | block rate 17%
+2026-09-30 05:48:31,479 DEBUG maps_url_scraper.worker13 | ok page=0 attempt=1 proxy=direct q='Cig kofte restaurant in McMullen, AL'
+2026-09-30 05:48:31,479 INFO maps_url_scraper.worker13 |   0 places | Cig kofte restaurant in McMullen, AL
+2026-09-30 05:48:33,314 DEBUG maps_url_scraper.worker5 | ok page=1 attempt=1 proxy=direct q='Christian college in McMullen, AL'
+2026-09-30 05:48:33,314 INFO maps_url_scraper.worker5 |  13 places | Christian college in McMullen, AL
+2026-09-30 05:48:35,033 DEBUG maps_url_scraper.worker14 | ok page=0 attempt=1 proxy=direct q='Cigar shop in McMullen, AL'
+2026-09-30 05:48:36,621 DEBUG maps_url_scraper.worker12 | ok page=1 attempt=1 proxy=direct q='Christmas market in McMullen, AL'
+2026-09-30 05:48:36,622 INFO maps_url_scraper.worker12 |   1 places | Christmas market in McMullen, AL
+2026-09-30 05:48:38,222 DEBUG maps_url_scraper.worker8 | ok page=0 attempt=1 proxy=direct q='Cinema equipment supplier in McMullen, AL'
+2026-09-30 05:48:39,951 DEBUG maps_url_scraper.worker23 | ok page=1 attempt=1 proxy=direct q='Christmas store in McMullen, AL'
+2026-09-30 05:48:39,952 INFO maps_url_scraper.worker23 |  14 places | Christmas store in McMullen, AL
+2026-09-30 05:48:41,427 DEBUG maps_url_scraper.worker9 | ok page=1 attempt=1 proxy=direct q='Christmas tree farm in McMullen, AL'
+2026-09-30 05:48:41,427 INFO maps_url_scraper.worker9 |   4 places | Christmas tree farm in McMullen, AL
+2026-09-30 05:48:43,376 DEBUG maps_url_scraper.worker22 | ok page=1 attempt=1 proxy=direct q='Chrysler dealer in McMullen, AL'
+2026-09-30 05:48:43,376 INFO maps_url_scraper.worker22 |  20 places | Chrysler dealer in McMullen, AL
+2026-09-30 05:48:44,729 DEBUG maps_url_scraper.worker7 | ok page=1 attempt=1 proxy=direct q='Church in McMullen, AL'
+2026-09-30 05:48:44,729 INFO maps_url_scraper.worker7 |   5 places | Church in McMullen, AL
+2026-09-30 05:48:46,363 INFO maps_url_scraper.engine | progress 153/300 assigned | 727 queries done | +859 places | +0 urls | 316 reqs (0.1/s) | block rate 16%
+2026-09-30 05:49:01,364 INFO maps_url_scraper.engine | progress 153/300 assigned | 727 queries done | +859 places | +0 urls | 316 reqs (0.1/s) | block rate 16%
+2026-09-30 05:49:16,364 INFO maps_url_scraper.engine | progress 153/300 assigned | 727 queries done | +859 places | +0 urls | 316 reqs (0.1/s) | block rate 16%
