@@ -3588,3 +3588,61 @@
 2026-09-30 04:48:31,265 INFO maps_url_scraper.engine | progress 31/300 assigned | 605 queries done | +104 places | +0 urls | 50 reqs (0.1/s) | block rate 48%
 2026-09-30 04:48:46,266 INFO maps_url_scraper.engine | progress 31/300 assigned | 605 queries done | +104 places | +0 urls | 50 reqs (0.1/s) | block rate 48%
 2026-09-30 04:49:01,266 INFO maps_url_scraper.engine | progress 31/300 assigned | 605 queries done | +104 places | +0 urls | 50 reqs (0.1/s) | block rate 48%
+2026-09-30 04:49:06,567 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-30 04:49:08,373 DEBUG maps_url_scraper.worker8 | ok page=1 attempt=1 proxy=direct q='Cat breeder in McMullen, AL'
+2026-09-30 04:49:08,375 INFO maps_url_scraper.worker8 |   1 places | Cat breeder in McMullen, AL
+2026-09-30 04:49:10,247 DEBUG maps_url_scraper.worker10 | ok page=1 attempt=1 proxy=direct q='Cat trainer in McMullen, AL'
+2026-09-30 04:49:10,247 INFO maps_url_scraper.worker10 |   2 places | Cat trainer in McMullen, AL
+2026-09-30 04:49:11,986 DEBUG maps_url_scraper.worker7 | ok page=1 attempt=1 proxy=direct q='Cat boarding service in McMullen, AL'
+2026-09-30 04:49:11,987 INFO maps_url_scraper.worker7 |   2 places | Cat boarding service in McMullen, AL
+2026-09-30 04:49:13,761 DEBUG maps_url_scraper.worker9 | ok page=1 attempt=1 proxy=direct q='Cat cafe in McMullen, AL'
+2026-09-30 04:49:13,761 INFO maps_url_scraper.worker9 |   5 places | Cat cafe in McMullen, AL
+2026-09-30 04:49:16,267 INFO maps_url_scraper.engine | progress 35/300 assigned | 609 queries done | +104 places | +0 urls | 54 reqs (0.1/s) | block rate 44%
+2026-09-30 04:49:31,267 INFO maps_url_scraper.engine | progress 35/300 assigned | 609 queries done | +104 places | +0 urls | 54 reqs (0.1/s) | block rate 44%
+2026-09-30 04:49:46,267 INFO maps_url_scraper.engine | progress 35/300 assigned | 609 queries done | +104 places | +0 urls | 54 reqs (0.1/s) | block rate 44%
+2026-09-30 04:50:01,268 INFO maps_url_scraper.engine | progress 35/300 assigned | 609 queries done | +104 places | +0 urls | 54 reqs (0.1/s) | block rate 44%
+2026-09-30 04:50:06,063 DEBUG maps_url_scraper.worker5 | ok page=1 attempt=1 proxy=direct q='Ceiling supplier in McMullen, AL'
+2026-09-30 04:50:06,064 INFO maps_url_scraper.worker5 |   1 places | Ceiling supplier in McMullen, AL
+2026-09-30 04:50:07,504 DEBUG maps_url_scraper.worker4 | ok page=0 attempt=1 proxy=direct q='Cell phone accessory store in McMullen, AL'
+2026-09-30 04:50:08,566 DEBUG maps_url_scraper.worker19 | ok page=0 attempt=2 proxy=direct q='Cattery in McMullen, AL'
+2026-09-30 04:50:10,248 DEBUG maps_url_scraper.worker16 | ok page=0 attempt=2 proxy=direct q='Catholic cathedral in McMullen, AL'
+2026-09-30 04:50:12,166 DEBUG maps_url_scraper.worker17 | ok page=0 attempt=2 proxy=direct q='Catholic church in McMullen, AL'
+2026-09-30 04:50:14,212 DEBUG maps_url_scraper.worker1 | ok page=2 attempt=1 proxy=direct q='Car battery store in McMullen, AL'
+2026-09-30 04:50:15,814 DEBUG maps_url_scraper.worker2 | ok page=0 attempt=1 proxy=direct q='Cell phone charging station in McMullen, AL'
+2026-09-30 04:50:16,268 INFO maps_url_scraper.engine | progress 36/300 assigned | 610 queries done | +187 places | +0 urls | 61 reqs (0.1/s) | block rate 39%
+2026-09-30 04:50:17,029 DEBUG maps_url_scraper.worker15 | ok page=0 attempt=2 proxy=direct q='Cathedral in McMullen, AL'
+2026-09-30 04:50:31,269 INFO maps_url_scraper.engine | progress 36/300 assigned | 610 queries done | +193 places | +0 urls | 62 reqs (0.1/s) | block rate 39%
+2026-09-30 04:50:46,269 INFO maps_url_scraper.engine | progress 36/300 assigned | 610 queries done | +193 places | +0 urls | 62 reqs (0.1/s) | block rate 39%
+2026-09-30 04:51:01,269 INFO maps_url_scraper.engine | progress 36/300 assigned | 610 queries done | +193 places | +0 urls | 62 reqs (0.1/s) | block rate 39%
+2026-09-30 04:51:16,270 INFO maps_url_scraper.engine | progress 36/300 assigned | 610 queries done | +193 places | +0 urls | 62 reqs (0.1/s) | block rate 39%
+2026-09-30 04:51:31,270 INFO maps_url_scraper.engine | progress 36/300 assigned | 610 queries done | +193 places | +0 urls | 62 reqs (0.1/s) | block rate 39%
+2026-09-30 04:51:46,271 INFO maps_url_scraper.engine | progress 36/300 assigned | 610 queries done | +193 places | +0 urls | 62 reqs (0.1/s) | block rate 39%
+2026-09-30 04:52:01,271 INFO maps_url_scraper.engine | progress 36/300 assigned | 610 queries done | +193 places | +0 urls | 62 reqs (0.1/s) | block rate 39%
+2026-09-30 04:52:07,464 DEBUG maps_url_scraper.worker22 | ok page=0 attempt=1 proxy=direct q='Cell phone store in McMullen, AL'
+2026-09-30 04:52:09,220 DEBUG maps_url_scraper.worker23 | ok page=0 attempt=1 proxy=direct q='Cement manufacturer in McMullen, AL'
+2026-09-30 04:52:11,259 DEBUG maps_url_scraper.worker24 | ok page=1 attempt=1 proxy=direct q='CD store in McMullen, AL'
+2026-09-30 04:52:11,259 INFO maps_url_scraper.worker24 |   1 places | CD store in McMullen, AL
+2026-09-30 04:52:13,175 DEBUG maps_url_scraper.worker20 | ok page=1 attempt=1 proxy=direct q='Cattle farm in McMullen, AL'
+2026-09-30 04:52:13,175 INFO maps_url_scraper.worker20 |  15 places | Cattle farm in McMullen, AL
+2026-09-30 04:52:14,354 DEBUG maps_url_scraper.worker13 | ok page=1 attempt=1 proxy=direct q='Catering equipment rental service in McMullen, AL'
+2026-09-30 04:52:14,354 INFO maps_url_scraper.worker13 |   1 places | Catering equipment rental service in McMullen, AL
+2026-09-30 04:52:16,103 DEBUG maps_url_scraper.worker18 | ok page=1 attempt=1 proxy=direct q='Catholic school in McMullen, AL'
+2026-09-30 04:52:16,104 INFO maps_url_scraper.worker18 |  12 places | Catholic school in McMullen, AL
+2026-09-30 04:52:16,271 INFO maps_url_scraper.engine | progress 40/300 assigned | 614 queries done | +198 places | +0 urls | 68 reqs (0.1/s) | block rate 35%
+2026-09-30 04:52:17,600 DEBUG maps_url_scraper.worker12 | ok page=1 attempt=1 proxy=direct q='Caterer in McMullen, AL'
+2026-09-30 04:52:17,600 INFO maps_url_scraper.worker12 |   5 places | Caterer in McMullen, AL
+2026-09-30 04:52:19,156 DEBUG maps_url_scraper.worker11 | ok page=1 attempt=1 proxy=direct q='Catalonian restaurant in McMullen, AL'
+2026-09-30 04:52:19,156 INFO maps_url_scraper.worker11 |   1 places | Catalonian restaurant in McMullen, AL
+2026-09-30 04:52:20,669 DEBUG maps_url_scraper.worker14 | ok page=1 attempt=1 proxy=direct q='Catering food and drink supplier in McMullen, AL'
+2026-09-30 04:52:20,670 INFO maps_url_scraper.worker14 |   1 places | Catering food and drink supplier in McMullen, AL
+2026-09-30 04:52:22,496 DEBUG maps_url_scraper.worker21 | ok page=1 attempt=1 proxy=direct q='Cattle market in McMullen, AL'
+2026-09-30 04:52:22,496 INFO maps_url_scraper.worker21 |   5 places | Cattle market in McMullen, AL
+2026-09-30 04:52:31,272 INFO maps_url_scraper.engine | progress 44/300 assigned | 618 queries done | +198 places | +0 urls | 72 reqs (0.1/s) | block rate 33%
+2026-09-30 04:52:46,272 INFO maps_url_scraper.engine | progress 44/300 assigned | 618 queries done | +198 places | +0 urls | 72 reqs (0.1/s) | block rate 33%
+2026-09-30 04:53:01,272 INFO maps_url_scraper.engine | progress 44/300 assigned | 618 queries done | +198 places | +0 urls | 72 reqs (0.1/s) | block rate 33%
+2026-09-30 04:53:06,531 DEBUG maps_url_scraper.worker6 | ok page=0 attempt=1 proxy=direct q='Cement supplier in McMullen, AL'
+2026-09-30 04:53:08,496 DEBUG maps_url_scraper.worker3 | ok page=0 attempt=1 proxy=direct q='Cemetery in McMullen, AL'
+2026-09-30 04:53:16,273 INFO maps_url_scraper.engine | progress 44/300 assigned | 618 queries done | +228 places | +0 urls | 74 reqs (0.1/s) | block rate 32%
+2026-09-30 04:53:31,273 INFO maps_url_scraper.engine | progress 44/300 assigned | 618 queries done | +228 places | +0 urls | 74 reqs (0.1/s) | block rate 32%
+2026-09-30 04:53:46,273 INFO maps_url_scraper.engine | progress 44/300 assigned | 618 queries done | +228 places | +0 urls | 74 reqs (0.1/s) | block rate 32%
+2026-09-30 04:54:01,274 INFO maps_url_scraper.engine | progress 44/300 assigned | 618 queries done | +228 places | +0 urls | 74 reqs (0.1/s) | block rate 32%
