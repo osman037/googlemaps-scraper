@@ -3216,3 +3216,53 @@
 2026-09-30 00:20:31,081 INFO maps_url_scraper.engine | progress 286/300 assigned | 561 queries done | +1922 places | +0 urls | 604 reqs (0.1/s) | block rate 11%
 2026-09-30 00:20:46,081 INFO maps_url_scraper.engine | progress 286/300 assigned | 561 queries done | +1922 places | +0 urls | 604 reqs (0.1/s) | block rate 11%
 2026-09-30 00:21:01,082 INFO maps_url_scraper.engine | progress 286/300 assigned | 561 queries done | +1922 places | +0 urls | 604 reqs (0.1/s) | block rate 11%
+2026-09-30 00:21:16,082 INFO maps_url_scraper.engine | progress 286/300 assigned | 561 queries done | +1922 places | +0 urls | 604 reqs (0.1/s) | block rate 11%
+2026-09-30 00:21:16,168 WARNING maps_url_scraper.engine | periodic rebase failed - retrying next interval
+2026-09-30 00:21:31,082 INFO maps_url_scraper.engine | progress 286/300 assigned | 561 queries done | +1922 places | +0 urls | 604 reqs (0.1/s) | block rate 11%
+2026-09-30 00:21:41,774 DEBUG maps_url_scraper.worker3 | ok page=1 attempt=1 proxy=direct q='Cantabrian restaurant in McMullen, AL'
+2026-09-30 00:21:41,775 INFO maps_url_scraper.worker3 |   1 places | Cantabrian restaurant in McMullen, AL
+2026-09-30 00:21:43,184 DEBUG maps_url_scraper.worker9 | ok page=0 attempt=1 proxy=direct q='Car leasing service in McMullen, AL'
+2026-09-30 00:21:46,083 INFO maps_url_scraper.engine | progress 287/300 assigned | 562 queries done | +1923 places | +0 urls | 606 reqs (0.1/s) | block rate 11%
+2026-09-30 00:21:49,855 DEBUG maps_url_scraper.worker4 | ok page=0 attempt=1 proxy=direct q='Car manufacturer in McMullen, AL'
+2026-09-30 00:21:52,143 DEBUG maps_url_scraper.worker15 | ok page=1 attempt=1 proxy=direct q='Cantonese restaurant in McMullen, AL'
+2026-09-30 00:21:52,143 INFO maps_url_scraper.worker15 |  12 places | Cantonese restaurant in McMullen, AL
+2026-09-30 00:21:53,868 DEBUG maps_url_scraper.worker17 | ok page=0 attempt=1 proxy=direct q='Car racing venue in McMullen, AL'
+2026-09-30 00:21:55,563 DEBUG maps_url_scraper.worker8 | ok page=0 attempt=1 proxy=direct q='Car rental agency in McMullen, AL'
+2026-09-30 00:21:57,339 DEBUG maps_url_scraper.worker10 | ok page=1 attempt=1 proxy=direct q='Capoeira school in McMullen, AL'
+2026-09-30 00:21:57,339 INFO maps_url_scraper.worker10 |   1 places | Capoeira school in McMullen, AL
+2026-09-30 00:21:58,649 DEBUG maps_url_scraper.worker23 | ok page=0 attempt=1 proxy=direct q='Car repair and maintenance service in McMullen, AL'
+2026-09-30 00:22:01,083 INFO maps_url_scraper.engine | progress 289/300 assigned | 564 queries done | +1948 places | +0 urls | 612 reqs (0.1/s) | block rate 11%
+2026-09-30 00:22:01,630 DEBUG maps_url_scraper.worker2 | ok page=1 attempt=1 proxy=direct q='Car accessories store in McMullen, AL'
+2026-09-30 00:22:03,788 DEBUG maps_url_scraper.worker20 | ok page=0 attempt=1 proxy=direct q='Car security system installer in McMullen, AL'
+2026-09-30 00:22:09,949 DEBUG maps_url_scraper.worker22 | ok page=1 attempt=1 proxy=direct q='Car dealer in McMullen, AL'
+2026-09-30 00:22:13,410 DEBUG maps_url_scraper.worker18 | ok page=2 attempt=1 proxy=direct q='Canoe & kayak rental service in McMullen, AL'
+2026-09-30 00:22:16,084 INFO maps_url_scraper.engine | progress 289/300 assigned | 564 queries done | +1966 places | +0 urls | 616 reqs (0.1/s) | block rate 11%
+2026-09-30 00:22:17,889 DEBUG maps_url_scraper.worker24 | ok page=2 attempt=1 proxy=direct q='Canoe & kayak store in McMullen, AL'
+2026-09-30 00:22:18,710 DEBUG maps_url_scraper.worker5 | ok page=1 attempt=1 proxy=direct q='Car factory in McMullen, AL'
+2026-09-30 00:22:18,710 INFO maps_url_scraper.worker5 |   2 places | Car factory in McMullen, AL
+2026-09-30 00:22:20,712 DEBUG maps_url_scraper.worker1 | ok page=0 attempt=1 proxy=direct q='Car sharing location in McMullen, AL'
+2026-09-30 00:22:23,622 DEBUG maps_url_scraper.worker14 | ok page=1 attempt=1 proxy=direct q='Car finance and loan company in McMullen, AL'
+2026-09-30 00:22:23,622 INFO maps_url_scraper.worker14 |   5 places | Car finance and loan company in McMullen, AL
+2026-09-30 00:22:25,053 DEBUG maps_url_scraper.worker19 | ok page=0 attempt=1 proxy=direct q='Car stereo store in McMullen, AL'
+2026-09-30 00:22:26,565 DEBUG maps_url_scraper.worker7 | ok page=0 attempt=1 proxy=direct q='Car wash in McMullen, AL'
+2026-09-30 00:22:31,084 INFO maps_url_scraper.engine | progress 291/300 assigned | 566 queries done | +1993 places | +0 urls | 622 reqs (0.1/s) | block rate 11%
+2026-09-30 00:22:46,084 INFO maps_url_scraper.engine | progress 291/300 assigned | 566 queries done | +1993 places | +0 urls | 622 reqs (0.1/s) | block rate 11%
+2026-09-30 00:23:01,085 INFO maps_url_scraper.engine | progress 291/300 assigned | 566 queries done | +1993 places | +0 urls | 622 reqs (0.1/s) | block rate 11%
+2026-09-30 00:23:16,085 INFO maps_url_scraper.engine | progress 291/300 assigned | 566 queries done | +1993 places | +0 urls | 622 reqs (0.1/s) | block rate 11%
+2026-09-30 00:23:31,085 INFO maps_url_scraper.engine | progress 291/300 assigned | 566 queries done | +1993 places | +0 urls | 622 reqs (0.1/s) | block rate 11%
+2026-09-30 00:23:37,257 WARNING maps_url_scraper.worker15 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Caribbean restaurant in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Caribbean+restaurant+in+McMullen%2C+AL&pb=%211sCaribbean%2Brestauran
+2026-09-30 00:23:38,881 WARNING maps_url_scraper.worker8 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Car rental agency in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Car+rental+agency+in+McMullen%2C+AL&pb=%211sCar%2Brental%2Bagency%2B
+2026-09-30 00:23:42,328 DEBUG maps_url_scraper.worker12 | ok page=0 attempt=2 proxy=direct q='Car battery store in McMullen, AL'
+2026-09-30 00:23:43,389 DEBUG maps_url_scraper.worker6 | ok page=0 attempt=1 proxy=direct q='Cardiologist in McMullen, AL'
+2026-09-30 00:23:45,350 DEBUG maps_url_scraper.worker16 | ok page=0 attempt=1 proxy=direct q='Cardiovascular and thoracic surgeon in McMullen, AL'
+2026-09-30 00:23:46,086 INFO maps_url_scraper.engine | progress 291/300 assigned | 566 queries done | +2034 places | +0 urls | 627 reqs (0.1/s) | block rate 11%
+2026-09-30 00:24:01,086 INFO maps_url_scraper.engine | progress 291/300 assigned | 566 queries done | +2034 places | +0 urls | 627 reqs (0.1/s) | block rate 11%
+2026-09-30 00:24:16,087 INFO maps_url_scraper.engine | progress 291/300 assigned | 566 queries done | +2034 places | +0 urls | 627 reqs (0.1/s) | block rate 11%
+2026-09-30 00:24:31,087 INFO maps_url_scraper.engine | progress 291/300 assigned | 566 queries done | +2034 places | +0 urls | 627 reqs (0.1/s) | block rate 11%
+2026-09-30 00:24:46,087 INFO maps_url_scraper.engine | progress 291/300 assigned | 566 queries done | +2034 places | +0 urls | 627 reqs (0.1/s) | block rate 11%
+2026-09-30 00:25:01,088 INFO maps_url_scraper.engine | progress 291/300 assigned | 566 queries done | +2034 places | +0 urls | 627 reqs (0.1/s) | block rate 11%
+2026-09-30 00:25:16,088 INFO maps_url_scraper.engine | progress 291/300 assigned | 566 queries done | +2034 places | +0 urls | 627 reqs (0.1/s) | block rate 11%
+2026-09-30 00:25:31,088 INFO maps_url_scraper.engine | progress 291/300 assigned | 566 queries done | +2034 places | +0 urls | 627 reqs (0.1/s) | block rate 11%
+2026-09-30 00:25:46,089 INFO maps_url_scraper.engine | progress 291/300 assigned | 566 queries done | +2034 places | +0 urls | 627 reqs (0.1/s) | block rate 11%
+2026-09-30 00:26:01,089 INFO maps_url_scraper.engine | progress 291/300 assigned | 566 queries done | +2034 places | +0 urls | 627 reqs (0.1/s) | block rate 11%
+2026-09-30 00:26:16,090 INFO maps_url_scraper.engine | progress 291/300 assigned | 566 queries done | +2034 places | +0 urls | 627 reqs (0.1/s) | block rate 11%
