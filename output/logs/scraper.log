@@ -3438,3 +3438,27 @@
 2026-09-30 00:45:46,119 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 683 reqs (0.1/s) | block rate 10%
 2026-09-30 00:46:01,120 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 683 reqs (0.1/s) | block rate 10%
 2026-09-30 00:46:16,120 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 683 reqs (0.1/s) | block rate 10%
+2026-09-30 00:46:23,992 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-30 00:46:31,121 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 683 reqs (0.1/s) | block rate 10%
+2026-09-30 00:46:43,771 WARNING maps_url_scraper.breaker | CIRCUIT BREAKER OPEN: 100% of last pages blocked - pausing all workers for 180s
+2026-09-30 00:46:43,771 WARNING maps_url_scraper.worker12 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Car battery store in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Car+battery+store+in+McMullen%2C+AL&pb=%211sCar%2Bbattery%2Bstore%2B
+2026-09-30 00:46:46,121 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 684 reqs (0.1/s) | block rate 11%
+2026-09-30 00:47:01,122 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 684 reqs (0.1/s) | block rate 11%
+2026-09-30 00:47:16,122 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 684 reqs (0.1/s) | block rate 11%
+2026-09-30 00:47:31,122 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 684 reqs (0.1/s) | block rate 11%
+2026-09-30 00:47:46,123 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 684 reqs (0.1/s) | block rate 11%
+2026-09-30 00:48:01,123 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 684 reqs (0.1/s) | block rate 11%
+2026-09-30 00:48:16,123 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 684 reqs (0.1/s) | block rate 11%
+2026-09-30 00:48:31,124 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 684 reqs (0.1/s) | block rate 11%
+2026-09-30 00:48:46,124 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 684 reqs (0.1/s) | block rate 11%
+2026-09-30 00:49:01,125 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 684 reqs (0.1/s) | block rate 11%
+2026-09-30 00:49:16,125 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 684 reqs (0.1/s) | block rate 11%
+2026-09-30 00:49:31,125 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 684 reqs (0.1/s) | block rate 11%
+2026-09-30 00:49:44,791 WARNING maps_url_scraper.worker12 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 2/4) q='Car battery store in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Car+battery+store+in+McMullen%2C+AL&pb=%211sCar%2Bbattery%2Bstore%2B
+2026-09-30 00:49:46,126 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 685 reqs (0.1/s) | block rate 11%
+2026-09-30 00:50:01,126 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 685 reqs (0.1/s) | block rate 11%
+2026-09-30 00:50:16,127 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 685 reqs (0.1/s) | block rate 11%
+2026-09-30 00:50:31,127 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 685 reqs (0.1/s) | block rate 11%
+2026-09-30 00:50:46,127 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 685 reqs (0.1/s) | block rate 11%
+2026-09-30 00:51:01,128 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 685 reqs (0.1/s) | block rate 11%
+2026-09-30 00:51:16,128 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 685 reqs (0.1/s) | block rate 11%
