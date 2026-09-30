@@ -3901,3 +3901,55 @@
 2026-09-30 05:18:31,314 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
 2026-09-30 05:18:46,315 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
 2026-09-30 05:19:01,315 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
+2026-09-30 05:19:16,315 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
+2026-09-30 05:19:17,228 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-30 05:19:31,316 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
+2026-09-30 05:19:46,316 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
+2026-09-30 05:20:01,317 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
+2026-09-30 05:20:04,583 WARNING maps_url_scraper.worker1 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 2/4) q='Chicken restaurant in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Chicken+restaurant+in+McMullen%2C+AL&pb=%211sChicken%2Brestaurant%2B
+2026-09-30 05:20:04,884 WARNING maps_url_scraper.worker17 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 2/4) q='Chemical wholesaler in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Chemical+wholesaler+in+McMullen%2C+AL&pb=%211sChemical%2Bwholesaler%
+2026-09-30 05:20:05,680 WARNING maps_url_scraper.worker2 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 2/4) q='Cell phone charging station in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Cell+phone+charging+station+in+McMullen%2C+AL&pb=%211sCell%2Bphone%2
+2026-09-30 05:20:06,596 WARNING maps_url_scraper.worker15 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Chicken shop in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Chicken+shop+in+McMullen%2C+AL&pb=%211sChicken%2Bshop%2Bin%2BMcMulle
+2026-09-30 05:20:06,795 WARNING maps_url_scraper.breaker | CIRCUIT BREAKER OPEN: 100% of last pages blocked - pausing all workers for 180s
+2026-09-30 05:20:06,795 WARNING maps_url_scraper.worker6 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Childbirth class in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Childbirth+class+in+McMullen%2C+AL&pb=%211sChildbirth%2Bclass%2Bin%2
+2026-09-30 05:20:16,317 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 183 reqs (0.1/s) | block rate 26%
+2026-09-30 05:20:31,317 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 183 reqs (0.1/s) | block rate 26%
+2026-09-30 05:20:46,318 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 183 reqs (0.1/s) | block rate 26%
+2026-09-30 05:21:01,318 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 183 reqs (0.1/s) | block rate 26%
+2026-09-30 05:21:16,319 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 183 reqs (0.1/s) | block rate 26%
+2026-09-30 05:21:31,319 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 183 reqs (0.1/s) | block rate 26%
+2026-09-30 05:21:46,319 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 183 reqs (0.1/s) | block rate 26%
+2026-09-30 05:22:01,320 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 183 reqs (0.1/s) | block rate 26%
+2026-09-30 05:22:16,320 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 183 reqs (0.1/s) | block rate 26%
+2026-09-30 05:22:31,321 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 183 reqs (0.1/s) | block rate 26%
+2026-09-30 05:22:46,321 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 183 reqs (0.1/s) | block rate 26%
+2026-09-30 05:23:01,321 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 183 reqs (0.1/s) | block rate 26%
+2026-09-30 05:23:07,142 DEBUG maps_url_scraper.worker21 | ok page=0 attempt=1 proxy=direct q="Children's cafe in McMullen, AL"
+2026-09-30 05:23:07,236 WARNING maps_url_scraper.worker20 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q="Children's amusement center in McMullen, AL" final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Children%27s+amusement+center+in+McMullen%2C+AL&pb=%211sChildren%252
+2026-09-30 05:23:07,310 DEBUG maps_url_scraper.worker16 | ok page=1 attempt=1 proxy=direct q='Chevrolet dealer in McMullen, AL'
+2026-09-30 05:23:07,310 INFO maps_url_scraper.worker16 |  16 places | Chevrolet dealer in McMullen, AL
+2026-09-30 05:23:07,453 WARNING maps_url_scraper.worker19 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q="Children's club in McMullen, AL" final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Children%27s+club+in+McMullen%2C+AL&pb=%211sChildren%2527s%2Bclub%2B
+2026-09-30 05:23:07,466 DEBUG maps_url_scraper.worker5 | ok page=0 attempt=1 proxy=direct q="Children's clothing store in McMullen, AL"
+2026-09-30 05:23:07,478 DEBUG maps_url_scraper.worker14 | ok page=0 attempt=1 proxy=direct q="Children's book store in McMullen, AL"
+2026-09-30 05:23:07,514 DEBUG maps_url_scraper.worker18 | ok page=0 attempt=1 proxy=direct q="Children's farm in McMullen, AL"
+2026-09-30 05:23:07,551 DEBUG maps_url_scraper.worker11 | ok page=1 attempt=3 proxy=direct q='Chauffeur service in McMullen, AL'
+2026-09-30 05:23:07,552 INFO maps_url_scraper.worker11 |   8 places | Chauffeur service in McMullen, AL
+2026-09-30 05:23:07,730 DEBUG maps_url_scraper.worker13 | ok page=0 attempt=2 proxy=direct q='Child care agency in McMullen, AL'
+2026-09-30 05:23:07,745 DEBUG maps_url_scraper.worker3 | ok page=0 attempt=1 proxy=direct q='Children Policlinic in McMullen, AL'
+2026-09-30 05:23:07,745 INFO maps_url_scraper.worker3 |   0 places | Children Policlinic in McMullen, AL
+2026-09-30 05:23:07,861 DEBUG maps_url_scraper.worker24 | ok page=1 attempt=1 proxy=direct q='Chemistry lab in McMullen, AL'
+2026-09-30 05:23:07,861 INFO maps_url_scraper.worker24 |   1 places | Chemistry lab in McMullen, AL
+2026-09-30 05:23:07,867 WARNING maps_url_scraper.worker10 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q="Children's camp in McMullen, AL" final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Children%27s+camp+in+McMullen%2C+AL&pb=%211sChildren%2527s%2Bcamp%2B
+2026-09-30 05:23:07,917 DEBUG maps_url_scraper.worker4 | ok page=1 attempt=2 proxy=direct q='Chemical manufacturer in McMullen, AL'
+2026-09-30 05:23:07,917 INFO maps_url_scraper.worker4 |   1 places | Chemical manufacturer in McMullen, AL
+2026-09-30 05:23:07,925 DEBUG maps_url_scraper.worker23 | ok page=0 attempt=2 proxy=direct q='Child health care center in McMullen, AL'
+2026-09-30 05:23:08,072 DEBUG maps_url_scraper.worker8 | ok page=0 attempt=2 proxy=direct q='Chicken wings restaurant in McMullen, AL'
+2026-09-30 05:23:08,073 DEBUG maps_url_scraper.worker12 | ok page=0 attempt=1 proxy=direct q="Children's furniture store in McMullen, AL"
+2026-09-30 05:23:16,322 INFO maps_url_scraper.engine | progress 93/300 assigned | 667 queries done | +522 places | +0 urls | 199 reqs (0.1/s) | block rate 26%
+2026-09-30 05:23:21,572 DEBUG maps_url_scraper.worker9 | ok page=0 attempt=2 proxy=direct q='Child psychiatrist in McMullen, AL'
+2026-09-30 05:23:23,316 DEBUG maps_url_scraper.worker22 | ok page=0 attempt=2 proxy=direct q='Child psychologist in McMullen, AL'
+2026-09-30 05:23:25,119 DEBUG maps_url_scraper.worker7 | ok page=0 attempt=2 proxy=direct q='Child psychotherapist in McMullen, AL'
+2026-09-30 05:23:31,322 INFO maps_url_scraper.engine | progress 93/300 assigned | 667 queries done | +526 places | +0 urls | 202 reqs (0.1/s) | block rate 25%
+2026-09-30 05:23:46,323 INFO maps_url_scraper.engine | progress 93/300 assigned | 667 queries done | +526 places | +0 urls | 202 reqs (0.1/s) | block rate 25%
+2026-09-30 05:24:01,323 INFO maps_url_scraper.engine | progress 93/300 assigned | 667 queries done | +526 places | +0 urls | 202 reqs (0.1/s) | block rate 25%
+2026-09-30 05:24:16,324 INFO maps_url_scraper.engine | progress 93/300 assigned | 667 queries done | +526 places | +0 urls | 202 reqs (0.1/s) | block rate 25%
