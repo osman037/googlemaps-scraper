@@ -3508,3 +3508,36 @@
 2026-09-30 04:38:31,249 INFO maps_url_scraper.engine | progress 24/300 assigned | 598 queries done | +0 places | +0 urls | 20 reqs (0.1/s) | block rate 100%
 2026-09-30 04:38:46,250 INFO maps_url_scraper.engine | progress 24/300 assigned | 598 queries done | +0 places | +0 urls | 20 reqs (0.1/s) | block rate 100%
 2026-09-30 04:39:01,250 INFO maps_url_scraper.engine | progress 24/300 assigned | 598 queries done | +0 places | +0 urls | 20 reqs (0.1/s) | block rate 100%
+2026-09-30 04:39:02,976 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-30 04:39:16,250 INFO maps_url_scraper.engine | progress 24/300 assigned | 598 queries done | +0 places | +0 urls | 20 reqs (0.1/s) | block rate 100%
+2026-09-30 04:39:31,251 INFO maps_url_scraper.engine | progress 24/300 assigned | 598 queries done | +0 places | +0 urls | 20 reqs (0.1/s) | block rate 100%
+2026-09-30 04:39:46,251 INFO maps_url_scraper.engine | progress 24/300 assigned | 598 queries done | +0 places | +0 urls | 20 reqs (0.1/s) | block rate 100%
+2026-09-30 04:40:01,252 INFO maps_url_scraper.engine | progress 24/300 assigned | 598 queries done | +0 places | +0 urls | 20 reqs (0.1/s) | block rate 100%
+2026-09-30 04:40:03,661 DEBUG maps_url_scraper.worker5 | ok page=0 attempt=2 proxy=direct q='Castilian restaurant in McMullen, AL'
+2026-09-30 04:40:03,662 INFO maps_url_scraper.worker5 |   0 places | Castilian restaurant in McMullen, AL
+2026-09-30 04:40:03,678 DEBUG maps_url_scraper.worker4 | ok page=0 attempt=2 proxy=direct q='Casket service in McMullen, AL'
+2026-09-30 04:40:03,866 WARNING maps_url_scraper.worker19 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Cattery in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Cattery+in+McMullen%2C+AL&pb=%211sCattery%2Bin%2BMcMullen%252C%2BAL%
+2026-09-30 04:40:03,982 DEBUG maps_url_scraper.worker1 | ok page=0 attempt=2 proxy=direct q='Car battery store in McMullen, AL'
+2026-09-30 04:40:04,010 WARNING maps_url_scraper.worker15 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Cathedral in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Cathedral+in+McMullen%2C+AL&pb=%211sCathedral%2Bin%2BMcMullen%252C%2
+2026-09-30 04:40:04,098 WARNING maps_url_scraper.worker17 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Catholic church in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Catholic+church+in+McMullen%2C+AL&pb=%211sCatholic%2Bchurch%2Bin%2BM
+2026-09-30 04:40:04,238 WARNING maps_url_scraper.breaker | CIRCUIT BREAKER OPEN: 100% of last pages blocked - pausing all workers for 180s
+2026-09-30 04:40:04,238 WARNING maps_url_scraper.worker16 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Catholic cathedral in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Catholic+cathedral+in+McMullen%2C+AL&pb=%211sCatholic%2Bcathedral%2B
+2026-09-30 04:40:04,324 DEBUG maps_url_scraper.worker2 | ok page=0 attempt=2 proxy=direct q='Casino in McMullen, AL'
+2026-09-30 04:40:16,252 INFO maps_url_scraper.engine | progress 25/300 assigned | 599 queries done | +31 places | +0 urls | 28 reqs (0.1/s) | block rate 86%
+2026-09-30 04:40:31,252 INFO maps_url_scraper.engine | progress 25/300 assigned | 599 queries done | +31 places | +0 urls | 28 reqs (0.1/s) | block rate 86%
+2026-09-30 04:40:46,253 INFO maps_url_scraper.engine | progress 25/300 assigned | 599 queries done | +31 places | +0 urls | 28 reqs (0.1/s) | block rate 86%
+2026-09-30 04:41:01,253 INFO maps_url_scraper.engine | progress 25/300 assigned | 599 queries done | +31 places | +0 urls | 28 reqs (0.1/s) | block rate 86%
+2026-09-30 04:41:16,254 INFO maps_url_scraper.engine | progress 25/300 assigned | 599 queries done | +31 places | +0 urls | 28 reqs (0.1/s) | block rate 86%
+2026-09-30 04:41:31,254 INFO maps_url_scraper.engine | progress 25/300 assigned | 599 queries done | +31 places | +0 urls | 28 reqs (0.1/s) | block rate 86%
+2026-09-30 04:41:46,254 INFO maps_url_scraper.engine | progress 25/300 assigned | 599 queries done | +31 places | +0 urls | 28 reqs (0.1/s) | block rate 86%
+2026-09-30 04:42:01,255 INFO maps_url_scraper.engine | progress 25/300 assigned | 599 queries done | +31 places | +0 urls | 28 reqs (0.1/s) | block rate 86%
+2026-09-30 04:42:16,255 INFO maps_url_scraper.engine | progress 25/300 assigned | 599 queries done | +31 places | +0 urls | 28 reqs (0.1/s) | block rate 86%
+2026-09-30 04:42:31,255 INFO maps_url_scraper.engine | progress 25/300 assigned | 599 queries done | +31 places | +0 urls | 28 reqs (0.1/s) | block rate 86%
+2026-09-30 04:42:46,256 INFO maps_url_scraper.engine | progress 25/300 assigned | 599 queries done | +31 places | +0 urls | 28 reqs (0.1/s) | block rate 86%
+2026-09-30 04:43:01,256 INFO maps_url_scraper.engine | progress 25/300 assigned | 599 queries done | +31 places | +0 urls | 28 reqs (0.1/s) | block rate 86%
+2026-09-30 04:43:04,617 DEBUG maps_url_scraper.worker6 | ok page=0 attempt=2 proxy=direct q='Castle in McMullen, AL'
+2026-09-30 04:43:04,692 DEBUG maps_url_scraper.worker3 | ok page=0 attempt=2 proxy=direct q='Casino hotel in McMullen, AL'
+2026-09-30 04:43:16,257 INFO maps_url_scraper.engine | progress 25/300 assigned | 599 queries done | +35 places | +0 urls | 30 reqs (0.1/s) | block rate 80%
+2026-09-30 04:43:31,257 INFO maps_url_scraper.engine | progress 25/300 assigned | 599 queries done | +35 places | +0 urls | 30 reqs (0.1/s) | block rate 80%
+2026-09-30 04:43:46,258 INFO maps_url_scraper.engine | progress 25/300 assigned | 599 queries done | +35 places | +0 urls | 30 reqs (0.1/s) | block rate 80%
+2026-09-30 04:44:01,258 INFO maps_url_scraper.engine | progress 25/300 assigned | 599 queries done | +35 places | +0 urls | 30 reqs (0.0/s) | block rate 80%
