@@ -6615,3 +6615,117 @@
 2026-09-30 12:51:00,083 INFO maps_url_scraper.engine | progress 181/302 assigned | 1165 queries done | +2079 places | +0 urls | 512 reqs (0.2/s) | block rate 22%
 2026-09-30 12:51:15,083 INFO maps_url_scraper.engine | progress 181/302 assigned | 1165 queries done | +2079 places | +0 urls | 512 reqs (0.2/s) | block rate 22%
 2026-09-30 12:51:30,084 INFO maps_url_scraper.engine | progress 181/302 assigned | 1165 queries done | +2079 places | +0 urls | 512 reqs (0.2/s) | block rate 22%
+2026-09-30 12:51:33,842 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-30 12:51:36,993 WARNING maps_url_scraper.worker6 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Electric motor repair shop in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Electric+motor+repair+shop+in+McMullen%2C+AL&pb=%211sElectric%2Bmoto
+2026-09-30 12:51:37,187 WARNING maps_url_scraper.worker11 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Electric motor vehicle dealer in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Electric+motor+vehicle+dealer+in+McMullen%2C+AL&pb=%211sElectric%2Bm
+2026-09-30 12:51:37,219 WARNING maps_url_scraper.worker2 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Egyptian restaurant in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Egyptian+restaurant+in+McMullen%2C+AL&pb=%211sEgyptian%2Brestaurant%
+2026-09-30 12:51:37,368 WARNING maps_url_scraper.worker16 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Electric motor scooter dealer in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Electric+motor+scooter+dealer+in+McMullen%2C+AL&pb=%211sElectric%2Bm
+2026-09-30 12:51:37,374 WARNING maps_url_scraper.worker9 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Education center in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Education+center+in+McMullen%2C+AL&pb=%211sEducation%2Bcenter%2Bin%2
+2026-09-30 12:51:37,448 WARNING maps_url_scraper.worker15 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Electric utility company in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Electric+utility+company+in+McMullen%2C+AL&pb=%211sElectric%2Butilit
+2026-09-30 12:51:37,634 WARNING maps_url_scraper.worker3 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 2/4) q='Educational institution in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Educational+institution+in+McMullen%2C+AL&pb=%211sEducational%2Binst
+2026-09-30 12:51:38,256 DEBUG maps_url_scraper.worker21 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electrical equipment supplier in McMullen, AL'
+2026-09-30 12:51:38,280 DEBUG maps_url_scraper.worker14 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric vehicle charging station contractor in McMullen, AL'
+2026-09-30 12:51:38,564 DEBUG maps_url_scraper.worker4 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Elder law attorney in McMullen, AL'
+2026-09-30 12:51:38,597 DEBUG maps_url_scraper.worker13 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric generator shop in McMullen, AL'
+2026-09-30 12:51:38,661 DEBUG maps_url_scraper.worker5 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric bicycle store in McMullen, AL'
+2026-09-30 12:51:38,723 DEBUG maps_url_scraper.worker7 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric vehicle charging station in McMullen, AL'
+2026-09-30 12:51:41,906 DEBUG maps_url_scraper.worker14 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric vehicle charging station contractor in McMullen, AL'
+2026-09-30 12:51:42,757 DEBUG maps_url_scraper.worker18 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric motorcycle dealer in McMullen, AL'
+2026-09-30 12:51:43,087 DEBUG maps_url_scraper.worker8 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electrical appliance wholesaler in McMullen, AL'
+2026-09-30 12:51:43,871 DEBUG maps_url_scraper.worker7 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric vehicle charging station in McMullen, AL'
+2026-09-30 12:51:44,099 DEBUG maps_url_scraper.worker21 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electrical equipment supplier in McMullen, AL'
+2026-09-30 12:51:44,158 DEBUG maps_url_scraper.worker23 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electrical engineer in McMullen, AL'
+2026-09-30 12:51:44,814 DEBUG maps_url_scraper.worker4 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Elder law attorney in McMullen, AL'
+2026-09-30 12:51:45,084 INFO maps_url_scraper.engine | progress 181/302 assigned | 1165 queries done | +2197 places | +0 urls | 532 reqs (0.2/s) | block rate 22%
+2026-09-30 12:51:45,848 DEBUG maps_url_scraper.worker11 | ok page=0 attempt=2 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric motor vehicle dealer in McMullen, AL'
+2026-09-30 12:51:46,741 WARNING maps_url_scraper.breaker | CIRCUIT BREAKER OPEN: 100% of last pages blocked - pausing all workers for 180s
+2026-09-30 12:51:46,741 WARNING maps_url_scraper.worker7 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Electric vehicle charging station in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Electric+vehicle+charging+station+in+McMullen%2C+AL&pb=%211sElectric
+2026-09-30 12:51:47,752 DEBUG maps_url_scraper.worker14 | ok page=2 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric vehicle charging station contractor in McMullen, AL'
+2026-09-30 12:51:49,089 DEBUG maps_url_scraper.worker6 | ok page=0 attempt=2 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric motor repair shop in McMullen, AL'
+2026-09-30 12:51:52,088 DEBUG maps_url_scraper.worker16 | ok page=0 attempt=2 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric motor scooter dealer in McMullen, AL'
+2026-09-30 12:51:55,709 DEBUG maps_url_scraper.worker17 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric motor store in McMullen, AL'
+2026-09-30 12:52:00,084 INFO maps_url_scraper.engine | progress 181/302 assigned | 1165 queries done | +2232 places | +0 urls | 538 reqs (0.2/s) | block rate 22%
+2026-09-30 12:52:00,521 DEBUG maps_url_scraper.worker1 | ok page=1 attempt=3 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Eastern European restaurant in McMullen, AL'
+2026-09-30 12:52:00,522 INFO maps_url_scraper.worker1 |   5 places | Eastern European restaurant in McMullen, AL
+2026-09-30 12:52:01,864 DEBUG maps_url_scraper.worker22 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Ecologists association in McMullen, AL'
+2026-09-30 12:52:01,864 INFO maps_url_scraper.worker22 |   1 places | Ecologists association in McMullen, AL
+2026-09-30 12:52:03,069 DEBUG maps_url_scraper.worker24 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Ecuadorian restaurant in McMullen, AL'
+2026-09-30 12:52:03,069 INFO maps_url_scraper.worker24 |   1 places | Ecuadorian restaurant in McMullen, AL
+2026-09-30 12:52:05,924 DEBUG maps_url_scraper.worker5 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric bicycle store in McMullen, AL'
+2026-09-30 12:52:05,924 INFO maps_url_scraper.worker5 |  20 places | Electric bicycle store in McMullen, AL
+2026-09-30 12:52:05,962 DEBUG maps_url_scraper.worker10 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Egg supplier in McMullen, AL'
+2026-09-30 12:52:05,962 INFO maps_url_scraper.worker10 |   5 places | Egg supplier in McMullen, AL
+2026-09-30 12:52:07,655 DEBUG maps_url_scraper.worker12 | ok page=3 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Eating disorder treatment center in McMullen, AL'
+2026-09-30 12:52:07,655 INFO maps_url_scraper.worker12 |  51 places | Eating disorder treatment center in McMullen, AL
+2026-09-30 12:52:08,027 DEBUG maps_url_scraper.worker20 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Eastern Orthodox Church in McMullen, AL'
+2026-09-30 12:52:08,027 INFO maps_url_scraper.worker20 |  16 places | Eastern Orthodox Church in McMullen, AL
+2026-09-30 12:52:08,197 DEBUG maps_url_scraper.worker19 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Economic consultant in McMullen, AL'
+2026-09-30 12:52:08,197 INFO maps_url_scraper.worker19 |   1 places | Economic consultant in McMullen, AL
+2026-09-30 12:52:09,244 DEBUG maps_url_scraper.worker3 | ok page=2 attempt=3 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Educational institution in McMullen, AL'
+2026-09-30 12:52:09,245 INFO maps_url_scraper.worker3 |  35 places | Educational institution in McMullen, AL
+2026-09-30 12:52:11,448 DEBUG maps_url_scraper.worker9 | ok page=1 attempt=2 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Education center in McMullen, AL'
+2026-09-30 12:52:11,449 INFO maps_url_scraper.worker9 |   1 places | Education center in McMullen, AL
+2026-09-30 12:52:13,108 DEBUG maps_url_scraper.worker2 | ok page=1 attempt=2 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Egyptian restaurant in McMullen, AL'
+2026-09-30 12:52:13,108 INFO maps_url_scraper.worker2 |   9 places | Egyptian restaurant in McMullen, AL
+2026-09-30 12:52:15,085 INFO maps_url_scraper.engine | progress 192/302 assigned | 1176 queries done | +2232 places | +0 urls | 549 reqs (0.2/s) | block rate 22%
+2026-09-30 12:52:15,619 DEBUG maps_url_scraper.worker13 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric generator shop in McMullen, AL'
+2026-09-30 12:52:15,619 INFO maps_url_scraper.worker13 |  14 places | Electric generator shop in McMullen, AL
+2026-09-30 12:52:16,700 DEBUG maps_url_scraper.worker8 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electrical appliance wholesaler in McMullen, AL'
+2026-09-30 12:52:16,700 INFO maps_url_scraper.worker8 |  12 places | Electrical appliance wholesaler in McMullen, AL
+2026-09-30 12:52:30,085 INFO maps_url_scraper.engine | progress 194/302 assigned | 1178 queries done | +2232 places | +0 urls | 551 reqs (0.2/s) | block rate 22%
+2026-09-30 12:52:45,085 INFO maps_url_scraper.engine | progress 194/302 assigned | 1178 queries done | +2232 places | +0 urls | 551 reqs (0.2/s) | block rate 22%
+2026-09-30 12:53:00,086 INFO maps_url_scraper.engine | progress 194/302 assigned | 1178 queries done | +2232 places | +0 urls | 551 reqs (0.2/s) | block rate 22%
+2026-09-30 12:53:15,086 INFO maps_url_scraper.engine | progress 194/302 assigned | 1178 queries done | +2232 places | +0 urls | 551 reqs (0.2/s) | block rate 22%
+2026-09-30 12:53:30,086 INFO maps_url_scraper.engine | progress 194/302 assigned | 1178 queries done | +2232 places | +0 urls | 551 reqs (0.2/s) | block rate 22%
+2026-09-30 12:53:45,087 INFO maps_url_scraper.engine | progress 194/302 assigned | 1178 queries done | +2232 places | +0 urls | 551 reqs (0.2/s) | block rate 22%
+2026-09-30 12:54:00,087 INFO maps_url_scraper.engine | progress 194/302 assigned | 1178 queries done | +2232 places | +0 urls | 551 reqs (0.2/s) | block rate 22%
+2026-09-30 12:54:15,087 INFO maps_url_scraper.engine | progress 194/302 assigned | 1178 queries done | +2232 places | +0 urls | 551 reqs (0.2/s) | block rate 22%
+2026-09-30 12:54:30,088 INFO maps_url_scraper.engine | progress 194/302 assigned | 1178 queries done | +2232 places | +0 urls | 551 reqs (0.2/s) | block rate 22%
+2026-09-30 12:54:45,088 INFO maps_url_scraper.engine | progress 194/302 assigned | 1178 queries done | +2232 places | +0 urls | 551 reqs (0.2/s) | block rate 22%
+2026-09-30 12:54:47,742 WARNING maps_url_scraper.worker14 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Electric vehicle charging station contractor in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Electric+vehicle+charging+station+contractor+in+McMullen%2C+AL&pb=%2
+2026-09-30 12:54:47,768 WARNING maps_url_scraper.worker1 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Electrical installation service in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Electrical+installation+service+in+McMullen%2C+AL&pb=%211sElectrical
+2026-09-30 12:54:47,770 WARNING maps_url_scraper.worker18 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Electric motorcycle dealer in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Electric+motorcycle+dealer+in+McMullen%2C+AL&pb=%211sElectric%2Bmoto
+2026-09-30 12:54:47,857 WARNING maps_url_scraper.worker7 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 2/4) q='Electric vehicle charging station in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Electric+vehicle+charging+station+in+McMullen%2C+AL&pb=%211sElectric
+2026-09-30 12:54:47,883 WARNING maps_url_scraper.worker11 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Electric motor vehicle dealer in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Electric+motor+vehicle+dealer+in+McMullen%2C+AL&pb=%211sElectric%2Bm
+2026-09-30 12:54:47,979 WARNING maps_url_scraper.worker8 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Electronics hire shop in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Electronics+hire+shop+in+McMullen%2C+AL&pb=%211sElectronics%2Bhire%2
+2026-09-30 12:54:48,280 DEBUG maps_url_scraper.worker15 | ok page=0 attempt=2 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric utility company in McMullen, AL'
+2026-09-30 12:54:48,394 DEBUG maps_url_scraper.worker22 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electrical products wholesaler in McMullen, AL'
+2026-09-30 12:54:49,078 DEBUG maps_url_scraper.worker16 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric motor scooter dealer in McMullen, AL'
+2026-09-30 12:54:49,199 DEBUG maps_url_scraper.worker24 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electrical repair shop in McMullen, AL'
+2026-09-30 12:54:49,445 DEBUG maps_url_scraper.worker12 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electrician in McMullen, AL'
+2026-09-30 12:54:49,724 DEBUG maps_url_scraper.worker23 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electrical engineer in McMullen, AL'
+2026-09-30 12:54:49,797 DEBUG maps_url_scraper.worker3 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electronic parts supplier in McMullen, AL'
+2026-09-30 12:54:50,183 DEBUG maps_url_scraper.worker20 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electrolysis hair removal service in McMullen, AL'
+2026-09-30 12:54:50,229 DEBUG maps_url_scraper.worker2 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electronics company in McMullen, AL'
+2026-09-30 12:54:51,431 WARNING maps_url_scraper.worker24 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Electrical repair shop in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Electrical+repair+shop+in+McMullen%2C+AL&pb=%211sElectrical%2Brepair
+2026-09-30 12:54:51,589 DEBUG maps_url_scraper.worker19 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electronic engineering service in McMullen, AL'
+2026-09-30 12:54:54,099 WARNING maps_url_scraper.breaker | CIRCUIT BREAKER OPEN: 100% of last pages blocked - pausing all workers for 180s
+2026-09-30 12:54:54,099 WARNING maps_url_scraper.worker23 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Electrical engineer in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Electrical+engineer+in+McMullen%2C+AL&pb=%211sElectrical%2Bengineer%
+2026-09-30 12:54:54,987 DEBUG maps_url_scraper.worker16 | ok page=2 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric motor scooter dealer in McMullen, AL'
+2026-09-30 12:54:55,160 DEBUG maps_url_scraper.worker12 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electrician in McMullen, AL'
+2026-09-30 12:54:56,188 DEBUG maps_url_scraper.worker9 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electronics accessories wholesaler in McMullen, AL'
+2026-09-30 12:54:56,302 DEBUG maps_url_scraper.worker20 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electrolysis hair removal service in McMullen, AL'
+2026-09-30 12:54:56,442 DEBUG maps_url_scraper.worker4 | ok page=2 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Elder law attorney in McMullen, AL'
+2026-09-30 12:54:56,528 DEBUG maps_url_scraper.worker6 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric motor repair shop in McMullen, AL'
+2026-09-30 12:54:58,746 DEBUG maps_url_scraper.worker10 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electrical supply store in McMullen, AL'
+2026-09-30 12:54:59,580 DEBUG maps_url_scraper.worker15 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric utility company in McMullen, AL'
+2026-09-30 12:55:00,088 INFO maps_url_scraper.engine | progress 194/302 assigned | 1178 queries done | +2430 places | +0 urls | 577 reqs (0.2/s) | block rate 22%
+2026-09-30 12:55:03,439 DEBUG maps_url_scraper.worker1 | ok page=0 attempt=2 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electrical installation service in McMullen, AL'
+2026-09-30 12:55:15,089 INFO maps_url_scraper.engine | progress 194/302 assigned | 1178 queries done | +2434 places | +0 urls | 578 reqs (0.2/s) | block rate 22%
+2026-09-30 12:55:17,535 DEBUG maps_url_scraper.worker5 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electrical substation in McMullen, AL'
+2026-09-30 12:55:17,617 DEBUG maps_url_scraper.worker13 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electronics engineer in McMullen, AL'
+2026-09-30 12:55:19,091 DEBUG maps_url_scraper.worker17 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric motor store in McMullen, AL'
+2026-09-30 12:55:19,091 INFO maps_url_scraper.worker17 |  13 places | Electric motor store in McMullen, AL
+2026-09-30 12:55:20,335 DEBUG maps_url_scraper.worker11 | ok page=1 attempt=2 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electric motor vehicle dealer in McMullen, AL'
+2026-09-30 12:55:20,335 INFO maps_url_scraper.worker11 |  11 places | Electric motor vehicle dealer in McMullen, AL
+2026-09-30 12:55:21,743 DEBUG maps_url_scraper.worker22 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electrical products wholesaler in McMullen, AL'
+2026-09-30 12:55:25,016 DEBUG maps_url_scraper.worker19 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electronic engineering service in McMullen, AL'
+2026-09-30 12:55:25,016 INFO maps_url_scraper.worker19 |  14 places | Electronic engineering service in McMullen, AL
+2026-09-30 12:55:30,089 INFO maps_url_scraper.engine | progress 197/302 assigned | 1181 queries done | +2439 places | +0 urls | 584 reqs (0.2/s) | block rate 22%
+2026-09-30 12:55:32,358 DEBUG maps_url_scraper.http | transport error (attempt 1): Timeout: Failed to perform, curl: (28) Operation timed out after 45002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-30 12:55:45,089 INFO maps_url_scraper.engine | progress 197/302 assigned | 1181 queries done | +2439 places | +0 urls | 584 reqs (0.2/s) | block rate 22%
+2026-09-30 12:56:00,090 INFO maps_url_scraper.engine | progress 197/302 assigned | 1181 queries done | +2439 places | +0 urls | 584 reqs (0.2/s) | block rate 22%
+2026-09-30 12:56:03,183 DEBUG maps_url_scraper.worker21 | ok page=2 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Electrical equipment supplier in McMullen, AL'
+2026-09-30 12:56:03,183 INFO maps_url_scraper.worker21 |  28 places | Electrical equipment supplier in McMullen, AL
+2026-09-30 12:56:15,090 INFO maps_url_scraper.engine | progress 198/302 assigned | 1182 queries done | +2439 places | +0 urls | 585 reqs (0.2/s) | block rate 22%
+2026-09-30 12:56:30,090 INFO maps_url_scraper.engine | progress 198/302 assigned | 1182 queries done | +2439 places | +0 urls | 585 reqs (0.2/s) | block rate 22%
