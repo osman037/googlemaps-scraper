@@ -3760,3 +3760,48 @@
 2026-09-30 05:03:46,290 INFO maps_url_scraper.engine | progress 67/300 assigned | 641 queries done | +416 places | +0 urls | 122 reqs (0.1/s) | block rate 20%
 2026-09-30 05:04:01,291 INFO maps_url_scraper.engine | progress 67/300 assigned | 641 queries done | +416 places | +0 urls | 122 reqs (0.1/s) | block rate 20%
 2026-09-30 05:04:09,287 DEBUG maps_url_scraper.worker8 | ok page=0 attempt=1 proxy=direct q='Cheese shop in McMullen, AL'
+2026-09-30 05:04:11,822 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-30 05:04:13,071 DEBUG maps_url_scraper.worker10 | ok page=0 attempt=1 proxy=direct q='Cheesesteak restaurant in McMullen, AL'
+2026-09-30 05:04:14,430 DEBUG maps_url_scraper.worker7 | ok page=0 attempt=1 proxy=direct q='Chemical engineering service in McMullen, AL'
+2026-09-30 05:04:16,134 DEBUG maps_url_scraper.worker9 | ok page=0 attempt=1 proxy=direct q='Chemical exporter in McMullen, AL'
+2026-09-30 05:04:16,291 INFO maps_url_scraper.engine | progress 67/300 assigned | 641 queries done | +432 places | +0 urls | 126 reqs (0.1/s) | block rate 19%
+2026-09-30 05:04:31,291 INFO maps_url_scraper.engine | progress 67/300 assigned | 641 queries done | +432 places | +0 urls | 126 reqs (0.1/s) | block rate 19%
+2026-09-30 05:04:46,292 INFO maps_url_scraper.engine | progress 67/300 assigned | 641 queries done | +432 places | +0 urls | 126 reqs (0.1/s) | block rate 19%
+2026-09-30 05:05:01,292 INFO maps_url_scraper.engine | progress 67/300 assigned | 641 queries done | +432 places | +0 urls | 126 reqs (0.1/s) | block rate 19%
+2026-09-30 05:05:08,113 DEBUG maps_url_scraper.worker5 | ok page=1 attempt=1 proxy=direct q='Champon noodle restaurant in McMullen, AL'
+2026-09-30 05:05:08,114 INFO maps_url_scraper.worker5 |   1 places | Champon noodle restaurant in McMullen, AL
+2026-09-30 05:05:10,936 DEBUG maps_url_scraper.worker4 | ok page=0 attempt=1 proxy=direct q='Chemical manufacturer in McMullen, AL'
+2026-09-30 05:05:12,885 DEBUG maps_url_scraper.worker19 | ok page=0 attempt=1 proxy=direct q='Chemical plant in McMullen, AL'
+2026-09-30 05:05:14,451 DEBUG maps_url_scraper.worker16 | ok page=1 attempt=1 proxy=direct q='Chapel in McMullen, AL'
+2026-09-30 05:05:14,451 INFO maps_url_scraper.worker16 |   5 places | Chapel in McMullen, AL
+2026-09-30 05:05:16,292 INFO maps_url_scraper.engine | progress 69/300 assigned | 643 queries done | +437 places | +0 urls | 130 reqs (0.1/s) | block rate 18%
+2026-09-30 05:05:16,334 DEBUG maps_url_scraper.worker17 | ok page=0 attempt=1 proxy=direct q='Chemical wholesaler in McMullen, AL'
+2026-09-30 05:05:20,415 DEBUG maps_url_scraper.worker1 | ok page=5 attempt=1 proxy=direct q='Car battery store in McMullen, AL'
+2026-09-30 05:05:20,415 INFO maps_url_scraper.worker1 |  95 places | Car battery store in McMullen, AL
+2026-09-30 05:05:21,762 DEBUG maps_url_scraper.worker15 | ok page=1 attempt=1 proxy=direct q='Charcuterie in McMullen, AL'
+2026-09-30 05:05:21,763 INFO maps_url_scraper.worker15 |   1 places | Charcuterie in McMullen, AL
+2026-09-30 05:05:23,723 DEBUG maps_url_scraper.worker2 | ok page=3 attempt=1 proxy=direct q='Cell phone charging station in McMullen, AL'
+2026-09-30 05:05:31,293 INFO maps_url_scraper.engine | progress 71/300 assigned | 645 queries done | +455 places | +0 urls | 134 reqs (0.1/s) | block rate 18%
+2026-09-30 05:05:46,293 INFO maps_url_scraper.engine | progress 71/300 assigned | 645 queries done | +455 places | +0 urls | 134 reqs (0.1/s) | block rate 18%
+2026-09-30 05:06:01,294 INFO maps_url_scraper.engine | progress 71/300 assigned | 645 queries done | +455 places | +0 urls | 134 reqs (0.1/s) | block rate 18%
+2026-09-30 05:06:16,294 INFO maps_url_scraper.engine | progress 71/300 assigned | 645 queries done | +455 places | +0 urls | 134 reqs (0.1/s) | block rate 18%
+2026-09-30 05:06:31,294 INFO maps_url_scraper.engine | progress 71/300 assigned | 645 queries done | +455 places | +0 urls | 134 reqs (0.1/s) | block rate 18%
+2026-09-30 05:06:46,295 INFO maps_url_scraper.engine | progress 71/300 assigned | 645 queries done | +455 places | +0 urls | 134 reqs (0.1/s) | block rate 18%
+2026-09-30 05:07:01,295 INFO maps_url_scraper.engine | progress 71/300 assigned | 645 queries done | +455 places | +0 urls | 134 reqs (0.1/s) | block rate 18%
+2026-09-30 05:07:04,199 WARNING maps_url_scraper.worker11 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Chauffeur service in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Chauffeur+service+in+McMullen%2C+AL&pb=%211sChauffeur%2Bservice%2Bin
+2026-09-30 05:07:04,757 WARNING maps_url_scraper.worker16 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Chevrolet dealer in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Chevrolet+dealer+in+McMullen%2C+AL&pb=%211sChevrolet%2Bdealer%2Bin%2
+2026-09-30 05:07:06,074 WARNING maps_url_scraper.worker3 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Cemetery in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Cemetery+in+McMullen%2C+AL&pb=%211sCemetery%2Bin%2BMcMullen%252C%2BA
+2026-09-30 05:07:06,954 WARNING maps_url_scraper.worker20 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Chesapeake restaurant in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Chesapeake+restaurant+in+McMullen%2C+AL&pb=%211sChesapeake%2Brestaur
+2026-09-30 05:07:07,269 WARNING maps_url_scraper.worker19 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Chemical plant in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Chemical+plant+in+McMullen%2C+AL&pb=%211sChemical%2Bplant%2Bin%2BMcM
+2026-09-30 05:07:07,712 WARNING maps_url_scraper.worker10 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Cheesesteak restaurant in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Cheesesteak+restaurant+in+McMullen%2C+AL&pb=%211sCheesesteak%2Bresta
+2026-09-30 05:07:08,077 WARNING maps_url_scraper.worker15 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Chicken shop in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Chicken+shop+in+McMullen%2C+AL&pb=%211sChicken%2Bshop%2Bin%2BMcMulle
+2026-09-30 05:07:09,479 WARNING maps_url_scraper.breaker | CIRCUIT BREAKER OPEN: 100% of last pages blocked - pausing all workers for 180s
+2026-09-30 05:07:09,479 WARNING maps_url_scraper.worker24 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Chemistry lab in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Chemistry+lab+in+McMullen%2C+AL&pb=%211sChemistry%2Blab%2Bin%2BMcMul
+2026-09-30 05:07:16,296 INFO maps_url_scraper.engine | progress 71/300 assigned | 645 queries done | +455 places | +0 urls | 142 reqs (0.1/s) | block rate 23%
+2026-09-30 05:07:31,296 INFO maps_url_scraper.engine | progress 71/300 assigned | 645 queries done | +455 places | +0 urls | 142 reqs (0.1/s) | block rate 23%
+2026-09-30 05:07:46,296 INFO maps_url_scraper.engine | progress 71/300 assigned | 645 queries done | +455 places | +0 urls | 142 reqs (0.1/s) | block rate 23%
+2026-09-30 05:08:01,297 INFO maps_url_scraper.engine | progress 71/300 assigned | 645 queries done | +455 places | +0 urls | 142 reqs (0.1/s) | block rate 23%
+2026-09-30 05:08:16,297 INFO maps_url_scraper.engine | progress 71/300 assigned | 645 queries done | +455 places | +0 urls | 142 reqs (0.1/s) | block rate 23%
+2026-09-30 05:08:31,298 INFO maps_url_scraper.engine | progress 71/300 assigned | 645 queries done | +455 places | +0 urls | 142 reqs (0.1/s) | block rate 23%
+2026-09-30 05:08:46,298 INFO maps_url_scraper.engine | progress 71/300 assigned | 645 queries done | +455 places | +0 urls | 142 reqs (0.1/s) | block rate 23%
+2026-09-30 05:09:01,298 INFO maps_url_scraper.engine | progress 71/300 assigned | 645 queries done | +455 places | +0 urls | 142 reqs (0.1/s) | block rate 23%
