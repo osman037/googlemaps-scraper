@@ -5198,3 +5198,33 @@
 2026-09-30 07:24:31,522 INFO maps_url_scraper.engine | progress 301/301 assigned | 891 queries done | +1576 places | +0 urls | 705 reqs (0.1/s) | block rate 19%
 2026-09-30 07:24:46,522 INFO maps_url_scraper.engine | progress 301/301 assigned | 891 queries done | +1576 places | +0 urls | 705 reqs (0.1/s) | block rate 19%
 2026-09-30 07:25:01,522 INFO maps_url_scraper.engine | progress 301/301 assigned | 891 queries done | +1576 places | +0 urls | 705 reqs (0.1/s) | block rate 19%
+2026-09-30 07:25:05,156 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-30 07:25:14,164 WARNING maps_url_scraper.worker4 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Cosmetics wholesaler in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Cosmetics+wholesaler+in+McMullen%2C+AL&pb=%211sCosmetics%2Bwholesale
+2026-09-30 07:25:15,363 WARNING maps_url_scraper.worker22 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Cosmetic dentist in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Cosmetic+dentist+in+McMullen%2C+AL&pb=%211sCosmetic%2Bdentist%2Bin%2
+2026-09-30 07:25:16,523 INFO maps_url_scraper.engine | progress 301/301 assigned | 891 queries done | +1576 places | +0 urls | 707 reqs (0.1/s) | block rate 19%
+2026-09-30 07:25:31,523 INFO maps_url_scraper.engine | progress 301/301 assigned | 891 queries done | +1576 places | +0 urls | 707 reqs (0.1/s) | block rate 19%
+2026-09-30 07:25:46,524 INFO maps_url_scraper.engine | progress 301/301 assigned | 891 queries done | +1576 places | +0 urls | 707 reqs (0.1/s) | block rate 19%
+2026-09-30 07:26:01,524 INFO maps_url_scraper.engine | progress 301/301 assigned | 891 queries done | +1576 places | +0 urls | 707 reqs (0.1/s) | block rate 19%
+2026-09-30 07:26:16,524 INFO maps_url_scraper.engine | progress 301/301 assigned | 891 queries done | +1576 places | +0 urls | 707 reqs (0.1/s) | block rate 19%
+2026-09-30 07:26:31,525 INFO maps_url_scraper.engine | progress 301/301 assigned | 891 queries done | +1576 places | +0 urls | 707 reqs (0.1/s) | block rate 19%
+2026-09-30 07:26:46,525 INFO maps_url_scraper.engine | progress 301/301 assigned | 891 queries done | +1576 places | +0 urls | 707 reqs (0.1/s) | block rate 19%
+2026-09-30 07:27:01,526 INFO maps_url_scraper.engine | progress 301/301 assigned | 891 queries done | +1576 places | +0 urls | 707 reqs (0.1/s) | block rate 19%
+2026-09-30 07:27:16,526 INFO maps_url_scraper.engine | progress 301/301 assigned | 891 queries done | +1576 places | +0 urls | 707 reqs (0.1/s) | block rate 19%
+2026-09-30 07:27:31,527 INFO maps_url_scraper.engine | progress 301/301 assigned | 891 queries done | +1576 places | +0 urls | 707 reqs (0.1/s) | block rate 19%
+2026-09-30 07:27:46,527 INFO maps_url_scraper.engine | progress 301/301 assigned | 891 queries done | +1576 places | +0 urls | 707 reqs (0.1/s) | block rate 19%
+2026-09-30 07:28:01,528 INFO maps_url_scraper.engine | progress 301/301 assigned | 891 queries done | +1576 places | +0 urls | 707 reqs (0.1/s) | block rate 19%
+2026-09-30 07:28:15,131 WARNING maps_url_scraper.worker2 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Cost accounting service in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Cost+accounting+service+in+McMullen%2C+AL&pb=%211sCost%2Baccounting%
+2026-09-30 07:28:16,528 INFO maps_url_scraper.engine | progress 301/301 assigned | 891 queries done | +1576 places | +0 urls | 708 reqs (0.1/s) | block rate 19%
+2026-09-30 07:28:22,886 DEBUG maps_url_scraper.worker19 | ok page=1 attempt=1 proxy=direct q='Cosmetics store in McMullen, AL'
+2026-09-30 07:28:22,887 INFO maps_url_scraper.worker19 |  17 places | Cosmetics store in McMullen, AL
+2026-09-30 07:28:26,965 DEBUG maps_url_scraper.worker3 | ok page=1 attempt=1 proxy=direct q='Cosmetic surgeon in McMullen, AL'
+2026-09-30 07:28:26,966 INFO maps_url_scraper.worker3 |  18 places | Cosmetic surgeon in McMullen, AL
+2026-09-30 07:28:31,528 INFO maps_url_scraper.engine | progress 301/301 assigned | 893 queries done | +1576 places | +0 urls | 710 reqs (0.1/s) | block rate 19%
+2026-09-30 07:28:46,529 INFO maps_url_scraper.engine | progress 301/301 assigned | 893 queries done | +1576 places | +0 urls | 710 reqs (0.1/s) | block rate 19%
+2026-09-30 07:29:01,529 INFO maps_url_scraper.engine | progress 301/301 assigned | 893 queries done | +1576 places | +0 urls | 710 reqs (0.1/s) | block rate 19%
+2026-09-30 07:29:16,530 INFO maps_url_scraper.engine | progress 301/301 assigned | 893 queries done | +1576 places | +0 urls | 710 reqs (0.1/s) | block rate 19%
+2026-09-30 07:29:16,648 DEBUG maps_url_scraper.worker11 | ok page=1 attempt=2 proxy=direct q='Cosmetics industry in McMullen, AL'
+2026-09-30 07:29:16,649 INFO maps_url_scraper.worker11 |   1 places | Cosmetics industry in McMullen, AL
+2026-09-30 07:29:31,530 INFO maps_url_scraper.engine | progress 301/301 assigned | 894 queries done | +1576 places | +0 urls | 711 reqs (0.1/s) | block rate 19%
+2026-09-30 07:29:46,530 INFO maps_url_scraper.engine | progress 301/301 assigned | 894 queries done | +1576 places | +0 urls | 711 reqs (0.1/s) | block rate 19%
+2026-09-30 07:30:01,531 INFO maps_url_scraper.engine | progress 301/301 assigned | 894 queries done | +1576 places | +0 urls | 711 reqs (0.1/s) | block rate 19%
