@@ -4695,3 +4695,63 @@
 2026-09-30 06:39:01,446 INFO maps_url_scraper.engine | progress 217/301 assigned | 790 queries done | +1057 places | +0 urls | 496 reqs (0.1/s) | block rate 23%
 2026-09-30 06:39:16,446 INFO maps_url_scraper.engine | progress 217/301 assigned | 790 queries done | +1057 places | +0 urls | 496 reqs (0.1/s) | block rate 23%
 2026-09-30 06:39:31,447 INFO maps_url_scraper.engine | progress 217/301 assigned | 790 queries done | +1057 places | +0 urls | 496 reqs (0.1/s) | block rate 23%
+2026-09-30 06:39:46,447 INFO maps_url_scraper.engine | progress 217/301 assigned | 790 queries done | +1057 places | +0 urls | 496 reqs (0.1/s) | block rate 23%
+2026-09-30 06:39:46,586 WARNING maps_url_scraper.engine | periodic rebase failed - retrying next interval
+2026-09-30 06:40:01,448 INFO maps_url_scraper.engine | progress 217/301 assigned | 790 queries done | +1057 places | +0 urls | 496 reqs (0.1/s) | block rate 23%
+2026-09-30 06:40:16,448 INFO maps_url_scraper.engine | progress 217/301 assigned | 790 queries done | +1057 places | +0 urls | 496 reqs (0.1/s) | block rate 23%
+2026-09-30 06:40:17,126 DEBUG maps_url_scraper.worker20 | ok page=0 attempt=1 proxy=direct q='Comic cafe in McMullen, AL'
+2026-09-30 06:40:17,240 INFO maps_url_scraper.worker20 |   0 places | Comic cafe in McMullen, AL
+2026-09-30 06:40:19,919 DEBUG maps_url_scraper.worker16 | ok page=1 attempt=1 proxy=direct q='Colombian restaurant in McMullen, AL'
+2026-09-30 06:40:19,920 INFO maps_url_scraper.worker16 |   2 places | Colombian restaurant in McMullen, AL
+2026-09-30 06:40:21,482 DEBUG maps_url_scraper.worker2 | ok page=0 attempt=1 proxy=direct q='Commercial agent in McMullen, AL'
+2026-09-30 06:40:23,412 DEBUG maps_url_scraper.worker18 | ok page=0 attempt=1 proxy=direct q='Commercial photographer in McMullen, AL'
+2026-09-30 06:40:25,750 DEBUG maps_url_scraper.worker13 | ok page=0 attempt=1 proxy=direct q='Commercial printer in McMullen, AL'
+2026-09-30 06:40:27,367 DEBUG maps_url_scraper.worker21 | ok page=1 attempt=1 proxy=direct q='Coffee stand in McMullen, AL'
+2026-09-30 06:40:27,368 INFO maps_url_scraper.worker21 |   2 places | Coffee stand in McMullen, AL
+2026-09-30 06:40:29,157 DEBUG maps_url_scraper.worker9 | ok page=0 attempt=1 proxy=direct q='Commercial real estate agency in McMullen, AL'
+2026-09-30 06:40:30,652 DEBUG maps_url_scraper.worker10 | ok page=0 attempt=1 proxy=direct q='Commercial real estate inspector in McMullen, AL'
+2026-09-30 06:40:31,448 INFO maps_url_scraper.engine | progress 220/301 assigned | 793 queries done | +1073 places | +0 urls | 504 reqs (0.1/s) | block rate 23%
+2026-09-30 06:40:32,019 DEBUG maps_url_scraper.worker17 | ok page=0 attempt=1 proxy=direct q='Commercial refrigerator supplier in McMullen, AL'
+2026-09-30 06:40:33,880 DEBUG maps_url_scraper.worker6 | ok page=1 attempt=1 proxy=direct q='Coin operated laundry equipment supplier in McMullen, AL'
+2026-09-30 06:40:33,880 INFO maps_url_scraper.worker6 |  10 places | Coin operated laundry equipment supplier in McMullen, AL
+2026-09-30 06:40:35,451 DEBUG maps_url_scraper.worker1 | ok page=0 attempt=1 proxy=direct q='Commissioner for Oaths in McMullen, AL'
+2026-09-30 06:40:35,451 INFO maps_url_scraper.worker1 |   0 places | Commissioner for Oaths in McMullen, AL
+2026-09-30 06:40:37,265 DEBUG maps_url_scraper.worker19 | ok page=1 attempt=1 proxy=direct q='Coffee roasters in McMullen, AL'
+2026-09-30 06:40:37,265 INFO maps_url_scraper.worker19 |   2 places | Coffee roasters in McMullen, AL
+2026-09-30 06:40:39,202 DEBUG maps_url_scraper.worker24 | ok page=2 attempt=1 proxy=direct q='Coffee shop in McMullen, AL'
+2026-09-30 06:40:39,203 INFO maps_url_scraper.worker24 |  21 places | Coffee shop in McMullen, AL
+2026-09-30 06:40:40,448 DEBUG maps_url_scraper.worker5 | ok page=1 attempt=1 proxy=direct q='College of agriculture in McMullen, AL'
+2026-09-30 06:40:40,449 INFO maps_url_scraper.worker5 |   1 places | College of agriculture in McMullen, AL
+2026-09-30 06:40:46,449 INFO maps_url_scraper.engine | progress 225/301 assigned | 798 queries done | +1074 places | +0 urls | 510 reqs (0.1/s) | block rate 23%
+2026-09-30 06:41:01,449 INFO maps_url_scraper.engine | progress 225/301 assigned | 798 queries done | +1074 places | +0 urls | 510 reqs (0.1/s) | block rate 23%
+2026-09-30 06:41:14,749 DEBUG maps_url_scraper.worker8 | ok page=0 attempt=1 proxy=direct q='Communications tower in McMullen, AL'
+2026-09-30 06:41:14,749 INFO maps_url_scraper.worker8 |   0 places | Communications tower in McMullen, AL
+2026-09-30 06:41:16,450 INFO maps_url_scraper.engine | progress 226/301 assigned | 799 queries done | +1074 places | +0 urls | 511 reqs (0.1/s) | block rate 23%
+2026-09-30 06:41:17,750 DEBUG maps_url_scraper.worker15 | ok page=1 attempt=1 proxy=direct q='Comedy club in McMullen, AL'
+2026-09-30 06:41:17,750 INFO maps_url_scraper.worker15 |  11 places | Comedy club in McMullen, AL
+2026-09-30 06:41:19,854 DEBUG maps_url_scraper.worker12 | ok page=0 attempt=1 proxy=direct q='Community center in McMullen, AL'
+2026-09-30 06:41:21,585 DEBUG maps_url_scraper.worker11 | ok page=1 attempt=1 proxy=direct q='Comic book store in McMullen, AL'
+2026-09-30 06:41:21,586 INFO maps_url_scraper.worker11 |  12 places | Comic book store in McMullen, AL
+2026-09-30 06:41:22,853 DEBUG maps_url_scraper.worker23 | ok page=0 attempt=1 proxy=direct q='Community college in McMullen, AL'
+2026-09-30 06:41:23,903 DEBUG maps_url_scraper.worker4 | ok page=0 attempt=1 proxy=direct q='Community garden in McMullen, AL'
+2026-09-30 06:41:25,228 DEBUG maps_url_scraper.worker22 | ok page=0 attempt=1 proxy=direct q='Community health center in McMullen, AL'
+2026-09-30 06:41:25,228 INFO maps_url_scraper.worker22 |   0 places | Community health center in McMullen, AL
+2026-09-30 06:41:31,450 INFO maps_url_scraper.engine | progress 229/301 assigned | 802 queries done | +1097 places | +0 urls | 517 reqs (0.1/s) | block rate 22%
+2026-09-30 06:41:46,451 INFO maps_url_scraper.engine | progress 229/301 assigned | 802 queries done | +1097 places | +0 urls | 517 reqs (0.1/s) | block rate 22%
+2026-09-30 06:42:01,451 INFO maps_url_scraper.engine | progress 229/301 assigned | 802 queries done | +1097 places | +0 urls | 517 reqs (0.1/s) | block rate 22%
+2026-09-30 06:42:16,451 INFO maps_url_scraper.engine | progress 229/301 assigned | 802 queries done | +1097 places | +0 urls | 517 reqs (0.1/s) | block rate 22%
+2026-09-30 06:42:31,452 INFO maps_url_scraper.engine | progress 229/301 assigned | 802 queries done | +1097 places | +0 urls | 517 reqs (0.1/s) | block rate 22%
+2026-09-30 06:42:46,452 INFO maps_url_scraper.engine | progress 229/301 assigned | 802 queries done | +1097 places | +0 urls | 517 reqs (0.1/s) | block rate 22%
+2026-09-30 06:43:01,453 INFO maps_url_scraper.engine | progress 229/301 assigned | 802 queries done | +1097 places | +0 urls | 517 reqs (0.1/s) | block rate 22%
+2026-09-30 06:43:16,453 INFO maps_url_scraper.engine | progress 229/301 assigned | 802 queries done | +1097 places | +0 urls | 517 reqs (0.1/s) | block rate 22%
+2026-09-30 06:43:19,396 DEBUG maps_url_scraper.worker3 | ok page=0 attempt=1 proxy=direct q='Community school in McMullen, AL'
+2026-09-30 06:43:20,814 DEBUG maps_url_scraper.worker7 | ok page=1 attempt=1 proxy=direct q='Coin dealer in McMullen, AL'
+2026-09-30 06:43:20,814 INFO maps_url_scraper.worker7 |  14 places | Coin dealer in McMullen, AL
+2026-09-30 06:43:22,573 DEBUG maps_url_scraper.worker14 | ok page=0 attempt=1 proxy=direct q='Company registry in McMullen, AL'
+2026-09-30 06:43:22,573 INFO maps_url_scraper.worker14 |   0 places | Company registry in McMullen, AL
+2026-09-30 06:43:31,454 INFO maps_url_scraper.engine | progress 231/301 assigned | 804 queries done | +1107 places | +0 urls | 520 reqs (0.1/s) | block rate 22%
+2026-09-30 06:43:46,454 INFO maps_url_scraper.engine | progress 231/301 assigned | 804 queries done | +1107 places | +0 urls | 520 reqs (0.1/s) | block rate 22%
+2026-09-30 06:44:01,455 INFO maps_url_scraper.engine | progress 231/301 assigned | 804 queries done | +1107 places | +0 urls | 520 reqs (0.1/s) | block rate 22%
+2026-09-30 06:44:16,455 INFO maps_url_scraper.engine | progress 231/301 assigned | 804 queries done | +1107 places | +0 urls | 520 reqs (0.1/s) | block rate 22%
+2026-09-30 06:44:31,455 INFO maps_url_scraper.engine | progress 231/301 assigned | 804 queries done | +1107 places | +0 urls | 520 reqs (0.1/s) | block rate 22%
+2026-09-30 06:44:46,456 INFO maps_url_scraper.engine | progress 231/301 assigned | 804 queries done | +1107 places | +0 urls | 520 reqs (0.1/s) | block rate 22%
