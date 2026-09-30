@@ -2930,3 +2930,61 @@
 2026-09-29 23:55:31,041 INFO maps_url_scraper.engine | progress 227/300 assigned | 502 queries done | +1562 places | +0 urls | 483 reqs (0.1/s) | block rate 13%
 2026-09-29 23:55:46,042 INFO maps_url_scraper.engine | progress 227/300 assigned | 502 queries done | +1562 places | +0 urls | 483 reqs (0.1/s) | block rate 13%
 2026-09-29 23:56:01,042 INFO maps_url_scraper.engine | progress 227/300 assigned | 502 queries done | +1562 places | +0 urls | 483 reqs (0.1/s) | block rate 13%
+2026-09-29 23:56:09,899 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-29 23:56:16,043 INFO maps_url_scraper.engine | progress 227/300 assigned | 502 queries done | +1562 places | +0 urls | 483 reqs (0.1/s) | block rate 13%
+2026-09-29 23:56:31,043 INFO maps_url_scraper.engine | progress 227/300 assigned | 502 queries done | +1562 places | +0 urls | 483 reqs (0.1/s) | block rate 13%
+2026-09-29 23:56:43,006 DEBUG maps_url_scraper.worker17 | ok page=1 attempt=1 proxy=direct q='Business banking service in McMullen, AL'
+2026-09-29 23:56:43,007 INFO maps_url_scraper.worker17 |   1 places | Business banking service in McMullen, AL
+2026-09-29 23:56:44,020 DEBUG maps_url_scraper.worker4 | ok page=0 attempt=1 proxy=direct q='Business park in McMullen, AL'
+2026-09-29 23:56:44,021 INFO maps_url_scraper.worker4 |   0 places | Business park in McMullen, AL
+2026-09-29 23:56:45,772 DEBUG maps_url_scraper.worker15 | ok page=1 attempt=1 proxy=direct q='Business broker in McMullen, AL'
+2026-09-29 23:56:45,772 INFO maps_url_scraper.worker15 |   5 places | Business broker in McMullen, AL
+2026-09-29 23:56:46,043 INFO maps_url_scraper.engine | progress 230/300 assigned | 505 queries done | +1562 places | +0 urls | 486 reqs (0.1/s) | block rate 13%
+2026-09-29 23:56:47,600 DEBUG maps_url_scraper.worker8 | ok page=0 attempt=2 proxy=direct q='Bus charter in McMullen, AL'
+2026-09-29 23:56:48,997 DEBUG maps_url_scraper.worker10 | ok page=0 attempt=1 proxy=direct q='Business school in McMullen, AL'
+2026-09-29 23:56:50,647 DEBUG maps_url_scraper.worker9 | ok page=1 attempt=2 proxy=direct q='Building inspector in McMullen, AL'
+2026-09-29 23:56:50,648 INFO maps_url_scraper.worker9 |  16 places | Building inspector in McMullen, AL
+2026-09-29 23:56:51,968 DEBUG maps_url_scraper.worker6 | ok page=0 attempt=1 proxy=direct q='Business to business service in McMullen, AL'
+2026-09-29 23:56:53,267 DEBUG maps_url_scraper.worker23 | ok page=0 attempt=2 proxy=direct q='Business attorney in McMullen, AL'
+2026-09-29 23:56:54,562 DEBUG maps_url_scraper.worker2 | ok page=0 attempt=1 proxy=direct q='Butane gas supplier in McMullen, AL'
+2026-09-29 23:56:56,580 DEBUG maps_url_scraper.worker19 | ok page=0 attempt=1 proxy=direct q='Butcher shop in McMullen, AL'
+2026-09-29 23:56:58,262 DEBUG maps_url_scraper.worker20 | ok page=4 attempt=1 proxy=direct q='Breakfast restaurant in McMullen, AL'
+2026-09-29 23:56:59,040 DEBUG maps_url_scraper.worker22 | ok page=0 attempt=1 proxy=direct q='Butcher shop deli in McMullen, AL'
+2026-09-29 23:57:00,744 DEBUG maps_url_scraper.worker11 | ok page=2 attempt=1 proxy=direct q='Burrito restaurant in McMullen, AL'
+2026-09-29 23:57:00,744 INFO maps_url_scraper.worker11 |  33 places | Burrito restaurant in McMullen, AL
+2026-09-29 23:57:01,044 INFO maps_url_scraper.engine | progress 232/300 assigned | 507 queries done | +1600 places | +0 urls | 496 reqs (0.1/s) | block rate 12%
+2026-09-29 23:57:02,403 DEBUG maps_url_scraper.worker18 | ok page=0 attempt=1 proxy=direct q='Butsudan store in McMullen, AL'
+2026-09-29 23:57:02,403 INFO maps_url_scraper.worker18 |   0 places | Butsudan store in McMullen, AL
+2026-09-29 23:57:03,737 DEBUG maps_url_scraper.worker12 | ok page=2 attempt=1 proxy=direct q='Building materials store in McMullen, AL'
+2026-09-29 23:57:03,737 INFO maps_url_scraper.worker12 |  23 places | Building materials store in McMullen, AL
+2026-09-29 23:57:04,788 DEBUG maps_url_scraper.worker21 | ok page=1 attempt=1 proxy=direct q='Business administration service in McMullen, AL'
+2026-09-29 23:57:04,789 INFO maps_url_scraper.worker21 |   2 places | Business administration service in McMullen, AL
+2026-09-29 23:57:06,310 DEBUG maps_url_scraper.worker24 | ok page=1 attempt=1 proxy=direct q='Bus depot in McMullen, AL'
+2026-09-29 23:57:06,310 INFO maps_url_scraper.worker24 |   3 places | Bus depot in McMullen, AL
+2026-09-29 23:57:07,761 DEBUG maps_url_scraper.worker13 | ok page=1 attempt=1 proxy=direct q='Bus tour agency in McMullen, AL'
+2026-09-29 23:57:07,762 INFO maps_url_scraper.worker13 |   3 places | Bus tour agency in McMullen, AL
+2026-09-29 23:57:09,631 DEBUG maps_url_scraper.worker5 | ok page=1 attempt=1 proxy=direct q='Business development service in McMullen, AL'
+2026-09-29 23:57:09,632 INFO maps_url_scraper.worker5 |   1 places | Business development service in McMullen, AL
+2026-09-29 23:57:11,624 DEBUG maps_url_scraper.worker16 | ok page=0 attempt=1 proxy=direct q='Cabaret club in McMullen, AL'
+2026-09-29 23:57:13,072 DEBUG maps_url_scraper.worker1 | ok page=1 attempt=1 proxy=direct q='Business management consultant in McMullen, AL'
+2026-09-29 23:57:13,073 INFO maps_url_scraper.worker1 |  10 places | Business management consultant in McMullen, AL
+2026-09-29 23:57:15,087 DEBUG maps_url_scraper.worker7 | ok page=1 attempt=1 proxy=direct q='Business networking company in McMullen, AL'
+2026-09-29 23:57:15,087 INFO maps_url_scraper.worker7 |   3 places | Business networking company in McMullen, AL
+2026-09-29 23:57:16,044 INFO maps_url_scraper.engine | progress 240/300 assigned | 515 queries done | +1600 places | +0 urls | 505 reqs (0.1/s) | block rate 12%
+2026-09-29 23:57:16,161 DEBUG maps_url_scraper.worker14 | ok page=0 attempt=1 proxy=direct q='Cabin rental agency in McMullen, AL'
+2026-09-29 23:57:31,044 INFO maps_url_scraper.engine | progress 240/300 assigned | 515 queries done | +1602 places | +0 urls | 506 reqs (0.1/s) | block rate 12%
+2026-09-29 23:57:46,045 INFO maps_url_scraper.engine | progress 240/300 assigned | 515 queries done | +1602 places | +0 urls | 506 reqs (0.1/s) | block rate 12%
+2026-09-29 23:58:01,045 INFO maps_url_scraper.engine | progress 240/300 assigned | 515 queries done | +1602 places | +0 urls | 506 reqs (0.1/s) | block rate 12%
+2026-09-29 23:58:16,046 INFO maps_url_scraper.engine | progress 240/300 assigned | 515 queries done | +1602 places | +0 urls | 506 reqs (0.1/s) | block rate 12%
+2026-09-29 23:58:31,046 INFO maps_url_scraper.engine | progress 240/300 assigned | 515 queries done | +1602 places | +0 urls | 506 reqs (0.1/s) | block rate 12%
+2026-09-29 23:58:42,635 DEBUG maps_url_scraper.worker3 | ok page=0 attempt=1 proxy=direct q='Cabinet maker in McMullen, AL'
+2026-09-29 23:58:46,046 INFO maps_url_scraper.engine | progress 240/300 assigned | 515 queries done | +1622 places | +0 urls | 507 reqs (0.1/s) | block rate 12%
+2026-09-29 23:59:01,047 INFO maps_url_scraper.engine | progress 240/300 assigned | 515 queries done | +1622 places | +0 urls | 507 reqs (0.1/s) | block rate 12%
+2026-09-29 23:59:16,047 INFO maps_url_scraper.engine | progress 240/300 assigned | 515 queries done | +1622 places | +0 urls | 507 reqs (0.1/s) | block rate 12%
+2026-09-29 23:59:31,047 INFO maps_url_scraper.engine | progress 240/300 assigned | 515 queries done | +1622 places | +0 urls | 507 reqs (0.1/s) | block rate 12%
+2026-09-29 23:59:46,048 INFO maps_url_scraper.engine | progress 240/300 assigned | 515 queries done | +1622 places | +0 urls | 507 reqs (0.1/s) | block rate 12%
+2026-09-30 00:00:01,048 INFO maps_url_scraper.engine | progress 240/300 assigned | 515 queries done | +1622 places | +0 urls | 507 reqs (0.1/s) | block rate 12%
+2026-09-30 00:00:16,048 INFO maps_url_scraper.engine | progress 240/300 assigned | 515 queries done | +1622 places | +0 urls | 507 reqs (0.1/s) | block rate 12%
+2026-09-30 00:00:31,049 INFO maps_url_scraper.engine | progress 240/300 assigned | 515 queries done | +1622 places | +0 urls | 507 reqs (0.1/s) | block rate 12%
+2026-09-30 00:00:46,049 INFO maps_url_scraper.engine | progress 240/300 assigned | 515 queries done | +1622 places | +0 urls | 507 reqs (0.1/s) | block rate 12%
+2026-09-30 00:01:01,050 INFO maps_url_scraper.engine | progress 240/300 assigned | 515 queries done | +1622 places | +0 urls | 507 reqs (0.1/s) | block rate 12%
