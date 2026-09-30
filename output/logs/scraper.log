@@ -5939,3 +5939,96 @@
 2026-09-30 12:16:15,034 INFO maps_url_scraper.engine | progress 53/300 assigned | 1039 queries done | +514 places | +0 urls | 137 reqs (0.2/s) | block rate 23%
 2026-09-30 12:16:16,294 DEBUG maps_url_scraper.worker12 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Dim sum restaurant in McMullen, AL'
 2026-09-30 12:16:16,295 INFO maps_url_scraper.worker12 |  16 places | Dim sum restaurant in McMullen, AL
+2026-09-30 12:16:18,978 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-30 12:16:24,884 DEBUG maps_url_scraper.worker16 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Dietitian in McMullen, AL'
+2026-09-30 12:16:30,035 INFO maps_url_scraper.engine | progress 54/300 assigned | 1040 queries done | +526 places | +0 urls | 139 reqs (0.2/s) | block rate 23%
+2026-09-30 12:16:34,853 DEBUG maps_url_scraper.http | transport error (attempt 1): Timeout: Failed to perform, curl: (28) Operation timed out after 45002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-30 12:16:45,035 INFO maps_url_scraper.engine | progress 54/300 assigned | 1040 queries done | +526 places | +0 urls | 139 reqs (0.2/s) | block rate 23%
+2026-09-30 12:17:00,035 INFO maps_url_scraper.engine | progress 54/300 assigned | 1040 queries done | +526 places | +0 urls | 139 reqs (0.2/s) | block rate 23%
+2026-09-30 12:17:08,335 DEBUG maps_url_scraper.worker18 | ok page=3 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Design engineer in McMullen, AL'
+2026-09-30 12:17:08,335 INFO maps_url_scraper.worker18 |  43 places | Design engineer in McMullen, AL
+2026-09-30 12:17:15,036 INFO maps_url_scraper.engine | progress 55/300 assigned | 1041 queries done | +526 places | +0 urls | 140 reqs (0.2/s) | block rate 23%
+2026-09-30 12:17:30,036 INFO maps_url_scraper.engine | progress 55/300 assigned | 1041 queries done | +526 places | +0 urls | 140 reqs (0.2/s) | block rate 23%
+2026-09-30 12:17:45,037 INFO maps_url_scraper.engine | progress 55/300 assigned | 1041 queries done | +526 places | +0 urls | 140 reqs (0.2/s) | block rate 23%
+2026-09-30 12:18:00,037 INFO maps_url_scraper.engine | progress 55/300 assigned | 1041 queries done | +526 places | +0 urls | 140 reqs (0.2/s) | block rate 23%
+2026-09-30 12:18:15,037 INFO maps_url_scraper.engine | progress 55/300 assigned | 1041 queries done | +526 places | +0 urls | 140 reqs (0.2/s) | block rate 23%
+2026-09-30 12:18:30,038 INFO maps_url_scraper.engine | progress 55/300 assigned | 1041 queries done | +526 places | +0 urls | 140 reqs (0.2/s) | block rate 23%
+2026-09-30 12:18:45,038 INFO maps_url_scraper.engine | progress 55/300 assigned | 1041 queries done | +526 places | +0 urls | 140 reqs (0.2/s) | block rate 23%
+2026-09-30 12:19:00,038 INFO maps_url_scraper.engine | progress 55/300 assigned | 1041 queries done | +526 places | +0 urls | 140 reqs (0.2/s) | block rate 23%
+2026-09-30 12:19:04,847 WARNING maps_url_scraper.worker9 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Digital printer in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Digital+printer+in+McMullen%2C+AL&pb=%211sDigital%2Bprinter%2Bin%2BM
+2026-09-30 12:19:04,855 WARNING maps_url_scraper.worker20 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 2/4) q='Diesel engine repair service in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Diesel+engine+repair+service+in+McMullen%2C+AL&pb=%211sDiesel%2Bengi
+2026-09-30 12:19:06,597 DEBUG maps_url_scraper.worker5 | ok page=3 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Disability equipment supplier in McMullen, AL'
+2026-09-30 12:19:06,857 DEBUG maps_url_scraper.worker4 | ok page=6 attempt=2 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Dental implants provider in McMullen, AL'
+2026-09-30 12:19:06,976 DEBUG maps_url_scraper.worker21 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Discount supermarket in McMullen, AL'
+2026-09-30 12:19:07,585 DEBUG maps_url_scraper.worker8 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Disco club in McMullen, AL'
+2026-09-30 12:19:08,556 DEBUG maps_url_scraper.worker18 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Distillery in McMullen, AL'
+2026-09-30 12:19:08,670 WARNING maps_url_scraper.worker21 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Discount supermarket in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Discount+supermarket+in+McMullen%2C+AL&pb=%211sDiscount%2Bsupermarke
+2026-09-30 12:19:10,384 DEBUG maps_url_scraper.worker11 | ok page=4 attempt=2 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Disc golf course in McMullen, AL'
+2026-09-30 12:19:10,828 DEBUG maps_url_scraper.worker4 | ok page=7 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Dental implants provider in McMullen, AL'
+2026-09-30 12:19:11,257 WARNING maps_url_scraper.worker20 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 3/4) q='Diesel engine repair service in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Diesel+engine+repair+service+in+McMullen%2C+AL&pb=%211sDiesel%2Bengi
+2026-09-30 12:19:13,803 DEBUG maps_url_scraper.worker12 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Distance learning center in McMullen, AL'
+2026-09-30 12:19:13,825 INFO maps_url_scraper.worker12 |   0 places | Distance learning center in McMullen, AL
+2026-09-30 12:19:15,039 INFO maps_url_scraper.engine | progress 56/300 assigned | 1042 queries done | +573 places | +0 urls | 152 reqs (0.2/s) | block rate 24%
+2026-09-30 12:19:16,290 DEBUG maps_url_scraper.worker4 | ok page=8 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Dental implants provider in McMullen, AL'
+2026-09-30 12:19:17,418 WARNING maps_url_scraper.worker20 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 4/4) q='Diesel engine repair service in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Diesel+engine+repair+service+in+McMullen%2C+AL&pb=%211sDiesel%2Bengi
+2026-09-30 12:19:17,496 WARNING maps_url_scraper.worker4 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Dental implants provider in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Dental+implants+provider+in+McMullen%2C+AL&pb=%211sDental%2Bimplants
+2026-09-30 12:19:21,711 WARNING maps_url_scraper.worker20 | query failed (attempt 1/3), requeued: Diesel engine repair service in McMullen, AL
+2026-09-30 12:19:26,287 DEBUG maps_url_scraper.worker13 | ok page=2 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Diner in McMullen, AL'
+2026-09-30 12:19:27,703 WARNING maps_url_scraper.worker13 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Diner in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Diner+in+McMullen%2C+AL&pb=%211sDiner%2Bin%2BMcMullen%252C%2BAL%217i
+2026-09-30 12:19:27,999 DEBUG maps_url_scraper.worker21 | ok page=1 attempt=2 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Discount supermarket in McMullen, AL'
+2026-09-30 12:19:28,087 DEBUG maps_url_scraper.worker12 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Distribution service in McMullen, AL'
+2026-09-30 12:19:29,646 DEBUG maps_url_scraper.worker17 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Digital printing service in McMullen, AL'
+2026-09-30 12:19:29,646 INFO maps_url_scraper.worker17 |  12 places | Digital printing service in McMullen, AL
+2026-09-30 12:19:30,039 INFO maps_url_scraper.engine | progress 58/301 assigned | 1043 queries done | +612 places | +0 urls | 160 reqs (0.2/s) | block rate 24%
+2026-09-30 12:19:30,555 DEBUG maps_url_scraper.worker10 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Display home center in McMullen, AL'
+2026-09-30 12:19:30,555 INFO maps_url_scraper.worker10 |   0 places | Display home center in McMullen, AL
+2026-09-30 12:19:31,346 DEBUG maps_url_scraper.worker14 | ok page=5 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Department store in McMullen, AL'
+2026-09-30 12:19:31,347 INFO maps_url_scraper.worker14 |  80 places | Department store in McMullen, AL
+2026-09-30 12:19:31,932 DEBUG maps_url_scraper.worker7 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Display stand manufacturer in McMullen, AL'
+2026-09-30 12:19:32,844 DEBUG maps_url_scraper.worker3 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Discount store in McMullen, AL'
+2026-09-30 12:19:32,958 DEBUG maps_url_scraper.worker15 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Disposable tableware supplier in McMullen, AL'
+2026-09-30 12:19:33,033 WARNING maps_url_scraper.breaker | CIRCUIT BREAKER OPEN: 100% of last pages blocked - pausing all workers for 180s
+2026-09-30 12:19:33,033 WARNING maps_url_scraper.worker21 | rate on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Discount supermarket in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Discount+supermarket+in+McMullen%2C+AL&pb=%211sDiscount%2Bsupermarke
+2026-09-30 12:19:34,784 DEBUG maps_url_scraper.worker4 | ok page=9 attempt=2 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Dental implants provider in McMullen, AL'
+2026-09-30 12:19:35,002 DEBUG maps_url_scraper.worker1 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Disability services and support organization in McMullen, AL'
+2026-09-30 12:19:35,002 INFO maps_url_scraper.worker1 |   1 places | Disability services and support organization in McMullen, AL
+2026-09-30 12:19:35,043 DEBUG maps_url_scraper.worker24 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Disciples of Christ Church in McMullen, AL'
+2026-09-30 12:19:35,043 INFO maps_url_scraper.worker24 |  20 places | Disciples of Christ Church in McMullen, AL
+2026-09-30 12:19:35,109 DEBUG maps_url_scraper.worker6 | ok page=2 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Dinner theater in McMullen, AL'
+2026-09-30 12:19:35,110 INFO maps_url_scraper.worker6 |  36 places | Dinner theater in McMullen, AL
+2026-09-30 12:19:35,112 DEBUG maps_url_scraper.worker2 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Direct mail advertising in McMullen, AL'
+2026-09-30 12:19:35,112 INFO maps_url_scraper.worker2 |   1 places | Direct mail advertising in McMullen, AL
+2026-09-30 12:19:35,495 DEBUG maps_url_scraper.worker23 | ok page=3 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Diesel engine dealer in McMullen, AL'
+2026-09-30 12:19:35,496 INFO maps_url_scraper.worker23 |  48 places | Diesel engine dealer in McMullen, AL
+2026-09-30 12:19:35,761 DEBUG maps_url_scraper.worker22 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Dirt supplier in McMullen, AL'
+2026-09-30 12:19:35,761 INFO maps_url_scraper.worker22 |  11 places | Dirt supplier in McMullen, AL
+2026-09-30 12:19:36,051 DEBUG maps_url_scraper.worker19 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Diesel fuel supplier in McMullen, AL'
+2026-09-30 12:19:36,051 INFO maps_url_scraper.worker19 |   2 places | Diesel fuel supplier in McMullen, AL
+2026-09-30 12:19:37,956 DEBUG maps_url_scraper.worker9 | ok page=1 attempt=2 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Digital printer in McMullen, AL'
+2026-09-30 12:19:37,956 INFO maps_url_scraper.worker9 |   1 places | Digital printer in McMullen, AL
+2026-09-30 12:19:40,089 DEBUG maps_url_scraper.worker5 | ok page=4 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Disability equipment supplier in McMullen, AL'
+2026-09-30 12:19:40,089 INFO maps_url_scraper.worker5 |  64 places | Disability equipment supplier in McMullen, AL
+2026-09-30 12:19:40,251 DEBUG maps_url_scraper.worker8 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Disco club in McMullen, AL'
+2026-09-30 12:19:40,251 INFO maps_url_scraper.worker8 |   8 places | Disco club in McMullen, AL
+2026-09-30 12:19:40,464 DEBUG maps_url_scraper.worker18 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Distillery in McMullen, AL'
+2026-09-30 12:19:40,464 INFO maps_url_scraper.worker18 |  10 places | Distillery in McMullen, AL
+2026-09-30 12:19:45,039 INFO maps_url_scraper.engine | progress 71/301 assigned | 1056 queries done | +621 places | +0 urls | 178 reqs (0.2/s) | block rate 22%
+2026-09-30 12:19:46,810 DEBUG maps_url_scraper.worker11 | ok page=5 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Disc golf course in McMullen, AL'
+2026-09-30 12:19:46,811 INFO maps_url_scraper.worker11 |  76 places | Disc golf course in McMullen, AL
+2026-09-30 12:19:49,603 DEBUG maps_url_scraper.http | transport error (attempt 1): Timeout: Failed to perform, curl: (28) Operation timed out after 45002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-30 12:19:51,326 DEBUG maps_url_scraper.worker13 | ok page=3 attempt=2 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Diner in McMullen, AL'
+2026-09-30 12:19:58,592 DEBUG maps_url_scraper.worker12 | ok page=1 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Distribution service in McMullen, AL'
+2026-09-30 12:19:58,593 INFO maps_url_scraper.worker12 |  20 places | Distribution service in McMullen, AL
+2026-09-30 12:20:00,040 INFO maps_url_scraper.engine | progress 73/301 assigned | 1058 queries done | +626 places | +0 urls | 181 reqs (0.2/s) | block rate 22%
+2026-09-30 12:20:00,566 DEBUG maps_url_scraper.worker17 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='District government office in McMullen, AL'
+2026-09-30 12:20:02,663 DEBUG maps_url_scraper.worker14 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='District office in McMullen, AL'
+2026-09-30 12:20:02,663 INFO maps_url_scraper.worker14 |   0 places | District office in McMullen, AL
+2026-09-30 12:20:08,104 DEBUG maps_url_scraper.http | transport error (attempt 1): Timeout: Failed to perform, curl: (28) Operation timed out after 45002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-09-30 12:20:15,040 INFO maps_url_scraper.engine | progress 74/301 assigned | 1059 queries done | +626 places | +0 urls | 183 reqs (0.2/s) | block rate 22%
+2026-09-30 12:20:16,592 DEBUG maps_url_scraper.worker16 | ok page=2 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='Dietitian in McMullen, AL'
+2026-09-30 12:20:16,592 INFO maps_url_scraper.worker16 |  32 places | Dietitian in McMullen, AL
+2026-09-30 12:20:25,011 DEBUG maps_url_scraper.worker20 | ok page=0 attempt=1 proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 q='District attorney in McMullen, AL'
+2026-09-30 12:20:30,040 INFO maps_url_scraper.engine | progress 75/301 assigned | 1060 queries done | +645 places | +0 urls | 185 reqs (0.2/s) | block rate 22%
+2026-09-30 12:20:45,041 INFO maps_url_scraper.engine | progress 75/301 assigned | 1060 queries done | +645 places | +0 urls | 185 reqs (0.2/s) | block rate 22%
+2026-09-30 12:21:00,041 INFO maps_url_scraper.engine | progress 75/301 assigned | 1060 queries done | +645 places | +0 urls | 185 reqs (0.2/s) | block rate 22%
+2026-09-30 12:21:15,041 INFO maps_url_scraper.engine | progress 75/301 assigned | 1060 queries done | +645 places | +0 urls | 185 reqs (0.2/s) | block rate 22%
