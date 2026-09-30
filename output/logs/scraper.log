@@ -4482,3 +4482,48 @@
 2026-09-30 06:14:01,404 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 417 reqs (0.1/s) | block rate 19%
 2026-09-30 06:14:16,405 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 417 reqs (0.1/s) | block rate 19%
 2026-09-30 06:14:31,405 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 417 reqs (0.1/s) | block rate 19%
+2026-09-30 06:14:38,510 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-30 06:14:46,405 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 417 reqs (0.1/s) | block rate 19%
+2026-09-30 06:15:01,406 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 417 reqs (0.1/s) | block rate 19%
+2026-09-30 06:15:16,406 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 417 reqs (0.1/s) | block rate 19%
+2026-09-30 06:15:31,407 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 417 reqs (0.1/s) | block rate 19%
+2026-09-30 06:15:46,407 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 417 reqs (0.1/s) | block rate 19%
+2026-09-30 06:16:01,407 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 417 reqs (0.1/s) | block rate 19%
+2026-09-30 06:16:10,632 WARNING maps_url_scraper.worker2 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 2/4) q='Coin operated locker in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Coin+operated+locker+in+McMullen%2C+AL&pb=%211sCoin%2Boperated%2Bloc
+2026-09-30 06:16:10,678 WARNING maps_url_scraper.worker3 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 2/4) q='Clothing supplier in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Clothing+supplier+in+McMullen%2C+AL&pb=%211sClothing%2Bsupplier%2Bin
+2026-09-30 06:16:10,856 WARNING maps_url_scraper.worker1 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 2/4) q='Cocktail bar in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Cocktail+bar+in+McMullen%2C+AL&pb=%211sCocktail%2Bbar%2Bin%2BMcMulle
+2026-09-30 06:16:10,875 WARNING maps_url_scraper.breaker | CIRCUIT BREAKER OPEN: 100% of last pages blocked - pausing all workers for 180s
+2026-09-30 06:16:10,875 WARNING maps_url_scraper.worker7 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 2/4) q='Coin dealer in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Coin+dealer+in+McMullen%2C+AL&pb=%211sCoin%2Bdealer%2Bin%2BMcMullen%
+2026-09-30 06:16:10,908 WARNING maps_url_scraper.worker21 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 2/4) q='Coffee stand in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Coffee+stand+in+McMullen%2C+AL&pb=%211sCoffee%2Bstand%2Bin%2BMcMulle
+2026-09-30 06:16:10,920 WARNING maps_url_scraper.worker16 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 3/4) q='Civil police in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Civil+police+in+McMullen%2C+AL&pb=%211sCivil%2Bpolice%2Bin%2BMcMulle
+2026-09-30 06:16:12,893 WARNING maps_url_scraper.worker20 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 2/4) q='Clothing store in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Clothing+store+in+McMullen%2C+AL&pb=%211sClothing%2Bstore%2Bin%2BMcM
+2026-09-30 06:16:16,408 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 424 reqs (0.1/s) | block rate 20%
+2026-09-30 06:16:31,408 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 424 reqs (0.1/s) | block rate 20%
+2026-09-30 06:16:46,409 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 424 reqs (0.1/s) | block rate 20%
+2026-09-30 06:17:01,409 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 424 reqs (0.1/s) | block rate 20%
+2026-09-30 06:17:16,410 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 424 reqs (0.1/s) | block rate 20%
+2026-09-30 06:17:31,410 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 424 reqs (0.1/s) | block rate 20%
+2026-09-30 06:17:46,410 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 424 reqs (0.1/s) | block rate 20%
+2026-09-30 06:18:01,411 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 424 reqs (0.1/s) | block rate 20%
+2026-09-30 06:18:16,411 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 424 reqs (0.1/s) | block rate 20%
+2026-09-30 06:18:31,412 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 424 reqs (0.1/s) | block rate 20%
+2026-09-30 06:18:46,412 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 424 reqs (0.1/s) | block rate 20%
+2026-09-30 06:19:01,413 INFO maps_url_scraper.engine | progress 193/300 assigned | 767 queries done | +950 places | +0 urls | 424 reqs (0.1/s) | block rate 20%
+2026-09-30 06:19:11,136 DEBUG maps_url_scraper.worker8 | ok page=0 attempt=2 proxy=direct q='Coffin supplier in McMullen, AL'
+2026-09-30 06:19:11,176 DEBUG maps_url_scraper.worker22 | ok page=1 attempt=2 proxy=direct q='Coal supplier in McMullen, AL'
+2026-09-30 06:19:11,176 INFO maps_url_scraper.worker22 |   1 places | Coal supplier in McMullen, AL
+2026-09-30 06:19:11,248 WARNING maps_url_scraper.worker19 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 2/4) q='Coffee roasters in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Coffee+roasters+in+McMullen%2C+AL&pb=%211sCoffee%2Broasters%2Bin%2BM
+2026-09-30 06:19:11,266 DEBUG maps_url_scraper.worker4 | ok page=1 attempt=2 proxy=direct q='Clothing wholesale market place in McMullen, AL'
+2026-09-30 06:19:11,266 INFO maps_url_scraper.worker4 |   2 places | Clothing wholesale market place in McMullen, AL
+2026-09-30 06:19:11,325 WARNING maps_url_scraper.worker18 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Coffee store in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Coffee+store+in+McMullen%2C+AL&pb=%211sCoffee%2Bstore%2Bin%2BMcMulle
+2026-09-30 06:19:11,382 WARNING maps_url_scraper.worker9 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 2/4) q='Coal exporter in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Coal+exporter+in+McMullen%2C+AL&pb=%211sCoal%2Bexporter%2Bin%2BMcMul
+2026-09-30 06:19:11,390 WARNING maps_url_scraper.worker17 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 2/4) q='Coast guard station in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Coast+guard+station+in+McMullen%2C+AL&pb=%211sCoast%2Bguard%2Bstatio
+2026-09-30 06:19:11,391 DEBUG maps_url_scraper.worker23 | ok page=1 attempt=2 proxy=direct q='Coaching center in McMullen, AL'
+2026-09-30 06:19:11,392 INFO maps_url_scraper.worker23 |   1 places | Coaching center in McMullen, AL
+2026-09-30 06:19:11,405 WARNING maps_url_scraper.breaker | CIRCUIT BREAKER OPEN: 100% of last pages blocked - pausing all workers for 180s
+2026-09-30 06:19:11,405 WARNING maps_url_scraper.worker10 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 2/4) q='Cold cut store in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Cold+cut+store+in+McMullen%2C+AL&pb=%211sCold%2Bcut%2Bstore%2Bin%2BM
+2026-09-30 06:19:11,528 DEBUG maps_url_scraper.worker11 | ok page=0 attempt=2 proxy=direct q='Coffee machine supplier in McMullen, AL'
+2026-09-30 06:19:11,552 WARNING maps_url_scraper.worker6 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 2/4) q='Coin operated laundry equipment supplier in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Coin+operated+laundry+equipment+supplier+in+McMullen%2C+AL&pb=%211sC
+2026-09-30 06:19:11,572 DEBUG maps_url_scraper.worker15 | ok page=0 attempt=3 proxy=direct q='Clothing alteration service in McMullen, AL'
+2026-09-30 06:19:16,413 INFO maps_url_scraper.engine | progress 196/300 assigned | 770 queries done | +962 places | +0 urls | 436 reqs (0.1/s) | block rate 21%
+2026-09-30 06:19:31,414 INFO maps_url_scraper.engine | progress 196/300 assigned | 770 queries done | +962 places | +0 urls | 436 reqs (0.1/s) | block rate 21%
