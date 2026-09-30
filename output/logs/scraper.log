@@ -4403,3 +4403,33 @@
 2026-09-30 06:04:01,388 INFO maps_url_scraper.engine | progress 190/300 assigned | 764 queries done | +934 places | +0 urls | 386 reqs (0.1/s) | block rate 14%
 2026-09-30 06:04:16,388 INFO maps_url_scraper.engine | progress 190/300 assigned | 764 queries done | +934 places | +0 urls | 386 reqs (0.1/s) | block rate 14%
 2026-09-30 06:04:31,389 INFO maps_url_scraper.engine | progress 190/300 assigned | 764 queries done | +934 places | +0 urls | 386 reqs (0.1/s) | block rate 14%
+2026-09-30 06:04:34,459 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-30 06:04:46,389 INFO maps_url_scraper.engine | progress 190/300 assigned | 764 queries done | +934 places | +0 urls | 386 reqs (0.1/s) | block rate 14%
+2026-09-30 06:05:01,389 INFO maps_url_scraper.engine | progress 190/300 assigned | 764 queries done | +934 places | +0 urls | 386 reqs (0.1/s) | block rate 14%
+2026-09-30 06:05:16,390 INFO maps_url_scraper.engine | progress 190/300 assigned | 764 queries done | +934 places | +0 urls | 386 reqs (0.1/s) | block rate 14%
+2026-09-30 06:05:18,430 DEBUG maps_url_scraper.worker6 | ok page=1 attempt=1 proxy=direct q='Clothes and fabric wholesaler in McMullen, AL'
+2026-09-30 06:05:18,431 INFO maps_url_scraper.worker6 |   1 places | Clothes and fabric wholesaler in McMullen, AL
+2026-09-30 06:05:21,169 DEBUG maps_url_scraper.worker2 | ok page=1 attempt=1 proxy=direct q='Clothes market in McMullen, AL'
+2026-09-30 06:05:21,169 INFO maps_url_scraper.worker2 |   3 places | Clothes market in McMullen, AL
+2026-09-30 06:05:22,490 DEBUG maps_url_scraper.worker17 | ok page=0 attempt=1 proxy=direct q='Coast guard station in McMullen, AL'
+2026-09-30 06:05:26,330 DEBUG maps_url_scraper.worker1 | ok page=0 attempt=1 proxy=direct q='Cocktail bar in McMullen, AL'
+2026-09-30 06:05:31,390 INFO maps_url_scraper.engine | progress 192/300 assigned | 766 queries done | +948 places | +0 urls | 390 reqs (0.1/s) | block rate 14%
+2026-09-30 06:05:46,391 INFO maps_url_scraper.engine | progress 192/300 assigned | 766 queries done | +948 places | +0 urls | 390 reqs (0.1/s) | block rate 14%
+2026-09-30 06:06:01,391 INFO maps_url_scraper.engine | progress 192/300 assigned | 766 queries done | +948 places | +0 urls | 390 reqs (0.1/s) | block rate 14%
+2026-09-30 06:06:16,391 INFO maps_url_scraper.engine | progress 192/300 assigned | 766 queries done | +948 places | +0 urls | 390 reqs (0.1/s) | block rate 14%
+2026-09-30 06:06:31,392 INFO maps_url_scraper.engine | progress 192/300 assigned | 766 queries done | +948 places | +0 urls | 390 reqs (0.1/s) | block rate 14%
+2026-09-30 06:06:46,392 INFO maps_url_scraper.engine | progress 192/300 assigned | 766 queries done | +948 places | +0 urls | 390 reqs (0.1/s) | block rate 14%
+2026-09-30 06:07:01,393 INFO maps_url_scraper.engine | progress 192/300 assigned | 766 queries done | +948 places | +0 urls | 390 reqs (0.1/s) | block rate 14%
+2026-09-30 06:07:08,153 WARNING maps_url_scraper.worker14 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Coffee wholesaler in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Coffee+wholesaler+in+McMullen%2C+AL&pb=%211sCoffee%2Bwholesaler%2Bin
+2026-09-30 06:07:09,284 WARNING maps_url_scraper.breaker | CIRCUIT BREAKER OPEN: 100% of last pages blocked - pausing all workers for 180s
+2026-09-30 06:07:09,284 WARNING maps_url_scraper.worker24 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Coffee shop in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Coffee+shop+in+McMullen%2C+AL&pb=%211sCoffee%2Bshop%2Bin%2BMcMullen%
+2026-09-30 06:07:16,393 INFO maps_url_scraper.engine | progress 192/300 assigned | 766 queries done | +948 places | +0 urls | 392 reqs (0.1/s) | block rate 14%
+2026-09-30 06:07:31,393 INFO maps_url_scraper.engine | progress 192/300 assigned | 766 queries done | +948 places | +0 urls | 392 reqs (0.1/s) | block rate 14%
+2026-09-30 06:07:46,394 INFO maps_url_scraper.engine | progress 192/300 assigned | 766 queries done | +948 places | +0 urls | 392 reqs (0.1/s) | block rate 14%
+2026-09-30 06:08:01,394 INFO maps_url_scraper.engine | progress 192/300 assigned | 766 queries done | +948 places | +0 urls | 392 reqs (0.1/s) | block rate 14%
+2026-09-30 06:08:16,395 INFO maps_url_scraper.engine | progress 192/300 assigned | 766 queries done | +948 places | +0 urls | 392 reqs (0.1/s) | block rate 14%
+2026-09-30 06:08:31,395 INFO maps_url_scraper.engine | progress 192/300 assigned | 766 queries done | +948 places | +0 urls | 392 reqs (0.1/s) | block rate 14%
+2026-09-30 06:08:46,396 INFO maps_url_scraper.engine | progress 192/300 assigned | 766 queries done | +948 places | +0 urls | 392 reqs (0.1/s) | block rate 14%
+2026-09-30 06:09:01,396 INFO maps_url_scraper.engine | progress 192/300 assigned | 766 queries done | +948 places | +0 urls | 392 reqs (0.1/s) | block rate 14%
+2026-09-30 06:09:16,397 INFO maps_url_scraper.engine | progress 192/300 assigned | 766 queries done | +948 places | +0 urls | 392 reqs (0.1/s) | block rate 14%
+2026-09-30 06:09:31,397 INFO maps_url_scraper.engine | progress 192/300 assigned | 766 queries done | +948 places | +0 urls | 392 reqs (0.1/s) | block rate 14%
