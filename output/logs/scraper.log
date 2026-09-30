@@ -4232,3 +4232,60 @@
 2026-09-30 05:48:46,363 INFO maps_url_scraper.engine | progress 153/300 assigned | 727 queries done | +859 places | +0 urls | 316 reqs (0.1/s) | block rate 16%
 2026-09-30 05:49:01,364 INFO maps_url_scraper.engine | progress 153/300 assigned | 727 queries done | +859 places | +0 urls | 316 reqs (0.1/s) | block rate 16%
 2026-09-30 05:49:16,364 INFO maps_url_scraper.engine | progress 153/300 assigned | 727 queries done | +859 places | +0 urls | 316 reqs (0.1/s) | block rate 16%
+2026-09-30 05:49:28,608 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-30 05:49:31,365 INFO maps_url_scraper.engine | progress 153/300 assigned | 727 queries done | +859 places | +0 urls | 316 reqs (0.1/s) | block rate 16%
+2026-09-30 05:49:46,365 INFO maps_url_scraper.engine | progress 153/300 assigned | 727 queries done | +859 places | +0 urls | 316 reqs (0.1/s) | block rate 16%
+2026-09-30 05:50:01,366 INFO maps_url_scraper.engine | progress 153/300 assigned | 727 queries done | +859 places | +0 urls | 316 reqs (0.1/s) | block rate 16%
+2026-09-30 05:50:14,331 DEBUG maps_url_scraper.worker6 | ok page=0 attempt=1 proxy=direct q='Circus in McMullen, AL'
+2026-09-30 05:50:16,196 DEBUG maps_url_scraper.worker17 | ok page=0 attempt=1 proxy=direct q='Citizen information bureau in McMullen, AL'
+2026-09-30 05:50:16,196 INFO maps_url_scraper.worker17 |   0 places | Citizen information bureau in McMullen, AL
+2026-09-30 05:50:16,366 INFO maps_url_scraper.engine | progress 154/300 assigned | 728 queries done | +860 places | +0 urls | 318 reqs (0.1/s) | block rate 16%
+2026-09-30 05:50:18,541 DEBUG maps_url_scraper.worker2 | ok page=0 attempt=1 proxy=direct q='Citroen dealer in McMullen, AL'
+2026-09-30 05:50:18,541 INFO maps_url_scraper.worker2 |   0 places | Citroen dealer in McMullen, AL
+2026-09-30 05:50:21,218 DEBUG maps_url_scraper.worker15 | ok page=1 attempt=1 proxy=direct q='Church of Christ in McMullen, AL'
+2026-09-30 05:50:22,931 DEBUG maps_url_scraper.worker1 | ok page=1 attempt=1 proxy=direct q='Church of Jesus Christ of Latter-day Saints in McMullen, AL'
+2026-09-30 05:50:22,932 INFO maps_url_scraper.worker1 |  20 places | Church of Jesus Christ of Latter-day Saints in McMullen, AL
+2026-09-30 05:50:31,367 INFO maps_url_scraper.engine | progress 156/300 assigned | 730 queries done | +861 places | +0 urls | 321 reqs (0.1/s) | block rate 16%
+2026-09-30 05:50:46,367 INFO maps_url_scraper.engine | progress 156/300 assigned | 730 queries done | +861 places | +0 urls | 321 reqs (0.1/s) | block rate 16%
+2026-09-30 05:51:01,367 INFO maps_url_scraper.engine | progress 156/300 assigned | 730 queries done | +861 places | +0 urls | 321 reqs (0.1/s) | block rate 16%
+2026-09-30 05:51:16,368 INFO maps_url_scraper.engine | progress 156/300 assigned | 730 queries done | +861 places | +0 urls | 321 reqs (0.1/s) | block rate 16%
+2026-09-30 05:51:31,368 INFO maps_url_scraper.engine | progress 156/300 assigned | 730 queries done | +861 places | +0 urls | 321 reqs (0.1/s) | block rate 16%
+2026-09-30 05:51:46,369 INFO maps_url_scraper.engine | progress 156/300 assigned | 730 queries done | +861 places | +0 urls | 321 reqs (0.1/s) | block rate 16%
+2026-09-30 05:52:01,369 INFO maps_url_scraper.engine | progress 156/300 assigned | 730 queries done | +861 places | +0 urls | 321 reqs (0.1/s) | block rate 16%
+2026-09-30 05:52:16,369 INFO maps_url_scraper.engine | progress 156/300 assigned | 730 queries done | +861 places | +0 urls | 321 reqs (0.1/s) | block rate 16%
+2026-09-30 05:52:31,370 INFO maps_url_scraper.engine | progress 156/300 assigned | 730 queries done | +861 places | +0 urls | 321 reqs (0.1/s) | block rate 16%
+2026-09-30 05:52:46,370 INFO maps_url_scraper.engine | progress 156/300 assigned | 730 queries done | +861 places | +0 urls | 321 reqs (0.1/s) | block rate 16%
+2026-09-30 05:53:01,371 INFO maps_url_scraper.engine | progress 156/300 assigned | 730 queries done | +861 places | +0 urls | 321 reqs (0.1/s) | block rate 16%
+2026-09-30 05:53:13,211 DEBUG maps_url_scraper.worker16 | ok page=1 attempt=1 proxy=direct q='Church of the Nazarene in McMullen, AL'
+2026-09-30 05:53:13,211 INFO maps_url_scraper.worker16 |  15 places | Church of the Nazarene in McMullen, AL
+2026-09-30 05:53:14,820 DEBUG maps_url_scraper.worker20 | ok page=0 attempt=1 proxy=direct q="City clerk's office in McMullen, AL"
+2026-09-30 05:53:16,371 INFO maps_url_scraper.engine | progress 157/300 assigned | 731 queries done | +862 places | +0 urls | 323 reqs (0.1/s) | block rate 16%
+2026-09-30 05:53:16,428 DEBUG maps_url_scraper.worker10 | ok page=0 attempt=1 proxy=direct q='City courthouse in McMullen, AL'
+2026-09-30 05:53:19,550 DEBUG maps_url_scraper.worker11 | ok page=1 attempt=1 proxy=direct q='Church supply store in McMullen, AL'
+2026-09-30 05:53:19,550 INFO maps_url_scraper.worker11 |   1 places | Church supply store in McMullen, AL
+2026-09-30 05:53:21,187 DEBUG maps_url_scraper.worker3 | ok page=0 attempt=1 proxy=direct q='City department of transportation in McMullen, AL'
+2026-09-30 05:53:22,430 DEBUG maps_url_scraper.worker19 | ok page=0 attempt=1 proxy=direct q='City district office in McMullen, AL'
+2026-09-30 05:53:22,430 INFO maps_url_scraper.worker19 |   0 places | City district office in McMullen, AL
+2026-09-30 05:53:24,104 DEBUG maps_url_scraper.worker24 | ok page=0 attempt=1 proxy=direct q='City employment department in McMullen, AL'
+2026-09-30 05:53:24,105 INFO maps_url_scraper.worker24 |   0 places | City employment department in McMullen, AL
+2026-09-30 05:53:28,064 DEBUG maps_url_scraper.worker4 | ok page=2 attempt=1 proxy=direct q='Christian book store in McMullen, AL'
+2026-09-30 05:53:28,064 INFO maps_url_scraper.worker4 |  38 places | Christian book store in McMullen, AL
+2026-09-30 05:53:29,656 DEBUG maps_url_scraper.worker21 | ok page=0 attempt=1 proxy=direct q='City government office in McMullen, AL'
+2026-09-30 05:53:29,656 INFO maps_url_scraper.worker21 |   0 places | City government office in McMullen, AL
+2026-09-30 05:53:31,140 DEBUG maps_url_scraper.worker18 | ok page=1 attempt=1 proxy=direct q='Cider mill in McMullen, AL'
+2026-09-30 05:53:31,140 INFO maps_url_scraper.worker18 |   1 places | Cider mill in McMullen, AL
+2026-09-30 05:53:31,372 INFO maps_url_scraper.engine | progress 163/300 assigned | 737 queries done | +864 places | +0 urls | 331 reqs (0.1/s) | block rate 15%
+2026-09-30 05:53:33,111 DEBUG maps_url_scraper.worker13 | ok page=0 attempt=1 proxy=direct q='City or town hall in McMullen, AL'
+2026-09-30 05:53:34,547 DEBUG maps_url_scraper.worker5 | ok page=0 attempt=1 proxy=direct q='City park in McMullen, AL'
+2026-09-30 05:53:36,831 DEBUG maps_url_scraper.worker14 | ok page=1 attempt=1 proxy=direct q='Cigar shop in McMullen, AL'
+2026-09-30 05:53:36,831 INFO maps_url_scraper.worker14 |  19 places | Cigar shop in McMullen, AL
+2026-09-30 05:53:38,743 DEBUG maps_url_scraper.worker12 | ok page=0 attempt=1 proxy=direct q='City pillar shrine in McMullen, AL'
+2026-09-30 05:53:39,907 DEBUG maps_url_scraper.worker8 | ok page=1 attempt=1 proxy=direct q='Cinema equipment supplier in McMullen, AL'
+2026-09-30 05:53:39,907 INFO maps_url_scraper.worker8 |   1 places | Cinema equipment supplier in McMullen, AL
+2026-09-30 05:53:41,917 DEBUG maps_url_scraper.worker23 | ok page=0 attempt=1 proxy=direct q='City tax office in McMullen, AL'
+2026-09-30 05:53:43,253 DEBUG maps_url_scraper.worker9 | ok page=0 attempt=1 proxy=direct q='Civic center in McMullen, AL'
+2026-09-30 05:53:44,426 DEBUG maps_url_scraper.worker22 | ok page=0 attempt=1 proxy=direct q='Civil defense in McMullen, AL'
+2026-09-30 05:53:46,157 DEBUG maps_url_scraper.worker7 | ok page=0 attempt=1 proxy=direct q='Civil engineer in McMullen, AL'
+2026-09-30 05:53:46,372 INFO maps_url_scraper.engine | progress 165/300 assigned | 739 queries done | +902 places | +0 urls | 340 reqs (0.1/s) | block rate 15%
+2026-09-30 05:54:01,372 INFO maps_url_scraper.engine | progress 165/300 assigned | 739 queries done | +902 places | +0 urls | 340 reqs (0.1/s) | block rate 15%
+2026-09-30 05:54:16,373 INFO maps_url_scraper.engine | progress 165/300 assigned | 739 queries done | +902 places | +0 urls | 340 reqs (0.1/s) | block rate 15%
