@@ -70,6 +70,9 @@ class Settings:
     transport_retries: int = 2
     page_attempts: int = 4              # attempts per page (with proxy rotation)
     query_attempts: int = 3             # requeues per failed query per run
+    pool_wait_secs: float = 120.0       # wait this long for a healthy proxy
+                                        # when ALL are cooling; then halt the
+                                        # run (never fall back to the real IP)
     breaker_window: int = 24
     breaker_threshold: float = 0.35
     breaker_cooldown: float = 180.0
@@ -102,6 +105,7 @@ class Settings:
             delay_min=getattr(ns, "delay_min", 8.0),
             delay_max=getattr(ns, "delay_max", 16.0),
             request_timeout=getattr(ns, "request_timeout", 45.0),
+            pool_wait_secs=getattr(ns, "pool_wait", 120.0),
             fresh=getattr(ns, "fresh", False),
             verbose=getattr(ns, "verbose", False),
         )
@@ -160,6 +164,8 @@ class Settings:
                 f"got {self.max_pages}")
         if self.min_interval < 0:
             problems.append(f"min_interval must be >= 0, got {self.min_interval}")
+        if self.pool_wait_secs < 0:
+            problems.append(f"pool_wait must be >= 0, got {self.pool_wait_secs}")
         if self.delay_min > self.delay_max:
             problems.append("delay_min must be <= delay_max")
         # proxies: a malformed file is a hard error (the user thinks they

@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
+from typing import Iterator
 
 from .constants import CITY_SUFFIXES
 
@@ -56,6 +57,51 @@ def load_categories(path: str | Path) -> list[str]:
     return cats
 
 
+def iter_queries(
+    locations_dir: str | Path,
+    categories_path: str | Path,
+    states: str | None = None,
+    limit_cities: int = 0,
+    done: set[str] | None = None,
+) -> Iterator[str]:
+    """Yield pending search strings one at a time (see :func:`build_queries`).
+
+    Lazily generated so callers can bound the work (``--limit-queries``) or
+    stream a total count without materialising the multi-million-string
+    full matrix in memory.
+    """
+    cats = load_categories(categories_path)
+    done = done or set()
+    files = [
+        p for p in sorted(Path(locations_dir).glob("*.json"))
+        if p.name not in ("usa_locations.json", "us_locations.json")
+    ]
+    if not files:
+        raise FileNotFoundError(f"no state files in {locations_dir}")
+    wanted_states = (
+        {s.strip().upper() for s in states.split(",") if s.strip()}
+        if states else None
+    )
+
+    for path in files:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        code = (data.get("state") or {}).get("code", "").upper()
+        if wanted_states and code not in wanted_states:
+            continue
+        cities = list((data.get("cities") or {}).values())
+        if limit_cities:
+            cities = cities[:limit_cities]
+        for city in cities:
+            name = strip_city_suffix(city.get("name") or "")
+            if not name:
+                continue
+            location = f"{name}, {code}"
+            for cat in cats:
+                query = f"{cat} in {location}"
+                if query not in done:
+                    yield query
+
+
 def build_queries(
     locations_dir: str | Path,
     categories_path: str | Path,
@@ -79,35 +125,10 @@ def build_queries(
     Raises:
         FileNotFoundError: If the locations directory has no state files.
     """
-    cats = load_categories(categories_path)
-    done = done or set()
-    files = [
-        p for p in sorted(Path(locations_dir).glob("*.json"))
-        if p.name not in ("usa_locations.json", "us_locations.json")
-    ]
-    if not files:
-        raise FileNotFoundError(f"no state files in {locations_dir}")
-    wanted_states = (
-        {s.strip().upper() for s in states.split(",") if s.strip()}
-        if states else None
-    )
-
-    queries: list[str] = []
-    for path in files:
-        data = json.loads(path.read_text(encoding="utf-8"))
-        code = (data.get("state") or {}).get("code", "").upper()
-        if wanted_states and code not in wanted_states:
-            continue
-        cities = list((data.get("cities") or {}).values())
-        if limit_cities:
-            cities = cities[:limit_cities]
-        for city in cities:
-            name = strip_city_suffix(city.get("name") or "")
-            if not name:
-                continue
-            location = f"{name}, {code}"
-            for cat in cats:
-                query = f"{cat} in {location}"
-                if query not in done:
-                    queries.append(query)
-    return queries
+    return list(iter_queries(
+        locations_dir=locations_dir,
+        categories_path=categories_path,
+        states=states,
+        limit_cities=limit_cities,
+        done=done,
+    ))

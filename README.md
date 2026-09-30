@@ -114,6 +114,11 @@ http://user:password@gateway.provider.com:9000
   (fine for a smoke test, risky at scale).
 - Blocked proxies are cooled down automatically and rotated out; a proxy
   that keeps failing is replaced for the rest of the run.
+- **No real-IP fallback.** When every configured proxy is cooling down, the
+  scraper waits `--pool-wait` seconds (default 120) for a recovery; if none
+  comes, it halts gracefully — output + logs + state are flushed and pushed
+  — and the next run resumes from the database. The host's own IP never
+  touches Google.
 - `python try.py` is a one-command health check: it verifies that your
   proxy endpoint rotates IPs and can actually reach Google Maps.
 
@@ -128,6 +133,7 @@ ones:
 | `--workers`          | `2`          | parallel queries (match roughly to your proxy count)  |
 | `--max-pages`        | `10`         | pages per query (20 results each); `0` = unlimited until the last page |
 | `--min-interval`     | `1.5`        | seconds between requests on the same proxy            |
+| `--pool-wait`        | `120`        | seconds to wait for a healthy proxy when all are cooling; then the run halts (no real-IP fallback) |
 | `--states`           | all            | comma-separated state codes, e.g.`TX,CA`            |
 | `--limit-cities`     | `0`          | first N cities per state (testing)                    |
 | `--fresh`            | off            | wipe state and start over                             |

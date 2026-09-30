@@ -5,6 +5,11 @@ name: scraper
 # list from an encrypted secret, runs the scraper with a per-run query budget,
 # and commits the updated state + collected URLs back so the next run resumes
 # exactly where this one stopped.
+#
+# If every proxy ends up cooling down (provider exhausted / rate-limited),
+# the scraper waits POOL_WAIT_SECS for a recovery, then HALTS gracefully -
+# it never fires requests from the runner's real IP. The final commit step
+# (plus the in-run periodic committer) makes the halt fully resumable.
 
 on:
   schedule:
@@ -51,6 +56,7 @@ jobs:
           MAX_WORKERS: "24"          # rotate mode: workers > key count is fine
           LIMIT_QUERIES: "300"      # credit budget per run (raise with credits)
           COMMIT_INTERVAL_SECS: "300"  # push state + urls + logs every 5 min
+          POOL_WAIT_SECS: "120"     # wait for proxy recovery, then halt (no real-IP fallback)
           CATEGORIES_FILE: "config/categories_full.txt"
         run: |
           python main.py run \
@@ -59,6 +65,7 @@ jobs:
             --max-pages 0 \
             --delay-min 1 --delay-max 2 \
             --limit-queries "$LIMIT_QUERIES" \
+            --pool-wait "$POOL_WAIT_SECS" \
             --rotate-per-request
 
       - name: Commit state and collected URLs

@@ -16,6 +16,12 @@ A page that still fails after ``page_attempts`` fails its query; the query
 is requeued up to ``query_attempts`` times (later in the same run, when the
 proxy pool has cooled down) and marked ``failed`` in the DB so the next run
 retries it automatically.
+
+If EVERY proxy is cooling down and the wait budget (``--pool-wait``)
+expires, the worker raises :class:`ProxiesExhausted` and the run halts
+gracefully (state + logs committed by the engine). It never falls back to
+the host's real IP - a datacenter IP hammering Google gets flagged fast,
+and the next scheduled run resumes exactly where this one stopped.
 """
 
 from __future__ import annotations
@@ -30,6 +36,15 @@ from .http_client import MapsClient
 from .models import Verdict
 from .parser import extract_websites, normalize_url, parse_places
 from .proxy_pool import mask_proxy
+
+
+class ProxiesExhausted(RuntimeError):
+    """Every proxy is cooling down and the wait budget ran out.
+
+    Raised instead of silently falling back to the host's real IP: the run
+    halts, the engine checkpoints state + logs, and the next run resumes
+    from the database.
+    """
 
 
 class Worker(threading.Thread):
@@ -56,6 +71,11 @@ class Worker(threading.Thread):
                 return
             try:
                 self._process(query)
+            except ProxiesExhausted as exc:
+                # emergency stop: no real-IP fallback; the engine's shutdown
+                # path flushes the writer and pushes a final state commit
+                self.ctx.halt(str(exc))
+                return
             except Exception:  # never let one query kill the worker
                 self.log.exception("unexpected error processing %r", query)
                 self.ctx.metrics.inc("queries_failed")
@@ -210,15 +230,32 @@ class Worker(threading.Thread):
 
     # ------------------------------------------------------------- proxy
     def _pick_proxy(self) -> str | None:
-        """Next healthy proxy, waiting out full-pool cooldowns when needed."""
+        """Next healthy proxy; wait out cooldowns, never fall back to real IP.
+
+        Returns ``None`` only when NO proxies are configured (explicit
+        direct-connection mode). When the pool has proxies but every one of
+        them is cooling down, wait up to ``pool_wait_secs`` for a recovery;
+        if the wait expires, raise :class:`ProxiesExhausted` so the run
+        halts cleanly instead of hitting Google from the host's own IP.
+        """
         if not len(self.ctx.pool):
             return None
-        for _ in range(60):  # ~5 min worst case, then the page attempt fails
+        deadline = time.monotonic() + self.settings.pool_wait_secs
+        while True:
             if self.ctx.stop.is_set():
-                return None
+                raise ProxiesExhausted(
+                    "stop requested while waiting for a healthy proxy")
             proxy = self.ctx.pool.next(avoid_url=self._current_proxy)
+            if proxy is None and self._current_proxy is not None:
+                # the only healthy proxy may be the one we wanted to avoid
+                # for rotation - reusing it beats going direct
+                proxy = self.ctx.pool.next()
             if proxy is not None:
                 self._current_proxy = proxy
                 return proxy
-            time.sleep(5.0)
-        return None
+            if time.monotonic() >= deadline:
+                raise ProxiesExhausted(
+                    f"all {len(self.ctx.pool)} proxies cooling down for over "
+                    f"{self.settings.pool_wait_secs:.0f}s - halting instead "
+                    "of using the real IP")
+            time.sleep(min(5.0, max(0.5, deadline - time.monotonic())))

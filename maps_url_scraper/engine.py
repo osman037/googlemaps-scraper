@@ -76,6 +76,20 @@ class EngineContext:
             self._fails[query] = self._fails.get(query, 0) + 1
             return self._fails[query]
 
+    def halt(self, reason: str) -> None:
+        """Emergency stop: end the run gracefully, exactly once.
+
+        Workers exit, then the engine's normal shutdown path takes over:
+        the output writer is closed, the committer thread pushes a final
+        state + urls + logs commit, and the process exits 0. The run
+        resumes from the database on the next invocation.
+        """
+        with self._qlock:
+            already = self.stop.is_set()
+            self.stop.set()
+        if not already:
+            log.critical("HALTING RUN: %s", reason)
+
 
 class StateCommitter(threading.Thread):
     """Periodically git-commits the state DB, URL files and logs mid-run.
@@ -197,6 +211,30 @@ def run(settings: Settings) -> int:
         db.close()
 
 
+def collect_pending_queries(settings: Settings, db: Database) -> list[str]:
+    """Pending queries, built lazily so ``--limit-queries`` caps the work.
+
+    The full (category, city) matrix across every state is tens of millions
+    of strings - materialising it just to slice off the first N would spike
+    memory on CI runners. ``iter_queries`` yields in the same deterministic
+    order, so a bounded collect is identical to build-then-slice.
+    """
+    done = set() if settings.research else db.done_queries()
+    limit = settings.limit_queries or 0
+    pending: list[str] = []
+    for query in queries_mod.iter_queries(
+        locations_dir=settings.locations_dir,
+        categories_path=settings.categories_path,
+        states=settings.states,
+        limit_cities=settings.limit_cities,
+        done=done,
+    ):
+        pending.append(query)
+        if limit and len(pending) >= limit:
+            break
+    return pending
+
+
 def _run_inner(settings: Settings, db: Database) -> int:
     proxy_urls = settings.proxies()
     pool = ProxyPool(proxy_urls)
@@ -211,15 +249,7 @@ def _run_inner(settings: Settings, db: Database) -> int:
     if settings.query:
         pending = [settings.query]
     else:
-        pending = queries_mod.build_queries(
-            locations_dir=settings.locations_dir,
-            categories_path=settings.categories_path,
-            states=settings.states,
-            limit_cities=settings.limit_cities,
-            done=set() if settings.research else db.done_queries(),
-        )
-        if settings.limit_queries:
-            pending = pending[: settings.limit_queries]
+        pending = collect_pending_queries(settings, db)
 
     log.info(
         "Mode: %s | pending queries: %d | workers: %d | max pages/query: %d "
@@ -383,19 +413,25 @@ def validate(settings: Settings) -> int:
              settings.emit, settings.workers, settings.max_pages)
     db = Database(settings.db_path)
     try:
-        pending = queries_mod.build_queries(
+        # streaming count: the full matrix is tens of millions of queries,
+        # so only the running total and the boundary queries are kept
+        done = set() if settings.research else db.done_queries()
+        total, first, last = 0, None, None
+        for query in queries_mod.iter_queries(
             locations_dir=settings.locations_dir,
             categories_path=settings.categories_path,
             states=settings.states,
             limit_cities=settings.limit_cities,
-            done=set() if settings.research else db.done_queries(),
-        )
-        if settings.limit_queries:
-            pending = pending[: settings.limit_queries]
-        log.info("pending queries: %d", len(pending))
-        if pending:
-            log.info("first: %r", pending[0])
-            log.info("last:  %r", pending[-1])
+            done=done,
+        ):
+            if first is None:
+                first = query
+            last = query
+            total += 1
+        log.info("pending queries: %d", total)
+        if total:
+            log.info("first: %r", first)
+            log.info("last:  %r", last)
     except Exception as exc:
         log.error("query plan failed: %s", exc)
         return 2

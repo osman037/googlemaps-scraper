@@ -76,6 +76,11 @@ def build_parser() -> argparse.ArgumentParser:
                            help="acquire a fresh proxy for EVERY request "
                                 "(fast mode for gateways that rotate "
                                 "residential IPs themselves)")
+            p.add_argument("--pool-wait", type=float, default=120.0,
+                           help="seconds to wait for a healthy proxy when "
+                                "ALL are cooling down; after this the run "
+                                "halts (state committed) instead of using "
+                                "the real IP (default: 120)")
             p.add_argument("--fresh", action="store_true",
                            help="wipe state and start over")
             p.add_argument("--research", action="store_true",
