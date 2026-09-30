@@ -4289,3 +4289,63 @@
 2026-09-30 05:53:46,372 INFO maps_url_scraper.engine | progress 165/300 assigned | 739 queries done | +902 places | +0 urls | 340 reqs (0.1/s) | block rate 15%
 2026-09-30 05:54:01,372 INFO maps_url_scraper.engine | progress 165/300 assigned | 739 queries done | +902 places | +0 urls | 340 reqs (0.1/s) | block rate 15%
 2026-09-30 05:54:16,373 INFO maps_url_scraper.engine | progress 165/300 assigned | 739 queries done | +902 places | +0 urls | 340 reqs (0.1/s) | block rate 15%
+2026-09-30 05:54:30,468 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-30 05:54:31,373 INFO maps_url_scraper.engine | progress 165/300 assigned | 739 queries done | +902 places | +0 urls | 340 reqs (0.1/s) | block rate 15%
+2026-09-30 05:54:46,374 INFO maps_url_scraper.engine | progress 165/300 assigned | 739 queries done | +902 places | +0 urls | 340 reqs (0.1/s) | block rate 15%
+2026-09-30 05:55:01,374 INFO maps_url_scraper.engine | progress 165/300 assigned | 739 queries done | +902 places | +0 urls | 340 reqs (0.1/s) | block rate 15%
+2026-09-30 05:55:16,336 DEBUG maps_url_scraper.worker6 | ok page=1 attempt=1 proxy=direct q='Circus in McMullen, AL'
+2026-09-30 05:55:16,337 INFO maps_url_scraper.worker6 |   1 places | Circus in McMullen, AL
+2026-09-30 05:55:16,374 INFO maps_url_scraper.engine | progress 166/300 assigned | 740 queries done | +902 places | +0 urls | 341 reqs (0.1/s) | block rate 15%
+2026-09-30 05:55:17,891 DEBUG maps_url_scraper.worker17 | ok page=0 attempt=1 proxy=direct q='Civil engineering company in McMullen, AL'
+2026-09-30 05:55:19,111 DEBUG maps_url_scraper.worker2 | ok page=0 attempt=1 proxy=direct q='Civil examinations academy in McMullen, AL'
+2026-09-30 05:55:19,111 INFO maps_url_scraper.worker2 |   0 places | Civil examinations academy in McMullen, AL
+2026-09-30 05:55:23,082 DEBUG maps_url_scraper.worker15 | ok page=2 attempt=1 proxy=direct q='Church of Christ in McMullen, AL'
+2026-09-30 05:55:23,083 INFO maps_url_scraper.worker15 |  21 places | Church of Christ in McMullen, AL
+2026-09-30 05:55:24,201 DEBUG maps_url_scraper.worker1 | ok page=0 attempt=1 proxy=direct q='Civil law attorney in McMullen, AL'
+2026-09-30 05:55:31,375 INFO maps_url_scraper.engine | progress 168/300 assigned | 742 queries done | +903 places | +0 urls | 345 reqs (0.1/s) | block rate 15%
+2026-09-30 05:55:46,375 INFO maps_url_scraper.engine | progress 168/300 assigned | 742 queries done | +903 places | +0 urls | 345 reqs (0.1/s) | block rate 15%
+2026-09-30 05:56:01,376 INFO maps_url_scraper.engine | progress 168/300 assigned | 742 queries done | +903 places | +0 urls | 345 reqs (0.1/s) | block rate 15%
+2026-09-30 05:56:16,376 INFO maps_url_scraper.engine | progress 168/300 assigned | 742 queries done | +903 places | +0 urls | 345 reqs (0.1/s) | block rate 15%
+2026-09-30 05:56:31,376 INFO maps_url_scraper.engine | progress 168/300 assigned | 742 queries done | +903 places | +0 urls | 345 reqs (0.1/s) | block rate 15%
+2026-09-30 05:56:46,377 INFO maps_url_scraper.engine | progress 168/300 assigned | 742 queries done | +903 places | +0 urls | 345 reqs (0.1/s) | block rate 15%
+2026-09-30 05:57:01,377 INFO maps_url_scraper.engine | progress 168/300 assigned | 742 queries done | +903 places | +0 urls | 345 reqs (0.1/s) | block rate 15%
+2026-09-30 05:57:08,413 WARNING maps_url_scraper.worker15 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Clothing alteration service in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Clothing+alteration+service+in+McMullen%2C+AL&pb=%211sClothing%2Balt
+2026-09-30 05:57:10,122 WARNING maps_url_scraper.worker10 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='City courthouse in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=City+courthouse+in+McMullen%2C+AL&pb=%211sCity%2Bcourthouse%2Bin%2BM
+2026-09-30 05:57:12,134 WARNING maps_url_scraper.worker16 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Civil police in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Civil+police+in+McMullen%2C+AL&pb=%211sCivil%2Bpolice%2Bin%2BMcMulle
+2026-09-30 05:57:16,378 INFO maps_url_scraper.engine | progress 168/300 assigned | 742 queries done | +903 places | +0 urls | 348 reqs (0.1/s) | block rate 16%
+2026-09-30 05:57:31,378 INFO maps_url_scraper.engine | progress 168/300 assigned | 742 queries done | +903 places | +0 urls | 348 reqs (0.1/s) | block rate 16%
+2026-09-30 05:57:46,378 INFO maps_url_scraper.engine | progress 168/300 assigned | 742 queries done | +903 places | +0 urls | 348 reqs (0.1/s) | block rate 16%
+2026-09-30 05:58:01,379 INFO maps_url_scraper.engine | progress 168/300 assigned | 742 queries done | +903 places | +0 urls | 348 reqs (0.1/s) | block rate 16%
+2026-09-30 05:58:16,379 INFO maps_url_scraper.engine | progress 168/300 assigned | 742 queries done | +903 places | +0 urls | 348 reqs (0.1/s) | block rate 16%
+2026-09-30 05:58:16,969 DEBUG maps_url_scraper.worker20 | ok page=1 attempt=1 proxy=direct q="City clerk's office in McMullen, AL"
+2026-09-30 05:58:16,969 INFO maps_url_scraper.worker20 |   1 places | City clerk's office in McMullen, AL
+2026-09-30 05:58:19,823 DEBUG maps_url_scraper.worker11 | ok page=0 attempt=1 proxy=direct q='Classified ads newspaper publisher in McMullen, AL'
+2026-09-30 05:58:22,645 DEBUG maps_url_scraper.worker3 | ok page=1 attempt=1 proxy=direct q='City department of transportation in McMullen, AL'
+2026-09-30 05:58:22,645 INFO maps_url_scraper.worker3 |   1 places | City department of transportation in McMullen, AL
+2026-09-30 05:58:23,959 DEBUG maps_url_scraper.worker19 | ok page=0 attempt=1 proxy=direct q='Cleaners in McMullen, AL'
+2026-09-30 05:58:25,768 DEBUG maps_url_scraper.worker24 | ok page=0 attempt=1 proxy=direct q='Cleaning products supplier in McMullen, AL'
+2026-09-30 05:58:28,283 DEBUG maps_url_scraper.worker4 | ok page=0 attempt=1 proxy=direct q='Clergyman in McMullen, AL'
+2026-09-30 05:58:28,284 INFO maps_url_scraper.worker4 |   0 places | Clergyman in McMullen, AL
+2026-09-30 05:58:30,257 DEBUG maps_url_scraper.worker21 | ok page=0 attempt=1 proxy=direct q='Clock and watch maker in McMullen, AL'
+2026-09-30 05:58:31,380 INFO maps_url_scraper.engine | progress 171/300 assigned | 745 queries done | +911 places | +0 urls | 355 reqs (0.1/s) | block rate 15%
+2026-09-30 05:58:32,127 DEBUG maps_url_scraper.worker18 | ok page=0 attempt=1 proxy=direct q='Clock repair service in McMullen, AL'
+2026-09-30 05:58:34,752 DEBUG maps_url_scraper.worker13 | ok page=1 attempt=1 proxy=direct q='City or town hall in McMullen, AL'
+2026-09-30 05:58:34,753 INFO maps_url_scraper.worker13 |   7 places | City or town hall in McMullen, AL
+2026-09-30 05:58:36,113 DEBUG maps_url_scraper.worker5 | ok page=1 attempt=1 proxy=direct q='City park in McMullen, AL'
+2026-09-30 05:58:36,113 INFO maps_url_scraper.worker5 |   8 places | City park in McMullen, AL
+2026-09-30 05:58:37,570 DEBUG maps_url_scraper.worker14 | ok page=0 attempt=1 proxy=direct q='Closed circuit television in McMullen, AL'
+2026-09-30 05:58:37,570 INFO maps_url_scraper.worker14 |   0 places | Closed circuit television in McMullen, AL
+2026-09-30 05:58:40,218 DEBUG maps_url_scraper.worker8 | ok page=0 attempt=1 proxy=direct q='Clothes and fabric manufacturer in McMullen, AL'
+2026-09-30 05:58:41,327 DEBUG maps_url_scraper.worker12 | ok page=1 attempt=1 proxy=direct q='City pillar shrine in McMullen, AL'
+2026-09-30 05:58:41,327 INFO maps_url_scraper.worker12 |   1 places | City pillar shrine in McMullen, AL
+2026-09-30 05:58:44,012 DEBUG maps_url_scraper.worker23 | ok page=1 attempt=1 proxy=direct q='City tax office in McMullen, AL'
+2026-09-30 05:58:44,012 INFO maps_url_scraper.worker23 |   1 places | City tax office in McMullen, AL
+2026-09-30 05:58:45,502 DEBUG maps_url_scraper.worker9 | ok page=1 attempt=1 proxy=direct q='Civic center in McMullen, AL'
+2026-09-30 05:58:45,502 INFO maps_url_scraper.worker9 |  13 places | Civic center in McMullen, AL
+2026-09-30 05:58:46,380 INFO maps_url_scraper.engine | progress 177/300 assigned | 751 queries done | +913 places | +0 urls | 363 reqs (0.1/s) | block rate 15%
+2026-09-30 05:58:47,334 DEBUG maps_url_scraper.worker22 | ok page=1 attempt=1 proxy=direct q='Civil defense in McMullen, AL'
+2026-09-30 05:58:47,334 INFO maps_url_scraper.worker22 |   1 places | Civil defense in McMullen, AL
+2026-09-30 05:58:49,314 DEBUG maps_url_scraper.worker7 | ok page=1 attempt=1 proxy=direct q='Civil engineer in McMullen, AL'
+2026-09-30 05:58:49,314 INFO maps_url_scraper.worker7 |   7 places | Civil engineer in McMullen, AL
+2026-09-30 05:59:01,380 INFO maps_url_scraper.engine | progress 179/300 assigned | 753 queries done | +913 places | +0 urls | 365 reqs (0.1/s) | block rate 15%
+2026-09-30 05:59:16,381 INFO maps_url_scraper.engine | progress 179/300 assigned | 753 queries done | +913 places | +0 urls | 365 reqs (0.1/s) | block rate 15%
