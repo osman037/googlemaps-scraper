@@ -69,6 +69,7 @@ jobs:
             --rotate-per-request
 
       - name: Commit state and collected URLs
+        if: always()                # even a failed run must not lose progress
         run: |
           git config user.name "scraper-bot"
           git config user.email "actions@github.com"

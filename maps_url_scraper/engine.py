@@ -302,8 +302,9 @@ def _run_inner(settings: Settings, db: Database) -> int:
         ctx.stop.set()
     finally:
         ctx.stop.set()
-        for _ in workers:
-            ctx.task_queue.put(None)
+        # workers poll next_query(), so no poison-pill queue is needed:
+        # stop.set() makes every worker exit, then we drain the shutdown
+        # path - writer flush, final state commit, summary
         for worker in workers:
             worker.join(timeout=60)
         ctx.writer.close()
