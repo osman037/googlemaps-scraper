@@ -3858,3 +3858,46 @@
 2026-09-30 05:13:31,306 INFO maps_url_scraper.engine | progress 79/300 assigned | 653 queries done | +462 places | +0 urls | 165 reqs (0.1/s) | block rate 26%
 2026-09-30 05:13:46,307 INFO maps_url_scraper.engine | progress 79/300 assigned | 653 queries done | +462 places | +0 urls | 165 reqs (0.1/s) | block rate 26%
 2026-09-30 05:14:01,307 INFO maps_url_scraper.engine | progress 79/300 assigned | 653 queries done | +462 places | +0 urls | 165 reqs (0.1/s) | block rate 26%
+2026-09-30 05:14:15,338 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-30 05:14:16,307 INFO maps_url_scraper.engine | progress 79/300 assigned | 653 queries done | +462 places | +0 urls | 165 reqs (0.1/s) | block rate 26%
+2026-09-30 05:14:31,308 INFO maps_url_scraper.engine | progress 79/300 assigned | 653 queries done | +462 places | +0 urls | 165 reqs (0.1/s) | block rate 26%
+2026-09-30 05:14:46,308 INFO maps_url_scraper.engine | progress 79/300 assigned | 653 queries done | +462 places | +0 urls | 165 reqs (0.1/s) | block rate 26%
+2026-09-30 05:15:01,309 INFO maps_url_scraper.engine | progress 79/300 assigned | 653 queries done | +462 places | +0 urls | 165 reqs (0.1/s) | block rate 26%
+2026-09-30 05:15:09,262 DEBUG maps_url_scraper.worker16 | ok page=0 attempt=2 proxy=direct q='Chevrolet dealer in McMullen, AL'
+2026-09-30 05:15:10,773 DEBUG maps_url_scraper.worker24 | ok page=0 attempt=2 proxy=direct q='Chemistry lab in McMullen, AL'
+2026-09-30 05:15:11,910 DEBUG maps_url_scraper.worker3 | ok page=3 attempt=2 proxy=direct q='Cemetery in McMullen, AL'
+2026-09-30 05:15:11,910 INFO maps_url_scraper.worker3 |  45 places | Cemetery in McMullen, AL
+2026-09-30 05:15:13,533 DEBUG maps_url_scraper.worker6 | ok page=0 attempt=1 proxy=direct q='Childbirth class in McMullen, AL'
+2026-09-30 05:15:15,031 DEBUG maps_url_scraper.worker20 | ok page=0 attempt=2 proxy=direct q='Chesapeake restaurant in McMullen, AL'
+2026-09-30 05:15:15,031 INFO maps_url_scraper.worker20 |   0 places | Chesapeake restaurant in McMullen, AL
+2026-09-30 05:15:16,309 INFO maps_url_scraper.engine | progress 81/300 assigned | 655 queries done | +479 places | +0 urls | 170 reqs (0.1/s) | block rate 25%
+2026-09-30 05:15:16,697 DEBUG maps_url_scraper.worker14 | ok page=0 attempt=1 proxy=direct q='Children hall in McMullen, AL'
+2026-09-30 05:15:16,697 INFO maps_url_scraper.worker14 |   0 places | Children hall in McMullen, AL
+2026-09-30 05:15:18,537 DEBUG maps_url_scraper.worker21 | ok page=1 attempt=1 proxy=direct q='Chess instructor in McMullen, AL'
+2026-09-30 05:15:18,537 INFO maps_url_scraper.worker21 |   1 places | Chess instructor in McMullen, AL
+2026-09-30 05:15:20,275 DEBUG maps_url_scraper.worker10 | ok page=1 attempt=2 proxy=direct q='Cheesesteak restaurant in McMullen, AL'
+2026-09-30 05:15:20,275 INFO maps_url_scraper.worker10 |  17 places | Cheesesteak restaurant in McMullen, AL
+2026-09-30 05:15:21,519 DEBUG maps_url_scraper.worker5 | ok page=1 attempt=1 proxy=direct q='Chettinad restaurant in McMullen, AL'
+2026-09-30 05:15:21,519 INFO maps_url_scraper.worker5 |   1 places | Chettinad restaurant in McMullen, AL
+2026-09-30 05:15:23,101 DEBUG maps_url_scraper.worker15 | ok page=0 attempt=2 proxy=direct q='Chicken shop in McMullen, AL'
+2026-09-30 05:15:24,895 DEBUG maps_url_scraper.worker19 | ok page=1 attempt=2 proxy=direct q='Chemical plant in McMullen, AL'
+2026-09-30 05:15:24,895 INFO maps_url_scraper.worker19 |   8 places | Chemical plant in McMullen, AL
+2026-09-30 05:15:26,336 DEBUG maps_url_scraper.worker18 | ok page=1 attempt=1 proxy=direct q='Chess and card club in McMullen, AL'
+2026-09-30 05:15:26,336 INFO maps_url_scraper.worker18 |   2 places | Chess and card club in McMullen, AL
+2026-09-30 05:15:27,510 DEBUG maps_url_scraper.worker12 | ok page=1 attempt=1 proxy=direct q='Chess club in McMullen, AL'
+2026-09-30 05:15:27,510 INFO maps_url_scraper.worker12 |   5 places | Chess club in McMullen, AL
+2026-09-30 05:15:31,309 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
+2026-09-30 05:15:46,310 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
+2026-09-30 05:16:01,310 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
+2026-09-30 05:16:16,311 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
+2026-09-30 05:16:31,311 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
+2026-09-30 05:16:46,311 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
+2026-09-30 05:17:01,312 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
+2026-09-30 05:17:16,312 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
+2026-09-30 05:17:31,313 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
+2026-09-30 05:17:46,313 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
+2026-09-30 05:18:01,313 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
+2026-09-30 05:18:16,314 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
+2026-09-30 05:18:31,314 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
+2026-09-30 05:18:46,315 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
+2026-09-30 05:19:01,315 INFO maps_url_scraper.engine | progress 88/300 assigned | 662 queries done | +490 places | +0 urls | 178 reqs (0.1/s) | block rate 24%
