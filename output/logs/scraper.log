@@ -4349,3 +4349,57 @@
 2026-09-30 05:58:49,314 INFO maps_url_scraper.worker7 |   7 places | Civil engineer in McMullen, AL
 2026-09-30 05:59:01,380 INFO maps_url_scraper.engine | progress 179/300 assigned | 753 queries done | +913 places | +0 urls | 365 reqs (0.1/s) | block rate 15%
 2026-09-30 05:59:16,381 INFO maps_url_scraper.engine | progress 179/300 assigned | 753 queries done | +913 places | +0 urls | 365 reqs (0.1/s) | block rate 15%
+2026-09-30 05:59:31,381 INFO maps_url_scraper.engine | progress 179/300 assigned | 753 queries done | +913 places | +0 urls | 365 reqs (0.1/s) | block rate 15%
+2026-09-30 05:59:32,455 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-30 05:59:46,381 INFO maps_url_scraper.engine | progress 179/300 assigned | 753 queries done | +913 places | +0 urls | 365 reqs (0.1/s) | block rate 15%
+2026-09-30 06:00:01,382 INFO maps_url_scraper.engine | progress 179/300 assigned | 753 queries done | +913 places | +0 urls | 365 reqs (0.1/s) | block rate 15%
+2026-09-30 06:00:16,382 INFO maps_url_scraper.engine | progress 179/300 assigned | 753 queries done | +913 places | +0 urls | 365 reqs (0.1/s) | block rate 15%
+2026-09-30 06:00:16,656 DEBUG maps_url_scraper.worker6 | ok page=0 attempt=1 proxy=direct q='Clothes and fabric wholesaler in McMullen, AL'
+2026-09-30 06:00:19,485 DEBUG maps_url_scraper.worker2 | ok page=0 attempt=1 proxy=direct q='Clothes market in McMullen, AL'
+2026-09-30 06:00:20,919 DEBUG maps_url_scraper.worker17 | ok page=1 attempt=1 proxy=direct q='Civil engineering company in McMullen, AL'
+2026-09-30 06:00:20,920 INFO maps_url_scraper.worker17 |   1 places | Civil engineering company in McMullen, AL
+2026-09-30 06:00:25,978 DEBUG maps_url_scraper.worker1 | ok page=1 attempt=1 proxy=direct q='Civil law attorney in McMullen, AL'
+2026-09-30 06:00:25,978 INFO maps_url_scraper.worker1 |   1 places | Civil law attorney in McMullen, AL
+2026-09-30 06:00:31,382 INFO maps_url_scraper.engine | progress 181/300 assigned | 755 queries done | +917 places | +0 urls | 369 reqs (0.1/s) | block rate 15%
+2026-09-30 06:00:46,383 INFO maps_url_scraper.engine | progress 181/300 assigned | 755 queries done | +917 places | +0 urls | 369 reqs (0.1/s) | block rate 15%
+2026-09-30 06:01:01,383 INFO maps_url_scraper.engine | progress 181/300 assigned | 755 queries done | +917 places | +0 urls | 369 reqs (0.1/s) | block rate 15%
+2026-09-30 06:01:16,384 INFO maps_url_scraper.engine | progress 181/300 assigned | 755 queries done | +917 places | +0 urls | 369 reqs (0.1/s) | block rate 15%
+2026-09-30 06:01:31,384 INFO maps_url_scraper.engine | progress 181/300 assigned | 755 queries done | +917 places | +0 urls | 369 reqs (0.1/s) | block rate 15%
+2026-09-30 06:01:46,384 INFO maps_url_scraper.engine | progress 181/300 assigned | 755 queries done | +917 places | +0 urls | 369 reqs (0.1/s) | block rate 15%
+2026-09-30 06:02:01,385 INFO maps_url_scraper.engine | progress 181/300 assigned | 755 queries done | +917 places | +0 urls | 369 reqs (0.1/s) | block rate 15%
+2026-09-30 06:02:16,385 INFO maps_url_scraper.engine | progress 181/300 assigned | 755 queries done | +917 places | +0 urls | 369 reqs (0.1/s) | block rate 15%
+2026-09-30 06:02:31,386 INFO maps_url_scraper.engine | progress 181/300 assigned | 755 queries done | +917 places | +0 urls | 369 reqs (0.1/s) | block rate 15%
+2026-09-30 06:02:46,386 INFO maps_url_scraper.engine | progress 181/300 assigned | 755 queries done | +917 places | +0 urls | 369 reqs (0.1/s) | block rate 15%
+2026-09-30 06:03:01,386 INFO maps_url_scraper.engine | progress 181/300 assigned | 755 queries done | +917 places | +0 urls | 369 reqs (0.1/s) | block rate 15%
+2026-09-30 06:03:16,387 INFO maps_url_scraper.engine | progress 181/300 assigned | 755 queries done | +917 places | +0 urls | 369 reqs (0.1/s) | block rate 15%
+2026-09-30 06:03:17,441 DEBUG maps_url_scraper.worker20 | ok page=0 attempt=1 proxy=direct q='Clothing store in McMullen, AL'
+2026-09-30 06:03:21,896 DEBUG maps_url_scraper.worker11 | ok page=1 attempt=1 proxy=direct q='Classified ads newspaper publisher in McMullen, AL'
+2026-09-30 06:03:21,896 INFO maps_url_scraper.worker11 |   1 places | Classified ads newspaper publisher in McMullen, AL
+2026-09-30 06:03:23,539 DEBUG maps_url_scraper.worker3 | ok page=0 attempt=1 proxy=direct q='Clothing supplier in McMullen, AL'
+2026-09-30 06:03:25,610 DEBUG maps_url_scraper.worker19 | ok page=1 attempt=1 proxy=direct q='Cleaners in McMullen, AL'
+2026-09-30 06:03:25,610 INFO maps_url_scraper.worker19 |   1 places | Cleaners in McMullen, AL
+2026-09-30 06:03:27,941 DEBUG maps_url_scraper.worker24 | ok page=1 attempt=1 proxy=direct q='Cleaning products supplier in McMullen, AL'
+2026-09-30 06:03:27,941 INFO maps_url_scraper.worker24 |   2 places | Cleaning products supplier in McMullen, AL
+2026-09-30 06:03:29,592 DEBUG maps_url_scraper.worker4 | ok page=0 attempt=1 proxy=direct q='Clothing wholesale market place in McMullen, AL'
+2026-09-30 06:03:31,387 INFO maps_url_scraper.engine | progress 184/300 assigned | 758 queries done | +927 places | +0 urls | 375 reqs (0.1/s) | block rate 14%
+2026-09-30 06:03:32,070 DEBUG maps_url_scraper.worker21 | ok page=1 attempt=1 proxy=direct q='Clock and watch maker in McMullen, AL'
+2026-09-30 06:03:32,070 INFO maps_url_scraper.worker21 |   5 places | Clock and watch maker in McMullen, AL
+2026-09-30 06:03:33,832 DEBUG maps_url_scraper.worker18 | ok page=1 attempt=1 proxy=direct q='Clock repair service in McMullen, AL'
+2026-09-30 06:03:33,832 INFO maps_url_scraper.worker18 |   1 places | Clock repair service in McMullen, AL
+2026-09-30 06:03:35,314 DEBUG maps_url_scraper.worker13 | ok page=0 attempt=1 proxy=direct q='Clothing wholesaler in McMullen, AL'
+2026-09-30 06:03:35,314 INFO maps_url_scraper.worker13 |   0 places | Clothing wholesaler in McMullen, AL
+2026-09-30 06:03:37,020 DEBUG maps_url_scraper.worker5 | ok page=0 attempt=1 proxy=direct q='Club in McMullen, AL'
+2026-09-30 06:03:37,779 DEBUG maps_url_scraper.worker14 | ok page=0 attempt=1 proxy=direct q='CNG fitment center in McMullen, AL'
+2026-09-30 06:03:37,779 INFO maps_url_scraper.worker14 |   0 places | CNG fitment center in McMullen, AL
+2026-09-30 06:03:41,607 DEBUG maps_url_scraper.worker12 | ok page=0 attempt=1 proxy=direct q='Co-ed school in McMullen, AL'
+2026-09-30 06:03:43,465 DEBUG maps_url_scraper.worker8 | ok page=1 attempt=1 proxy=direct q='Clothes and fabric manufacturer in McMullen, AL'
+2026-09-30 06:03:43,465 INFO maps_url_scraper.worker8 |   1 places | Clothes and fabric manufacturer in McMullen, AL
+2026-09-30 06:03:45,231 DEBUG maps_url_scraper.worker23 | ok page=0 attempt=1 proxy=direct q='Coaching center in McMullen, AL'
+2026-09-30 06:03:46,387 INFO maps_url_scraper.engine | progress 189/300 assigned | 763 queries done | +933 places | +0 urls | 383 reqs (0.1/s) | block rate 14%
+2026-09-30 06:03:46,773 DEBUG maps_url_scraper.worker9 | ok page=0 attempt=1 proxy=direct q='Coal exporter in McMullen, AL'
+2026-09-30 06:03:48,656 DEBUG maps_url_scraper.worker22 | ok page=0 attempt=1 proxy=direct q='Coal supplier in McMullen, AL'
+2026-09-30 06:03:50,024 DEBUG maps_url_scraper.worker7 | ok page=0 attempt=1 proxy=direct q='Coalfield in McMullen, AL'
+2026-09-30 06:03:50,025 INFO maps_url_scraper.worker7 |   0 places | Coalfield in McMullen, AL
+2026-09-30 06:04:01,388 INFO maps_url_scraper.engine | progress 190/300 assigned | 764 queries done | +934 places | +0 urls | 386 reqs (0.1/s) | block rate 14%
+2026-09-30 06:04:16,388 INFO maps_url_scraper.engine | progress 190/300 assigned | 764 queries done | +934 places | +0 urls | 386 reqs (0.1/s) | block rate 14%
+2026-09-30 06:04:31,389 INFO maps_url_scraper.engine | progress 190/300 assigned | 764 queries done | +934 places | +0 urls | 386 reqs (0.1/s) | block rate 14%
