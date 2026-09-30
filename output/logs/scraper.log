@@ -3049,3 +3049,53 @@
 2026-09-30 00:05:31,056 INFO maps_url_scraper.engine | progress 253/300 assigned | 528 queries done | +1691 places | +0 urls | 533 reqs (0.1/s) | block rate 12%
 2026-09-30 00:05:46,057 INFO maps_url_scraper.engine | progress 253/300 assigned | 528 queries done | +1691 places | +0 urls | 533 reqs (0.1/s) | block rate 12%
 2026-09-30 00:06:01,057 INFO maps_url_scraper.engine | progress 253/300 assigned | 528 queries done | +1691 places | +0 urls | 533 reqs (0.1/s) | block rate 12%
+2026-09-30 00:06:12,916 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-30 00:06:16,058 INFO maps_url_scraper.engine | progress 253/300 assigned | 528 queries done | +1691 places | +0 urls | 533 reqs (0.1/s) | block rate 12%
+2026-09-30 00:06:31,058 INFO maps_url_scraper.engine | progress 253/300 assigned | 528 queries done | +1691 places | +0 urls | 533 reqs (0.1/s) | block rate 12%
+2026-09-30 00:06:37,702 DEBUG maps_url_scraper.worker3 | ok page=1 attempt=1 proxy=direct q='Cabinet maker in McMullen, AL'
+2026-09-30 00:06:38,303 WARNING maps_url_scraper.worker9 | block on proxy=http://scraperapi:***@proxy-server.scraperapi.com:8001 (attempt 1/4) q='Cafe in McMullen, AL' final_url=https://www.google.com/search?tbm=map&hl=en&gl=us&q=Cafe+in+McMullen%2C+AL&pb=%211sCafe%2Bin%2BMcMullen%252C%2BAL%217i20
+2026-09-30 00:06:46,059 INFO maps_url_scraper.engine | progress 253/300 assigned | 528 queries done | +1694 places | +0 urls | 535 reqs (0.1/s) | block rate 12%
+2026-09-30 00:06:46,267 DEBUG maps_url_scraper.worker17 | ok page=1 attempt=1 proxy=direct q='Cabinet store in McMullen, AL'
+2026-09-30 00:06:47,335 DEBUG maps_url_scraper.worker4 | ok page=1 attempt=1 proxy=direct q='Cable company in McMullen, AL'
+2026-09-30 00:06:47,335 INFO maps_url_scraper.worker4 |   4 places | Cable company in McMullen, AL
+2026-09-30 00:06:48,748 DEBUG maps_url_scraper.worker15 | ok page=1 attempt=1 proxy=direct q='Cadillac dealer in McMullen, AL'
+2026-09-30 00:06:48,748 INFO maps_url_scraper.worker15 |   8 places | Cadillac dealer in McMullen, AL
+2026-09-30 00:06:50,478 DEBUG maps_url_scraper.worker8 | ok page=0 attempt=1 proxy=direct q='Cambodian restaurant in McMullen, AL'
+2026-09-30 00:06:51,818 DEBUG maps_url_scraper.worker10 | ok page=0 attempt=1 proxy=direct q='Camera repair shop in McMullen, AL'
+2026-09-30 00:06:55,512 DEBUG maps_url_scraper.worker23 | ok page=0 attempt=1 proxy=direct q='Camper shell supplier in McMullen, AL'
+2026-09-30 00:06:56,943 DEBUG maps_url_scraper.worker2 | ok page=0 attempt=1 proxy=direct q='Campground in McMullen, AL'
+2026-09-30 00:07:00,458 DEBUG maps_url_scraper.worker20 | ok page=0 attempt=1 proxy=direct q='Camping cabin in McMullen, AL'
+2026-09-30 00:07:01,059 INFO maps_url_scraper.engine | progress 255/300 assigned | 530 queries done | +1737 places | +0 urls | 543 reqs (0.1/s) | block rate 12%
+2026-09-30 00:07:03,184 DEBUG maps_url_scraper.worker11 | ok page=0 attempt=1 proxy=direct q='Camping farm in McMullen, AL'
+2026-09-30 00:07:05,153 DEBUG maps_url_scraper.worker22 | ok page=0 attempt=1 proxy=direct q='Camping store in McMullen, AL'
+2026-09-30 00:07:06,148 DEBUG maps_url_scraper.worker12 | ok page=0 attempt=1 proxy=direct q='Canadian restaurant in McMullen, AL'
+2026-09-30 00:07:06,148 INFO maps_url_scraper.worker12 |   0 places | Canadian restaurant in McMullen, AL
+2026-09-30 00:07:08,019 DEBUG maps_url_scraper.worker18 | ok page=1 attempt=1 proxy=direct q='Cajun restaurant in McMullen, AL'
+2026-09-30 00:07:08,020 INFO maps_url_scraper.worker18 |  14 places | Cajun restaurant in McMullen, AL
+2026-09-30 00:07:11,124 DEBUG maps_url_scraper.worker13 | ok page=0 attempt=1 proxy=direct q='Cancer treatment center in McMullen, AL'
+2026-09-30 00:07:12,529 DEBUG maps_url_scraper.worker24 | ok page=1 attempt=1 proxy=direct q='Californian restaurant in McMullen, AL'
+2026-09-30 00:07:12,529 INFO maps_url_scraper.worker24 |   1 places | Californian restaurant in McMullen, AL
+2026-09-30 00:07:14,282 DEBUG maps_url_scraper.worker5 | ok page=0 attempt=1 proxy=direct q='Candle store in McMullen, AL'
+2026-09-30 00:07:16,059 INFO maps_url_scraper.engine | progress 258/300 assigned | 533 queries done | +1773 places | +0 urls | 550 reqs (0.1/s) | block rate 12%
+2026-09-30 00:07:17,458 DEBUG maps_url_scraper.worker1 | ok page=1 attempt=1 proxy=direct q='Calligraphy lesson in McMullen, AL'
+2026-09-30 00:07:17,458 INFO maps_url_scraper.worker1 |   2 places | Calligraphy lesson in McMullen, AL
+2026-09-30 00:07:17,534 DEBUG maps_url_scraper.worker19 | ok page=2 attempt=1 proxy=direct q='Butcher shop in McMullen, AL'
+2026-09-30 00:07:17,535 INFO maps_url_scraper.worker19 |  31 places | Butcher shop in McMullen, AL
+2026-09-30 00:07:19,037 DEBUG maps_url_scraper.worker14 | ok page=0 attempt=1 proxy=direct q='Cane furniture store in McMullen, AL'
+2026-09-30 00:07:20,800 DEBUG maps_url_scraper.worker7 | ok page=1 attempt=1 proxy=direct q='Calvary Chapel church in McMullen, AL'
+2026-09-30 00:07:20,801 INFO maps_url_scraper.worker7 |   8 places | Calvary Chapel church in McMullen, AL
+2026-09-30 00:07:31,060 INFO maps_url_scraper.engine | progress 261/300 assigned | 536 queries done | +1774 places | +0 urls | 554 reqs (0.1/s) | block rate 12%
+2026-09-30 00:07:46,060 INFO maps_url_scraper.engine | progress 261/300 assigned | 536 queries done | +1774 places | +0 urls | 554 reqs (0.1/s) | block rate 12%
+2026-09-30 00:08:01,061 INFO maps_url_scraper.engine | progress 261/300 assigned | 536 queries done | +1774 places | +0 urls | 554 reqs (0.1/s) | block rate 12%
+2026-09-30 00:08:16,061 INFO maps_url_scraper.engine | progress 261/300 assigned | 536 queries done | +1774 places | +0 urls | 554 reqs (0.1/s) | block rate 12%
+2026-09-30 00:08:31,062 INFO maps_url_scraper.engine | progress 261/300 assigned | 536 queries done | +1774 places | +0 urls | 554 reqs (0.1/s) | block rate 12%
+2026-09-30 00:08:46,062 INFO maps_url_scraper.engine | progress 261/300 assigned | 536 queries done | +1774 places | +0 urls | 554 reqs (0.1/s) | block rate 12%
+2026-09-30 00:09:01,062 INFO maps_url_scraper.engine | progress 261/300 assigned | 536 queries done | +1774 places | +0 urls | 554 reqs (0.1/s) | block rate 12%
+2026-09-30 00:09:16,063 INFO maps_url_scraper.engine | progress 261/300 assigned | 536 queries done | +1774 places | +0 urls | 554 reqs (0.1/s) | block rate 12%
+2026-09-30 00:09:31,063 INFO maps_url_scraper.engine | progress 261/300 assigned | 536 queries done | +1774 places | +0 urls | 554 reqs (0.1/s) | block rate 12%
+2026-09-30 00:09:46,063 INFO maps_url_scraper.engine | progress 261/300 assigned | 536 queries done | +1774 places | +0 urls | 554 reqs (0.1/s) | block rate 12%
+2026-09-30 00:10:01,064 INFO maps_url_scraper.engine | progress 261/300 assigned | 536 queries done | +1774 places | +0 urls | 554 reqs (0.1/s) | block rate 12%
+2026-09-30 00:10:16,064 INFO maps_url_scraper.engine | progress 261/300 assigned | 536 queries done | +1774 places | +0 urls | 554 reqs (0.1/s) | block rate 12%
+2026-09-30 00:10:31,065 INFO maps_url_scraper.engine | progress 261/300 assigned | 536 queries done | +1774 places | +0 urls | 554 reqs (0.1/s) | block rate 12%
+2026-09-30 00:10:46,065 INFO maps_url_scraper.engine | progress 261/300 assigned | 536 queries done | +1774 places | +0 urls | 554 reqs (0.1/s) | block rate 12%
+2026-09-30 00:11:01,066 INFO maps_url_scraper.engine | progress 261/300 assigned | 536 queries done | +1774 places | +0 urls | 554 reqs (0.1/s) | block rate 12%
