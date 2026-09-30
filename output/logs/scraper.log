@@ -3702,3 +3702,61 @@
 2026-09-30 04:58:31,281 INFO maps_url_scraper.engine | progress 55/300 assigned | 629 queries done | +324 places | +0 urls | 98 reqs (0.1/s) | block rate 24%
 2026-09-30 04:58:46,282 INFO maps_url_scraper.engine | progress 55/300 assigned | 629 queries done | +324 places | +0 urls | 98 reqs (0.1/s) | block rate 24%
 2026-09-30 04:59:01,282 INFO maps_url_scraper.engine | progress 55/300 assigned | 629 queries done | +324 places | +0 urls | 98 reqs (0.1/s) | block rate 24%
+2026-09-30 04:59:08,928 DEBUG maps_url_scraper.worker8 | ok page=0 attempt=1 proxy=direct q='Chamber of handicrafts in McMullen, AL'
+2026-09-30 04:59:08,929 INFO maps_url_scraper.worker8 |   0 places | Chamber of handicrafts in McMullen, AL
+2026-09-30 04:59:10,036 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-30 04:59:12,618 DEBUG maps_url_scraper.worker10 | ok page=1 attempt=1 proxy=direct q='Central American restaurant in McMullen, AL'
+2026-09-30 04:59:12,619 INFO maps_url_scraper.worker10 |   1 places | Central American restaurant in McMullen, AL
+2026-09-30 04:59:14,124 DEBUG maps_url_scraper.worker7 | ok page=1 attempt=1 proxy=direct q='Central bank in McMullen, AL'
+2026-09-30 04:59:14,125 INFO maps_url_scraper.worker7 |   1 places | Central bank in McMullen, AL
+2026-09-30 04:59:15,852 DEBUG maps_url_scraper.worker9 | ok page=1 attempt=1 proxy=direct q='Central European restaurant in McMullen, AL'
+2026-09-30 04:59:15,853 INFO maps_url_scraper.worker9 |   1 places | Central European restaurant in McMullen, AL
+2026-09-30 04:59:16,282 INFO maps_url_scraper.engine | progress 59/300 assigned | 633 queries done | +324 places | +0 urls | 102 reqs (0.1/s) | block rate 24%
+2026-09-30 04:59:31,283 INFO maps_url_scraper.engine | progress 59/300 assigned | 633 queries done | +324 places | +0 urls | 102 reqs (0.1/s) | block rate 24%
+2026-09-30 04:59:46,283 INFO maps_url_scraper.engine | progress 59/300 assigned | 633 queries done | +324 places | +0 urls | 102 reqs (0.1/s) | block rate 24%
+2026-09-30 05:00:01,284 INFO maps_url_scraper.engine | progress 59/300 assigned | 633 queries done | +324 places | +0 urls | 102 reqs (0.1/s) | block rate 24%
+2026-09-30 05:00:06,665 DEBUG maps_url_scraper.worker5 | ok page=0 attempt=1 proxy=direct q='Champon noodle restaurant in McMullen, AL'
+2026-09-30 05:00:10,686 DEBUG maps_url_scraper.worker4 | ok page=2 attempt=1 proxy=direct q='Cell phone accessory store in McMullen, AL'
+2026-09-30 05:00:10,686 INFO maps_url_scraper.worker4 |  21 places | Cell phone accessory store in McMullen, AL
+2026-09-30 05:00:11,760 DEBUG maps_url_scraper.worker19 | ok page=0 attempt=1 proxy=direct q='Chanko restaurant in McMullen, AL'
+2026-09-30 05:00:11,761 INFO maps_url_scraper.worker19 |   0 places | Chanko restaurant in McMullen, AL
+2026-09-30 05:00:12,902 DEBUG maps_url_scraper.worker16 | ok page=0 attempt=1 proxy=direct q='Chapel in McMullen, AL'
+2026-09-30 05:00:15,803 DEBUG maps_url_scraper.worker17 | ok page=2 attempt=1 proxy=direct q='Catholic church in McMullen, AL'
+2026-09-30 05:00:15,803 INFO maps_url_scraper.worker17 |  22 places | Catholic church in McMullen, AL
+2026-09-30 05:00:16,284 INFO maps_url_scraper.engine | progress 62/300 assigned | 636 queries done | +329 places | +0 urls | 107 reqs (0.1/s) | block rate 22%
+2026-09-30 05:00:18,116 DEBUG maps_url_scraper.worker1 | ok page=4 attempt=1 proxy=direct q='Car battery store in McMullen, AL'
+2026-09-30 05:00:19,548 DEBUG maps_url_scraper.worker15 | ok page=0 attempt=1 proxy=direct q='Charcuterie in McMullen, AL'
+2026-09-30 05:00:20,900 DEBUG maps_url_scraper.worker2 | ok page=2 attempt=1 proxy=direct q='Cell phone charging station in McMullen, AL'
+2026-09-30 05:00:31,285 INFO maps_url_scraper.engine | progress 62/300 assigned | 636 queries done | +365 places | +0 urls | 110 reqs (0.1/s) | block rate 22%
+2026-09-30 05:00:46,285 INFO maps_url_scraper.engine | progress 62/300 assigned | 636 queries done | +365 places | +0 urls | 110 reqs (0.1/s) | block rate 22%
+2026-09-30 05:01:01,285 INFO maps_url_scraper.engine | progress 62/300 assigned | 636 queries done | +365 places | +0 urls | 110 reqs (0.1/s) | block rate 22%
+2026-09-30 05:01:16,286 INFO maps_url_scraper.engine | progress 62/300 assigned | 636 queries done | +365 places | +0 urls | 110 reqs (0.1/s) | block rate 22%
+2026-09-30 05:01:31,286 INFO maps_url_scraper.engine | progress 62/300 assigned | 636 queries done | +365 places | +0 urls | 110 reqs (0.1/s) | block rate 22%
+2026-09-30 05:01:46,287 INFO maps_url_scraper.engine | progress 62/300 assigned | 636 queries done | +365 places | +0 urls | 110 reqs (0.1/s) | block rate 22%
+2026-09-30 05:02:01,287 INFO maps_url_scraper.engine | progress 62/300 assigned | 636 queries done | +365 places | +0 urls | 110 reqs (0.1/s) | block rate 22%
+2026-09-30 05:02:09,460 DEBUG maps_url_scraper.worker22 | ok page=0 attempt=1 proxy=direct q='Charity in McMullen, AL'
+2026-09-30 05:02:11,663 DEBUG maps_url_scraper.worker23 | ok page=0 attempt=1 proxy=direct q='Charter school in McMullen, AL'
+2026-09-30 05:02:14,678 DEBUG maps_url_scraper.worker24 | ok page=1 attempt=1 proxy=direct q='Ceramic manufacturer in McMullen, AL'
+2026-09-30 05:02:14,678 INFO maps_url_scraper.worker24 |   5 places | Ceramic manufacturer in McMullen, AL
+2026-09-30 05:02:16,288 INFO maps_url_scraper.engine | progress 63/300 assigned | 637 queries done | +379 places | +0 urls | 113 reqs (0.1/s) | block rate 21%
+2026-09-30 05:02:16,599 DEBUG maps_url_scraper.worker20 | ok page=1 attempt=1 proxy=direct q='Ceramics wholesaler in McMullen, AL'
+2026-09-30 05:02:16,599 INFO maps_url_scraper.worker20 |   1 places | Ceramics wholesaler in McMullen, AL
+2026-09-30 05:02:18,533 DEBUG maps_url_scraper.worker13 | ok page=0 attempt=1 proxy=direct q='Chartered accountant in McMullen, AL'
+2026-09-30 05:02:19,515 DEBUG maps_url_scraper.worker18 | ok page=1 attempt=1 proxy=direct q='Certified public accountant in McMullen, AL'
+2026-09-30 05:02:19,515 INFO maps_url_scraper.worker18 |  11 places | Certified public accountant in McMullen, AL
+2026-09-30 05:02:20,673 DEBUG maps_url_scraper.worker12 | ok page=1 attempt=1 proxy=direct q='Cha chaan teng (Hong Kong-style cafe) in McMullen, AL'
+2026-09-30 05:02:20,674 INFO maps_url_scraper.worker12 |   1 places | Cha chaan teng (Hong Kong-style cafe) in McMullen, AL
+2026-09-30 05:02:22,608 DEBUG maps_url_scraper.worker11 | ok page=0 attempt=1 proxy=direct q='Chauffeur service in McMullen, AL'
+2026-09-30 05:02:24,480 DEBUG maps_url_scraper.worker14 | ok page=0 attempt=1 proxy=direct q='Check cashing service in McMullen, AL'
+2026-09-30 05:02:25,558 DEBUG maps_url_scraper.worker21 | ok page=1 attempt=1 proxy=direct q='Chamber of Commerce in McMullen, AL'
+2026-09-30 05:02:25,559 INFO maps_url_scraper.worker21 |  20 places | Chamber of Commerce in McMullen, AL
+2026-09-30 05:02:31,288 INFO maps_url_scraper.engine | progress 67/300 assigned | 641 queries done | +410 places | +0 urls | 120 reqs (0.1/s) | block rate 20%
+2026-09-30 05:02:46,289 INFO maps_url_scraper.engine | progress 67/300 assigned | 641 queries done | +410 places | +0 urls | 120 reqs (0.1/s) | block rate 20%
+2026-09-30 05:03:01,289 INFO maps_url_scraper.engine | progress 67/300 assigned | 641 queries done | +410 places | +0 urls | 120 reqs (0.1/s) | block rate 20%
+2026-09-30 05:03:08,477 DEBUG maps_url_scraper.worker6 | ok page=0 attempt=1 proxy=direct q='Cheese manufacturer in McMullen, AL'
+2026-09-30 05:03:12,491 DEBUG maps_url_scraper.worker3 | ok page=2 attempt=1 proxy=direct q='Cemetery in McMullen, AL'
+2026-09-30 05:03:16,289 INFO maps_url_scraper.engine | progress 67/300 assigned | 641 queries done | +416 places | +0 urls | 122 reqs (0.1/s) | block rate 20%
+2026-09-30 05:03:31,290 INFO maps_url_scraper.engine | progress 67/300 assigned | 641 queries done | +416 places | +0 urls | 122 reqs (0.1/s) | block rate 20%
+2026-09-30 05:03:46,290 INFO maps_url_scraper.engine | progress 67/300 assigned | 641 queries done | +416 places | +0 urls | 122 reqs (0.1/s) | block rate 20%
+2026-09-30 05:04:01,291 INFO maps_url_scraper.engine | progress 67/300 assigned | 641 queries done | +416 places | +0 urls | 122 reqs (0.1/s) | block rate 20%
+2026-09-30 05:04:09,287 DEBUG maps_url_scraper.worker8 | ok page=0 attempt=1 proxy=direct q='Cheese shop in McMullen, AL'
