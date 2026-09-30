@@ -3414,3 +3414,27 @@
 2026-09-30 00:40:46,111 INFO maps_url_scraper.engine | progress 300/300 assigned | 597 queries done | +2208 places | +0 urls | 681 reqs (0.1/s) | block rate 10%
 2026-09-30 00:41:01,112 INFO maps_url_scraper.engine | progress 300/300 assigned | 597 queries done | +2208 places | +0 urls | 681 reqs (0.1/s) | block rate 10%
 2026-09-30 00:41:16,112 INFO maps_url_scraper.engine | progress 300/300 assigned | 597 queries done | +2208 places | +0 urls | 681 reqs (0.1/s) | block rate 10%
+2026-09-30 00:41:22,543 INFO maps_url_scraper.engine | periodic commit pushed: state + urls + logs (resumable)
+2026-09-30 00:41:31,113 INFO maps_url_scraper.engine | progress 300/300 assigned | 597 queries done | +2208 places | +0 urls | 681 reqs (0.1/s) | block rate 10%
+2026-09-30 00:41:46,113 INFO maps_url_scraper.engine | progress 300/300 assigned | 597 queries done | +2208 places | +0 urls | 681 reqs (0.1/s) | block rate 10%
+2026-09-30 00:42:01,113 INFO maps_url_scraper.engine | progress 300/300 assigned | 597 queries done | +2208 places | +0 urls | 681 reqs (0.1/s) | block rate 10%
+2026-09-30 00:42:04,178 DEBUG maps_url_scraper.worker10 | ok page=2 attempt=1 proxy=direct q='Carpet store in McMullen, AL'
+2026-09-30 00:42:04,179 INFO maps_url_scraper.worker10 |  26 places | Carpet store in McMullen, AL
+2026-09-30 00:42:16,114 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2208 places | +0 urls | 682 reqs (0.1/s) | block rate 10%
+2026-09-30 00:42:31,114 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2208 places | +0 urls | 682 reqs (0.1/s) | block rate 10%
+2026-09-30 00:42:46,115 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2208 places | +0 urls | 682 reqs (0.1/s) | block rate 10%
+2026-09-30 00:43:01,115 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2208 places | +0 urls | 682 reqs (0.1/s) | block rate 10%
+2026-09-30 00:43:16,115 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2208 places | +0 urls | 682 reqs (0.1/s) | block rate 10%
+2026-09-30 00:43:31,116 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2208 places | +0 urls | 682 reqs (0.1/s) | block rate 10%
+2026-09-30 00:43:46,116 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2208 places | +0 urls | 682 reqs (0.1/s) | block rate 10%
+2026-09-30 00:43:51,720 DEBUG maps_url_scraper.worker12 | ok page=4 attempt=1 proxy=direct q='Car battery store in McMullen, AL'
+2026-09-30 00:44:01,117 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 683 reqs (0.1/s) | block rate 10%
+2026-09-30 00:44:16,117 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 683 reqs (0.1/s) | block rate 10%
+2026-09-30 00:44:31,117 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 683 reqs (0.1/s) | block rate 10%
+2026-09-30 00:44:46,118 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 683 reqs (0.1/s) | block rate 10%
+2026-09-30 00:45:01,118 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 683 reqs (0.1/s) | block rate 10%
+2026-09-30 00:45:16,119 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 683 reqs (0.1/s) | block rate 10%
+2026-09-30 00:45:31,119 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 683 reqs (0.1/s) | block rate 10%
+2026-09-30 00:45:46,119 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 683 reqs (0.1/s) | block rate 10%
+2026-09-30 00:46:01,120 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 683 reqs (0.1/s) | block rate 10%
+2026-09-30 00:46:16,120 INFO maps_url_scraper.engine | progress 300/300 assigned | 598 queries done | +2212 places | +0 urls | 683 reqs (0.1/s) | block rate 10%
