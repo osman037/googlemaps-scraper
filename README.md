@@ -196,8 +196,9 @@ socks5://user:password@gateway.provider.com:1080
 ```
 
 Residential/ISP proxies work best; datacenter IPs get flagged much faster.
-Before a real run, verify your provider: set `SCRAPERAPI_KEY` and run
-`python check_proxies.py` (edit the file's `PROXY_URL` for other providers).
+Before a real run, verify your list: `python check_proxies.py` — it checks
+every proxy in `config/proxies.txt` and reports exit IP + latency (add
+`--maps` to also probe Google Maps reachability per proxy).
 Scale honestly: match `--workers` roughly to your proxy count (1–2 workers
 per proxy) and keep `--min-interval` at 1.5s or above.
 
@@ -256,7 +257,7 @@ endpoint, and contact emails from a plain fetch of each business website.
 ```
 google-maps-scraper/
 ├── main.py                    # entry point: python main.py <command>
-├── check_proxies.py      # proxy provider health check (optional)
+├── check_proxies.py          # simple proxy checker (optional)
 ├── config/
 │   ├── proxies.txt.example    # copy to proxies.txt and add your proxies
 │   └── categories.txt         # categories for the advanced city-grid mode
