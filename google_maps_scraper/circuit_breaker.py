@@ -20,7 +20,7 @@ from collections import deque
 
 from .models import Verdict
 
-log = logging.getLogger("maps_url_scraper.breaker")
+log = logging.getLogger("google_maps_scraper.breaker")
 
 
 class CircuitBreaker:

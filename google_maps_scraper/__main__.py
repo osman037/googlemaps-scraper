@@ -1,4 +1,4 @@
-"""Allow ``python -m maps_url_scraper ...`` alongside ``python main.py``."""
+"""Allow ``python -m google_maps_scraper ...`` alongside ``python main.py``."""
 
 from .cli import main
 

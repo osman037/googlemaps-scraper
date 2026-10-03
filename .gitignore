@@ -7,7 +7,22 @@ __pycache__/
 # user credentials - proxies.txt.example is committed, proxies.txt is not
 config/proxies.txt
 
-# runtime outputs and logs
+# inputs are not distributed - bring your own (see README)
+config/categories*.txt
+data/locations/
+scripts/fetch_usa_locations.py
+
+# runtime state and deliverables live in the project root by default
+# (customize with --db / --out)
+/state.sqlite3
+/businesses.csv
+/reviews.csv
+/place_urls.txt
+/website_urls.txt
+/*_export.csv
+/*_export.txt
+
+# legacy runtime folder + stray logs
 output/
 *.log
 *.sqlite3-wal
