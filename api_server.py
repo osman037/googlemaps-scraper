@@ -7,7 +7,6 @@ import csv
 
 app = FastAPI(title="Google Maps Scraper API")
 
-# In-memory job store
 jobs = {}
 
 class ScrapeRequest(BaseModel):
@@ -18,12 +17,8 @@ class ScrapeRequest(BaseModel):
     no_details: bool = False
 
 def run_scraper(job_id: str, request: ScrapeRequest):
-    """Runs the scraper in a completely isolated directory."""
-    
-    # 1. Create a unique working directory for THIS job only
     job_dir = f"/tmp/scrape_{job_id}"
     os.makedirs(job_dir, exist_ok=True)
-    
     out_csv = os.path.join(job_dir, "businesses.csv")
 
     command = [
@@ -31,7 +26,8 @@ def run_scraper(job_id: str, request: ScrapeRequest):
         "--query", request.query,
         "--max-pages", str(request.max_pages),
         "--workers", str(request.workers),
-        "--out", out_csv
+        "--out", out_csv,
+        "--fresh"  # <--- THIS IS THE CRITICAL FIX
     ]
     if request.no_emails:
         command.append("--no-emails")
@@ -39,21 +35,18 @@ def run_scraper(job_id: str, request: ScrapeRequest):
         command.append("--no-details")
 
     try:
-        # 2. CRITICAL: Set cwd=job_dir so the scraper's SQLite state and cache 
-        # are isolated from the main /app directory.
         result = subprocess.run(
             command,
             capture_output=True,
             text=True,
             timeout=900,
-            cwd=job_dir  # <--- This prevents resuming old jobs
+            cwd=job_dir
         )
 
         if result.returncode != 0:
-            jobs[job_id] = {"status": "failed", "error": result.stderr[-1000:]}
+            jobs[job_id] = {"status": "failed", "error": result.stderr[-1500:]}
             return
 
-        # 3. Read ONLY the CSV generated in this specific job's directory
         places = []
         if os.path.exists(out_csv):
             with open(out_csv, "r", encoding="utf-8") as f:
@@ -62,7 +55,7 @@ def run_scraper(job_id: str, request: ScrapeRequest):
 
         jobs[job_id] = {
             "status": "completed",
-            "logs": result.stdout[-500:],
+            "logs": result.stdout[-1500:] if result.stdout else "",
             "count": len(places),
             "data": places
         }
